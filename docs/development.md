@@ -1,0 +1,38 @@
+# Development
+
+The repository contains translation catalogs, resource parsers, curated copy,
+bitmap/font tooling, and validation scripts. Local build inputs and temporary
+analysis data are excluded from Git.
+
+```text
+tools/         Current compiler, renderer checks, and build script
+translations/ Reviewed catalogs, compact copy, and localized title art
+reports/       Resource inventory, layout proof, and validation results
+docs/          Development notes
+```
+
+The build requires compatible local inputs, a configured Android toolchain,
+Python, and the dependencies below. It is a local workflow; cloning the
+repository alone does not provide the build inputs.
+
+```powershell
+python -m pip install --target work/analysis-deps -r tools/analysis-requirements.txt
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File tools/build_optimized.ps1
+```
+
+Copy definitions are maintained in the curator modules. The build regenerates
+their catalogs, compiles an overlay, checks the font/layout and resource
+invariants, then aligns, signs, and verifies the APK. Overflow is rejected for
+explicit rewriting; event clauses are not automatically dropped.
+
+Confirmed formats include offset-based string tables, interleaved event text,
+length-prefixed records, item description fields after price data, and skill
+records with a fixed metadata tail. Text changes must preserve control sequences
+and metadata. Module strings can have independently referenced suffixes; these
+aliases must retain their original positions.
+
+The isolated ARM renderer checks real font functions against modeled panel
+budgets. It does not replace full device testing or measure Android FPS.
+
+Older experiments and local investigation notes were archived outside the public
+source tree. Current build scripts do not depend on those archived experiments.

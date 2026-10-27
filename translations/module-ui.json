@@ -1,0 +1,899 @@
+{
+  "format": "hl3-module-fixed-text-v1",
+  "entries": [
+    {
+      "id": "binary.mod@05a380",
+      "offset": 369536,
+      "source": "<이용안내>",
+      "translation": "<INFO>"
+    },
+    {
+      "id": "binary.mod@05a38c",
+      "offset": 369548,
+      "source": "본 게임은 게임 이용시",
+      "translation": "PLAYING THIS GAME"
+    },
+    {
+      "id": "binary.mod@05a3a4",
+      "offset": 369572,
+      "source": "별도의 비용이 발생하지",
+      "translation": "HAS NO EXTRA FEE."
+    },
+    {
+      "id": "binary.mod@05a3bc",
+      "offset": 369596,
+      "source": "않는 단독형 게임이지만",
+      "translation": "PREMIUM ITEMS AND"
+    },
+    {
+      "id": "binary.mod@05a3d4",
+      "offset": 369620,
+      "source": "유료 아이템 구매, 캐릭터",
+      "translation": "CHARACTER RESTORES"
+    },
+    {
+      "id": "binary.mod@05a3f0",
+      "offset": 369648,
+      "source": "복구 이용시 통화료 및",
+      "translation": "MAY INCUR CALL AND"
+    },
+    {
+      "id": "binary.mod@05a408",
+      "offset": 369672,
+      "source": "정보이용료가 부과됩니다.",
+      "translation": "DATA CHARGES."
+    },
+    {
+      "id": "binary.mod@05a424",
+      "offset": 369700,
+      "source": "아무키나 누르세요.",
+      "translation": "PRESS ANY KEY"
+    },
+    {
+      "id": "binary.mod@05a438",
+      "offset": 369720,
+      "source": "상세보기",
+      "translation": "DETAILS"
+    },
+    {
+      "id": "binary.mod@05a442",
+      "offset": 369730,
+      "source": "버리기",
+      "translation": "DROP"
+    },
+    {
+      "id": "binary.mod@05a44c",
+      "offset": 369740,
+      "source": "올리기",
+      "translation": "STORE"
+    },
+    {
+      "id": "binary.mod@05a546",
+      "offset": 369990,
+      "source": "상세보기",
+      "translation": "DETAILS"
+    },
+    {
+      "id": "binary.mod@05a550",
+      "offset": 370000,
+      "source": "버리기",
+      "translation": "DROP"
+    },
+    {
+      "id": "binary.mod@05a55a",
+      "offset": 370010,
+      "source": "내리기",
+      "translation": "TAKE"
+    },
+    {
+      "id": "binary.mod@05a564",
+      "offset": 370020,
+      "source": "오브결합",
+      "translation": "ORB FUSE"
+    },
+    {
+      "id": "binary.mod@05a654",
+      "offset": 370260,
+      "source": "상세보기",
+      "translation": "DETAILS"
+    },
+    {
+      "id": "binary.mod@05a65e",
+      "offset": 370270,
+      "source": "구입하기",
+      "translation": "BUY"
+    },
+    {
+      "id": "binary.mod@05a83a",
+      "offset": 370746,
+      "source": "방",
+      "translation": "DF"
+    },
+    {
+      "id": "binary.mod@05a83f",
+      "offset": 370751,
+      "source": "공",
+      "translation": "AT"
+    },
+    {
+      "id": "binary.mod@05a844",
+      "offset": 370756,
+      "source": "저항",
+      "translation": "RES"
+    },
+    {
+      "id": "binary.mod@05a9be",
+      "offset": 371134,
+      "source": "아니요",
+      "translation": "NO"
+    },
+    {
+      "id": "binary.mod@05a9c5",
+      "offset": 371141,
+      "source": "예",
+      "translation": "Y"
+    },
+    {
+      "id": "binary.mod@05ac00",
+      "offset": 371712,
+      "source": "아이템 정보 요청중입니다.",
+      "translation": "GETTING ITEM DATA..."
+    },
+    {
+      "id": "binary.mod@05ac1c",
+      "offset": 371740,
+      "source": "과금중 에러 발생. 아이템 구입이 취소되었습니다.",
+      "translation": "PAYMENT ERROR. PURCHASE CANCELED."
+    },
+    {
+      "id": "binary.mod@05ac4c",
+      "offset": 371788,
+      "source": "예",
+      "translation": "Y"
+    },
+    {
+      "id": "binary.mod@05ac50",
+      "offset": 371792,
+      "source": "아니요",
+      "translation": "NO"
+    },
+    {
+      "id": "binary.mod@05ac7c",
+      "offset": 371836,
+      "source": "슬롯 정보 요청중입니다.",
+      "translation": "GETTING SLOT DATA..."
+    },
+    {
+      "id": "binary.mod@05ac94",
+      "offset": 371860,
+      "source": "SMS 요청중입니다.",
+      "translation": "REQUESTING SMS..."
+    },
+    {
+      "id": "binary.mod@05acb4",
+      "offset": 371892,
+      "source": "공지사항 요청중입니다.",
+      "translation": "GETTING NOTICES..."
+    },
+    {
+      "id": "binary.mod@05acdc",
+      "offset": 371932,
+      "source": "아이템이 삭제 되었습니다.",
+      "translation": "ITEM DELETED."
+    },
+    {
+      "id": "binary.mod@05acf8",
+      "offset": 371960,
+      "source": "착용중인 아이템은 올릴 수 없습니다.",
+      "translation": "UNEQUIP THE ITEM BEFORE STORING."
+    },
+    {
+      "id": "binary.mod@05ad1c",
+      "offset": 371996,
+      "source": "해당 아이템은 올릴 수 없습니다.",
+      "translation": "CANNOT STORE THIS ITEM."
+    },
+    {
+      "id": "binary.mod@05ad3c",
+      "offset": 372028,
+      "source": "아이템 등급이 영웅 이상인 아이템은 올릴 수 없습니다.",
+      "translation": "CANNOT STORE HEROIC OR HIGHER ITEMS."
+    },
+    {
+      "id": "binary.mod@05ad74",
+      "offset": 372084,
+      "source": "해당 조합 재료는 올릴 수 없습니다.",
+      "translation": "CANNOT STORE THIS MATERIAL."
+    },
+    {
+      "id": "binary.mod@05ad98",
+      "offset": 372120,
+      "source": "조합 래시피 아이템은 올릴 수 없습니다.",
+      "translation": "CANNOT STORE RECIPE ITEMS."
+    },
+    {
+      "id": "binary.mod@05adc0",
+      "offset": 372160,
+      "source": "퀘스트 아이템은 올릴 수 없습니다.",
+      "translation": "CANNOT STORE QUEST ITEMS."
+    },
+    {
+      "id": "binary.mod@05ade4",
+      "offset": 372196,
+      "source": "아이템 올리기 중입니다.",
+      "translation": "STORING ITEM..."
+    },
+    {
+      "id": "binary.mod@05adfc",
+      "offset": 372220,
+      "source": "아이템 버리기 중입니다.",
+      "translation": "DISCARDING ITEM..."
+    },
+    {
+      "id": "binary.mod@05ae14",
+      "offset": 372244,
+      "source": "해당 아이템은 내릴 수 없습니다.",
+      "translation": "CANNOT WITHDRAW THIS ITEM."
+    },
+    {
+      "id": "binary.mod@05ae34",
+      "offset": 372276,
+      "source": "아이템 내리기 중입니다.",
+      "translation": "WITHDRAWING ITEM..."
+    },
+    {
+      "id": "binary.mod@05ae4c",
+      "offset": 372300,
+      "source": "인벤토리로 내리면 다시 네트워크로 올릴 수 없습니다. 계속 하시겠습니까?",
+      "translation": "WITHDRAWN ITEMS CANNOT RETURN TO ONLINE STORAGE. CONTINUE?"
+    },
+    {
+      "id": "binary.mod@05ae94",
+      "offset": 372372,
+      "source": "오브를 결합할 장비를 선택하세요.",
+      "translation": "CHOOSE GEAR FOR ORB FUSION."
+    },
+    {
+      "id": "binary.mod@05aeb8",
+      "offset": 372408,
+      "source": "원의 추가 정보이용료(통화료별도)가 부과 됩니다.;구입하시겠습니까?",
+      "translation": " EXTRA DATA FEE (CALL FEES SEPARATE).;BUY THIS ITEM?"
+    },
+    {
+      "id": "binary.mod@05af04",
+      "offset": 372484,
+      "source": "실제 현금",
+      "translation": "REAL CASH"
+    },
+    {
+      "id": "binary.mod@05af10",
+      "offset": 372496,
+      "source": "싱글 창고가 가득찼습니다.",
+      "translation": "LOCAL STORAGE IS FULL."
+    },
+    {
+      "id": "binary.mod@05af2c",
+      "offset": 372524,
+      "source": "더이상 구매 할 수 없습니다.",
+      "translation": "CANNOT BUY ANY MORE."
+    },
+    {
+      "id": "binary.mod@05af48",
+      "offset": 372552,
+      "source": "이 장비에 오브를 결합하시겠습니까?",
+      "translation": "FUSE AN ORB WITH THIS GEAR?"
+    },
+    {
+      "id": "binary.mod@05af6c",
+      "offset": 372588,
+      "source": "캐시 아이템 정보 요청중입니다.",
+      "translation": "GETTING PREMIUM ITEM DATA..."
+    },
+    {
+      "id": "binary.mod@05afa0",
+      "offset": 372640,
+      "source": "레벨%d %s",
+      "translation": "LV%d %s"
+    },
+    {
+      "id": "binary.mod@05afbc",
+      "offset": 372668,
+      "source": "방",
+      "translation": "DF"
+    },
+    {
+      "id": "binary.mod@05afc0",
+      "offset": 372672,
+      "source": "공",
+      "translation": "AT"
+    },
+    {
+      "id": "binary.mod@05afc4",
+      "offset": 372676,
+      "source": "제련도 %d/10",
+      "translation": "REFINE %d/10"
+    },
+    {
+      "id": "binary.mod@05afd4",
+      "offset": 372692,
+      "source": "기절 저항 +%d",
+      "translation": "STUN RES +%d"
+    },
+    {
+      "id": "binary.mod@05afe4",
+      "offset": 372708,
+      "source": "요구명예  %s",
+      "translation": "HONOR %s"
+    },
+    {
+      "id": "binary.mod@05aff4",
+      "offset": 372724,
+      "source": "무기제한  %s",
+      "translation": "WEAP %s"
+    },
+    {
+      "id": "binary.mod@05b004",
+      "offset": 372740,
+      "source": "성    능  %d",
+      "translation": "POWER %d"
+    },
+    {
+      "id": "binary.mod@05b014",
+      "offset": 372756,
+      "source": "제 련 도  %d/10",
+      "translation": "REFINE %d/10"
+    },
+    {
+      "id": "binary.mod@05b024",
+      "offset": 372772,
+      "source": "레    벨  %d %s / %s%d",
+      "translation": "LV        %d %s / %s%d"
+    },
+    {
+      "id": "binary.mod@05b03c",
+      "offset": 372796,
+      "source": "소    켓",
+      "translation": "SOCKET"
+    },
+    {
+      "id": "binary.mod@05b048",
+      "offset": 372808,
+      "source": "기절저항  %d",
+      "translation": "STUN RES %d"
+    },
+    {
+      "id": "binary.mod@05b088",
+      "offset": 372872,
+      "source": "네트워크 접속시;통화료가 부과됩니다.;접속하시겠습니까?",
+      "translation": "NETWORK CALLS;MAY INCUR FEES.;CONNECT?"
+    },
+    {
+      "id": "binary.mod@05b0c0",
+      "offset": 372928,
+      "source": "빈슬롯입니다.",
+      "translation": "EMPTY SLOT."
+    },
+    {
+      "id": "binary.mod@05b0d0",
+      "offset": 372944,
+      "source": "슬롯 정보 서버에 저장중입니다.",
+      "translation": "SAVING SLOT TO SERVER..."
+    },
+    {
+      "id": "binary.mod@05b118",
+      "offset": 373016,
+      "source": "슬롯의 내용을 완전히;삭제하시겠습니까?",
+      "translation": "PERMANENTLY DELETE;THIS SLOT?"
+    },
+    {
+      "id": "binary.mod@05b140",
+      "offset": 373056,
+      "source": "서버와 접속할 수 없습니다. 잠시후 시도해주세요.",
+      "translation": "CANNOT CONNECT. TRY AGAIN LATER."
+    },
+    {
+      "id": "binary.mod@05b170",
+      "offset": 373104,
+      "source": "서버와 연결이 종료되었습니다.",
+      "translation": "SERVER CONNECTION ENDED."
+    },
+    {
+      "id": "binary.mod@05b190",
+      "offset": 373136,
+      "source": "@OK:}확인",
+      "translation": "@OK:}OK"
+    },
+    {
+      "id": "binary.mod@05b19c",
+      "offset": 373148,
+      "source": "서버 응답 기다리는중",
+      "translation": "WAITING FOR SERVER"
+    },
+    {
+      "id": "binary.mod@05b1b4",
+      "offset": 373172,
+      "source": "금액을 설정하세요",
+      "translation": "SET THE AMOUNT."
+    },
+    {
+      "id": "binary.mod@05b1c8",
+      "offset": 373192,
+      "source": "삭제하였습니다.",
+      "translation": "DELETED."
+    },
+    {
+      "id": "binary.mod@05b1d8",
+      "offset": 373208,
+      "source": "돈 내리기 중입니다.",
+      "translation": "WITHDRAWING GOLD..."
+    },
+    {
+      "id": "binary.mod@05b1ec",
+      "offset": 373228,
+      "source": "캐시템 구입중입니다.;(강제 종료시 아이템이 사라질 수 있습니다.)",
+      "translation": "BUYING PREMIUM ITEM.;QUITTING NOW MAY LOSE THE ITEM."
+    },
+    {
+      "id": "binary.mod@05b22c",
+      "offset": 373292,
+      "source": "오브 결합중입니다.",
+      "translation": "FUSING ORB..."
+    },
+    {
+      "id": "binary.mod@05b240",
+      "offset": 373312,
+      "source": "게임을 종료하시겠습니까?",
+      "translation": "QUIT GAME?"
+    },
+    {
+      "id": "binary.mod@05b264",
+      "offset": 373348,
+      "source": "@:확인",
+      "translation": "@:OK"
+    },
+    {
+      "id": "binary.mod@05b2a0",
+      "offset": 373408,
+      "source": "리츠",
+      "translation": "RITS"
+    },
+    {
+      "id": "binary.mod@05b2a8",
+      "offset": 373416,
+      "source": "케이",
+      "translation": "KEI"
+    },
+    {
+      "id": "binary.mod@05b2b0",
+      "offset": 373424,
+      "source": "이대로 진행합니까?",
+      "translation": "CONTINUE?"
+    },
+    {
+      "id": "binary.mod@05b2d8",
+      "offset": 373464,
+      "source": "주력",
+      "translation": "MAIN"
+    },
+    {
+      "id": "binary.mod@05b2e0",
+      "offset": 373472,
+      "source": "보조",
+      "translation": "SUB"
+    },
+    {
+      "id": "binary.mod@05b310",
+      "offset": 373520,
+      "source": "빈슬롯",
+      "translation": "EMPTY"
+    },
+    {
+      "id": "binary.mod@05b318",
+      "offset": 373528,
+      "source": "}:캐릭터생성",
+      "translation": "}:NEW CHAR"
+    },
+    {
+      "id": "binary.mod@05b328",
+      "offset": 373544,
+      "source": "@#:}복구",
+      "translation": "@#:}LOAD"
+    },
+    {
+      "id": "binary.mod@05b350",
+      "offset": 373584,
+      "source": "@:이어하기",
+      "translation": "@:CONTINUE"
+    },
+    {
+      "id": "binary.mod@05b35c",
+      "offset": 373596,
+      "source": "@#:}초기화",
+      "translation": "@#:}RESET"
+    },
+    {
+      "id": "binary.mod@05b38c",
+      "offset": 373644,
+      "source": "정보이용료",
+      "translation": "DATA FEES"
+    },
+    {
+      "id": "binary.mod@05b3a0",
+      "offset": 373664,
+      "source": "본 게임은 게임 접속시 네트워크 데이터 사용량에 따라 기본 통신료 외 1패킷당(512BYTE) 0원의 정보이용료가 부과됩니다. 해외에서 네트워크 이용시 해외요금이 적용됩니다.",
+      "translation": "NETWORK USE MAY INCUR CARRIER DATA CHARGES. THIS GAME ADDS NO FEE PER 512-BYTE PACKET. INTERNATIONAL ROAMING RATES MAY APPLY."
+    },
+    {
+      "id": "binary.mod@05b44c",
+      "offset": 373836,
+      "source": "@:메인메뉴",
+      "translation": "@:MENU"
+    },
+    {
+      "id": "binary.mod@05b460",
+      "offset": 373856,
+      "source": "효 과 음",
+      "translation": "SFX"
+    },
+    {
+      "id": "binary.mod@05b46c",
+      "offset": 373868,
+      "source": "배 경 음",
+      "translation": "BGM"
+    },
+    {
+      "id": "binary.mod@05b478",
+      "offset": 373880,
+      "source": "게임속도",
+      "translation": "GAME SPD"
+    },
+    {
+      "id": "binary.mod@05b484",
+      "offset": 373892,
+      "source": "진    동",
+      "translation": "VIB"
+    },
+    {
+      "id": "binary.mod@05b490",
+      "offset": 373904,
+      "source": "대화속도",
+      "translation": "DLG SPD"
+    },
+    {
+      "id": "binary.mod@05b49c",
+      "offset": 373916,
+      "source": "시선이동",
+      "translation": "CAM MOVE"
+    },
+    {
+      "id": "binary.mod@05b4a8",
+      "offset": 373928,
+      "source": "크리티컬",
+      "translation": "CRIT"
+    },
+    {
+      "id": "binary.mod@05b4b8",
+      "offset": 373944,
+      "source": "@:선택",
+      "translation": "@:SEL"
+    },
+    {
+      "id": "binary.mod@05b4d0",
+      "offset": 373968,
+      "source": "레벨%d %s / %s%d",
+      "translation": "LV%d %s /   %s%d"
+    },
+    {
+      "id": "binary.mod@05b510",
+      "offset": 374032,
+      "source": "돈 요청중입니다.",
+      "translation": "GETTING GOLD..."
+    },
+    {
+      "id": "binary.mod@05b524",
+      "offset": 374052,
+      "source": "네트워크 창고로 아이템을 올렸습니다.",
+      "translation": "ITEM STORED ONLINE."
+    },
+    {
+      "id": "binary.mod@05b54c",
+      "offset": 374092,
+      "source": "싱글 창고로 아이템을 내렸습니다. 업데이트 중입니다.",
+      "translation": "ITEM WITHDRAWN. UPDATING..."
+    },
+    {
+      "id": "binary.mod@05b580",
+      "offset": 374144,
+      "source": "아이템이 삭제 되었습니다. 업데이트 중입니다.",
+      "translation": "ITEM DELETED. UPDATING..."
+    },
+    {
+      "id": "binary.mod@05b5b0",
+      "offset": 374192,
+      "source": "싱글 창고로 돈을 내렸습니다.",
+      "translation": "GOLD WITHDRAWN."
+    },
+    {
+      "id": "binary.mod@05b5d0",
+      "offset": 374224,
+      "source": "를(을) 구입하였습니다.",
+      "translation": " PURCHASED."
+    },
+    {
+      "id": "binary.mod@05b5e8",
+      "offset": 374248,
+      "source": "서버와의 접속이 끊어졌습니다.",
+      "translation": "SERVER DISCONNECTED."
+    },
+    {
+      "id": "binary.mod@05b788",
+      "offset": 374664,
+      "source": "무작동 5분 경과하였습니다. 서버와의 접속이 끊어졌습니다.",
+      "translation": "DISCONNECTED AFTER 5 MINUTES OF INACTIVITY."
+    },
+    {
+      "id": "binary.mod@05b7c4",
+      "offset": 374724,
+      "source": "정식판 버전 등록 중입니다.",
+      "translation": "REGISTERING FULL GAME..."
+    },
+    {
+      "id": "binary.mod@05bcb8",
+      "offset": 375992,
+      "source": "방",
+      "translation": "DF"
+    },
+    {
+      "id": "binary.mod@05bcbd",
+      "offset": 375997,
+      "source": "공",
+      "translation": "AT"
+    },
+    {
+      "id": "binary.mod@05bcc2",
+      "offset": 376002,
+      "source": "저항",
+      "translation": "RES"
+    },
+    {
+      "id": "binary.mod@05bee8",
+      "offset": 376552,
+      "source": "레벨%d %s/%s%d",
+      "translation": "LV%d %s/%s%d"
+    },
+    {
+      "id": "binary.mod@05bf28",
+      "offset": 376616,
+      "source": "%s;레벨%d %s/%s%d",
+      "translation": "%s;LV%d %s/%s%d"
+    },
+    {
+      "id": "binary.mod@05bf50",
+      "offset": 376656,
+      "source": "@OK:}제련하기",
+      "translation": "@OK:}REFINE"
+    },
+    {
+      "id": "binary.mod@05bf60",
+      "offset": 376672,
+      "source": "아이템제련",
+      "translation": "REFINE"
+    },
+    {
+      "id": "binary.mod@05bf6c",
+      "offset": 376684,
+      "source": "개",
+      "translation": "EA"
+    },
+    {
+      "id": "binary.mod@05bf70",
+      "offset": 376688,
+      "source": "제련석",
+      "translation": "STONE"
+    },
+    {
+      "id": "binary.mod@05bf78",
+      "offset": 376696,
+      "source": "더 이상 제련할 수 없습니다.",
+      "translation": "CANNOT REFINE ANY FURTHER."
+    },
+    {
+      "id": "binary.mod@05bf94",
+      "offset": 376724,
+      "source": "장신구는 제련할 수 없습니다.",
+      "translation": "CANNOT REFINE ACCESSORIES."
+    },
+    {
+      "id": "binary.mod@05bfb4",
+      "offset": 376756,
+      "source": "보유 제련석이 없습니다.",
+      "translation": "NO REFINEMENT STONES."
+    },
+    {
+      "id": "binary.mod@05bfcc",
+      "offset": 376780,
+      "source": "제련석이 보유 수량보다 많습니다.",
+      "translation": "NOT ENOUGH REFINEMENT STONES."
+    },
+    {
+      "id": "binary.mod@05bff0",
+      "offset": 376816,
+      "source": "제련 비용이 부족합니다.",
+      "translation": "NOT ENOUGH GOLD."
+    },
+    {
+      "id": "binary.mod@05c008",
+      "offset": 376840,
+      "source": "착용중인 장비입니다.;계속하시겠습니까?",
+      "translation": "THIS GEAR IS EQUIPPED.;CONTINUE?"
+    },
+    {
+      "id": "binary.mod@05c030",
+      "offset": 376880,
+      "source": "제련중입니다. . .",
+      "translation": "REFINING..."
+    },
+    {
+      "id": "binary.mod@05c044",
+      "offset": 376900,
+      "source": "@OK:}조합하기",
+      "translation": "@OK:}CRAFT"
+    },
+    {
+      "id": "binary.mod@05c054",
+      "offset": 376916,
+      "source": "일반조합",
+      "translation": "CRAFT"
+    },
+    {
+      "id": "binary.mod@05c078",
+      "offset": 376952,
+      "source": "@(이)가 부족합니다.",
+      "translation": "@ IS MISSING."
+    },
+    {
+      "id": "binary.mod@05c08c",
+      "offset": 376972,
+      "source": "조합 중입니다. . .",
+      "translation": "CRAFTING..."
+    },
+    {
+      "id": "binary.mod@05c0a0",
+      "offset": 376992,
+      "source": "창고가 가득찼습니다.",
+      "translation": "STORAGE IS FULL."
+    },
+    {
+      "id": "binary.mod@05c0b8",
+      "offset": 377016,
+      "source": "특수조합",
+      "translation": "SPECIAL"
+    },
+    {
+      "id": "binary.mod@05c0c4",
+      "offset": 377028,
+      "source": "조합 비용이 부족합니다.",
+      "translation": "NOT ENOUGH GOLD."
+    },
+    {
+      "id": "binary.mod@05c0dc",
+      "offset": 377052,
+      "source": "@OK:}선택",
+      "translation": "@OK:}PICK"
+    },
+    {
+      "id": "binary.mod@05c0f4",
+      "offset": 377076,
+      "source": "조합에 성공하였습니다.;;",
+      "translation": "CRAFT SUCCESS.;;"
+    },
+    {
+      "id": "binary.mod@05c110",
+      "offset": 377104,
+      "source": "조합에 실패하였습니다.",
+      "translation": "CRAFT FAILED."
+    },
+    {
+      "id": "binary.mod@05c128",
+      "offset": 377128,
+      "source": "제련에 성공하였습니다.;;",
+      "translation": "REFINE SUCCESS.;;"
+    },
+    {
+      "id": "binary.mod@05c144",
+      "offset": 377156,
+      "source": "제련실패로 장비가 파괴되었습니다.",
+      "translation": "REFINE FAILED. GEAR DESTROYED."
+    },
+    {
+      "id": "binary.mod@05c168",
+      "offset": 377192,
+      "source": "제련실패로 장비가 초기화되었습니다.",
+      "translation": "REFINE FAILED. GEAR RESET."
+    },
+    {
+      "id": "binary.mod@05c18c",
+      "offset": 377228,
+      "source": "제련이 실패하였습니다.",
+      "translation": "REFINE FAILED."
+    },
+    {
+      "id": "binary.mod@05cbe8",
+      "offset": 379880,
+      "source": "방",
+      "translation": "DF"
+    },
+    {
+      "id": "binary.mod@05cbed",
+      "offset": 379885,
+      "source": "공",
+      "translation": "AT"
+    },
+    {
+      "id": "binary.mod@05cbf2",
+      "offset": 379890,
+      "source": "저항",
+      "translation": "RES"
+    },
+    {
+      "id": "binary.mod@05cc62",
+      "offset": 380002,
+      "source": "공",
+      "translation": "AT"
+    },
+    {
+      "id": "binary.mod@05cc67",
+      "offset": 380007,
+      "source": "방",
+      "translation": "DF"
+    },
+    {
+      "id": "binary.mod@05cc6c",
+      "offset": 380012,
+      "source": "저항",
+      "translation": "RES"
+    },
+    {
+      "id": "binary.mod@05ccc8",
+      "offset": 380104,
+      "source": "메인",
+      "translation": "MAIN"
+    },
+    {
+      "id": "binary.mod@05ccd2",
+      "offset": 380114,
+      "source": "서브",
+      "translation": "SUB"
+    },
+    {
+      "id": "binary.mod@05cec0",
+      "offset": 380608,
+      "source": "CLR:뒤로",
+      "translation": "CLR:BACK"
+    },
+    {
+      "id": "binary.mod@05cee4",
+      "offset": 380644,
+      "source": "SP소모:%d",
+      "translation": "SP USE:%d"
+    },
+    {
+      "id": "binary.mod@05cf18",
+      "offset": 380696,
+      "source": "제    련",
+      "translation": "REFINE"
+    },
+    {
+      "id": "binary.mod@05d468",
+      "offset": 382056,
+      "source": "게임오버",
+      "translation": "GAMEOVER"
+    },
+    {
+      "id": "binary.mod@05d600",
+      "offset": 382464,
+      "source": "인벤토리가 가득 찼습니다.",
+      "translation": "INVENTORY IS FULL."
+    }
+  ]
+}

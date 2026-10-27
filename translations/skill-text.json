@@ -1,0 +1,1895 @@
+{
+  "format": "hl3-skill-fixed-text-v1",
+  "entries": [
+    {
+      "id": "res/skill/s4_dat#0.name",
+      "file": "res/skill/s4_dat",
+      "record": 0,
+      "field": "name",
+      "source": "창술",
+      "translation": "LANC",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#0.description",
+      "file": "res/skill/s4_dat",
+      "record": 0,
+      "field": "description",
+      "source": "한 손으로 창을 사용하는 기술",
+      "translation": "USE A ONE-HANDED;SPEAR.",
+      "byte_capacity": 28
+    },
+    {
+      "id": "res/skill/s4_dat#1.name",
+      "file": "res/skill/s4_dat",
+      "record": 1,
+      "field": "name",
+      "source": "창술2",
+      "translation": "LANC2",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s4_dat#1.description",
+      "file": "res/skill/s4_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s4_dat#2.name",
+      "file": "res/skill/s4_dat",
+      "record": 2,
+      "field": "name",
+      "source": "창술3",
+      "translation": "LANC3",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s4_dat#2.description",
+      "file": "res/skill/s4_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s4_dat#3.name",
+      "file": "res/skill/s4_dat",
+      "record": 3,
+      "field": "name",
+      "source": "창술4",
+      "translation": "LANC4",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s4_dat#3.description",
+      "file": "res/skill/s4_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s4_dat#4.name",
+      "file": "res/skill/s4_dat",
+      "record": 4,
+      "field": "name",
+      "source": "창술5",
+      "translation": "LANC5",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s4_dat#4.description",
+      "file": "res/skill/s4_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s4_dat#5.name",
+      "file": "res/skill/s4_dat",
+      "record": 5,
+      "field": "name",
+      "source": "창술6",
+      "translation": "LANC6",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s4_dat#5.description",
+      "file": "res/skill/s4_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s4_dat#6.name",
+      "file": "res/skill/s4_dat",
+      "record": 6,
+      "field": "name",
+      "source": "창술7",
+      "translation": "LANC7",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s4_dat#6.description",
+      "file": "res/skill/s4_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s4_dat#7.name",
+      "file": "res/skill/s4_dat",
+      "record": 7,
+      "field": "name",
+      "source": "섬광",
+      "translation": "DASH",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#7.description",
+      "file": "res/skill/s4_dat",
+      "record": 7,
+      "field": "description",
+      "source": "빠르게 돌진하는 돌격기. 연속사용 가능.",
+      "translation": "CHARGE FAST; CAN BE;CHAINED.",
+      "byte_capacity": 38
+    },
+    {
+      "id": "res/skill/s4_dat#8.name",
+      "file": "res/skill/s4_dat",
+      "record": 8,
+      "field": "name",
+      "source": "자격",
+      "translation": "THRS",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#8.description",
+      "file": "res/skill/s4_dat",
+      "record": 8,
+      "field": "description",
+      "source": "창끝에 모은 무형의 힘을 단숨에 지른다.",
+      "translation": "THRUST FORCE FROM THE;SPEAR TIP.",
+      "byte_capacity": 38
+    },
+    {
+      "id": "res/skill/s4_dat#9.name",
+      "file": "res/skill/s4_dat",
+      "record": 9,
+      "field": "name",
+      "source": "압도",
+      "translation": "SLOW",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#9.description",
+      "file": "res/skill/s4_dat",
+      "record": 9,
+      "field": "description",
+      "source": "적에게 위압감을 주어 공격을 늦춘다.",
+      "translation": "INTIMIDATE FOES TO;SLOW ATKS.",
+      "byte_capacity": 35
+    },
+    {
+      "id": "res/skill/s4_dat#10.name",
+      "file": "res/skill/s4_dat",
+      "record": 10,
+      "field": "name",
+      "source": "유도",
+      "translation": "TAUN",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#10.description",
+      "file": "res/skill/s4_dat",
+      "record": 10,
+      "field": "description",
+      "source": "적들의 공격을 자신에게 집중시킨다.",
+      "translation": "DRAW ENEMY ATKS TO;YOURSELF.",
+      "byte_capacity": 34
+    },
+    {
+      "id": "res/skill/s4_dat#11.name",
+      "file": "res/skill/s4_dat",
+      "record": 11,
+      "field": "name",
+      "source": "장벽",
+      "translation": "WALL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#11.description",
+      "file": "res/skill/s4_dat",
+      "record": 11,
+      "field": "description",
+      "source": "집중력을 끌어올려 방어력을 증가시킨다.",
+      "translation": "FOCUS TO BOOST DEF.",
+      "byte_capacity": 38
+    },
+    {
+      "id": "res/skill/s4_dat#12.name",
+      "file": "res/skill/s4_dat",
+      "record": 12,
+      "field": "name",
+      "source": "태산",
+      "translation": "MASS",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#12.description",
+      "file": "res/skill/s4_dat",
+      "record": 12,
+      "field": "description",
+      "source": "기본 방어력을 끌어올린다.",
+      "translation": "RAISE BASE DEF.",
+      "byte_capacity": 25
+    },
+    {
+      "id": "res/skill/s4_dat#13.name",
+      "file": "res/skill/s4_dat",
+      "record": 13,
+      "field": "name",
+      "source": "의지",
+      "translation": "WILL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#13.description",
+      "file": "res/skill/s4_dat",
+      "record": 13,
+      "field": "description",
+      "source": "최대 HP를 증가시켜 생존률을 높인다.",
+      "translation": "RAISE MAX HP AND;SURVIVAL.",
+      "byte_capacity": 35
+    },
+    {
+      "id": "res/skill/s4_dat#14.name",
+      "file": "res/skill/s4_dat",
+      "record": 14,
+      "field": "name",
+      "source": "정신",
+      "translation": "MIND",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s4_dat#14.description",
+      "file": "res/skill/s4_dat",
+      "record": 14,
+      "field": "description",
+      "source": "기절에 대한 저항력을 증가시킨다.",
+      "translation": "RAISE STUN RESIST.",
+      "byte_capacity": 32
+    },
+    {
+      "id": "res/skill/s5_dat#0.name",
+      "file": "res/skill/s5_dat",
+      "record": 0,
+      "field": "name",
+      "source": "검술",
+      "translation": "SWRD",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#0.description",
+      "file": "res/skill/s5_dat",
+      "record": 0,
+      "field": "description",
+      "source": "양손으로 대검을 연속사용하는 기술",
+      "translation": "WIELD A TWO-HANDED;GREATSWORD.",
+      "byte_capacity": 33
+    },
+    {
+      "id": "res/skill/s5_dat#1.name",
+      "file": "res/skill/s5_dat",
+      "record": 1,
+      "field": "name",
+      "source": "검술2",
+      "translation": "SWRD2",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s5_dat#1.description",
+      "file": "res/skill/s5_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s5_dat#2.name",
+      "file": "res/skill/s5_dat",
+      "record": 2,
+      "field": "name",
+      "source": "검술3",
+      "translation": "SWRD3",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s5_dat#2.description",
+      "file": "res/skill/s5_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s5_dat#3.name",
+      "file": "res/skill/s5_dat",
+      "record": 3,
+      "field": "name",
+      "source": "검술4",
+      "translation": "SWRD4",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s5_dat#3.description",
+      "file": "res/skill/s5_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s5_dat#4.name",
+      "file": "res/skill/s5_dat",
+      "record": 4,
+      "field": "name",
+      "source": "검술5",
+      "translation": "SWRD5",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s5_dat#4.description",
+      "file": "res/skill/s5_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s5_dat#5.name",
+      "file": "res/skill/s5_dat",
+      "record": 5,
+      "field": "name",
+      "source": "검술6",
+      "translation": "SWRD6",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s5_dat#5.description",
+      "file": "res/skill/s5_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s5_dat#6.name",
+      "file": "res/skill/s5_dat",
+      "record": 6,
+      "field": "name",
+      "source": "검술7",
+      "translation": "SWRD7",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s5_dat#6.description",
+      "file": "res/skill/s5_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s5_dat#7.name",
+      "file": "res/skill/s5_dat",
+      "record": 7,
+      "field": "name",
+      "source": "선풍",
+      "translation": "SPIN",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#7.description",
+      "file": "res/skill/s5_dat",
+      "record": 7,
+      "field": "description",
+      "source": "대검을 크게 휘둘러 둘러싼 적들을 벤다.",
+      "translation": "SWEEP THE GREAT SWORD;AT FOES.",
+      "byte_capacity": 38
+    },
+    {
+      "id": "res/skill/s5_dat#8.name",
+      "file": "res/skill/s5_dat",
+      "record": 8,
+      "field": "name",
+      "source": "양단",
+      "translation": "CLEA",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#8.description",
+      "file": "res/skill/s5_dat",
+      "record": 8,
+      "field": "description",
+      "source": "정면의 적을 단숨에 베는 일격필살의 기술",
+      "translation": "DELIVER A LETHAL;FRONTAL SLASH.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s5_dat#9.name",
+      "file": "res/skill/s5_dat",
+      "record": 9,
+      "field": "name",
+      "source": "질풍",
+      "translation": "GALE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#9.description",
+      "file": "res/skill/s5_dat",
+      "record": 9,
+      "field": "description",
+      "source": "대검을 연속으로 휘두르며 전진한다.",
+      "translation": "ADVANCE WITH REPEATED;SLASHES.",
+      "byte_capacity": 34
+    },
+    {
+      "id": "res/skill/s5_dat#10.name",
+      "file": "res/skill/s5_dat",
+      "record": 10,
+      "field": "name",
+      "source": "결의",
+      "translation": "WILL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#10.description",
+      "file": "res/skill/s5_dat",
+      "record": 10,
+      "field": "description",
+      "source": "공격에 결의를 담아 명중률을 증가시킨다.",
+      "translation": "RAISE ACC WITH;RESOLVE.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s5_dat#11.name",
+      "file": "res/skill/s5_dat",
+      "record": 11,
+      "field": "name",
+      "source": "혼신",
+      "translation": "ZEAL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#11.description",
+      "file": "res/skill/s5_dat",
+      "record": 11,
+      "field": "description",
+      "source": "잠재력을 끌어올려 검의 위력을 증가시킨다.",
+      "translation": "UNLEASH POTENTIAL TO;BOOST SWORD ATK.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s5_dat#12.name",
+      "file": "res/skill/s5_dat",
+      "record": 12,
+      "field": "name",
+      "source": "전력",
+      "translation": "FULL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#12.description",
+      "file": "res/skill/s5_dat",
+      "record": 12,
+      "field": "description",
+      "source": "물리적인 공격력을 극대화 시킨다.",
+      "translation": "MAXIMIZE PHYSICAL ATK.",
+      "byte_capacity": 32
+    },
+    {
+      "id": "res/skill/s5_dat#13.name",
+      "file": "res/skill/s5_dat",
+      "record": 13,
+      "field": "name",
+      "source": "근성",
+      "translation": "GRIT",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#13.description",
+      "file": "res/skill/s5_dat",
+      "record": 13,
+      "field": "description",
+      "source": "HP와 방어력을 접근전에 걸맞게 향상시킨다.",
+      "translation": "RAISE HP AND DEF FOR;MELEE.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s5_dat#14.name",
+      "file": "res/skill/s5_dat",
+      "record": 14,
+      "field": "name",
+      "source": "집중",
+      "translation": "FOCS",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s5_dat#14.description",
+      "file": "res/skill/s5_dat",
+      "record": 14,
+      "field": "description",
+      "source": "목표를 명중시키는 집중력을 기른다.",
+      "translation": "IMPROVE AIM AND ACC.",
+      "byte_capacity": 34
+    },
+    {
+      "id": "res/skill/s6_dat#0.name",
+      "file": "res/skill/s6_dat",
+      "record": 0,
+      "field": "name",
+      "source": "단도",
+      "translation": "DAGG",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#0.description",
+      "file": "res/skill/s6_dat",
+      "record": 0,
+      "field": "description",
+      "source": "짧은 검을 자유자재로 다루는 기술",
+      "translation": "MASTER QUICK DAGGER;TECHNIQUES.",
+      "byte_capacity": 32
+    },
+    {
+      "id": "res/skill/s6_dat#1.name",
+      "file": "res/skill/s6_dat",
+      "record": 1,
+      "field": "name",
+      "source": "단도2",
+      "translation": "DAGG2",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s6_dat#1.description",
+      "file": "res/skill/s6_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s6_dat#2.name",
+      "file": "res/skill/s6_dat",
+      "record": 2,
+      "field": "name",
+      "source": "단도3",
+      "translation": "DAGG3",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s6_dat#2.description",
+      "file": "res/skill/s6_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s6_dat#3.name",
+      "file": "res/skill/s6_dat",
+      "record": 3,
+      "field": "name",
+      "source": "단도4",
+      "translation": "DAGG4",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s6_dat#3.description",
+      "file": "res/skill/s6_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s6_dat#4.name",
+      "file": "res/skill/s6_dat",
+      "record": 4,
+      "field": "name",
+      "source": "단도5",
+      "translation": "DAGG5",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s6_dat#4.description",
+      "file": "res/skill/s6_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s6_dat#5.name",
+      "file": "res/skill/s6_dat",
+      "record": 5,
+      "field": "name",
+      "source": "단도6",
+      "translation": "DAGG6",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s6_dat#5.description",
+      "file": "res/skill/s6_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s6_dat#6.name",
+      "file": "res/skill/s6_dat",
+      "record": 6,
+      "field": "name",
+      "source": "단도7",
+      "translation": "DAGG7",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s6_dat#6.description",
+      "file": "res/skill/s6_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s6_dat#7.name",
+      "file": "res/skill/s6_dat",
+      "record": 7,
+      "field": "name",
+      "source": "참혼",
+      "translation": "REAP",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#7.description",
+      "file": "res/skill/s6_dat",
+      "record": 7,
+      "field": "description",
+      "source": "적의 급소를 공격하여 기절시킨다.",
+      "translation": "STRIKE A VITAL POINT;TO STUN.",
+      "byte_capacity": 32
+    },
+    {
+      "id": "res/skill/s6_dat#8.name",
+      "file": "res/skill/s6_dat",
+      "record": 8,
+      "field": "name",
+      "source": "암영",
+      "translation": "SHDW",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#8.description",
+      "file": "res/skill/s6_dat",
+      "record": 8,
+      "field": "description",
+      "source": "빠른 속도로 적을 관통하여 적들을 공격한다.",
+      "translation": "DASH THROUGH FOES TO;STRIKE THEM.",
+      "byte_capacity": 42
+    },
+    {
+      "id": "res/skill/s6_dat#9.name",
+      "file": "res/skill/s6_dat",
+      "record": 9,
+      "field": "name",
+      "source": "난무",
+      "translation": "FLRY",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#9.description",
+      "file": "res/skill/s6_dat",
+      "record": 9,
+      "field": "description",
+      "source": "적 1체에게 모든 기술을 연속 구사한다.",
+      "translation": "CHAIN ALL TECHNIQUES;ON ONE FOE.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s6_dat#10.name",
+      "file": "res/skill/s6_dat",
+      "record": 10,
+      "field": "name",
+      "source": "육감",
+      "translation": "SENS",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#10.description",
+      "file": "res/skill/s6_dat",
+      "record": 10,
+      "field": "description",
+      "source": "적의 공격을 느끼고 회피할 확률을 높인다.",
+      "translation": "SENSE ATKS TO BOOST;EVA.",
+      "byte_capacity": 40
+    },
+    {
+      "id": "res/skill/s6_dat#11.name",
+      "file": "res/skill/s6_dat",
+      "record": 11,
+      "field": "name",
+      "source": "은신",
+      "translation": "HIDE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#11.description",
+      "file": "res/skill/s6_dat",
+      "record": 11,
+      "field": "description",
+      "source": "일정시간동안 적의 시야로부터 사라진다.",
+      "translation": "VANISH FROM SIGHT FOR;A WHILE.",
+      "byte_capacity": 38
+    },
+    {
+      "id": "res/skill/s6_dat#12.name",
+      "file": "res/skill/s6_dat",
+      "record": 12,
+      "field": "name",
+      "source": "간파",
+      "translation": "READ",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#12.description",
+      "file": "res/skill/s6_dat",
+      "record": 12,
+      "field": "description",
+      "source": "적의 움직임을 읽어 회피율을 높인다.",
+      "translation": "READ FOES TO RAISE;EVA.",
+      "byte_capacity": 35
+    },
+    {
+      "id": "res/skill/s6_dat#13.name",
+      "file": "res/skill/s6_dat",
+      "record": 13,
+      "field": "name",
+      "source": "살의",
+      "translation": "AGGR",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#13.description",
+      "file": "res/skill/s6_dat",
+      "record": 13,
+      "field": "description",
+      "source": "적개심을 높여 접근전 능력을 향상시킨다.",
+      "translation": "RAISE AGGRO AND MELEE;POWER.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s6_dat#14.name",
+      "file": "res/skill/s6_dat",
+      "record": 14,
+      "field": "name",
+      "source": "저력",
+      "translation": "GRIT",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s6_dat#14.description",
+      "file": "res/skill/s6_dat",
+      "record": 14,
+      "field": "description",
+      "source": "적에게 공격 받았을때 버티는 힘을 기른다.",
+      "translation": "BUILD ENDURANCE UNDER;ATK.",
+      "byte_capacity": 40
+    },
+    {
+      "id": "res/skill/s7_dat#0.name",
+      "file": "res/skill/s7_dat",
+      "record": 0,
+      "field": "name",
+      "source": "사격",
+      "translation": "SHOT",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#0.description",
+      "file": "res/skill/s7_dat",
+      "record": 0,
+      "field": "description",
+      "source": "원거리의 적을 공격하는 단일 화기 사용.",
+      "translation": "USE A GUN TO HIT ONE;DISTANT FOE.",
+      "byte_capacity": 38
+    },
+    {
+      "id": "res/skill/s7_dat#1.name",
+      "file": "res/skill/s7_dat",
+      "record": 1,
+      "field": "name",
+      "source": "사격2",
+      "translation": "SHOT2",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s7_dat#1.description",
+      "file": "res/skill/s7_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s7_dat#2.name",
+      "file": "res/skill/s7_dat",
+      "record": 2,
+      "field": "name",
+      "source": "사격3",
+      "translation": "SHOT3",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s7_dat#2.description",
+      "file": "res/skill/s7_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s7_dat#3.name",
+      "file": "res/skill/s7_dat",
+      "record": 3,
+      "field": "name",
+      "source": "사격4",
+      "translation": "SHOT4",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s7_dat#3.description",
+      "file": "res/skill/s7_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s7_dat#4.name",
+      "file": "res/skill/s7_dat",
+      "record": 4,
+      "field": "name",
+      "source": "사격5",
+      "translation": "SHOT5",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s7_dat#4.description",
+      "file": "res/skill/s7_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s7_dat#5.name",
+      "file": "res/skill/s7_dat",
+      "record": 5,
+      "field": "name",
+      "source": "사격6",
+      "translation": "SHOT6",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s7_dat#5.description",
+      "file": "res/skill/s7_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s7_dat#6.name",
+      "file": "res/skill/s7_dat",
+      "record": 6,
+      "field": "name",
+      "source": "사격7",
+      "translation": "SHOT7",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s7_dat#6.description",
+      "file": "res/skill/s7_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s7_dat#7.name",
+      "file": "res/skill/s7_dat",
+      "record": 7,
+      "field": "name",
+      "source": "연사",
+      "translation": "RAPD",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#7.description",
+      "file": "res/skill/s7_dat",
+      "record": 7,
+      "field": "description",
+      "source": "원거리의 적 1체를 연속 사격한다.",
+      "translation": "FIRE REPEATEDLY AT ONE;FOE.",
+      "byte_capacity": 32
+    },
+    {
+      "id": "res/skill/s7_dat#8.name",
+      "file": "res/skill/s7_dat",
+      "record": 8,
+      "field": "name",
+      "source": "난사",
+      "translation": "SPRY",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#8.description",
+      "file": "res/skill/s7_dat",
+      "record": 8,
+      "field": "description",
+      "source": "불특정 다수의 적을 향해 무차별 사격한다.",
+      "translation": "FIRE WILDLY AT;MULTIPLE FOES.",
+      "byte_capacity": 40
+    },
+    {
+      "id": "res/skill/s7_dat#9.name",
+      "file": "res/skill/s7_dat",
+      "record": 9,
+      "field": "name",
+      "source": "곡예",
+      "translation": "DODG",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#9.description",
+      "file": "res/skill/s7_dat",
+      "record": 9,
+      "field": "description",
+      "source": "적과의 거리를 벌리며 사격한다.",
+      "translation": "FIRE WHILE RETREATING.",
+      "byte_capacity": 30
+    },
+    {
+      "id": "res/skill/s7_dat#10.name",
+      "file": "res/skill/s7_dat",
+      "record": 10,
+      "field": "name",
+      "source": "저격",
+      "translation": "SNIP",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#10.description",
+      "file": "res/skill/s7_dat",
+      "record": 10,
+      "field": "description",
+      "source": "정확한 겨냥으로 한발의 위력을 극대화한다.",
+      "translation": "AIM PRECISELY FOR A;POWERFUL SHOT.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s7_dat#11.name",
+      "file": "res/skill/s7_dat",
+      "record": 11,
+      "field": "name",
+      "source": "장탄",
+      "translation": "LOAD",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#11.description",
+      "file": "res/skill/s7_dat",
+      "record": 11,
+      "field": "description",
+      "source": "일정시간 대형 탄환으로 공격력을 높인다.",
+      "translation": "LARGE ROUNDS BOOST ATK;FOR A WHILE.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s7_dat#12.name",
+      "file": "res/skill/s7_dat",
+      "record": 12,
+      "field": "name",
+      "source": "조준",
+      "translation": "AIM!",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#12.description",
+      "file": "res/skill/s7_dat",
+      "record": 12,
+      "field": "description",
+      "source": "빠른 조준을 통해 공격력과 명줄률 증가",
+      "translation": "AIM QUICKLY TO RAISE;ATK AND ACC.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s7_dat#13.name",
+      "file": "res/skill/s7_dat",
+      "record": 13,
+      "field": "name",
+      "source": "냉정",
+      "translation": "CALM",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#13.description",
+      "file": "res/skill/s7_dat",
+      "record": 13,
+      "field": "description",
+      "source": "주저없는 급소 사격으로 기절 확률을 높인다.",
+      "translation": "VITAL SHOTS RAISE STUN;CHANCE.",
+      "byte_capacity": 42
+    },
+    {
+      "id": "res/skill/s7_dat#14.name",
+      "file": "res/skill/s7_dat",
+      "record": 14,
+      "field": "name",
+      "source": "속공",
+      "translation": "RUSH",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s7_dat#14.description",
+      "file": "res/skill/s7_dat",
+      "record": 14,
+      "field": "description",
+      "source": "스킬의 사용속도를 더 빠르게 한다.",
+      "translation": "USE SKILLS FASTER.",
+      "byte_capacity": 33
+    },
+    {
+      "id": "res/skill/s8_dat#0.name",
+      "file": "res/skill/s8_dat",
+      "record": 0,
+      "field": "name",
+      "source": "격발",
+      "translation": "FIRE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#0.description",
+      "file": "res/skill/s8_dat",
+      "record": 0,
+      "field": "description",
+      "source": "강력한 화력의 중화기를 다루는 기술. 연사 불가.",
+      "translation": "USE A HEAVY GUN; NO;RAPID FIRE.",
+      "byte_capacity": 46
+    },
+    {
+      "id": "res/skill/s8_dat#1.name",
+      "file": "res/skill/s8_dat",
+      "record": 1,
+      "field": "name",
+      "source": "격발",
+      "translation": "FIRE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#1.description",
+      "file": "res/skill/s8_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s8_dat#2.name",
+      "file": "res/skill/s8_dat",
+      "record": 2,
+      "field": "name",
+      "source": "-",
+      "translation": "-",
+      "byte_capacity": 1
+    },
+    {
+      "id": "res/skill/s8_dat#2.description",
+      "file": "res/skill/s8_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s8_dat#3.name",
+      "file": "res/skill/s8_dat",
+      "record": 3,
+      "field": "name",
+      "source": "-",
+      "translation": "-",
+      "byte_capacity": 1
+    },
+    {
+      "id": "res/skill/s8_dat#3.description",
+      "file": "res/skill/s8_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s8_dat#4.name",
+      "file": "res/skill/s8_dat",
+      "record": 4,
+      "field": "name",
+      "source": "-",
+      "translation": "-",
+      "byte_capacity": 1
+    },
+    {
+      "id": "res/skill/s8_dat#4.description",
+      "file": "res/skill/s8_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s8_dat#5.name",
+      "file": "res/skill/s8_dat",
+      "record": 5,
+      "field": "name",
+      "source": "-",
+      "translation": "-",
+      "byte_capacity": 1
+    },
+    {
+      "id": "res/skill/s8_dat#5.description",
+      "file": "res/skill/s8_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s8_dat#6.name",
+      "file": "res/skill/s8_dat",
+      "record": 6,
+      "field": "name",
+      "source": "-",
+      "translation": "-",
+      "byte_capacity": 1
+    },
+    {
+      "id": "res/skill/s8_dat#6.description",
+      "file": "res/skill/s8_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s8_dat#7.name",
+      "file": "res/skill/s8_dat",
+      "record": 7,
+      "field": "name",
+      "source": "직격",
+      "translation": "HIT!",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#7.description",
+      "file": "res/skill/s8_dat",
+      "record": 7,
+      "field": "description",
+      "source": "정확한 사격으로 적의 출혈을 유도한다.",
+      "translation": "PRECISE SHOTS CAUSE;BLEEDING.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s8_dat#8.name",
+      "file": "res/skill/s8_dat",
+      "record": 8,
+      "field": "name",
+      "source": "연쇄",
+      "translation": "LINK",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#8.description",
+      "file": "res/skill/s8_dat",
+      "record": 8,
+      "field": "description",
+      "source": "사격후 반동을 이용해 주변의 적을 타격한다.",
+      "translation": "USE RECOIL TO STRIKE;NEARBY FOES.",
+      "byte_capacity": 42
+    },
+    {
+      "id": "res/skill/s8_dat#9.name",
+      "file": "res/skill/s8_dat",
+      "record": 9,
+      "field": "name",
+      "source": "위협",
+      "translation": "FEAR",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#9.description",
+      "file": "res/skill/s8_dat",
+      "record": 9,
+      "field": "description",
+      "source": "적을 위축시켜 기절저항을 크게 감소시킨다.",
+      "translation": "INTIMIDATE FOES TO CUT;STUN RES.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s8_dat#10.name",
+      "file": "res/skill/s8_dat",
+      "record": 10,
+      "field": "name",
+      "source": "지축",
+      "translation": "QAKE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#10.description",
+      "file": "res/skill/s8_dat",
+      "record": 10,
+      "field": "description",
+      "source": "화기를 고정 시킨다. 사격 이외의 행동시 해제.",
+      "translation": "BRACE GUN. OTHER;ACTIONS CANCEL THIS.",
+      "byte_capacity": 44
+    },
+    {
+      "id": "res/skill/s8_dat#11.name",
+      "file": "res/skill/s8_dat",
+      "record": 11,
+      "field": "name",
+      "source": "일심",
+      "translation": "FOCS",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#11.description",
+      "file": "res/skill/s8_dat",
+      "record": 11,
+      "field": "description",
+      "source": "정신을 집중하여 모든 공격력을 증가시킨다.",
+      "translation": "FOCUS TO BOOST ALL;ATK.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s8_dat#12.name",
+      "file": "res/skill/s8_dat",
+      "record": 12,
+      "field": "name",
+      "source": "강공",
+      "translation": "ATK!",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#12.description",
+      "file": "res/skill/s8_dat",
+      "record": 12,
+      "field": "description",
+      "source": "모든 총기류의 공격력을 극대화 시킨다.",
+      "translation": "MAXIMIZE ATK FOR ALL;GUNS.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s8_dat#13.name",
+      "file": "res/skill/s8_dat",
+      "record": 13,
+      "field": "name",
+      "source": "투혼",
+      "translation": "SOUL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#13.description",
+      "file": "res/skill/s8_dat",
+      "record": 13,
+      "field": "description",
+      "source": "적의 방패를 관통할 확률을 증가시킨다.",
+      "translation": "RAISE SHIELD-PIERCE;CHANCE.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s8_dat#14.name",
+      "file": "res/skill/s8_dat",
+      "record": 14,
+      "field": "name",
+      "source": "인내",
+      "translation": "GRIT",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s8_dat#14.description",
+      "file": "res/skill/s8_dat",
+      "record": 14,
+      "field": "description",
+      "source": "총기나 마법에 대한 방어력을 높인다.",
+      "translation": "RAISE DEF VS GUNS AND;MAGIC.",
+      "byte_capacity": 35
+    },
+    {
+      "id": "res/skill/s9_dat#0.name",
+      "file": "res/skill/s9_dat",
+      "record": 0,
+      "field": "name",
+      "source": "영탄",
+      "translation": "DARK",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#0.description",
+      "file": "res/skill/s9_dat",
+      "record": 0,
+      "field": "description",
+      "source": "그림자의 탄환을 던진다.",
+      "translation": "THROW A SHADOW SHELL.",
+      "byte_capacity": 23
+    },
+    {
+      "id": "res/skill/s9_dat#1.name",
+      "file": "res/skill/s9_dat",
+      "record": 1,
+      "field": "name",
+      "source": "영탄2",
+      "translation": "DARK2",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s9_dat#1.description",
+      "file": "res/skill/s9_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s9_dat#2.name",
+      "file": "res/skill/s9_dat",
+      "record": 2,
+      "field": "name",
+      "source": "영탄3",
+      "translation": "DARK3",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s9_dat#2.description",
+      "file": "res/skill/s9_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s9_dat#3.name",
+      "file": "res/skill/s9_dat",
+      "record": 3,
+      "field": "name",
+      "source": "영탄4",
+      "translation": "DARK4",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s9_dat#3.description",
+      "file": "res/skill/s9_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s9_dat#4.name",
+      "file": "res/skill/s9_dat",
+      "record": 4,
+      "field": "name",
+      "source": "영탄5",
+      "translation": "DARK5",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s9_dat#4.description",
+      "file": "res/skill/s9_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s9_dat#5.name",
+      "file": "res/skill/s9_dat",
+      "record": 5,
+      "field": "name",
+      "source": "영탄6",
+      "translation": "DARK6",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s9_dat#5.description",
+      "file": "res/skill/s9_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s9_dat#6.name",
+      "file": "res/skill/s9_dat",
+      "record": 6,
+      "field": "name",
+      "source": "영탄7",
+      "translation": "DARK7",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s9_dat#6.description",
+      "file": "res/skill/s9_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s9_dat#7.name",
+      "file": "res/skill/s9_dat",
+      "record": 7,
+      "field": "name",
+      "source": "암흑",
+      "translation": "DARK",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#7.description",
+      "file": "res/skill/s9_dat",
+      "record": 7,
+      "field": "description",
+      "source": "적 내면의 어둠을 폭발시켜 타격한다.",
+      "translation": "BURST THE DARKNESS;INSIDE A FOE.",
+      "byte_capacity": 35
+    },
+    {
+      "id": "res/skill/s9_dat#8.name",
+      "file": "res/skill/s9_dat",
+      "record": 8,
+      "field": "name",
+      "source": "업화",
+      "translation": "HELL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#8.description",
+      "file": "res/skill/s9_dat",
+      "record": 8,
+      "field": "description",
+      "source": "지옥의 낙뢰로 넓은 범위를 타격한다.",
+      "translation": "HELL LIGHTNING HITS A;WIDE AREA.",
+      "byte_capacity": 35
+    },
+    {
+      "id": "res/skill/s9_dat#9.name",
+      "file": "res/skill/s9_dat",
+      "record": 9,
+      "field": "name",
+      "source": "나락",
+      "translation": "ABYS",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#9.description",
+      "file": "res/skill/s9_dat",
+      "record": 9,
+      "field": "description",
+      "source": "일정시간 지옥의 공간을 소환하여 지속시킨다.",
+      "translation": "SUMMON A LINGERING;REALM OF HELL.",
+      "byte_capacity": 43
+    },
+    {
+      "id": "res/skill/s9_dat#10.name",
+      "file": "res/skill/s9_dat",
+      "record": 10,
+      "field": "name",
+      "source": "망각",
+      "translation": "OBLV",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#10.description",
+      "file": "res/skill/s9_dat",
+      "record": 10,
+      "field": "description",
+      "source": "주변 적의 공격력을 격감시킨다.",
+      "translation": "CUT NEARBY FOE ATK;SHARPLY.",
+      "byte_capacity": 30
+    },
+    {
+      "id": "res/skill/s9_dat#11.name",
+      "file": "res/skill/s9_dat",
+      "record": 11,
+      "field": "name",
+      "source": "전율",
+      "translation": "SHVR",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#11.description",
+      "file": "res/skill/s9_dat",
+      "record": 11,
+      "field": "description",
+      "source": "주변 적의 방어력과 회피율을 격감시킨다.",
+      "translation": "SHARPLY REDUCE FOE DEF;AND EVA.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s9_dat#12.name",
+      "file": "res/skill/s9_dat",
+      "record": 12,
+      "field": "name",
+      "source": "적의",
+      "translation": "FURY",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#12.description",
+      "file": "res/skill/s9_dat",
+      "record": 12,
+      "field": "description",
+      "source": "마법 공격의 공격력을 극대화한다.",
+      "translation": "MAXIMIZE MAGIC ATK.",
+      "byte_capacity": 32
+    },
+    {
+      "id": "res/skill/s9_dat#13.name",
+      "file": "res/skill/s9_dat",
+      "record": 13,
+      "field": "name",
+      "source": "정신",
+      "translation": "MIND",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#13.description",
+      "file": "res/skill/s9_dat",
+      "record": 13,
+      "field": "description",
+      "source": "적의 방패를 관통할 확률을 증가시킨다.",
+      "translation": "RAISE SHIELD-PIERCE;CHANCE.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s9_dat#14.name",
+      "file": "res/skill/s9_dat",
+      "record": 14,
+      "field": "name",
+      "source": "흡혼",
+      "translation": "LECH",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s9_dat#14.description",
+      "file": "res/skill/s9_dat",
+      "record": 14,
+      "field": "description",
+      "source": "공격에서 얻어지는 어둠을 HP로 환원한다.",
+      "translation": "TURN DARKNESS FROM;ATKS INTO HP.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s10_dat#0.name",
+      "file": "res/skill/s10_dat",
+      "record": 0,
+      "field": "name",
+      "source": "광아",
+      "translation": "FANG",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#0.description",
+      "file": "res/skill/s10_dat",
+      "record": 0,
+      "field": "description",
+      "source": "빛의 송곳을 생성해 날리는 기술",
+      "translation": "CREATE AND FIRE A;LIGHT FANG.",
+      "byte_capacity": 30
+    },
+    {
+      "id": "res/skill/s10_dat#1.name",
+      "file": "res/skill/s10_dat",
+      "record": 1,
+      "field": "name",
+      "source": "광아2",
+      "translation": "FANG2",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s10_dat#1.description",
+      "file": "res/skill/s10_dat",
+      "record": 1,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s10_dat#2.name",
+      "file": "res/skill/s10_dat",
+      "record": 2,
+      "field": "name",
+      "source": "광아3",
+      "translation": "FANG3",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s10_dat#2.description",
+      "file": "res/skill/s10_dat",
+      "record": 2,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s10_dat#3.name",
+      "file": "res/skill/s10_dat",
+      "record": 3,
+      "field": "name",
+      "source": "광아4",
+      "translation": "FANG4",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s10_dat#3.description",
+      "file": "res/skill/s10_dat",
+      "record": 3,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s10_dat#4.name",
+      "file": "res/skill/s10_dat",
+      "record": 4,
+      "field": "name",
+      "source": "광아5",
+      "translation": "FANG5",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s10_dat#4.description",
+      "file": "res/skill/s10_dat",
+      "record": 4,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s10_dat#5.name",
+      "file": "res/skill/s10_dat",
+      "record": 5,
+      "field": "name",
+      "source": "광아6",
+      "translation": "FANG6",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s10_dat#5.description",
+      "file": "res/skill/s10_dat",
+      "record": 5,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s10_dat#6.name",
+      "file": "res/skill/s10_dat",
+      "record": 6,
+      "field": "name",
+      "source": "광아7",
+      "translation": "FANG7",
+      "byte_capacity": 5
+    },
+    {
+      "id": "res/skill/s10_dat#6.description",
+      "file": "res/skill/s10_dat",
+      "record": 6,
+      "field": "description",
+      "source": "",
+      "translation": "",
+      "byte_capacity": 0
+    },
+    {
+      "id": "res/skill/s10_dat#7.name",
+      "file": "res/skill/s10_dat",
+      "record": 7,
+      "field": "name",
+      "source": "파동",
+      "translation": "WAVE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#7.description",
+      "file": "res/skill/s10_dat",
+      "record": 7,
+      "field": "description",
+      "source": "빛의 흐름을 적에게 집중시켜 타격한다.",
+      "translation": "FOCUS LIGHT TO STRIKE;A FOE.",
+      "byte_capacity": 37
+    },
+    {
+      "id": "res/skill/s10_dat#8.name",
+      "file": "res/skill/s10_dat",
+      "record": 8,
+      "field": "name",
+      "source": "격광",
+      "translation": "FLAR",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#8.description",
+      "file": "res/skill/s10_dat",
+      "record": 8,
+      "field": "description",
+      "source": "빛을 폭발시켜 공격하며 동시에 명중률을 낮춘다.",
+      "translation": "BURST LIGHT TO HIT AND;LOWER ACC.",
+      "byte_capacity": 46
+    },
+    {
+      "id": "res/skill/s10_dat#9.name",
+      "file": "res/skill/s10_dat",
+      "record": 9,
+      "field": "name",
+      "source": "회복",
+      "translation": "HEAL",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#9.description",
+      "file": "res/skill/s10_dat",
+      "record": 9,
+      "field": "description",
+      "source": "치유의 빛으로 HP와 상태이상을 회복한다.",
+      "translation": "HEAL HP AND CURE;AILMENTS.",
+      "byte_capacity": 39
+    },
+    {
+      "id": "res/skill/s10_dat#10.name",
+      "file": "res/skill/s10_dat",
+      "record": 10,
+      "field": "name",
+      "source": "초월",
+      "translation": "TRAN",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#10.description",
+      "file": "res/skill/s10_dat",
+      "record": 10,
+      "field": "description",
+      "source": "잠재력을 끌어올려 HP 최대치와 회복량 증가",
+      "translation": "RAISE MAX HP AND;HEALING.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s10_dat#11.name",
+      "file": "res/skill/s10_dat",
+      "record": 11,
+      "field": "name",
+      "source": "광휘",
+      "translation": "GLOW",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#11.description",
+      "file": "res/skill/s10_dat",
+      "record": 11,
+      "field": "description",
+      "source": "무기에 빛의 힘을 더해 공격력을 강화시킨다.",
+      "translation": "IMBUE WEAPONS WITH;LIGHT TO RAISE ATK.",
+      "byte_capacity": 42
+    },
+    {
+      "id": "res/skill/s10_dat#12.name",
+      "file": "res/skill/s10_dat",
+      "record": 12,
+      "field": "name",
+      "source": "보호",
+      "translation": "PROT",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#12.description",
+      "file": "res/skill/s10_dat",
+      "record": 12,
+      "field": "description",
+      "source": "빛의 막으로 기본적인 방어력을 증가시킨다.",
+      "translation": "RAISE BASE DEF WITH A;LIGHT BARRIER.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s10_dat#13.name",
+      "file": "res/skill/s10_dat",
+      "record": 13,
+      "field": "name",
+      "source": "신성",
+      "translation": "HOLY",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#13.description",
+      "file": "res/skill/s10_dat",
+      "record": 13,
+      "field": "description",
+      "source": "특수공격에 대한 방어력과 저항력을 높인다.",
+      "translation": "RAISE DEF AND RES VS;SPECIAL ATKS.",
+      "byte_capacity": 41
+    },
+    {
+      "id": "res/skill/s10_dat#14.name",
+      "file": "res/skill/s10_dat",
+      "record": 14,
+      "field": "name",
+      "source": "파동",
+      "translation": "WAVE",
+      "byte_capacity": 4
+    },
+    {
+      "id": "res/skill/s10_dat#14.description",
+      "file": "res/skill/s10_dat",
+      "record": 14,
+      "field": "description",
+      "source": "모든 공격의 효율을 증대시킨다.",
+      "translation": "BOOST ALL ATTACK;DAMAGE.",
+      "byte_capacity": 30
+    }
+  ]
+}

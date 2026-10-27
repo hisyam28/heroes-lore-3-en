@@ -1,0 +1,1936 @@
+{
+  "entries": [
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 0,
+      "source": "아스크란가드@",
+      "translation": "ASKR GUARD@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 1,
+      "source": "코르버스워리어@",
+      "translation": "CORV WARRIOR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 2,
+      "source": "아스크란워리어@",
+      "translation": "ASKR WARRIOR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 3,
+      "source": "솔티안워리어@",
+      "translation": "SOLT WARRIOR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 4,
+      "source": "아스크란템플러@",
+      "translation": "ASKR TEMPLAR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 5,
+      "source": "솔티안로그@",
+      "translation": "SOLT ROGUE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 6,
+      "source": "도적@",
+      "translation": "BANDIT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 7,
+      "source": "코르버스로그@",
+      "translation": "CORV ROGUE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 8,
+      "source": "아스크란체이서@",
+      "translation": "ASKR CHASER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 9,
+      "source": "코르버스어쌔신@",
+      "translation": "CORV ASSASIN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 10,
+      "source": "솔티안매지션@",
+      "translation": "SOLT MAGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 11,
+      "source": "솔티안위자드@",
+      "translation": "SOLT WIZARD@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 12,
+      "source": "솔티안워락@",
+      "translation": "SOLT WARLOCK@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 13,
+      "source": "아스크라건너@",
+      "translation": "ASKR GUNNER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 14,
+      "source": "코르버스건너@",
+      "translation": "CORV GUNNER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 15,
+      "source": "아스크란슈터@",
+      "translation": "ASKR SHOOTER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 16,
+      "source": "아스크란엑셀@",
+      "translation": "ASKR EXCEL@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 17,
+      "source": "아스크란워락@",
+      "translation": "ASKR WARLOCK@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 18,
+      "source": "포레스트쿠퍼@",
+      "translation": "FRST COOPER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 19,
+      "source": "와일드쿠퍼@",
+      "translation": "WILD COOPER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 20,
+      "source": "아이언쿠퍼@",
+      "translation": "IRON COOPER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 21,
+      "source": "쿠퍼나이트@",
+      "translation": "COOPER KNGT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 22,
+      "source": "플레임쿠퍼@",
+      "translation": "FLAME COOPER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 23,
+      "source": "얼티밋쿠퍼@",
+      "translation": "ULT COOPER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 24,
+      "source": "스컬워커@",
+      "translation": "SKULL WALKER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 25,
+      "source": "스켈레톤가드@",
+      "translation": "SKEL GUARD@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 26,
+      "source": "데드솔저@",
+      "translation": "DEAD SOLDIER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 27,
+      "source": "와일드스컬@",
+      "translation": "WILD SKULL@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 28,
+      "source": "스컬나이트@",
+      "translation": "SKULL KNIGHT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 29,
+      "source": "{카이저골렘@",
+      "translation": "{KAISER GOLEM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 30,
+      "source": "코르버스중대장@",
+      "translation": "CORV CAPTAIN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 31,
+      "source": "솔티안중대장@",
+      "translation": "SOLT CAPTAIN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 32,
+      "source": "아스크란중대장@",
+      "translation": "ASKR CAPTAIN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 33,
+      "source": "코르버스챔피언@",
+      "translation": "CORV CHAMP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 34,
+      "source": "솔티안버서커@",
+      "translation": "SOLT BERSERK@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 35,
+      "source": "{포레스트로커@",
+      "translation": "{FRST ROCKER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 36,
+      "source": "{아이언로커@",
+      "translation": "{IRON ROCKER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 37,
+      "source": "에인션트로커@",
+      "translation": "ANCT ROCKER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 38,
+      "source": "{블레이즈로커@",
+      "translation": "{BLAZE ROCKER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 39,
+      "source": "{카오스로커@",
+      "translation": "{CHAOS ROCKER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 40,
+      "source": "라이칸@",
+      "translation": "LYCAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 41,
+      "source": "엘더라이칸@",
+      "translation": "ELDER LYCAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 42,
+      "source": "와일드라이칸@",
+      "translation": "WILD LYCAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 43,
+      "source": "암드라이칸@",
+      "translation": "ARMED LYCAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 44,
+      "source": "헤비스트라이칸@",
+      "translation": "HEAVY LYCAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 45,
+      "source": "다크니스라이칸@",
+      "translation": "DARK LYCAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 46,
+      "source": "신당의동상@",
+      "translation": "SHRINE IDOL@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 47,
+      "source": "데몬@",
+      "translation": "DEMON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 48,
+      "source": "가고일@",
+      "translation": "GARGOYLE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 49,
+      "source": "세인트가고일@",
+      "translation": "HOLY GARGOYL@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 50,
+      "source": "데몬나이트@",
+      "translation": "DEMON KNIGHT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 51,
+      "source": "블러디데몬@",
+      "translation": "BLOOD DEMON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 52,
+      "source": "{시바@",
+      "translation": "{SHIVA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 53,
+      "source": "먼지@",
+      "translation": "DUST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 54,
+      "source": "진흙수호자@",
+      "translation": "MUD GUARDIAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 55,
+      "source": "진흙골렘@",
+      "translation": "MUD GOLEM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 56,
+      "source": "스톤골렘@",
+      "translation": "STONE GOLEM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 57,
+      "source": "아이언골렘@",
+      "translation": "IRON GOLEM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 58,
+      "source": "세인트골렘@",
+      "translation": "HOLY GOLEM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 59,
+      "source": "에인션트골렘@",
+      "translation": "ANCT GOLEM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 60,
+      "source": "망령의그림자@",
+      "translation": "WRAITH SHADE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 61,
+      "source": "섀도우키퍼@",
+      "translation": "SHADOW KEEPR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 62,
+      "source": "스펙터@",
+      "translation": "SPECTER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 63,
+      "source": "스펙터로드@",
+      "translation": "SPECTER LORD@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 64,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 65,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 66,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 67,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 68,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 69,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 70,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 71,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 72,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 73,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 74,
+      "source": "스톤해머@",
+      "translation": "STONE HAMMER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 75,
+      "source": "아이언해머@",
+      "translation": "IRON HAMMER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 76,
+      "source": "코일콤프레서@",
+      "translation": "COIL PRESS@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 77,
+      "source": "메가톤콤프레서@",
+      "translation": "MEGATON PRSS@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 78,
+      "source": "마인파인더@",
+      "translation": "MINE FINDER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 79,
+      "source": "트레일러머신@",
+      "translation": "TRAILER BOT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 80,
+      "source": "메카닉홀더@",
+      "translation": "HOLDER BOT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 81,
+      "source": "헤머링머신@",
+      "translation": "HAMMER BOT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 82,
+      "source": "암드머신@",
+      "translation": "ARMED BOT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 83,
+      "source": "크레이지머신@",
+      "translation": "CRAZY BOT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 84,
+      "source": "벌@",
+      "translation": "BEE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 85,
+      "source": "말벌@",
+      "translation": "WASP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 86,
+      "source": "화염충@",
+      "translation": "FIRE BUG@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 87,
+      "source": "대왕말벌@",
+      "translation": "KING WASP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 88,
+      "source": "에인션트버그@",
+      "translation": "ANCT BUG@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 89,
+      "source": "야생쥐@",
+      "translation": "WILD RAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 90,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 91,
+      "source": "빅마우스@",
+      "translation": "BIG MOUSE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 92,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 93,
+      "source": "카오틱마우스@",
+      "translation": "CHAOS MOUSE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 94,
+      "source": "신당의빛@",
+      "translation": "SHRINE LIGHT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 95,
+      "source": "불꽃의령@",
+      "translation": "FLAME SPIRIT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 96,
+      "source": "샤이닝가드@",
+      "translation": "SHINE GUARD@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 97,
+      "source": "라이트닝가드@",
+      "translation": "LIGHTN GUARD@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 98,
+      "source": "심연의악령@",
+      "translation": "ABYSS WRAITH@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 99,
+      "source": "아콘의잔영@",
+      "translation": "ARCHON ECHO@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 100,
+      "source": "박쥐@",
+      "translation": "BAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 101,
+      "source": "흡혈박쥐@",
+      "translation": "VAMPIRE BAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 102,
+      "source": "'박쥐@",
+      "translation": "'BAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 103,
+      "source": "식인박쥐@",
+      "translation": "MANEATER BAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 104,
+      "source": "얼티밋배트@",
+      "translation": "ULT BAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 105,
+      "source": "다크니스배트@",
+      "translation": "DARK BAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 106,
+      "source": "헨지@",
+      "translation": "HENGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 107,
+      "source": "블랙헨지@",
+      "translation": "BLACK HENGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 108,
+      "source": "레드헨지@",
+      "translation": "RED HENGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 109,
+      "source": "블러디헨지@",
+      "translation": "BLOOD HENGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 110,
+      "source": "크레이지헨지@",
+      "translation": "CRAZY HENGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 111,
+      "source": "아크헨지@",
+      "translation": "ARC HENGE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 112,
+      "source": "먼지@",
+      "translation": "DUST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 113,
+      "source": "고스트@",
+      "translation": "GHOST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 114,
+      "source": "기버링@",
+      "translation": "GIBBERLING@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 115,
+      "source": "베어프록@",
+      "translation": "BEAR FROG@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 116,
+      "source": "기버로크@",
+      "translation": "GIBBER ROCK@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 117,
+      "source": "아일기버링@",
+      "translation": "ISLE GIBBER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 118,
+      "source": "아일기버로크@",
+      "translation": "ISLE GIBROCK@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 119,
+      "source": "전갈@",
+      "translation": "SCORPION@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 120,
+      "source": "독전갈@",
+      "translation": "POISN SCORP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 121,
+      "source": "아크스콜피온@",
+      "translation": "ARC SCORP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 122,
+      "source": "스콜피온킹@",
+      "translation": "SCORP KING@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 123,
+      "source": "프록@",
+      "translation": "FROG@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 124,
+      "source": "앨더고스트@",
+      "translation": "ELDER GHOST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 125,
+      "source": "아크라바@",
+      "translation": "ARC LARVA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 126,
+      "source": "뮤턴트라바@",
+      "translation": "MUTANT LARVA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 127,
+      "source": "헌터라바@",
+      "translation": "HUNTER LARVA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 128,
+      "source": "식인꽃@",
+      "translation": "MANEATER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 129,
+      "source": "식인꽃@",
+      "translation": "MANEATER@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 130,
+      "source": "데스플랜트@",
+      "translation": "DEATH PLANT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 131,
+      "source": "머쉬풀라@",
+      "translation": "MUSCIPULA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 132,
+      "source": "데스머쉬풀라@",
+      "translation": "DEATH MUSCIP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 133,
+      "source": "커브스쿠툼@",
+      "translation": "CORV SCUTUM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 134,
+      "source": "커브스쿠툼@",
+      "translation": "CORV SCUTUM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 135,
+      "source": "{와일드스쿠툼@",
+      "translation": "{WILD SCUTUM@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 136,
+      "source": "커브이라@",
+      "translation": "CORV IRA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 137,
+      "source": "커브이라@",
+      "translation": "CORV IRA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 138,
+      "source": "{다크니스이라@",
+      "translation": "{DARK IRA@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 139,
+      "source": "아이언비스트@",
+      "translation": "IRON BEAST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 140,
+      "source": "아이언비스트@",
+      "translation": "IRON BEAST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 141,
+      "source": "{크레이지타이탄@",
+      "translation": "{CRAZY TITAN@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 142,
+      "source": "{앨더머쉬풀라@",
+      "translation": "{ELDER MUSCIP@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 143,
+      "source": "커브아르보르@",
+      "translation": "CORV ARBOR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 144,
+      "source": "{와일드아르보르@",
+      "translation": "{WILD ARBOR@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 145,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 146,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 147,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 148,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 149,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 150,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 151,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 152,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 153,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 154,
+      "source": "'벌@",
+      "translation": "'BEE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 155,
+      "source": "'유령@",
+      "translation": "'GHOST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 156,
+      "source": "'먼지@",
+      "translation": "'DUST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 157,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 158,
+      "source": "'벌@",
+      "translation": "'BEE@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 159,
+      "source": "'유령@",
+      "translation": "'GHOST@"
+    },
+    {
+      "file": "res/dat/enemy_dat",
+      "record": 160,
+      "source": "'먼지@",
+      "translation": "'DUST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 0,
+      "source": "아스크란가드@",
+      "translation": "ASKR GUARD@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 1,
+      "source": "코르버스워리어@",
+      "translation": "CORV WARRIOR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 2,
+      "source": "아스크란워리어@",
+      "translation": "ASKR WARRIOR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 3,
+      "source": "솔티안워리어@",
+      "translation": "SOLT WARRIOR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 4,
+      "source": "아스크란템플러@",
+      "translation": "ASKR TEMPLAR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 5,
+      "source": "솔티안로그@",
+      "translation": "SOLT ROGUE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 6,
+      "source": "도적@",
+      "translation": "BANDIT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 7,
+      "source": "코르버스로그@",
+      "translation": "CORV ROGUE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 8,
+      "source": "아스크란체이서@",
+      "translation": "ASKR CHASER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 9,
+      "source": "코르버스어쌔신@",
+      "translation": "CORV ASSASIN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 10,
+      "source": "솔티안매지션@",
+      "translation": "SOLT MAGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 11,
+      "source": "솔티안위자드@",
+      "translation": "SOLT WIZARD@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 12,
+      "source": "솔티안워락@",
+      "translation": "SOLT WARLOCK@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 13,
+      "source": "아스크라건너@",
+      "translation": "ASKR GUNNER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 14,
+      "source": "코르버스건너@",
+      "translation": "CORV GUNNER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 15,
+      "source": "아스크란슈터@",
+      "translation": "ASKR SHOOTER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 16,
+      "source": "아스크란엑셀@",
+      "translation": "ASKR EXCEL@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 17,
+      "source": "아스크란워락@",
+      "translation": "ASKR WARLOCK@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 18,
+      "source": "포레스트쿠퍼@",
+      "translation": "FRST COOPER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 19,
+      "source": "와일드쿠퍼@",
+      "translation": "WILD COOPER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 20,
+      "source": "아이언쿠퍼@",
+      "translation": "IRON COOPER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 21,
+      "source": "쿠퍼나이트@",
+      "translation": "COOPER KNGT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 22,
+      "source": "플레임쿠퍼@",
+      "translation": "FLAME COOPER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 23,
+      "source": "얼티밋쿠퍼@",
+      "translation": "ULT COOPER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 24,
+      "source": "스컬워커@",
+      "translation": "SKULL WALKER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 25,
+      "source": "스켈레톤가드@",
+      "translation": "SKEL GUARD@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 26,
+      "source": "데드솔저@",
+      "translation": "DEAD SOLDIER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 27,
+      "source": "와일드스컬@",
+      "translation": "WILD SKULL@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 28,
+      "source": "스컬나이트@",
+      "translation": "SKULL KNIGHT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 29,
+      "source": "{카이저골렘@",
+      "translation": "{KAISER GOLEM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 30,
+      "source": "코르버스중대장@",
+      "translation": "CORV CAPTAIN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 31,
+      "source": "솔티안중대장@",
+      "translation": "SOLT CAPTAIN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 32,
+      "source": "아스크란중대장@",
+      "translation": "ASKR CAPTAIN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 33,
+      "source": "코르버스챔피언@",
+      "translation": "CORV CHAMP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 34,
+      "source": "솔티안버서커@",
+      "translation": "SOLT BERSERK@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 35,
+      "source": "{포레스트로커@",
+      "translation": "{FRST ROCKER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 36,
+      "source": "{아이언로커@",
+      "translation": "{IRON ROCKER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 37,
+      "source": "에인션트로커@",
+      "translation": "ANCT ROCKER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 38,
+      "source": "{블레이즈로커@",
+      "translation": "{BLAZE ROCKER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 39,
+      "source": "{카오스로커@",
+      "translation": "{CHAOS ROCKER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 40,
+      "source": "라이칸@",
+      "translation": "LYCAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 41,
+      "source": "엘더라이칸@",
+      "translation": "ELDER LYCAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 42,
+      "source": "와일드라이칸@",
+      "translation": "WILD LYCAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 43,
+      "source": "암드라이칸@",
+      "translation": "ARMED LYCAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 44,
+      "source": "헤비스트라이칸@",
+      "translation": "HEAVY LYCAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 45,
+      "source": "다크니스라이칸@",
+      "translation": "DARK LYCAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 46,
+      "source": "신당의동상@",
+      "translation": "SHRINE IDOL@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 47,
+      "source": "데몬@",
+      "translation": "DEMON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 48,
+      "source": "가고일@",
+      "translation": "GARGOYLE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 49,
+      "source": "세인트가고일@",
+      "translation": "HOLY GARGOYL@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 50,
+      "source": "데몬나이트@",
+      "translation": "DEMON KNIGHT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 51,
+      "source": "블러디데몬@",
+      "translation": "BLOOD DEMON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 52,
+      "source": "{시바@",
+      "translation": "{SHIVA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 53,
+      "source": "먼지@",
+      "translation": "DUST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 54,
+      "source": "진흙수호자@",
+      "translation": "MUD GUARDIAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 55,
+      "source": "진흙골렘@",
+      "translation": "MUD GOLEM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 56,
+      "source": "스톤골렘@",
+      "translation": "STONE GOLEM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 57,
+      "source": "아이언골렘@",
+      "translation": "IRON GOLEM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 58,
+      "source": "세인트골렘@",
+      "translation": "HOLY GOLEM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 59,
+      "source": "에인션트골렘@",
+      "translation": "ANCT GOLEM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 60,
+      "source": "망령의그림자@",
+      "translation": "WRAITH SHADE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 61,
+      "source": "섀도우키퍼@",
+      "translation": "SHADOW KEEPR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 62,
+      "source": "스펙터@",
+      "translation": "SPECTER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 63,
+      "source": "스펙터로드@",
+      "translation": "SPECTER LORD@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 64,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 65,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 66,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 67,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 68,
+      "source": "오토캐논@",
+      "translation": "AUTO CANNON@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 69,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 70,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 71,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 72,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 73,
+      "source": "부비트랩@",
+      "translation": "BOOBY TRAP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 74,
+      "source": "스톤해머@",
+      "translation": "STONE HAMMER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 75,
+      "source": "아이언해머@",
+      "translation": "IRON HAMMER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 76,
+      "source": "코일콤프레서@",
+      "translation": "COIL PRESS@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 77,
+      "source": "메가톤콤프레서@",
+      "translation": "MEGATON PRSS@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 78,
+      "source": "마인파인더@",
+      "translation": "MINE FINDER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 79,
+      "source": "트레일러머신@",
+      "translation": "TRAILER BOT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 80,
+      "source": "메카닉홀더@",
+      "translation": "HOLDER BOT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 81,
+      "source": "헤머링머신@",
+      "translation": "HAMMER BOT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 82,
+      "source": "암드머신@",
+      "translation": "ARMED BOT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 83,
+      "source": "크레이지머신@",
+      "translation": "CRAZY BOT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 84,
+      "source": "벌@",
+      "translation": "BEE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 85,
+      "source": "말벌@",
+      "translation": "WASP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 86,
+      "source": "화염충@",
+      "translation": "FIRE BUG@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 87,
+      "source": "대왕말벌@",
+      "translation": "KING WASP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 88,
+      "source": "에인션트버그@",
+      "translation": "ANCT BUG@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 89,
+      "source": "야생쥐@",
+      "translation": "WILD RAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 90,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 91,
+      "source": "빅마우스@",
+      "translation": "BIG MOUSE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 92,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 93,
+      "source": "카오틱마우스@",
+      "translation": "CHAOS MOUSE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 94,
+      "source": "신당의빛@",
+      "translation": "SHRINE LIGHT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 95,
+      "source": "불꽃의령@",
+      "translation": "FLAME SPIRIT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 96,
+      "source": "샤이닝가드@",
+      "translation": "SHINE GUARD@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 97,
+      "source": "라이트닝가드@",
+      "translation": "LIGHTN GUARD@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 98,
+      "source": "심연의악령@",
+      "translation": "ABYSS WRAITH@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 99,
+      "source": "아콘의잔영@",
+      "translation": "ARCHON ECHO@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 100,
+      "source": "박쥐@",
+      "translation": "BAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 101,
+      "source": "흡혈박쥐@",
+      "translation": "VAMPIRE BAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 102,
+      "source": "'박쥐@",
+      "translation": "'BAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 103,
+      "source": "식인박쥐@",
+      "translation": "MANEATER BAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 104,
+      "source": "얼티밋배트@",
+      "translation": "ULT BAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 105,
+      "source": "다크니스배트@",
+      "translation": "DARK BAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 106,
+      "source": "헨지@",
+      "translation": "HENGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 107,
+      "source": "블랙헨지@",
+      "translation": "BLACK HENGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 108,
+      "source": "레드헨지@",
+      "translation": "RED HENGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 109,
+      "source": "블러디헨지@",
+      "translation": "BLOOD HENGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 110,
+      "source": "크레이지헨지@",
+      "translation": "CRAZY HENGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 111,
+      "source": "아크헨지@",
+      "translation": "ARC HENGE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 112,
+      "source": "먼지@",
+      "translation": "DUST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 113,
+      "source": "고스트@",
+      "translation": "GHOST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 114,
+      "source": "기버링@",
+      "translation": "GIBBERLING@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 115,
+      "source": "베어프록@",
+      "translation": "BEAR FROG@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 116,
+      "source": "기버로크@",
+      "translation": "GIBBER ROCK@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 117,
+      "source": "아일기버링@",
+      "translation": "ISLE GIBBER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 118,
+      "source": "아일기버로크@",
+      "translation": "ISLE GIBROCK@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 119,
+      "source": "전갈@",
+      "translation": "SCORPION@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 120,
+      "source": "독전갈@",
+      "translation": "POISN SCORP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 121,
+      "source": "아크스콜피온@",
+      "translation": "ARC SCORP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 122,
+      "source": "스콜피온킹@",
+      "translation": "SCORP KING@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 123,
+      "source": "프록@",
+      "translation": "FROG@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 124,
+      "source": "앨더고스트@",
+      "translation": "ELDER GHOST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 125,
+      "source": "아크라바@",
+      "translation": "ARC LARVA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 126,
+      "source": "뮤턴트라바@",
+      "translation": "MUTANT LARVA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 127,
+      "source": "헌터라바@",
+      "translation": "HUNTER LARVA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 128,
+      "source": "식인꽃@",
+      "translation": "MANEATER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 129,
+      "source": "식인꽃@",
+      "translation": "MANEATER@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 130,
+      "source": "데스플랜트@",
+      "translation": "DEATH PLANT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 131,
+      "source": "머쉬풀라@",
+      "translation": "MUSCIPULA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 132,
+      "source": "데스머쉬풀라@",
+      "translation": "DEATH MUSCIP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 133,
+      "source": "커브스쿠툼@",
+      "translation": "CORV SCUTUM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 134,
+      "source": "커브스쿠툼@",
+      "translation": "CORV SCUTUM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 135,
+      "source": "{와일드스쿠툼@",
+      "translation": "{WILD SCUTUM@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 136,
+      "source": "커브이라@",
+      "translation": "CORV IRA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 137,
+      "source": "커브이라@",
+      "translation": "CORV IRA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 138,
+      "source": "{다크니스이라@",
+      "translation": "{DARK IRA@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 139,
+      "source": "아이언비스트@",
+      "translation": "IRON BEAST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 140,
+      "source": "아이언비스트@",
+      "translation": "IRON BEAST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 141,
+      "source": "{크레이지타이탄@",
+      "translation": "{CRAZY TITAN@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 142,
+      "source": "{앨더머쉬풀라@",
+      "translation": "{ELDER MUSCIP@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 143,
+      "source": "커브아르보르@",
+      "translation": "CORV ARBOR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 144,
+      "source": "{와일드아르보르@",
+      "translation": "{WILD ARBOR@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 145,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 146,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 147,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 148,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 149,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 150,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 151,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 152,
+      "source": "'박스@",
+      "translation": "'BOX@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 153,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 154,
+      "source": "'벌@",
+      "translation": "'BEE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 155,
+      "source": "'유령@",
+      "translation": "'GHOST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 156,
+      "source": "'먼지@",
+      "translation": "'DUST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 157,
+      "source": "'쥐@",
+      "translation": "'RAT@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 158,
+      "source": "'벌@",
+      "translation": "'BEE@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 159,
+      "source": "'유령@",
+      "translation": "'GHOST@"
+    },
+    {
+      "file": "res/dat/enemyh_dat",
+      "record": 160,
+      "source": "'먼지@",
+      "translation": "'DUST@"
+    }
+  ]
+}

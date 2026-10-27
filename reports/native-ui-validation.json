@@ -1,0 +1,14 @@
+[
+  {
+    "source": "저장완료",
+    "translation": "SAVED.",
+    "offset": 12015907,
+    "byte_length": 12
+  },
+  {
+    "source": "저장실패",
+    "translation": "SAVE FAILED.",
+    "offset": 12015919,
+    "byte_length": 12
+  }
+]

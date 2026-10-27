@@ -1,0 +1,5030 @@
+{
+  "format": "heroes-lore-3-item-names-v1",
+  "encoding": "cp949",
+  "entries": [
+    {
+      "id": "i0_dat#0",
+      "file": "i0_dat",
+      "record": 0,
+      "marker": "",
+      "source": "머리띠",
+      "translation": "HEADBAND"
+    },
+    {
+      "id": "i0_dat#1",
+      "file": "i0_dat",
+      "record": 1,
+      "marker": "",
+      "source": "가죽모자",
+      "translation": "LTHR HAT"
+    },
+    {
+      "id": "i0_dat#2",
+      "file": "i0_dat",
+      "record": 2,
+      "marker": "",
+      "source": "후드",
+      "translation": "HOOD"
+    },
+    {
+      "id": "i0_dat#3",
+      "file": "i0_dat",
+      "record": 3,
+      "marker": "",
+      "source": "강화가죽모자",
+      "translation": "REINF. LTHR. HAT"
+    },
+    {
+      "id": "i0_dat#4",
+      "file": "i0_dat",
+      "record": 4,
+      "marker": "",
+      "source": "강화후드",
+      "translation": "REINF HOOD"
+    },
+    {
+      "id": "i0_dat#5",
+      "file": "i0_dat",
+      "record": 5,
+      "marker": "",
+      "source": "써클릿",
+      "translation": "CIRCLET"
+    },
+    {
+      "id": "i0_dat#6",
+      "file": "i0_dat",
+      "record": 6,
+      "marker": "",
+      "source": "고글",
+      "translation": "GOGGLES"
+    },
+    {
+      "id": "i0_dat#7",
+      "file": "i0_dat",
+      "record": 7,
+      "marker": "",
+      "source": "청동투구",
+      "translation": "BRONZE HELM"
+    },
+    {
+      "id": "i0_dat#8",
+      "file": "i0_dat",
+      "record": 8,
+      "marker": "",
+      "source": "헤드기어",
+      "translation": "HEADGEAR"
+    },
+    {
+      "id": "i0_dat#9",
+      "file": "i0_dat",
+      "record": 9,
+      "marker": "",
+      "source": "강철투구",
+      "translation": "STEEL HELM"
+    },
+    {
+      "id": "i0_dat#10",
+      "file": "i0_dat",
+      "record": 10,
+      "marker": "",
+      "source": "배틀헬름",
+      "translation": "BATTLE HELM"
+    },
+    {
+      "id": "i0_dat#11",
+      "file": "i0_dat",
+      "record": 11,
+      "marker": "",
+      "source": "그레이트헬름",
+      "translation": "GREAT HELM"
+    },
+    {
+      "id": "i0_dat#12",
+      "file": "i0_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "붉은머리띠",
+      "translation": "RED HEADBAND"
+    },
+    {
+      "id": "i0_dat#13",
+      "file": "i0_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "강철가면",
+      "translation": "STEEL MASK"
+    },
+    {
+      "id": "i0_dat#14",
+      "file": "i0_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "바람가죽모자",
+      "translation": "WINDSKIN HAT"
+    },
+    {
+      "id": "i0_dat#15",
+      "file": "i0_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "록써클릿",
+      "translation": "ROCK CIRCLET"
+    },
+    {
+      "id": "i0_dat#16",
+      "file": "i0_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "비스트아이",
+      "translation": "BEAST EYE"
+    },
+    {
+      "id": "i0_dat#17",
+      "file": "i0_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "워헬름",
+      "translation": "WAR HELM"
+    },
+    {
+      "id": "i0_dat#18",
+      "file": "i0_dat",
+      "record": 18,
+      "marker": "|",
+      "source": "황금투구",
+      "translation": "GOLDEN HELM"
+    },
+    {
+      "id": "i0_dat#19",
+      "file": "i0_dat",
+      "record": 19,
+      "marker": "|",
+      "source": "엔시언트헬름",
+      "translation": "ANCIENT HELM"
+    },
+    {
+      "id": "i0_dat#20",
+      "file": "i0_dat",
+      "record": 20,
+      "marker": "",
+      "source": "'오르도써클릿",
+      "translation": "'ORDO CIRCLET"
+    },
+    {
+      "id": "i0_dat#21",
+      "file": "i0_dat",
+      "record": 21,
+      "marker": "",
+      "source": "'붉은사자투구",
+      "translation": "'RED LION HELM"
+    },
+    {
+      "id": "i0_dat#22",
+      "file": "i0_dat",
+      "record": 22,
+      "marker": "",
+      "source": "'드래곤본헬름",
+      "translation": "'DRAGONBONE HELM"
+    },
+    {
+      "id": "i0_dat#23",
+      "file": "i0_dat",
+      "record": 23,
+      "marker": "",
+      "source": "'카오스후드",
+      "translation": "'CHAOS HOOD"
+    },
+    {
+      "id": "i0_dat#24",
+      "file": "i0_dat",
+      "record": 24,
+      "marker": "",
+      "source": "'명왕가면",
+      "translation": "'PRINCESS MASK"
+    },
+    {
+      "id": "i0_dat#25",
+      "file": "i0_dat",
+      "record": 25,
+      "marker": "$",
+      "source": "워헤드기어",
+      "translation": "WARHEAD GEAR"
+    },
+    {
+      "id": "i0_dat#26",
+      "file": "i0_dat",
+      "record": 26,
+      "marker": "$",
+      "source": "드래곤헬름",
+      "translation": "DRAGON HELM"
+    },
+    {
+      "id": "i0_dat#27",
+      "file": "i0_dat",
+      "record": 27,
+      "marker": "{",
+      "source": "블러디고글",
+      "translation": "BLOODY GOGGLES"
+    },
+    {
+      "id": "i0_dat#28",
+      "file": "i0_dat",
+      "record": 28,
+      "marker": "{",
+      "source": "다크써클릿",
+      "translation": "DARK CIRCLET"
+    },
+    {
+      "id": "i0_dat#29",
+      "file": "i0_dat",
+      "record": 29,
+      "marker": "{",
+      "source": "라이트닝기어",
+      "translation": "LIGHTNING GEAR"
+    },
+    {
+      "id": "i0_dat#30",
+      "file": "i0_dat",
+      "record": 30,
+      "marker": "",
+      "source": "@팬텀스카우터",
+      "translation": "@PHANTOM SCOUT"
+    },
+    {
+      "id": "i0_dat#31",
+      "file": "i0_dat",
+      "record": 31,
+      "marker": "",
+      "source": "@홀리써클릿",
+      "translation": "@HOLY CIRCLET"
+    },
+    {
+      "id": "i0_dat#32",
+      "file": "i0_dat",
+      "record": 32,
+      "marker": "}",
+      "source": "공허의투구",
+      "translation": "HELM OF THE VOID"
+    },
+    {
+      "id": "i0_dat#33",
+      "file": "i0_dat",
+      "record": 33,
+      "marker": "{",
+      "source": "아수라",
+      "translation": "ASURA"
+    },
+    {
+      "id": "i0_dat#34",
+      "file": "i0_dat",
+      "record": 34,
+      "marker": "{",
+      "source": "카이얀헬름",
+      "translation": "KAIYAN HELM"
+    },
+    {
+      "id": "i0_dat#35",
+      "file": "i0_dat",
+      "record": 35,
+      "marker": "{",
+      "source": "다크엘븐후드",
+      "translation": "DARK ELVEN HOOD"
+    },
+    {
+      "id": "i0_dat#36",
+      "file": "i0_dat",
+      "record": 36,
+      "marker": "{",
+      "source": "워락헤드기어",
+      "translation": "WARLOCK HEADGEAR"
+    },
+    {
+      "id": "i0_dat#37",
+      "file": "i0_dat",
+      "record": 37,
+      "marker": "{",
+      "source": "엘하드써클릿",
+      "translation": "ELHARD CIRCLET"
+    },
+    {
+      "id": "i0_dat#38",
+      "file": "i0_dat",
+      "record": 38,
+      "marker": "{",
+      "source": "레인즈아이",
+      "translation": "RAINS EYE"
+    },
+    {
+      "id": "i0_dat#39",
+      "file": "i0_dat",
+      "record": 39,
+      "marker": "",
+      "source": "@블러디고글",
+      "translation": "@BLOODY GOGGLES"
+    },
+    {
+      "id": "i0_dat#40",
+      "file": "i0_dat",
+      "record": 40,
+      "marker": "",
+      "source": "@다크써클릿",
+      "translation": "@DARK CIRCLET"
+    },
+    {
+      "id": "i0_dat#41",
+      "file": "i0_dat",
+      "record": 41,
+      "marker": "",
+      "source": "@라이트닝기어",
+      "translation": "@LIGHTNING GEAR"
+    },
+    {
+      "id": "i0_dat#42",
+      "file": "i0_dat",
+      "record": 42,
+      "marker": "",
+      "source": "@팬텀스카우터",
+      "translation": "@PHANTOM SCOUT"
+    },
+    {
+      "id": "i0_dat#43",
+      "file": "i0_dat",
+      "record": 43,
+      "marker": "",
+      "source": "@홀리써클릿",
+      "translation": "@HOLY CIRCLET"
+    },
+    {
+      "id": "i0_dat#44",
+      "file": "i0_dat",
+      "record": 44,
+      "marker": "}",
+      "source": "이벤트투구",
+      "translation": "EVENT HELM"
+    },
+    {
+      "id": "i0_dat#45",
+      "file": "i0_dat",
+      "record": 45,
+      "marker": "}",
+      "source": "이벤트투구",
+      "translation": "EVENT HELM"
+    },
+    {
+      "id": "i0_dat#46",
+      "file": "i0_dat",
+      "record": 46,
+      "marker": "}",
+      "source": "이벤트투구",
+      "translation": "EVENT HELM"
+    },
+    {
+      "id": "i0_dat#47",
+      "file": "i0_dat",
+      "record": 47,
+      "marker": "}",
+      "source": "이벤트투구",
+      "translation": "EVENT HELM"
+    },
+    {
+      "id": "i10_dat#0",
+      "file": "i10_dat",
+      "record": 0,
+      "marker": "",
+      "source": "홀리스톤",
+      "translation": "HOLYSTONE"
+    },
+    {
+      "id": "i10_dat#1",
+      "file": "i10_dat",
+      "record": 1,
+      "marker": "",
+      "source": "수정",
+      "translation": "CRYSTAL"
+    },
+    {
+      "id": "i10_dat#2",
+      "file": "i10_dat",
+      "record": 2,
+      "marker": "",
+      "source": "코랄",
+      "translation": "CORAL"
+    },
+    {
+      "id": "i10_dat#3",
+      "file": "i10_dat",
+      "record": 3,
+      "marker": "",
+      "source": "앰버",
+      "translation": "AMBER"
+    },
+    {
+      "id": "i10_dat#4",
+      "file": "i10_dat",
+      "record": 4,
+      "marker": "",
+      "source": "스피넬",
+      "translation": "SPINEL"
+    },
+    {
+      "id": "i10_dat#5",
+      "file": "i10_dat",
+      "record": 5,
+      "marker": "",
+      "source": "오팔",
+      "translation": "OPAL"
+    },
+    {
+      "id": "i10_dat#6",
+      "file": "i10_dat",
+      "record": 6,
+      "marker": "",
+      "source": "문스톤",
+      "translation": "MOONSTONE"
+    },
+    {
+      "id": "i10_dat#7",
+      "file": "i10_dat",
+      "record": 7,
+      "marker": "",
+      "source": "토파즈",
+      "translation": "TOPAZ"
+    },
+    {
+      "id": "i10_dat#8",
+      "file": "i10_dat",
+      "record": 8,
+      "marker": "",
+      "source": "아쿠아마린",
+      "translation": "AQUAMARINE"
+    },
+    {
+      "id": "i10_dat#9",
+      "file": "i10_dat",
+      "record": 9,
+      "marker": "",
+      "source": "비취",
+      "translation": "JADE"
+    },
+    {
+      "id": "i10_dat#10",
+      "file": "i10_dat",
+      "record": 10,
+      "marker": "",
+      "source": "사파이어",
+      "translation": "SAPPHIRE"
+    },
+    {
+      "id": "i10_dat#11",
+      "file": "i10_dat",
+      "record": 11,
+      "marker": "",
+      "source": "홀리다이아",
+      "translation": "HOLY DIAMOND"
+    },
+    {
+      "id": "i10_dat#12",
+      "file": "i10_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "질콘",
+      "translation": "ZILCON"
+    },
+    {
+      "id": "i10_dat#13",
+      "file": "i10_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "홀리앰버",
+      "translation": "HOLY AMBER"
+    },
+    {
+      "id": "i10_dat#14",
+      "file": "i10_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "홀리가넷",
+      "translation": "HOLY GARNET"
+    },
+    {
+      "id": "i10_dat#15",
+      "file": "i10_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "시리우스",
+      "translation": "SIRIUS"
+    },
+    {
+      "id": "i10_dat#16",
+      "file": "i10_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "세라피니움",
+      "translation": "SERAPHINE"
+    },
+    {
+      "id": "i10_dat#17",
+      "file": "i10_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "스타사파이어",
+      "translation": "STAR SAPPHIRE"
+    },
+    {
+      "id": "i10_dat#18",
+      "file": "i10_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "아쿠아펄",
+      "translation": "AQUA PEARL"
+    },
+    {
+      "id": "i10_dat#19",
+      "file": "i10_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "썬샤인스톤",
+      "translation": "SUNSHINE STONE"
+    },
+    {
+      "id": "i10_dat#20",
+      "file": "i10_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "스타티어즈",
+      "translation": "STAR TEARS"
+    },
+    {
+      "id": "i10_dat#21",
+      "file": "i10_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "비너스",
+      "translation": "VENUS"
+    },
+    {
+      "id": "i10_dat#22",
+      "file": "i10_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "제네시스",
+      "translation": "GENESIS"
+    },
+    {
+      "id": "i10_dat#23",
+      "file": "i10_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@헤븐즈도어",
+      "translation": "@HEAVENS DOOR"
+    },
+    {
+      "id": "i10_dat#24",
+      "file": "i10_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의광휘석",
+      "translation": "VOID RADIANCE"
+    },
+    {
+      "id": "i10_dat#25",
+      "file": "i10_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "아테나",
+      "translation": "ATHENA"
+    },
+    {
+      "id": "i10_dat#26",
+      "file": "i10_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "갤럭시안",
+      "translation": "GALAXIAN"
+    },
+    {
+      "id": "i10_dat#27",
+      "file": "i10_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진비너스",
+      "translation": "@JINVENUS"
+    },
+    {
+      "id": "i10_dat#28",
+      "file": "i10_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@제네시스",
+      "translation": "@GENESIS"
+    },
+    {
+      "id": "i10_dat#29",
+      "file": "i10_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@헤븐즈도어",
+      "translation": "@HEAVENS DOOR"
+    },
+    {
+      "id": "i10_dat#30",
+      "file": "i10_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버홀리스톤",
+      "translation": "RIVER HOLY STONE"
+    },
+    {
+      "id": "i11_dat#0",
+      "file": "i11_dat",
+      "record": 0,
+      "marker": "",
+      "source": "가죽버클러",
+      "translation": "LTHR BUCKLER"
+    },
+    {
+      "id": "i11_dat#1",
+      "file": "i11_dat",
+      "record": 1,
+      "marker": "",
+      "source": "청동방패",
+      "translation": "BRONZE SHLD"
+    },
+    {
+      "id": "i11_dat#2",
+      "file": "i11_dat",
+      "record": 2,
+      "marker": "",
+      "source": "버클러",
+      "translation": "BUCKLER"
+    },
+    {
+      "id": "i11_dat#3",
+      "file": "i11_dat",
+      "record": 3,
+      "marker": "",
+      "source": "강철방패",
+      "translation": "STEEL SHLD"
+    },
+    {
+      "id": "i11_dat#4",
+      "file": "i11_dat",
+      "record": 4,
+      "marker": "",
+      "source": "라운드실드",
+      "translation": "ROUND SHLD"
+    },
+    {
+      "id": "i11_dat#5",
+      "file": "i11_dat",
+      "record": 5,
+      "marker": "",
+      "source": "흑철방패",
+      "translation": "BLACK IRON SHLD"
+    },
+    {
+      "id": "i11_dat#6",
+      "file": "i11_dat",
+      "record": 6,
+      "marker": "",
+      "source": "카이트실드",
+      "translation": "KITE SHLD"
+    },
+    {
+      "id": "i11_dat#7",
+      "file": "i11_dat",
+      "record": 7,
+      "marker": "",
+      "source": "프로텍터",
+      "translation": "PROTECTOR"
+    },
+    {
+      "id": "i11_dat#8",
+      "file": "i11_dat",
+      "record": 8,
+      "marker": "",
+      "source": "자이언트실드",
+      "translation": "GIANT SHLD"
+    },
+    {
+      "id": "i11_dat#9",
+      "file": "i11_dat",
+      "record": 9,
+      "marker": "",
+      "source": "엘븐프로텍터",
+      "translation": "ELVEN PROTECTOR"
+    },
+    {
+      "id": "i11_dat#10",
+      "file": "i11_dat",
+      "record": 10,
+      "marker": "",
+      "source": "히터실드",
+      "translation": "HEATER SHLD"
+    },
+    {
+      "id": "i11_dat#11",
+      "file": "i11_dat",
+      "record": 11,
+      "marker": "",
+      "source": "미스릴실드",
+      "translation": "MITHRIL SHLD"
+    },
+    {
+      "id": "i11_dat#12",
+      "file": "i11_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "본프로텍터",
+      "translation": "BONE PROTECTOR"
+    },
+    {
+      "id": "i11_dat#13",
+      "file": "i11_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "임팩트실드",
+      "translation": "IMPACT SHLD"
+    },
+    {
+      "id": "i11_dat#14",
+      "file": "i11_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "언브레이커블",
+      "translation": "UNBREAKABLE"
+    },
+    {
+      "id": "i11_dat#15",
+      "file": "i11_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "아크프로텍터",
+      "translation": "ARC PROTECTOR"
+    },
+    {
+      "id": "i11_dat#16",
+      "file": "i11_dat",
+      "record": 16,
+      "marker": "$",
+      "source": "아레스실드",
+      "translation": "ARES SHLD"
+    },
+    {
+      "id": "i11_dat#17",
+      "file": "i11_dat",
+      "record": 17,
+      "marker": "$",
+      "source": "아에기스",
+      "translation": "AEGIS"
+    },
+    {
+      "id": "i11_dat#18",
+      "file": "i11_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "다크웜실드",
+      "translation": "DARK WORM SHLD"
+    },
+    {
+      "id": "i11_dat#19",
+      "file": "i11_dat",
+      "record": 19,
+      "marker": "{",
+      "source": "홀리프로텍터",
+      "translation": "HOLY PROTECTOR"
+    },
+    {
+      "id": "i11_dat#20",
+      "file": "i11_dat",
+      "record": 20,
+      "marker": "",
+      "source": "@디멘션월",
+      "translation": "@DIMENSION WALL"
+    },
+    {
+      "id": "i11_dat#21",
+      "file": "i11_dat",
+      "record": 21,
+      "marker": "}",
+      "source": "공허의방패",
+      "translation": "VOID SHLD"
+    },
+    {
+      "id": "i11_dat#22",
+      "file": "i11_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "로만실드",
+      "translation": "ROMAN SHLD"
+    },
+    {
+      "id": "i11_dat#23",
+      "file": "i11_dat",
+      "record": 23,
+      "marker": "{",
+      "source": "카이져실드",
+      "translation": "KAISER SHLD"
+    },
+    {
+      "id": "i11_dat#24",
+      "file": "i11_dat",
+      "record": 24,
+      "marker": "",
+      "source": "@샤이닝실드",
+      "translation": "@SHINING SHLD"
+    },
+    {
+      "id": "i11_dat#25",
+      "file": "i11_dat",
+      "record": 25,
+      "marker": "",
+      "source": "@디멘션월",
+      "translation": "@DIMENSION WALL"
+    },
+    {
+      "id": "i11_dat#26",
+      "file": "i11_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "리버쉴드",
+      "translation": "RIVER SHLD"
+    },
+    {
+      "id": "i12_dat#0",
+      "file": "i12_dat",
+      "record": 0,
+      "marker": "",
+      "source": "근성의반지",
+      "translation": "RING OF GUTS"
+    },
+    {
+      "id": "i12_dat#1",
+      "file": "i12_dat",
+      "record": 1,
+      "marker": "",
+      "source": "회복의반지",
+      "translation": "RING OF RECOVERY"
+    },
+    {
+      "id": "i12_dat#2",
+      "file": "i12_dat",
+      "record": 2,
+      "marker": "",
+      "source": "맹공의반지",
+      "translation": "RING OF ONSLAUGHT"
+    },
+    {
+      "id": "i12_dat#3",
+      "file": "i12_dat",
+      "record": 3,
+      "marker": "",
+      "source": "힘의반지",
+      "translation": "RING OF STRENGTH"
+    },
+    {
+      "id": "i12_dat#4",
+      "file": "i12_dat",
+      "record": 4,
+      "marker": "",
+      "source": "체력의반지",
+      "translation": "RING OF STAMINA"
+    },
+    {
+      "id": "i12_dat#5",
+      "file": "i12_dat",
+      "record": 5,
+      "marker": "",
+      "source": "정신의반지",
+      "translation": "RING OF SPIRIT"
+    },
+    {
+      "id": "i12_dat#6",
+      "file": "i12_dat",
+      "record": 6,
+      "marker": "",
+      "source": "민첩의반지",
+      "translation": "RING OF AGILITY"
+    },
+    {
+      "id": "i12_dat#7",
+      "file": "i12_dat",
+      "record": 7,
+      "marker": "",
+      "source": "총명의반지",
+      "translation": "INTEL RING"
+    },
+    {
+      "id": "i12_dat#8",
+      "file": "i12_dat",
+      "record": 8,
+      "marker": "",
+      "source": "지혜의반지",
+      "translation": "RING OF WISDOM"
+    },
+    {
+      "id": "i12_dat#9",
+      "file": "i12_dat",
+      "record": 9,
+      "marker": "|",
+      "source": "고렘의인장",
+      "translation": "SEAL OF GOLEM"
+    },
+    {
+      "id": "i12_dat#10",
+      "file": "i12_dat",
+      "record": 10,
+      "marker": "|",
+      "source": "데몬의뿔",
+      "translation": "DEMONS HORN"
+    },
+    {
+      "id": "i12_dat#11",
+      "file": "i12_dat",
+      "record": 11,
+      "marker": "|",
+      "source": "콘돌의깃털",
+      "translation": "CONDORS FEATHER"
+    },
+    {
+      "id": "i12_dat#12",
+      "file": "i12_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "팬텀의부적",
+      "translation": "PHANTOMS AMULET"
+    },
+    {
+      "id": "i12_dat#13",
+      "file": "i12_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "기사의징표",
+      "translation": "KNIGHTS MARK"
+    },
+    {
+      "id": "i12_dat#14",
+      "file": "i12_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "독사의이빨",
+      "translation": "VIPERS TOOTH"
+    },
+    {
+      "id": "i12_dat#15",
+      "file": "i12_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "자칼의발톱",
+      "translation": "JACKALS CLAW"
+    },
+    {
+      "id": "i12_dat#16",
+      "file": "i12_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "공작의깃털",
+      "translation": "PEACOCK FEATHER"
+    },
+    {
+      "id": "i12_dat#17",
+      "file": "i12_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "오우거의사슬",
+      "translation": "OGRES CHAIN"
+    },
+    {
+      "id": "i12_dat#18",
+      "file": "i12_dat",
+      "record": 18,
+      "marker": "|",
+      "source": "스폰의사슬",
+      "translation": "SPAWNS CHAIN"
+    },
+    {
+      "id": "i12_dat#19",
+      "file": "i12_dat",
+      "record": 19,
+      "marker": "|",
+      "source": "샌드웜의비늘",
+      "translation": "SANDWORMS SCALE"
+    },
+    {
+      "id": "i12_dat#20",
+      "file": "i12_dat",
+      "record": 20,
+      "marker": "|",
+      "source": "히드라의비늘",
+      "translation": "HYDRAS SCALE"
+    },
+    {
+      "id": "i12_dat#21",
+      "file": "i12_dat",
+      "record": 21,
+      "marker": "$",
+      "source": "스트렝스이어링",
+      "translation": "STRENGTH EARRING"
+    },
+    {
+      "id": "i12_dat#22",
+      "file": "i12_dat",
+      "record": 22,
+      "marker": "$",
+      "source": "헤이스트이어링",
+      "translation": "HASTE EARRING"
+    },
+    {
+      "id": "i12_dat#23",
+      "file": "i12_dat",
+      "record": 23,
+      "marker": "$",
+      "source": "스트롱이어링",
+      "translation": "STRONG EARRING"
+    },
+    {
+      "id": "i12_dat#24",
+      "file": "i12_dat",
+      "record": 24,
+      "marker": "$",
+      "source": "컨센트이어링",
+      "translation": "CENTER EARRING"
+    },
+    {
+      "id": "i12_dat#25",
+      "file": "i12_dat",
+      "record": 25,
+      "marker": "$",
+      "source": "디펜스이어링",
+      "translation": "DEFENSE EARRING"
+    },
+    {
+      "id": "i12_dat#26",
+      "file": "i12_dat",
+      "record": 26,
+      "marker": "$",
+      "source": "배리어이어링",
+      "translation": "BARRIER EARRING"
+    },
+    {
+      "id": "i12_dat#27",
+      "file": "i12_dat",
+      "record": 27,
+      "marker": "$",
+      "source": "샤프니스이어링",
+      "translation": "SHARP EARRING"
+    },
+    {
+      "id": "i12_dat#28",
+      "file": "i12_dat",
+      "record": 28,
+      "marker": "$",
+      "source": "프로텍트이어링",
+      "translation": "PROT. EARRING"
+    },
+    {
+      "id": "i12_dat#29",
+      "file": "i12_dat",
+      "record": 29,
+      "marker": "$",
+      "source": "카오스이어링",
+      "translation": "CHAOS EARRING"
+    },
+    {
+      "id": "i12_dat#30",
+      "file": "i12_dat",
+      "record": 30,
+      "marker": "$",
+      "source": "스마트이어링",
+      "translation": "SMART EARRING"
+    },
+    {
+      "id": "i12_dat#31",
+      "file": "i12_dat",
+      "record": 31,
+      "marker": "$",
+      "source": "라이트이어링",
+      "translation": "LIGHT EARRING"
+    },
+    {
+      "id": "i12_dat#32",
+      "file": "i12_dat",
+      "record": 32,
+      "marker": "{",
+      "source": "시바스아뮬렛",
+      "translation": "CHIVAS AMULET"
+    },
+    {
+      "id": "i12_dat#33",
+      "file": "i12_dat",
+      "record": 33,
+      "marker": "{",
+      "source": "기간틱아뮬렛",
+      "translation": "GIGANTIC AMULET"
+    },
+    {
+      "id": "i12_dat#34",
+      "file": "i12_dat",
+      "record": 34,
+      "marker": "{",
+      "source": "카오스아뮬렛",
+      "translation": "CHAOS AMULET"
+    },
+    {
+      "id": "i12_dat#35",
+      "file": "i12_dat",
+      "record": 35,
+      "marker": "{",
+      "source": "세이드아뮬렛",
+      "translation": "SADE AMULET"
+    },
+    {
+      "id": "i12_dat#36",
+      "file": "i12_dat",
+      "record": 36,
+      "marker": "{",
+      "source": "알테닉아뮬렛",
+      "translation": "ALTHENIC AMULET"
+    },
+    {
+      "id": "i12_dat#37",
+      "file": "i12_dat",
+      "record": 37,
+      "marker": "",
+      "source": "@백발백중의혼",
+      "translation": "@PERFECT AIM SOUL"
+    },
+    {
+      "id": "i12_dat#38",
+      "file": "i12_dat",
+      "record": 38,
+      "marker": "",
+      "source": "@절대방어의혼",
+      "translation": "@ABS. DEF. SOUL"
+    },
+    {
+      "id": "i12_dat#39",
+      "file": "i12_dat",
+      "record": 39,
+      "marker": "",
+      "source": "@일격필살의혼",
+      "translation": "@DEADLY STRIKE"
+    },
+    {
+      "id": "i13_dat#0",
+      "file": "i13_dat",
+      "record": 0,
+      "marker": "",
+      "source": "자비의손길",
+      "translation": "HAND OF MERCY"
+    },
+    {
+      "id": "i13_dat#1",
+      "file": "i13_dat",
+      "record": 1,
+      "marker": "",
+      "source": "성스러운바람",
+      "translation": "HOLY WIND"
+    },
+    {
+      "id": "i13_dat#2",
+      "file": "i13_dat",
+      "record": 2,
+      "marker": "",
+      "source": "잠재의식",
+      "translation": "SUBCONSCIOUS"
+    },
+    {
+      "id": "i13_dat#3",
+      "file": "i13_dat",
+      "record": 3,
+      "marker": "",
+      "source": "영혼의동화",
+      "translation": "SOUL DOLL"
+    },
+    {
+      "id": "i13_dat#4",
+      "file": "i13_dat",
+      "record": 4,
+      "marker": "",
+      "source": "오우거의의지",
+      "translation": "WILL OF OGRE"
+    },
+    {
+      "id": "i13_dat#5",
+      "file": "i13_dat",
+      "record": 5,
+      "marker": "",
+      "source": "타오르는근성",
+      "translation": "BLAZING GUTS"
+    },
+    {
+      "id": "i13_dat#6",
+      "file": "i13_dat",
+      "record": 6,
+      "marker": "",
+      "source": "승리의염원",
+      "translation": "WISH FOR VICTORY"
+    },
+    {
+      "id": "i13_dat#7",
+      "file": "i13_dat",
+      "record": 7,
+      "marker": "",
+      "source": "끓어오르는피",
+      "translation": "BOILING BLOOD"
+    },
+    {
+      "id": "i13_dat#8",
+      "file": "i13_dat",
+      "record": 8,
+      "marker": "",
+      "source": "혼신의일격",
+      "translation": "MIGHTY STRIKE"
+    },
+    {
+      "id": "i13_dat#9",
+      "file": "i13_dat",
+      "record": 9,
+      "marker": "",
+      "source": "악마의속삼임",
+      "translation": "THE DEVILS TRICK"
+    },
+    {
+      "id": "i13_dat#10",
+      "file": "i13_dat",
+      "record": 10,
+      "marker": "",
+      "source": "어둠의계약",
+      "translation": "DARK CONTRACT"
+    },
+    {
+      "id": "i13_dat#11",
+      "file": "i13_dat",
+      "record": 11,
+      "marker": "",
+      "source": "철벽의가드",
+      "translation": "IRON WALL GUARD"
+    },
+    {
+      "id": "i13_dat#12",
+      "file": "i13_dat",
+      "record": 12,
+      "marker": "",
+      "source": "절대영도",
+      "translation": "ABSOLUTE ZERO"
+    },
+    {
+      "id": "i13_dat#13",
+      "file": "i13_dat",
+      "record": 13,
+      "marker": "",
+      "source": "오로라의장벽",
+      "translation": "AURORAS BARRIER"
+    },
+    {
+      "id": "i13_dat#14",
+      "file": "i13_dat",
+      "record": 14,
+      "marker": "",
+      "source": "영광의장벽",
+      "translation": "WALL OF GLORY"
+    },
+    {
+      "id": "i13_dat#15",
+      "file": "i13_dat",
+      "record": 15,
+      "marker": "",
+      "source": "사냥꾼의눈",
+      "translation": "HUNTERS EYE"
+    },
+    {
+      "id": "i13_dat#16",
+      "file": "i13_dat",
+      "record": 16,
+      "marker": "",
+      "source": "시간의지배자",
+      "translation": "LORD OF TIME"
+    },
+    {
+      "id": "i13_dat#17",
+      "file": "i13_dat",
+      "record": 17,
+      "marker": "",
+      "source": "질풍노도",
+      "translation": "GALE"
+    },
+    {
+      "id": "i13_dat#18",
+      "file": "i13_dat",
+      "record": 18,
+      "marker": "",
+      "source": "혼의외침",
+      "translation": "SOUL CRY"
+    },
+    {
+      "id": "i13_dat#19",
+      "file": "i13_dat",
+      "record": 19,
+      "marker": "",
+      "source": "망각의향",
+      "translation": "INTENT TO OBLIVION"
+    },
+    {
+      "id": "i13_dat#20",
+      "file": "i13_dat",
+      "record": 20,
+      "marker": "",
+      "source": "용자의가호",
+      "translation": "BRAVE GUARDIAN"
+    },
+    {
+      "id": "i13_dat#21",
+      "file": "i13_dat",
+      "record": 21,
+      "marker": "",
+      "source": "아레스의구름",
+      "translation": "CLOUD OF ARES"
+    },
+    {
+      "id": "i13_dat#22",
+      "file": "i13_dat",
+      "record": 22,
+      "marker": "",
+      "source": "사막의폭염",
+      "translation": "DESERT HEATWAVE"
+    },
+    {
+      "id": "i13_dat#23",
+      "file": "i13_dat",
+      "record": 23,
+      "marker": "",
+      "source": "머메이드의노래",
+      "translation": "MERMAIDS SONG"
+    },
+    {
+      "id": "i13_dat#24",
+      "file": "i13_dat",
+      "record": 24,
+      "marker": "",
+      "source": "결박하는대지",
+      "translation": "BINDING EARTH"
+    },
+    {
+      "id": "i13_dat#25",
+      "file": "i13_dat",
+      "record": 25,
+      "marker": "",
+      "source": "드래곤피어",
+      "translation": "DRAGON FEAR"
+    },
+    {
+      "id": "i13_dat#26",
+      "file": "i13_dat",
+      "record": 26,
+      "marker": "",
+      "source": "(아래부터)",
+      "translation": "(FROM THE BOTTOM)"
+    },
+    {
+      "id": "i13_dat#27",
+      "file": "i13_dat",
+      "record": 27,
+      "marker": "}",
+      "source": "피닉스의숨결C",
+      "translation": "PHOENIX BREATH C"
+    },
+    {
+      "id": "i13_dat#28",
+      "file": "i13_dat",
+      "record": 28,
+      "marker": "}",
+      "source": "자비의바람C",
+      "translation": "WIND OF MERCY C"
+    },
+    {
+      "id": "i13_dat#29",
+      "file": "i13_dat",
+      "record": 29,
+      "marker": "}",
+      "source": "잠재된영혼C",
+      "translation": "LATENT SOUL C"
+    },
+    {
+      "id": "i13_dat#30",
+      "file": "i13_dat",
+      "record": 30,
+      "marker": "}",
+      "source": "악마의빙의C",
+      "translation": "DEMON POSSESS. C"
+    },
+    {
+      "id": "i13_dat#31",
+      "file": "i13_dat",
+      "record": 31,
+      "marker": "}",
+      "source": "죽음의계약C",
+      "translation": "DEATH CONTRACT C"
+    },
+    {
+      "id": "i13_dat#32",
+      "file": "i13_dat",
+      "record": 32,
+      "marker": "}",
+      "source": "사냥꾼의혼C",
+      "translation": "HUNTERS SOUL C"
+    },
+    {
+      "id": "i13_dat#33",
+      "file": "i13_dat",
+      "record": 33,
+      "marker": "}",
+      "source": "시간의사신C",
+      "translation": "TIME REAPER C"
+    },
+    {
+      "id": "i13_dat#34",
+      "file": "i13_dat",
+      "record": 34,
+      "marker": "}",
+      "source": "성령의가호C",
+      "translation": "HOLY SPIRIT C"
+    },
+    {
+      "id": "i14_dat#0",
+      "file": "i14_dat",
+      "record": 0,
+      "marker": "",
+      "source": "붉은용액",
+      "translation": "RED SOLUTION"
+    },
+    {
+      "id": "i14_dat#1",
+      "file": "i14_dat",
+      "record": 1,
+      "marker": "",
+      "source": "푸른용액",
+      "translation": "BLUE SOLUTION"
+    },
+    {
+      "id": "i14_dat#2",
+      "file": "i14_dat",
+      "record": 2,
+      "marker": "",
+      "source": "투명용액",
+      "translation": "CLEAR SOLUTION"
+    },
+    {
+      "id": "i14_dat#3",
+      "file": "i14_dat",
+      "record": 3,
+      "marker": "",
+      "source": "제련석",
+      "translation": "SMELTING STONE"
+    },
+    {
+      "id": "i14_dat#4",
+      "file": "i14_dat",
+      "record": 4,
+      "marker": "",
+      "source": "연마가루",
+      "translation": "POLISHING POWDER"
+    },
+    {
+      "id": "i14_dat#5",
+      "file": "i14_dat",
+      "record": 5,
+      "marker": "",
+      "source": "정령석",
+      "translation": "SPIRIT STONE"
+    },
+    {
+      "id": "i14_dat#6",
+      "file": "i14_dat",
+      "record": 6,
+      "marker": "",
+      "source": "탄성제",
+      "translation": "ELASTICIZER"
+    },
+    {
+      "id": "i14_dat#7",
+      "file": "i14_dat",
+      "record": 7,
+      "marker": "",
+      "source": "강화제",
+      "translation": "REINFORCER"
+    },
+    {
+      "id": "i14_dat#8",
+      "file": "i14_dat",
+      "record": 8,
+      "marker": "",
+      "source": "질긴섬유",
+      "translation": "TOUGH FIBER"
+    },
+    {
+      "id": "i14_dat#9",
+      "file": "i14_dat",
+      "record": 9,
+      "marker": "",
+      "source": "바람피리",
+      "translation": "WIND FLUTE"
+    },
+    {
+      "id": "i14_dat#10",
+      "file": "i14_dat",
+      "record": 10,
+      "marker": "",
+      "source": "만년설",
+      "translation": "ICE CAP"
+    },
+    {
+      "id": "i14_dat#11",
+      "file": "i14_dat",
+      "record": 11,
+      "marker": "",
+      "source": "혈목",
+      "translation": "BLOODWOOD"
+    },
+    {
+      "id": "i14_dat#12",
+      "file": "i14_dat",
+      "record": 12,
+      "marker": "",
+      "source": "흑암석",
+      "translation": "BLACKSTONE"
+    },
+    {
+      "id": "i14_dat#13",
+      "file": "i14_dat",
+      "record": 13,
+      "marker": "",
+      "source": "뼛조각",
+      "translation": "BONE FRAGMENT"
+    },
+    {
+      "id": "i14_dat#14",
+      "file": "i14_dat",
+      "record": 14,
+      "marker": "",
+      "source": "잔나뭇가지",
+      "translation": "TWIG"
+    },
+    {
+      "id": "i14_dat#15",
+      "file": "i14_dat",
+      "record": 15,
+      "marker": "",
+      "source": "홀리파우더",
+      "translation": "HOLY POWDER"
+    },
+    {
+      "id": "i14_dat#16",
+      "file": "i14_dat",
+      "record": 16,
+      "marker": "",
+      "source": "쥐가죽",
+      "translation": "RAT LTHR"
+    },
+    {
+      "id": "i14_dat#17",
+      "file": "i14_dat",
+      "record": 17,
+      "marker": "",
+      "source": "그을린가죽",
+      "translation": "CHARRED LTHR"
+    },
+    {
+      "id": "i14_dat#18",
+      "file": "i14_dat",
+      "record": 18,
+      "marker": "",
+      "source": "분홍잔털",
+      "translation": "PINK FLUFF"
+    },
+    {
+      "id": "i14_dat#19",
+      "file": "i14_dat",
+      "record": 19,
+      "marker": "",
+      "source": "쥐발톱",
+      "translation": "RAT CLAW"
+    },
+    {
+      "id": "i14_dat#20",
+      "file": "i14_dat",
+      "record": 20,
+      "marker": "",
+      "source": "박쥐의날개",
+      "translation": "BATS WINGS"
+    },
+    {
+      "id": "i14_dat#21",
+      "file": "i14_dat",
+      "record": 21,
+      "marker": "",
+      "source": "라이칸의이빨",
+      "translation": "LYCANS TOOTH"
+    },
+    {
+      "id": "i14_dat#22",
+      "file": "i14_dat",
+      "record": 22,
+      "marker": "",
+      "source": "솔티안의 문장",
+      "translation": "SOLTIANS EMBLEM"
+    },
+    {
+      "id": "i14_dat#23",
+      "file": "i14_dat",
+      "record": 23,
+      "marker": "",
+      "source": "데몬의뿔",
+      "translation": "DEMONS HORN"
+    },
+    {
+      "id": "i14_dat#24",
+      "file": "i14_dat",
+      "record": 24,
+      "marker": "",
+      "source": "코르버스의문장",
+      "translation": "CORVUS CREST"
+    },
+    {
+      "id": "i14_dat#25",
+      "file": "i14_dat",
+      "record": 25,
+      "marker": "",
+      "source": "라이칸의칼날",
+      "translation": "LYCANS BLADE"
+    },
+    {
+      "id": "i14_dat#26",
+      "file": "i14_dat",
+      "record": 26,
+      "marker": "",
+      "source": "라이트닝파우더",
+      "translation": "LIGHTNING POWDER"
+    },
+    {
+      "id": "i14_dat#27",
+      "file": "i14_dat",
+      "record": 27,
+      "marker": "",
+      "source": "에인션트하니",
+      "translation": "ANCIENT HONEY"
+    },
+    {
+      "id": "i14_dat#28",
+      "file": "i14_dat",
+      "record": 28,
+      "marker": "",
+      "source": "(아래부터)",
+      "translation": "(FROM THE BOTTOM)"
+    },
+    {
+      "id": "i14_dat#29",
+      "file": "i14_dat",
+      "record": 29,
+      "marker": "",
+      "source": "에스텔시아",
+      "translation": "ESTELSIA"
+    },
+    {
+      "id": "i14_dat#30",
+      "file": "i14_dat",
+      "record": 30,
+      "marker": "",
+      "source": "그리톤",
+      "translation": "GRITTON"
+    },
+    {
+      "id": "i14_dat#31",
+      "file": "i14_dat",
+      "record": 31,
+      "marker": "",
+      "source": "아르세네스",
+      "translation": "ARSENES"
+    },
+    {
+      "id": "i14_dat#32",
+      "file": "i14_dat",
+      "record": 32,
+      "marker": "",
+      "source": "데비그린",
+      "translation": "DEBBIE GREEN"
+    },
+    {
+      "id": "i14_dat#33",
+      "file": "i14_dat",
+      "record": 33,
+      "marker": "",
+      "source": "카메루시아",
+      "translation": "CAMERUSIA"
+    },
+    {
+      "id": "i14_dat#34",
+      "file": "i14_dat",
+      "record": 34,
+      "marker": "",
+      "source": "시르톤",
+      "translation": "SIRTON"
+    },
+    {
+      "id": "i14_dat#35",
+      "file": "i14_dat",
+      "record": 35,
+      "marker": "",
+      "source": "뮤제게네스",
+      "translation": "MUSEGENES"
+    },
+    {
+      "id": "i14_dat#36",
+      "file": "i14_dat",
+      "record": 36,
+      "marker": "",
+      "source": "오헨그린",
+      "translation": "OHENGREEN"
+    },
+    {
+      "id": "i14_dat#37",
+      "file": "i14_dat",
+      "record": 37,
+      "marker": "",
+      "source": "헤게네시아",
+      "translation": "HEGENESIA"
+    },
+    {
+      "id": "i14_dat#38",
+      "file": "i14_dat",
+      "record": 38,
+      "marker": "",
+      "source": "아케톤",
+      "translation": "AKETON"
+    },
+    {
+      "id": "i14_dat#39",
+      "file": "i14_dat",
+      "record": 39,
+      "marker": "",
+      "source": "바스테네스",
+      "translation": "BASTHENES"
+    },
+    {
+      "id": "i14_dat#40",
+      "file": "i14_dat",
+      "record": 40,
+      "marker": "",
+      "source": "큐브그린",
+      "translation": "CUBEGREEN"
+    },
+    {
+      "id": "i14_dat#41",
+      "file": "i14_dat",
+      "record": 41,
+      "marker": "",
+      "source": "아벨의문장",
+      "translation": "ABELS CREST"
+    },
+    {
+      "id": "i14_dat#42",
+      "file": "i14_dat",
+      "record": 42,
+      "marker": "",
+      "source": "시몬의문장",
+      "translation": "SIMONS CREST"
+    },
+    {
+      "id": "i14_dat#43",
+      "file": "i14_dat",
+      "record": 43,
+      "marker": "",
+      "source": "포프의문장",
+      "translation": "POPES CREST"
+    },
+    {
+      "id": "i14_dat#44",
+      "file": "i14_dat",
+      "record": 44,
+      "marker": "",
+      "source": "부폰의문장",
+      "translation": "BUFFONS CREST"
+    },
+    {
+      "id": "i14_dat#45",
+      "file": "i14_dat",
+      "record": 45,
+      "marker": "",
+      "source": "하피의문장",
+      "translation": "HARPYS CREST"
+    },
+    {
+      "id": "i16_dat#0",
+      "file": "i16_dat",
+      "record": 0,
+      "marker": "",
+      "source": "투신의",
+      "translation": "FIGHTING SPIRIT"
+    },
+    {
+      "id": "i16_dat#1",
+      "file": "i16_dat",
+      "record": 1,
+      "marker": "",
+      "source": "공명의",
+      "translation": "RESONANT"
+    },
+    {
+      "id": "i16_dat#2",
+      "file": "i16_dat",
+      "record": 2,
+      "marker": "",
+      "source": "뇌제의",
+      "translation": "CEREBRATION"
+    },
+    {
+      "id": "i16_dat#3",
+      "file": "i16_dat",
+      "record": 3,
+      "marker": "",
+      "source": "금강의",
+      "translation": "ADAMANT"
+    },
+    {
+      "id": "i16_dat#4",
+      "file": "i16_dat",
+      "record": 4,
+      "marker": "",
+      "source": "정령의",
+      "translation": "SPIRIT"
+    },
+    {
+      "id": "i16_dat#5",
+      "file": "i16_dat",
+      "record": 5,
+      "marker": "",
+      "source": "사신의",
+      "translation": "REAPERS"
+    },
+    {
+      "id": "i16_dat#6",
+      "file": "i16_dat",
+      "record": 6,
+      "marker": "",
+      "source": "영제의",
+      "translation": "BRITISH EMPEROR"
+    },
+    {
+      "id": "i16_dat#7",
+      "file": "i16_dat",
+      "record": 7,
+      "marker": "",
+      "source": "철벽의",
+      "translation": "IRON WALL"
+    },
+    {
+      "id": "i16_dat#8",
+      "file": "i16_dat",
+      "record": 8,
+      "marker": "",
+      "source": "속박의",
+      "translation": "OF BONDAGE"
+    },
+    {
+      "id": "i16_dat#9",
+      "file": "i16_dat",
+      "record": 9,
+      "marker": "",
+      "source": "결의의",
+      "translation": "DETERMINATION"
+    },
+    {
+      "id": "i16_dat#10",
+      "file": "i16_dat",
+      "record": 10,
+      "marker": "",
+      "source": "현자의",
+      "translation": "WISE MAN"
+    },
+    {
+      "id": "i16_dat#11",
+      "file": "i16_dat",
+      "record": 11,
+      "marker": "",
+      "source": "마도의",
+      "translation": "OF MAGIC"
+    },
+    {
+      "id": "i16_dat#12",
+      "file": "i16_dat",
+      "record": 12,
+      "marker": "",
+      "source": "흡혈의",
+      "translation": "VAMPIRIC"
+    },
+    {
+      "id": "i16_dat#13",
+      "file": "i16_dat",
+      "record": 13,
+      "marker": "",
+      "source": "폭풍의",
+      "translation": "STORM"
+    },
+    {
+      "id": "i16_dat#14",
+      "file": "i16_dat",
+      "record": 14,
+      "marker": "",
+      "source": "직격의",
+      "translation": "OF THE STORM"
+    },
+    {
+      "id": "i16_dat#15",
+      "file": "i16_dat",
+      "record": 15,
+      "marker": "",
+      "source": "소켓확장",
+      "translation": "SOCKET EXPANSION"
+    },
+    {
+      "id": "i17_dat#0",
+      "file": "i17_dat",
+      "record": 0,
+      "marker": "",
+      "source": "시그널펜던트A",
+      "translation": "SIGNAL PENDANT A"
+    },
+    {
+      "id": "i17_dat#1",
+      "file": "i17_dat",
+      "record": 1,
+      "marker": "",
+      "source": "시그널펜던트B",
+      "translation": "SIGNAL PENDANT B"
+    },
+    {
+      "id": "i17_dat#2",
+      "file": "i17_dat",
+      "record": 2,
+      "marker": "",
+      "source": "협곡의성수",
+      "translation": "CANYON HOLY WATER"
+    },
+    {
+      "id": "i17_dat#3",
+      "file": "i17_dat",
+      "record": 3,
+      "marker": "",
+      "source": "의문의보석",
+      "translation": "MYSTERIOUS JEWEL"
+    },
+    {
+      "id": "i17_dat#4",
+      "file": "i17_dat",
+      "record": 4,
+      "marker": "",
+      "source": "토레즈시민증",
+      "translation": "TOREZ ID CARD"
+    },
+    {
+      "id": "i17_dat#5",
+      "file": "i17_dat",
+      "record": 5,
+      "marker": "",
+      "source": "시크릿카드",
+      "translation": "SECRET CARD"
+    },
+    {
+      "id": "i17_dat#6",
+      "file": "i17_dat",
+      "record": 6,
+      "marker": "",
+      "source": "영혼석",
+      "translation": "SOUL STONE"
+    },
+    {
+      "id": "i17_dat#7",
+      "file": "i17_dat",
+      "record": 7,
+      "marker": "",
+      "source": "토레즈의서신",
+      "translation": "TOREZS LETTER"
+    },
+    {
+      "id": "i17_dat#8",
+      "file": "i17_dat",
+      "record": 8,
+      "marker": "",
+      "source": "오래된보석함",
+      "translation": "OLD JEWELRY BOX"
+    },
+    {
+      "id": "i17_dat#9",
+      "file": "i17_dat",
+      "record": 9,
+      "marker": "",
+      "source": "로얄윈터하츠",
+      "translation": "ROYAL HEART"
+    },
+    {
+      "id": "i17_dat#10",
+      "file": "i17_dat",
+      "record": 10,
+      "marker": "",
+      "source": "반토막난 지도",
+      "translation": "MAP CUT IN HALF"
+    },
+    {
+      "id": "i17_dat#11",
+      "file": "i17_dat",
+      "record": 11,
+      "marker": "",
+      "source": "레아의수련목록",
+      "translation": "LEAH TRAINING"
+    },
+    {
+      "id": "i17_dat#12",
+      "file": "i17_dat",
+      "record": 12,
+      "marker": "",
+      "source": "유리엽서",
+      "translation": "GLASS POSTCARD"
+    },
+    {
+      "id": "i17_dat#13",
+      "file": "i17_dat",
+      "record": 13,
+      "marker": "",
+      "source": "유리방패",
+      "translation": "GLASS SHLD"
+    },
+    {
+      "id": "i17_dat#14",
+      "file": "i17_dat",
+      "record": 14,
+      "marker": "",
+      "source": "굴베이그의완드",
+      "translation": "GULVEIGS WAND"
+    },
+    {
+      "id": "i17_dat#15",
+      "file": "i17_dat",
+      "record": 15,
+      "marker": "",
+      "source": "테너의유물",
+      "translation": "TENORS RELIC"
+    },
+    {
+      "id": "i17_dat#16",
+      "file": "i17_dat",
+      "record": 16,
+      "marker": "",
+      "source": "운디네의부적",
+      "translation": "UNDINES AMULET"
+    },
+    {
+      "id": "i17_dat#17",
+      "file": "i17_dat",
+      "record": 17,
+      "marker": "",
+      "source": "평화의문장",
+      "translation": "PEACE SEAL"
+    },
+    {
+      "id": "i17_dat#18",
+      "file": "i17_dat",
+      "record": 18,
+      "marker": "",
+      "source": "일레느의노트",
+      "translation": "IRENES NOTE"
+    },
+    {
+      "id": "i17_dat#19",
+      "file": "i17_dat",
+      "record": 19,
+      "marker": "",
+      "source": "총기부속",
+      "translation": "GUN PARTS"
+    },
+    {
+      "id": "i17_dat#20",
+      "file": "i17_dat",
+      "record": 20,
+      "marker": "",
+      "source": "영혼사슬",
+      "translation": "SOUL CHAIN"
+    },
+    {
+      "id": "i18_dat#0",
+      "file": "i18_dat",
+      "record": 0,
+      "marker": "",
+      "source": "포션",
+      "translation": "POTION"
+    },
+    {
+      "id": "i18_dat#1",
+      "file": "i18_dat",
+      "record": 1,
+      "marker": "",
+      "source": "하이포션",
+      "translation": "HI-POTION"
+    },
+    {
+      "id": "i18_dat#2",
+      "file": "i18_dat",
+      "record": 2,
+      "marker": "",
+      "source": "미라클포션",
+      "translation": "MIRACLE POTION"
+    },
+    {
+      "id": "i18_dat#3",
+      "file": "i18_dat",
+      "record": 3,
+      "marker": "",
+      "source": "엘릭서",
+      "translation": "ELIXIR"
+    },
+    {
+      "id": "i18_dat#4",
+      "file": "i18_dat",
+      "record": 4,
+      "marker": "",
+      "source": "과일쥬스",
+      "translation": "FRUIT JUICE"
+    },
+    {
+      "id": "i18_dat#5",
+      "file": "i18_dat",
+      "record": 5,
+      "marker": "",
+      "source": "포도주",
+      "translation": "WINE"
+    },
+    {
+      "id": "i18_dat#6",
+      "file": "i18_dat",
+      "record": 6,
+      "marker": "",
+      "source": "요정수",
+      "translation": "FAIRY WATER"
+    },
+    {
+      "id": "i18_dat#7",
+      "file": "i18_dat",
+      "record": 7,
+      "marker": "",
+      "source": "오브원석",
+      "translation": "ORB"
+    },
+    {
+      "id": "i18_dat#8",
+      "file": "i18_dat",
+      "record": 8,
+      "marker": "",
+      "source": "귀환서",
+      "translation": "RETURN"
+    },
+    {
+      "id": "i18_dat#9",
+      "file": "i18_dat",
+      "record": 9,
+      "marker": "",
+      "source": "그리폰의피리",
+      "translation": "GRYPHONS FLUTE"
+    },
+    {
+      "id": "i18_dat#10",
+      "file": "i18_dat",
+      "record": 10,
+      "marker": "}",
+      "source": "비밀의상자",
+      "translation": "SECRET BOX"
+    },
+    {
+      "id": "i18_dat#11",
+      "file": "i18_dat",
+      "record": 11,
+      "marker": "}",
+      "source": "부활의서(싱글)",
+      "translation": "REVIVE BOOK (1X)"
+    },
+    {
+      "id": "i18_dat#12",
+      "file": "i18_dat",
+      "record": 12,
+      "marker": "}",
+      "source": "컵라면(싱글)",
+      "translation": "CUP RAMEN (1X)"
+    },
+    {
+      "id": "i18_dat#13",
+      "file": "i18_dat",
+      "record": 13,
+      "marker": "}",
+      "source": "오토루팅(싱글)",
+      "translation": "AUTO LOOT (1X)"
+    },
+    {
+      "id": "i18_dat#14",
+      "file": "i18_dat",
+      "record": 14,
+      "marker": "}",
+      "source": "여행가방(싱글)",
+      "translation": "TRAVEL BAG (1X)"
+    },
+    {
+      "id": "i18_dat#15",
+      "file": "i18_dat",
+      "record": 15,
+      "marker": "}",
+      "source": "스탯리셋(싱글)",
+      "translation": "STAT RESET (1X)"
+    },
+    {
+      "id": "i18_dat#16",
+      "file": "i18_dat",
+      "record": 16,
+      "marker": "}",
+      "source": "스킬리셋(싱글)",
+      "translation": "SKILL RESET (1X)"
+    },
+    {
+      "id": "i18_dat#17",
+      "file": "i18_dat",
+      "record": 17,
+      "marker": "}",
+      "source": "경험의비석",
+      "translation": "EXP STONE"
+    },
+    {
+      "id": "i18_dat#18",
+      "file": "i18_dat",
+      "record": 18,
+      "marker": "}",
+      "source": "경험의보주",
+      "translation": "ORB OF EXPERIENCE"
+    },
+    {
+      "id": "i18_dat#19",
+      "file": "i18_dat",
+      "record": 19,
+      "marker": "}",
+      "source": "창고열쇠",
+      "translation": "WAREHOUSE KEY"
+    },
+    {
+      "id": "i18_dat#20",
+      "file": "i18_dat",
+      "record": 20,
+      "marker": "}",
+      "source": "비밀의상자",
+      "translation": "SECRET CHEST"
+    },
+    {
+      "id": "i18_dat#21",
+      "file": "i18_dat",
+      "record": 21,
+      "marker": "}",
+      "source": "천상의 영약",
+      "translation": "ELIXIR OF HEAVEN"
+    },
+    {
+      "id": "i18_dat#22",
+      "file": "i18_dat",
+      "record": 22,
+      "marker": "}",
+      "source": "배신의문장",
+      "translation": "BETRAYAL EMBLEM"
+    },
+    {
+      "id": "i18_dat#23",
+      "file": "i18_dat",
+      "record": 23,
+      "marker": "}",
+      "source": "명예의문장",
+      "translation": "EMBLEM OF HONOR"
+    },
+    {
+      "id": "i18_dat#24",
+      "file": "i18_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "초월의문장",
+      "translation": "TRANSCEND. CREST"
+    },
+    {
+      "id": "i18_dat#25",
+      "file": "i18_dat",
+      "record": 25,
+      "marker": "}",
+      "source": "오브상자",
+      "translation": "ORB BOX"
+    },
+    {
+      "id": "i18_dat#26",
+      "file": "i18_dat",
+      "record": 26,
+      "marker": "}",
+      "source": "소켓확장",
+      "translation": "SOCKET EXPANSION"
+    },
+    {
+      "id": "i1_dat#0",
+      "file": "i1_dat",
+      "record": 0,
+      "marker": "",
+      "source": "가죽옷",
+      "translation": "LTHR CLOTHES"
+    },
+    {
+      "id": "i1_dat#1",
+      "file": "i1_dat",
+      "record": 1,
+      "marker": "",
+      "source": "가죽보호대",
+      "translation": "LTHR PROTECTOR"
+    },
+    {
+      "id": "i1_dat#2",
+      "file": "i1_dat",
+      "record": 2,
+      "marker": "",
+      "source": "가죽로브",
+      "translation": "LTHR ROBE"
+    },
+    {
+      "id": "i1_dat#3",
+      "file": "i1_dat",
+      "record": 3,
+      "marker": "",
+      "source": "가죽갑옷",
+      "translation": "LTHR ARMR"
+    },
+    {
+      "id": "i1_dat#4",
+      "file": "i1_dat",
+      "record": 4,
+      "marker": "",
+      "source": "강화가죽로브",
+      "translation": "REINF. LTHR. ROBE"
+    },
+    {
+      "id": "i1_dat#5",
+      "file": "i1_dat",
+      "record": 5,
+      "marker": "",
+      "source": "패딩아머",
+      "translation": "PADDING ARMR"
+    },
+    {
+      "id": "i1_dat#6",
+      "file": "i1_dat",
+      "record": 6,
+      "marker": "",
+      "source": "아머드코트",
+      "translation": "ARMORED COAT"
+    },
+    {
+      "id": "i1_dat#7",
+      "file": "i1_dat",
+      "record": 7,
+      "marker": "",
+      "source": "청동갑옷",
+      "translation": "BRONZE ARMR"
+    },
+    {
+      "id": "i1_dat#8",
+      "file": "i1_dat",
+      "record": 8,
+      "marker": "",
+      "source": "컴뱃슈트",
+      "translation": "COMBAT SUIT"
+    },
+    {
+      "id": "i1_dat#9",
+      "file": "i1_dat",
+      "record": 9,
+      "marker": "",
+      "source": "강철갑옷",
+      "translation": "STEEL ARMR"
+    },
+    {
+      "id": "i1_dat#10",
+      "file": "i1_dat",
+      "record": 10,
+      "marker": "",
+      "source": "체인아머",
+      "translation": "CHAIN ARMR"
+    },
+    {
+      "id": "i1_dat#11",
+      "file": "i1_dat",
+      "record": 11,
+      "marker": "",
+      "source": "미스릴아머",
+      "translation": "MITHRIL ARMR"
+    },
+    {
+      "id": "i1_dat#12",
+      "file": "i1_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "브리간딘",
+      "translation": "BRIGANDINE"
+    },
+    {
+      "id": "i1_dat#13",
+      "file": "i1_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "자칼슈트",
+      "translation": "JACKAL SUIT"
+    },
+    {
+      "id": "i1_dat#14",
+      "file": "i1_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "얼음비늘흉갑",
+      "translation": "ICE SCALE ARMR"
+    },
+    {
+      "id": "i1_dat#15",
+      "file": "i1_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "밴디드메일",
+      "translation": "BANDED MAIL"
+    },
+    {
+      "id": "i1_dat#16",
+      "file": "i1_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "다크코트",
+      "translation": "DARK COAT"
+    },
+    {
+      "id": "i1_dat#17",
+      "file": "i1_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "강철흉갑",
+      "translation": "STEEL BREASTPLATE"
+    },
+    {
+      "id": "i1_dat#18",
+      "file": "i1_dat",
+      "record": 18,
+      "marker": "|",
+      "source": "배리어자켓",
+      "translation": "BARRIER JACKET"
+    },
+    {
+      "id": "i1_dat#19",
+      "file": "i1_dat",
+      "record": 19,
+      "marker": "|",
+      "source": "미스릴아머",
+      "translation": "MITHRIL ARMR"
+    },
+    {
+      "id": "i1_dat#20",
+      "file": "i1_dat",
+      "record": 20,
+      "marker": "|",
+      "source": "골렘스킨아머",
+      "translation": "GOLEM SKIN ARMR"
+    },
+    {
+      "id": "i1_dat#21",
+      "file": "i1_dat",
+      "record": 21,
+      "marker": "|",
+      "source": "라이트닝로브",
+      "translation": "LIGHTNING ROBE"
+    },
+    {
+      "id": "i1_dat#22",
+      "file": "i1_dat",
+      "record": 22,
+      "marker": "|",
+      "source": "엔시언트메일",
+      "translation": "ANCIENT MAIL"
+    },
+    {
+      "id": "i1_dat#23",
+      "file": "i1_dat",
+      "record": 23,
+      "marker": "",
+      "source": "'오르도슈트",
+      "translation": "'ORDO SUIT"
+    },
+    {
+      "id": "i1_dat#24",
+      "file": "i1_dat",
+      "record": 24,
+      "marker": "",
+      "source": "'붉은사자흉갑",
+      "translation": "'RED LION ARMR"
+    },
+    {
+      "id": "i1_dat#25",
+      "file": "i1_dat",
+      "record": 25,
+      "marker": "",
+      "source": "'드래곤본아머",
+      "translation": "'DRAGON BONE ARMR"
+    },
+    {
+      "id": "i1_dat#26",
+      "file": "i1_dat",
+      "record": 26,
+      "marker": "",
+      "source": "'카오스슈트",
+      "translation": "'CHAOS SUIT"
+    },
+    {
+      "id": "i1_dat#27",
+      "file": "i1_dat",
+      "record": 27,
+      "marker": "",
+      "source": "'명왕흉갑",
+      "translation": "'NIGHT KING ARMR"
+    },
+    {
+      "id": "i1_dat#28",
+      "file": "i1_dat",
+      "record": 28,
+      "marker": "$",
+      "source": "데스자칼슈트",
+      "translation": "DEATH JACKAL SUIT"
+    },
+    {
+      "id": "i1_dat#29",
+      "file": "i1_dat",
+      "record": 29,
+      "marker": "$",
+      "source": "알클레인아머",
+      "translation": "ARCLAIN ARMR"
+    },
+    {
+      "id": "i1_dat#30",
+      "file": "i1_dat",
+      "record": 30,
+      "marker": "$",
+      "source": "미스릴메일",
+      "translation": "MITHRIL MAIL"
+    },
+    {
+      "id": "i1_dat#31",
+      "file": "i1_dat",
+      "record": 31,
+      "marker": "$",
+      "source": "세라핌코트",
+      "translation": "SERAPHIM COAT"
+    },
+    {
+      "id": "i1_dat#32",
+      "file": "i1_dat",
+      "record": 32,
+      "marker": "$",
+      "source": "데빌아머",
+      "translation": "DEVIL ARMR"
+    },
+    {
+      "id": "i1_dat#33",
+      "file": "i1_dat",
+      "record": 33,
+      "marker": "{",
+      "source": "버서커흉갑",
+      "translation": "BERSERKER ARMR"
+    },
+    {
+      "id": "i1_dat#34",
+      "file": "i1_dat",
+      "record": 34,
+      "marker": "{",
+      "source": "데스락아머",
+      "translation": "DEATHROCK ARMR"
+    },
+    {
+      "id": "i1_dat#35",
+      "file": "i1_dat",
+      "record": 35,
+      "marker": "{",
+      "source": "글로리안코트",
+      "translation": "GLORIAN COAT"
+    },
+    {
+      "id": "i1_dat#36",
+      "file": "i1_dat",
+      "record": 36,
+      "marker": "{",
+      "source": "스폰아머",
+      "translation": "SPAWN ARMR"
+    },
+    {
+      "id": "i1_dat#37",
+      "file": "i1_dat",
+      "record": 37,
+      "marker": "{",
+      "source": "섀도우슈트",
+      "translation": "SHADOW SUIT"
+    },
+    {
+      "id": "i1_dat#38",
+      "file": "i1_dat",
+      "record": 38,
+      "marker": "",
+      "source": "@팬텀윙슈트",
+      "translation": "@PHANTOM WINGSUIT"
+    },
+    {
+      "id": "i1_dat#39",
+      "file": "i1_dat",
+      "record": 39,
+      "marker": "",
+      "source": "@홀리윈드로브",
+      "translation": "@HOLY WIND ROBE"
+    },
+    {
+      "id": "i1_dat#40",
+      "file": "i1_dat",
+      "record": 40,
+      "marker": "}",
+      "source": "공허의갑옷",
+      "translation": "VOID ARMR"
+    },
+    {
+      "id": "i1_dat#41",
+      "file": "i1_dat",
+      "record": 41,
+      "marker": "{",
+      "source": "소울차지",
+      "translation": "SOUL CHARGE"
+    },
+    {
+      "id": "i1_dat#42",
+      "file": "i1_dat",
+      "record": 42,
+      "marker": "{",
+      "source": "카메론슈트",
+      "translation": "CAMERON SUIT"
+    },
+    {
+      "id": "i1_dat#43",
+      "file": "i1_dat",
+      "record": 43,
+      "marker": "{",
+      "source": "터미네스아머",
+      "translation": "TERMINETH ARMR"
+    },
+    {
+      "id": "i1_dat#44",
+      "file": "i1_dat",
+      "record": 44,
+      "marker": "{",
+      "source": "썬샤인슈트",
+      "translation": "SUNSHINE SUIT"
+    },
+    {
+      "id": "i1_dat#45",
+      "file": "i1_dat",
+      "record": 45,
+      "marker": "{",
+      "source": "얼티밋아머",
+      "translation": "ULTIMATE ARMR"
+    },
+    {
+      "id": "i1_dat#46",
+      "file": "i1_dat",
+      "record": 46,
+      "marker": "{",
+      "source": "사일런스메일",
+      "translation": "SILENCE MAIL"
+    },
+    {
+      "id": "i1_dat#47",
+      "file": "i1_dat",
+      "record": 47,
+      "marker": "",
+      "source": "@버서커흉갑",
+      "translation": "@BERSERKER ARMR"
+    },
+    {
+      "id": "i1_dat#48",
+      "file": "i1_dat",
+      "record": 48,
+      "marker": "",
+      "source": "@데스락아머",
+      "translation": "@DEATH ROCK ARMR"
+    },
+    {
+      "id": "i1_dat#49",
+      "file": "i1_dat",
+      "record": 49,
+      "marker": "",
+      "source": "@글로리안코트",
+      "translation": "@GLORIAN COURT"
+    },
+    {
+      "id": "i1_dat#50",
+      "file": "i1_dat",
+      "record": 50,
+      "marker": "",
+      "source": "@스폰아머",
+      "translation": "@SPAWN ARMR"
+    },
+    {
+      "id": "i1_dat#51",
+      "file": "i1_dat",
+      "record": 51,
+      "marker": "",
+      "source": "@섀도우슈트",
+      "translation": "@SHADOW SUIT"
+    },
+    {
+      "id": "i1_dat#52",
+      "file": "i1_dat",
+      "record": 52,
+      "marker": "",
+      "source": "@팬텀윙슈트",
+      "translation": "@PHANTOM WINGSUIT"
+    },
+    {
+      "id": "i1_dat#53",
+      "file": "i1_dat",
+      "record": 53,
+      "marker": "",
+      "source": "@홀리윈드로브",
+      "translation": "@HOLY WINDROBE"
+    },
+    {
+      "id": "i2_dat#0",
+      "file": "i2_dat",
+      "record": 0,
+      "marker": "",
+      "source": "손목보호대",
+      "translation": "WRIST GUARD"
+    },
+    {
+      "id": "i2_dat#1",
+      "file": "i2_dat",
+      "record": 1,
+      "marker": "",
+      "source": "가죽장갑",
+      "translation": "LTHR GLOVES"
+    },
+    {
+      "id": "i2_dat#2",
+      "file": "i2_dat",
+      "record": 2,
+      "marker": "",
+      "source": "글러브",
+      "translation": "GLOVES"
+    },
+    {
+      "id": "i2_dat#3",
+      "file": "i2_dat",
+      "record": 3,
+      "marker": "",
+      "source": "강화가죽장갑",
+      "translation": "REINF GLOVES"
+    },
+    {
+      "id": "i2_dat#4",
+      "file": "i2_dat",
+      "record": 4,
+      "marker": "",
+      "source": "강화글러브",
+      "translation": "REINF GLOVES"
+    },
+    {
+      "id": "i2_dat#5",
+      "file": "i2_dat",
+      "record": 5,
+      "marker": "",
+      "source": "가죽건틀릿",
+      "translation": "LTHR GAUNT"
+    },
+    {
+      "id": "i2_dat#6",
+      "file": "i2_dat",
+      "record": 6,
+      "marker": "",
+      "source": "표범가죽장갑",
+      "translation": "LEOPARD GLOVES"
+    },
+    {
+      "id": "i2_dat#7",
+      "file": "i2_dat",
+      "record": 7,
+      "marker": "",
+      "source": "사슬장갑",
+      "translation": "CHAIN GLOVES"
+    },
+    {
+      "id": "i2_dat#8",
+      "file": "i2_dat",
+      "record": 8,
+      "marker": "",
+      "source": "강철글러브",
+      "translation": "STEEL GLOVES"
+    },
+    {
+      "id": "i2_dat#9",
+      "file": "i2_dat",
+      "record": 9,
+      "marker": "",
+      "source": "밴디드건틀릿",
+      "translation": "BANDED GAUNT"
+    },
+    {
+      "id": "i2_dat#10",
+      "file": "i2_dat",
+      "record": 10,
+      "marker": "",
+      "source": "체인건틀릿",
+      "translation": "CHAIN GAUNT"
+    },
+    {
+      "id": "i2_dat#11",
+      "file": "i2_dat",
+      "record": 11,
+      "marker": "",
+      "source": "미스릴건틀릿",
+      "translation": "MITHRIL GAUNT"
+    },
+    {
+      "id": "i2_dat#12",
+      "file": "i2_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "얼음비늘장갑",
+      "translation": "ICE SCALE GLOVES"
+    },
+    {
+      "id": "i2_dat#13",
+      "file": "i2_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "나이트건틀릿",
+      "translation": "KNIGHT GAUNT"
+    },
+    {
+      "id": "i2_dat#14",
+      "file": "i2_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "데몬글러브",
+      "translation": "DEMON GLOVES"
+    },
+    {
+      "id": "i2_dat#15",
+      "file": "i2_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "레인보우장갑",
+      "translation": "RAINBOW GLOVES"
+    },
+    {
+      "id": "i2_dat#16",
+      "file": "i2_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "실버건틀릿",
+      "translation": "SILVER GAUNT"
+    },
+    {
+      "id": "i2_dat#17",
+      "file": "i2_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "바람늑대장갑",
+      "translation": "WIND WOLF GLOVES"
+    },
+    {
+      "id": "i2_dat#18",
+      "file": "i2_dat",
+      "record": 18,
+      "marker": "|",
+      "source": "신전기사장갑",
+      "translation": "TEMPLE GLOVES"
+    },
+    {
+      "id": "i2_dat#19",
+      "file": "i2_dat",
+      "record": 19,
+      "marker": "|",
+      "source": "테러건틀릿",
+      "translation": "TERROR GAUNT"
+    },
+    {
+      "id": "i2_dat#20",
+      "file": "i2_dat",
+      "record": 20,
+      "marker": "|",
+      "source": "엔시언트핸드",
+      "translation": "ANCIENT HAND"
+    },
+    {
+      "id": "i2_dat#21",
+      "file": "i2_dat",
+      "record": 21,
+      "marker": "|",
+      "source": "비스트건틀릿",
+      "translation": "BEAST GAUNT"
+    },
+    {
+      "id": "i2_dat#22",
+      "file": "i2_dat",
+      "record": 22,
+      "marker": "",
+      "source": "'오르도건틀릿",
+      "translation": "'ORDO GAUNT"
+    },
+    {
+      "id": "i2_dat#23",
+      "file": "i2_dat",
+      "record": 23,
+      "marker": "",
+      "source": "'붉은사자장갑",
+      "translation": "'RED LION GLOVES"
+    },
+    {
+      "id": "i2_dat#24",
+      "file": "i2_dat",
+      "record": 24,
+      "marker": "",
+      "source": "'드래곤본핸드",
+      "translation": "'DRAGON BONE HAND"
+    },
+    {
+      "id": "i2_dat#25",
+      "file": "i2_dat",
+      "record": 25,
+      "marker": "",
+      "source": "'카오스건틀릿",
+      "translation": "'CHAOS GAUNT"
+    },
+    {
+      "id": "i2_dat#26",
+      "file": "i2_dat",
+      "record": 26,
+      "marker": "",
+      "source": "'명왕수갑",
+      "translation": "'N.KING GAUNT"
+    },
+    {
+      "id": "i2_dat#27",
+      "file": "i2_dat",
+      "record": 27,
+      "marker": "$",
+      "source": "세라핌핸드",
+      "translation": "SERAPHIM HAND"
+    },
+    {
+      "id": "i2_dat#28",
+      "file": "i2_dat",
+      "record": 28,
+      "marker": "$",
+      "source": "로키글러브",
+      "translation": "LOKI GLOVE"
+    },
+    {
+      "id": "i2_dat#29",
+      "file": "i2_dat",
+      "record": 29,
+      "marker": "$",
+      "source": "오우거건틀릿",
+      "translation": "OGRE GAUNTLET"
+    },
+    {
+      "id": "i2_dat#30",
+      "file": "i2_dat",
+      "record": 30,
+      "marker": "$",
+      "source": "블러디크로우",
+      "translation": "BLOODY CROW"
+    },
+    {
+      "id": "i2_dat#31",
+      "file": "i2_dat",
+      "record": 31,
+      "marker": "{",
+      "source": "얼티밋건틀릿",
+      "translation": "ULTIMATE GAUNTLET"
+    },
+    {
+      "id": "i2_dat#32",
+      "file": "i2_dat",
+      "record": 32,
+      "marker": "{",
+      "source": "데스스나이퍼",
+      "translation": "DEATH SNIPER"
+    },
+    {
+      "id": "i2_dat#33",
+      "file": "i2_dat",
+      "record": 33,
+      "marker": "{",
+      "source": "샤이닝핸드",
+      "translation": "SHINING HAND"
+    },
+    {
+      "id": "i2_dat#34",
+      "file": "i2_dat",
+      "record": 34,
+      "marker": "",
+      "source": "@팬텀건틀릿",
+      "translation": "@PHANTOM GAUNTLET"
+    },
+    {
+      "id": "i2_dat#35",
+      "file": "i2_dat",
+      "record": 35,
+      "marker": "",
+      "source": "@홀리건틀릿",
+      "translation": "@HOLY GAUNTLET"
+    },
+    {
+      "id": "i2_dat#36",
+      "file": "i2_dat",
+      "record": 36,
+      "marker": "}",
+      "source": "공허의장갑",
+      "translation": "VOID GLOVES"
+    },
+    {
+      "id": "i2_dat#37",
+      "file": "i2_dat",
+      "record": 37,
+      "marker": "{",
+      "source": "사이오닉핸드",
+      "translation": "PSIONIC HAND"
+    },
+    {
+      "id": "i2_dat#38",
+      "file": "i2_dat",
+      "record": 38,
+      "marker": "{",
+      "source": "아이언암",
+      "translation": "IRON ARM"
+    },
+    {
+      "id": "i2_dat#39",
+      "file": "i2_dat",
+      "record": 39,
+      "marker": "{",
+      "source": "로지스건틀릿",
+      "translation": "ROSY GAUNTLET"
+    },
+    {
+      "id": "i2_dat#40",
+      "file": "i2_dat",
+      "record": 40,
+      "marker": "{",
+      "source": "오르도크로우",
+      "translation": "ORDOCROW"
+    },
+    {
+      "id": "i2_dat#41",
+      "file": "i2_dat",
+      "record": 41,
+      "marker": "{",
+      "source": "루나틱핸드",
+      "translation": "LUNATIC HAND"
+    },
+    {
+      "id": "i2_dat#42",
+      "file": "i2_dat",
+      "record": 42,
+      "marker": "{",
+      "source": "레논건틀릿",
+      "translation": "LENNON GAUNTLET"
+    },
+    {
+      "id": "i2_dat#43",
+      "file": "i2_dat",
+      "record": 43,
+      "marker": "",
+      "source": "@얼티밋건틀릿",
+      "translation": "@ULTIMATE GAUNTLET"
+    },
+    {
+      "id": "i2_dat#44",
+      "file": "i2_dat",
+      "record": 44,
+      "marker": "",
+      "source": "@데스스나이퍼",
+      "translation": "@DEATH SNIPER"
+    },
+    {
+      "id": "i2_dat#45",
+      "file": "i2_dat",
+      "record": 45,
+      "marker": "",
+      "source": "@샤이닝핸드",
+      "translation": "@SHINING HAND"
+    },
+    {
+      "id": "i2_dat#46",
+      "file": "i2_dat",
+      "record": 46,
+      "marker": "",
+      "source": "@팬텀건틀릿",
+      "translation": "@PHANTOM GAUNTLET"
+    },
+    {
+      "id": "i2_dat#47",
+      "file": "i2_dat",
+      "record": 47,
+      "marker": "",
+      "source": "@홀리건틀릿",
+      "translation": "@HOLY GAUNTLET"
+    },
+    {
+      "id": "i3_dat#0",
+      "file": "i3_dat",
+      "record": 0,
+      "marker": "",
+      "source": "천신발",
+      "translation": "CLOTH SHOES"
+    },
+    {
+      "id": "i3_dat#1",
+      "file": "i3_dat",
+      "record": 1,
+      "marker": "",
+      "source": "가죽신발",
+      "translation": "LTHR SHOES"
+    },
+    {
+      "id": "i3_dat#2",
+      "file": "i3_dat",
+      "record": 2,
+      "marker": "",
+      "source": "가죽부츠",
+      "translation": "LTHR BOOTS"
+    },
+    {
+      "id": "i3_dat#3",
+      "file": "i3_dat",
+      "record": 3,
+      "marker": "",
+      "source": "강화가죽신발",
+      "translation": "REINF. LTHR. SHOES"
+    },
+    {
+      "id": "i3_dat#4",
+      "file": "i3_dat",
+      "record": 4,
+      "marker": "",
+      "source": "강화가죽부츠",
+      "translation": "REINF. LTHR. BOOTS"
+    },
+    {
+      "id": "i3_dat#5",
+      "file": "i3_dat",
+      "record": 5,
+      "marker": "",
+      "source": "소가죽워커",
+      "translation": "COWHIDE WALKERS"
+    },
+    {
+      "id": "i3_dat#6",
+      "file": "i3_dat",
+      "record": 6,
+      "marker": "",
+      "source": "표범가죽신발",
+      "translation": "LEOPARD SHOES"
+    },
+    {
+      "id": "i3_dat#7",
+      "file": "i3_dat",
+      "record": 7,
+      "marker": "",
+      "source": "컴뱃부츠",
+      "translation": "COMBAT BOOTS"
+    },
+    {
+      "id": "i3_dat#8",
+      "file": "i3_dat",
+      "record": 8,
+      "marker": "",
+      "source": "표범가죽장화",
+      "translation": "LEOPARD BOOTS"
+    },
+    {
+      "id": "i3_dat#9",
+      "file": "i3_dat",
+      "record": 9,
+      "marker": "",
+      "source": "스틸워커",
+      "translation": "STEEL WALKERS"
+    },
+    {
+      "id": "i3_dat#10",
+      "file": "i3_dat",
+      "record": 10,
+      "marker": "",
+      "source": "체인부츠",
+      "translation": "CHAIN BOOTS"
+    },
+    {
+      "id": "i3_dat#11",
+      "file": "i3_dat",
+      "record": 11,
+      "marker": "",
+      "source": "미스릴워커",
+      "translation": "MITHRIL WALKER"
+    },
+    {
+      "id": "i3_dat#12",
+      "file": "i3_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "아머드슈즈",
+      "translation": "ARMORED SHOES"
+    },
+    {
+      "id": "i3_dat#13",
+      "file": "i3_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "경갑부츠",
+      "translation": "LIGHT ARMR BOOTS"
+    },
+    {
+      "id": "i3_dat#14",
+      "file": "i3_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "흑철부츠",
+      "translation": "BLACK IRON BOOTS"
+    },
+    {
+      "id": "i3_dat#15",
+      "file": "i3_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "롱그리브",
+      "translation": "LONG GREAVES"
+    },
+    {
+      "id": "i3_dat#16",
+      "file": "i3_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "밴디드워커",
+      "translation": "BANDED WALKER"
+    },
+    {
+      "id": "i3_dat#17",
+      "file": "i3_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "윈드워커",
+      "translation": "WIND WALKER"
+    },
+    {
+      "id": "i3_dat#18",
+      "file": "i3_dat",
+      "record": 18,
+      "marker": "|",
+      "source": "가시나무장화",
+      "translation": "THORN BOOTS"
+    },
+    {
+      "id": "i3_dat#19",
+      "file": "i3_dat",
+      "record": 19,
+      "marker": "|",
+      "source": "그랜드워커",
+      "translation": "GRAND WALKER"
+    },
+    {
+      "id": "i3_dat#20",
+      "file": "i3_dat",
+      "record": 20,
+      "marker": "|",
+      "source": "엔시언트워커",
+      "translation": "ANCIENT WALKER"
+    },
+    {
+      "id": "i3_dat#21",
+      "file": "i3_dat",
+      "record": 21,
+      "marker": "|",
+      "source": "본아머드슈즈",
+      "translation": "BONE ARMR SHOES"
+    },
+    {
+      "id": "i3_dat#22",
+      "file": "i3_dat",
+      "record": 22,
+      "marker": "",
+      "source": "'오르도부츠",
+      "translation": "'ORDO BOOTS"
+    },
+    {
+      "id": "i3_dat#23",
+      "file": "i3_dat",
+      "record": 23,
+      "marker": "",
+      "source": "'붉은사자신발",
+      "translation": "'RED LION SHOES"
+    },
+    {
+      "id": "i3_dat#24",
+      "file": "i3_dat",
+      "record": 24,
+      "marker": "",
+      "source": "'드래곤본워커",
+      "translation": "'DRGBONE WALKER"
+    },
+    {
+      "id": "i3_dat#25",
+      "file": "i3_dat",
+      "record": 25,
+      "marker": "",
+      "source": "'카오스섀도우",
+      "translation": "'CHAOS SHADOW"
+    },
+    {
+      "id": "i3_dat#26",
+      "file": "i3_dat",
+      "record": 26,
+      "marker": "",
+      "source": "'명왕암신",
+      "translation": "'PLUTO ASSASSIN"
+    },
+    {
+      "id": "i3_dat#27",
+      "file": "i3_dat",
+      "record": 27,
+      "marker": "$",
+      "source": "엔시언트슈즈",
+      "translation": "ANCIENT SHOES"
+    },
+    {
+      "id": "i3_dat#28",
+      "file": "i3_dat",
+      "record": 28,
+      "marker": "$",
+      "source": "버서커슈즈",
+      "translation": "BERSERKER SHOES"
+    },
+    {
+      "id": "i3_dat#29",
+      "file": "i3_dat",
+      "record": 29,
+      "marker": "$",
+      "source": "그랜디쉬",
+      "translation": "GRANDISH"
+    },
+    {
+      "id": "i3_dat#30",
+      "file": "i3_dat",
+      "record": 30,
+      "marker": "$",
+      "source": "블러디섀도우",
+      "translation": "BLOODY SHADOW"
+    },
+    {
+      "id": "i3_dat#31",
+      "file": "i3_dat",
+      "record": 31,
+      "marker": "$",
+      "source": "로드웜슈즈",
+      "translation": "ROAD WORM SHOES"
+    },
+    {
+      "id": "i3_dat#32",
+      "file": "i3_dat",
+      "record": 32,
+      "marker": "{",
+      "source": "오메가워커",
+      "translation": "OMEGA WALKER"
+    },
+    {
+      "id": "i3_dat#33",
+      "file": "i3_dat",
+      "record": 33,
+      "marker": "{",
+      "source": "아크고렘부츠",
+      "translation": "ARC GOLEM BOOTS"
+    },
+    {
+      "id": "i3_dat#34",
+      "file": "i3_dat",
+      "record": 34,
+      "marker": "{",
+      "source": "라이트닝슈즈",
+      "translation": "LIGHTNING SHOES"
+    },
+    {
+      "id": "i3_dat#35",
+      "file": "i3_dat",
+      "record": 35,
+      "marker": "",
+      "source": "@팬텀스파이크",
+      "translation": "@PHANTOM SPIKE"
+    },
+    {
+      "id": "i3_dat#36",
+      "file": "i3_dat",
+      "record": 36,
+      "marker": "",
+      "source": "@홀리윈드워커",
+      "translation": "@HOLY WIND WALKER"
+    },
+    {
+      "id": "i3_dat#37",
+      "file": "i3_dat",
+      "record": 37,
+      "marker": "}",
+      "source": "공허의신발",
+      "translation": "VOID SHOES"
+    },
+    {
+      "id": "i3_dat#38",
+      "file": "i3_dat",
+      "record": 38,
+      "marker": "{",
+      "source": "파빌리온슈즈",
+      "translation": "PAVILION SHOES"
+    },
+    {
+      "id": "i3_dat#39",
+      "file": "i3_dat",
+      "record": 39,
+      "marker": "{",
+      "source": "언노운섀도우",
+      "translation": "UNKNOWN SHADOW"
+    },
+    {
+      "id": "i3_dat#40",
+      "file": "i3_dat",
+      "record": 40,
+      "marker": "{",
+      "source": "레퀴드슈즈",
+      "translation": "LIQUID SHOES"
+    },
+    {
+      "id": "i3_dat#41",
+      "file": "i3_dat",
+      "record": 41,
+      "marker": "{",
+      "source": "네크슈즈",
+      "translation": "NECK SHOES"
+    },
+    {
+      "id": "i3_dat#42",
+      "file": "i3_dat",
+      "record": 42,
+      "marker": "{",
+      "source": "그렌디쉬워커",
+      "translation": "GRANDISH WALKER"
+    },
+    {
+      "id": "i3_dat#43",
+      "file": "i3_dat",
+      "record": 43,
+      "marker": "{",
+      "source": "퓨즈스파이크",
+      "translation": "FUSE SPIKE"
+    },
+    {
+      "id": "i3_dat#44",
+      "file": "i3_dat",
+      "record": 44,
+      "marker": "",
+      "source": "@오메가워커",
+      "translation": "@OMEGA WALKER"
+    },
+    {
+      "id": "i3_dat#45",
+      "file": "i3_dat",
+      "record": 45,
+      "marker": "",
+      "source": "@아크고렘부츠",
+      "translation": "@ARGOLEM BOOTS"
+    },
+    {
+      "id": "i3_dat#46",
+      "file": "i3_dat",
+      "record": 46,
+      "marker": "",
+      "source": "@라이트닝슈즈",
+      "translation": "@LIGHTNING SHOES"
+    },
+    {
+      "id": "i3_dat#47",
+      "file": "i3_dat",
+      "record": 47,
+      "marker": "",
+      "source": "@팬텀스파이크",
+      "translation": "@PHANTOM SPIKE"
+    },
+    {
+      "id": "i3_dat#48",
+      "file": "i3_dat",
+      "record": 48,
+      "marker": "",
+      "source": "@홀리윈드워커",
+      "translation": "@HOLY WIND WALKER"
+    },
+    {
+      "id": "i4_dat#0",
+      "file": "i4_dat",
+      "record": 0,
+      "marker": "",
+      "source": "하푼",
+      "translation": "HARPOON"
+    },
+    {
+      "id": "i4_dat#1",
+      "file": "i4_dat",
+      "record": 1,
+      "marker": "",
+      "source": "파이크",
+      "translation": "PIKE"
+    },
+    {
+      "id": "i4_dat#2",
+      "file": "i4_dat",
+      "record": 2,
+      "marker": "",
+      "source": "스틸하푼",
+      "translation": "STEEL HARPOON"
+    },
+    {
+      "id": "i4_dat#3",
+      "file": "i4_dat",
+      "record": 3,
+      "marker": "",
+      "source": "트라이던트",
+      "translation": "TRIDENT"
+    },
+    {
+      "id": "i4_dat#4",
+      "file": "i4_dat",
+      "record": 4,
+      "marker": "",
+      "source": "글레이브",
+      "translation": "GLAIVE"
+    },
+    {
+      "id": "i4_dat#5",
+      "file": "i4_dat",
+      "record": 5,
+      "marker": "",
+      "source": "할버드",
+      "translation": "HALBERD"
+    },
+    {
+      "id": "i4_dat#6",
+      "file": "i4_dat",
+      "record": 6,
+      "marker": "",
+      "source": "본글레이브",
+      "translation": "BONE GLAIVE"
+    },
+    {
+      "id": "i4_dat#7",
+      "file": "i4_dat",
+      "record": 7,
+      "marker": "",
+      "source": "스피어",
+      "translation": "SPEAR"
+    },
+    {
+      "id": "i4_dat#8",
+      "file": "i4_dat",
+      "record": 8,
+      "marker": "",
+      "source": "필드랜스",
+      "translation": "FIELD LANCE"
+    },
+    {
+      "id": "i4_dat#9",
+      "file": "i4_dat",
+      "record": 9,
+      "marker": "",
+      "source": "하이스피어",
+      "translation": "HIGH SPEAR"
+    },
+    {
+      "id": "i4_dat#10",
+      "file": "i4_dat",
+      "record": 10,
+      "marker": "",
+      "source": "미스릴랜스",
+      "translation": "MYTHRELANCE"
+    },
+    {
+      "id": "i4_dat#11",
+      "file": "i4_dat",
+      "record": 11,
+      "marker": "",
+      "source": "풀암드스피어",
+      "translation": "FULL ARMED SPEAR"
+    },
+    {
+      "id": "i4_dat#12",
+      "file": "i4_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "오웬스피어",
+      "translation": "OWEN SPEAR"
+    },
+    {
+      "id": "i4_dat#13",
+      "file": "i4_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "소울랜스",
+      "translation": "SOUL LANCE"
+    },
+    {
+      "id": "i4_dat#14",
+      "file": "i4_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "엘븐윙스피어",
+      "translation": "ELVEN WING SPEAR"
+    },
+    {
+      "id": "i4_dat#15",
+      "file": "i4_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "클로우할버드",
+      "translation": "CLAW HALBERD"
+    },
+    {
+      "id": "i4_dat#16",
+      "file": "i4_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "섀도우랜스",
+      "translation": "SHADOW LANCE"
+    },
+    {
+      "id": "i4_dat#17",
+      "file": "i4_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "오웬글레이브",
+      "translation": "OWEN GLAIVE"
+    },
+    {
+      "id": "i4_dat#18",
+      "file": "i4_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "다크랜스",
+      "translation": "DARK LANCE"
+    },
+    {
+      "id": "i4_dat#19",
+      "file": "i4_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "블루스톰",
+      "translation": "BLUE STORM"
+    },
+    {
+      "id": "i4_dat#20",
+      "file": "i4_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "할비스트",
+      "translation": "HALBEAST"
+    },
+    {
+      "id": "i4_dat#21",
+      "file": "i4_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "레이븐",
+      "translation": "RAVEN"
+    },
+    {
+      "id": "i4_dat#22",
+      "file": "i4_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "파이썬",
+      "translation": "PYTHON"
+    },
+    {
+      "id": "i4_dat#23",
+      "file": "i4_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@아크레이븐",
+      "translation": "@ARCRAVEN"
+    },
+    {
+      "id": "i4_dat#24",
+      "file": "i4_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의스피어",
+      "translation": "VOID SPHERE"
+    },
+    {
+      "id": "i4_dat#25",
+      "file": "i4_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "알파라이너",
+      "translation": "ALPHALINER"
+    },
+    {
+      "id": "i4_dat#26",
+      "file": "i4_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "카시오페아",
+      "translation": "CASSIOPEIA"
+    },
+    {
+      "id": "i4_dat#27",
+      "file": "i4_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진레이븐",
+      "translation": "@JIN RAVEN"
+    },
+    {
+      "id": "i4_dat#28",
+      "file": "i4_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@파이썬",
+      "translation": "@PYTHON"
+    },
+    {
+      "id": "i4_dat#29",
+      "file": "i4_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@아크레이븐",
+      "translation": "@ARCRAVEN"
+    },
+    {
+      "id": "i4_dat#30",
+      "file": "i4_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버스피어",
+      "translation": "REVERSE SPEAR"
+    },
+    {
+      "id": "i5_dat#0",
+      "file": "i5_dat",
+      "record": 0,
+      "marker": "",
+      "source": "롱소드",
+      "translation": "LONG SWRD"
+    },
+    {
+      "id": "i5_dat#1",
+      "file": "i5_dat",
+      "record": 1,
+      "marker": "",
+      "source": "브레이커",
+      "translation": "BREAKER"
+    },
+    {
+      "id": "i5_dat#2",
+      "file": "i5_dat",
+      "record": 2,
+      "marker": "",
+      "source": "브로드소드",
+      "translation": "BROADSWORD"
+    },
+    {
+      "id": "i5_dat#3",
+      "file": "i5_dat",
+      "record": 3,
+      "marker": "",
+      "source": "나이트소드",
+      "translation": "KNIGHT SWRD"
+    },
+    {
+      "id": "i5_dat#4",
+      "file": "i5_dat",
+      "record": 4,
+      "marker": "",
+      "source": "쯔바이핸더",
+      "translation": "ZWEIHANDER"
+    },
+    {
+      "id": "i5_dat#5",
+      "file": "i5_dat",
+      "record": 5,
+      "marker": "",
+      "source": "바스타드소드",
+      "translation": "BASTARD SWRD"
+    },
+    {
+      "id": "i5_dat#6",
+      "file": "i5_dat",
+      "record": 6,
+      "marker": "",
+      "source": "클레이모어",
+      "translation": "CLAYMORE"
+    },
+    {
+      "id": "i5_dat#7",
+      "file": "i5_dat",
+      "record": 7,
+      "marker": "",
+      "source": "나이트세이버",
+      "translation": "NIGHT SABER"
+    },
+    {
+      "id": "i5_dat#8",
+      "file": "i5_dat",
+      "record": 8,
+      "marker": "",
+      "source": "터스크소드",
+      "translation": "TUSK SWRD"
+    },
+    {
+      "id": "i5_dat#9",
+      "file": "i5_dat",
+      "record": 9,
+      "marker": "",
+      "source": "참마도",
+      "translation": "YAM SWRD"
+    },
+    {
+      "id": "i5_dat#10",
+      "file": "i5_dat",
+      "record": 10,
+      "marker": "",
+      "source": "플람베르그",
+      "translation": "FLAMBERG"
+    },
+    {
+      "id": "i5_dat#11",
+      "file": "i5_dat",
+      "record": 11,
+      "marker": "",
+      "source": "환두대도",
+      "translation": "THRESHER SWRD"
+    },
+    {
+      "id": "i5_dat#12",
+      "file": "i5_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "그라디우스",
+      "translation": "GRADIUS"
+    },
+    {
+      "id": "i5_dat#13",
+      "file": "i5_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "그랜드소드",
+      "translation": "GRAND SWRD"
+    },
+    {
+      "id": "i5_dat#14",
+      "file": "i5_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "붉은사자대검",
+      "translation": "RED LION G.SWRD"
+    },
+    {
+      "id": "i5_dat#15",
+      "file": "i5_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "스톰블링거",
+      "translation": "STORMBLINGER"
+    },
+    {
+      "id": "i5_dat#16",
+      "file": "i5_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "데몬블레이드",
+      "translation": "DEMON BLADE"
+    },
+    {
+      "id": "i5_dat#17",
+      "file": "i5_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "파괴군주검",
+      "translation": "DESTROYER SWRD"
+    },
+    {
+      "id": "i5_dat#18",
+      "file": "i5_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "디스트로이어",
+      "translation": "DESTROYER"
+    },
+    {
+      "id": "i5_dat#19",
+      "file": "i5_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "패왕신검",
+      "translation": "SUPREME SWRD"
+    },
+    {
+      "id": "i5_dat#20",
+      "file": "i5_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "칠지도",
+      "translation": "SEVEN MAPS"
+    },
+    {
+      "id": "i5_dat#21",
+      "file": "i5_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "마도학살검",
+      "translation": "MAGIC KILLER"
+    },
+    {
+      "id": "i5_dat#22",
+      "file": "i5_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "크리스터",
+      "translation": "CHRISTER"
+    },
+    {
+      "id": "i5_dat#23",
+      "file": "i5_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@알케인",
+      "translation": "@ALCANE"
+    },
+    {
+      "id": "i5_dat#24",
+      "file": "i5_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의스워드",
+      "translation": "VOID SWRD"
+    },
+    {
+      "id": "i5_dat#25",
+      "file": "i5_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "마도진혼검",
+      "translation": "MAGIC SOUL SWRD"
+    },
+    {
+      "id": "i5_dat#26",
+      "file": "i5_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "비슈느",
+      "translation": "VISHUNE"
+    },
+    {
+      "id": "i5_dat#27",
+      "file": "i5_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진마도학살검",
+      "translation": "@JINMAGE KILLER"
+    },
+    {
+      "id": "i5_dat#28",
+      "file": "i5_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@크리스터",
+      "translation": "@CHRISTER"
+    },
+    {
+      "id": "i5_dat#29",
+      "file": "i5_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@알케인",
+      "translation": "@ALKANE"
+    },
+    {
+      "id": "i5_dat#30",
+      "file": "i5_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버스워드",
+      "translation": "REVERSE WORD"
+    },
+    {
+      "id": "i6_dat#0",
+      "file": "i6_dat",
+      "record": 0,
+      "marker": "",
+      "source": "핸드나이프",
+      "translation": "HAND KNIFE"
+    },
+    {
+      "id": "i6_dat#1",
+      "file": "i6_dat",
+      "record": 1,
+      "marker": "",
+      "source": "핸드커터",
+      "translation": "HAND CUTTER"
+    },
+    {
+      "id": "i6_dat#2",
+      "file": "i6_dat",
+      "record": 2,
+      "marker": "",
+      "source": "대거",
+      "translation": "DAGGER"
+    },
+    {
+      "id": "i6_dat#3",
+      "file": "i6_dat",
+      "record": 3,
+      "marker": "",
+      "source": "어쌔신나이프",
+      "translation": "ASSASSIN KNIFE"
+    },
+    {
+      "id": "i6_dat#4",
+      "file": "i6_dat",
+      "record": 4,
+      "marker": "",
+      "source": "아이언대거",
+      "translation": "IRON DAGGER"
+    },
+    {
+      "id": "i6_dat#5",
+      "file": "i6_dat",
+      "record": 5,
+      "marker": "",
+      "source": "컴뱃나이프",
+      "translation": "COMBAT KNIFE"
+    },
+    {
+      "id": "i6_dat#6",
+      "file": "i6_dat",
+      "record": 6,
+      "marker": "",
+      "source": "스윙커터",
+      "translation": "SWING CUTTER"
+    },
+    {
+      "id": "i6_dat#7",
+      "file": "i6_dat",
+      "record": 7,
+      "marker": "",
+      "source": "자크네일",
+      "translation": "JACQUES NAIL"
+    },
+    {
+      "id": "i6_dat#8",
+      "file": "i6_dat",
+      "record": 8,
+      "marker": "",
+      "source": "킬러퀘이드",
+      "translation": "KILLER QUAID"
+    },
+    {
+      "id": "i6_dat#9",
+      "file": "i6_dat",
+      "record": 9,
+      "marker": "",
+      "source": "소울커터",
+      "translation": "SOUL CUTTER"
+    },
+    {
+      "id": "i6_dat#10",
+      "file": "i6_dat",
+      "record": 10,
+      "marker": "",
+      "source": "퓨마클로우",
+      "translation": "PUMA CLAW"
+    },
+    {
+      "id": "i6_dat#11",
+      "file": "i6_dat",
+      "record": 11,
+      "marker": "",
+      "source": "데몬스퀘이드",
+      "translation": "DEMON SWRD"
+    },
+    {
+      "id": "i6_dat#12",
+      "file": "i6_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "록클로우",
+      "translation": "ROCKCLAW"
+    },
+    {
+      "id": "i6_dat#13",
+      "file": "i6_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "소울퀘이드",
+      "translation": "SOULQUAID"
+    },
+    {
+      "id": "i6_dat#14",
+      "file": "i6_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "베인커터",
+      "translation": "BANECUTTER"
+    },
+    {
+      "id": "i6_dat#15",
+      "file": "i6_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "섀도우크루크",
+      "translation": "SHADOWKREW"
+    },
+    {
+      "id": "i6_dat#16",
+      "file": "i6_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "드래곤본대거",
+      "translation": "DRAGONBONE DAGGER"
+    },
+    {
+      "id": "i6_dat#17",
+      "file": "i6_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "스톰크루크",
+      "translation": "STORMKREW"
+    },
+    {
+      "id": "i6_dat#18",
+      "file": "i6_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "본시커",
+      "translation": "BONESEEKER"
+    },
+    {
+      "id": "i6_dat#19",
+      "file": "i6_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "켈베로스",
+      "translation": "CERBERUS"
+    },
+    {
+      "id": "i6_dat#20",
+      "file": "i6_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "아웃버스트",
+      "translation": "OUTBURST"
+    },
+    {
+      "id": "i6_dat#21",
+      "file": "i6_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "크레비안",
+      "translation": "CREVIAN"
+    },
+    {
+      "id": "i6_dat#22",
+      "file": "i6_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "플래시크래셔",
+      "translation": "FLASH CRASHERS"
+    },
+    {
+      "id": "i6_dat#23",
+      "file": "i6_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@팬텀브레이커",
+      "translation": "@PHANTOM BREAKER"
+    },
+    {
+      "id": "i6_dat#24",
+      "file": "i6_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의나이프",
+      "translation": "VOID KNIFE"
+    },
+    {
+      "id": "i6_dat#25",
+      "file": "i6_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "헥토르",
+      "translation": "HECTOR"
+    },
+    {
+      "id": "i6_dat#26",
+      "file": "i6_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "플래시온",
+      "translation": "FLASHON"
+    },
+    {
+      "id": "i6_dat#27",
+      "file": "i6_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진크레비안",
+      "translation": "@JINKRAVIAN"
+    },
+    {
+      "id": "i6_dat#28",
+      "file": "i6_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@플래시크래셔",
+      "translation": "@FLASHCRASHER"
+    },
+    {
+      "id": "i6_dat#29",
+      "file": "i6_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@팬텀브레이커",
+      "translation": "@PHANTOM BREAKER"
+    },
+    {
+      "id": "i6_dat#30",
+      "file": "i6_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버나이프",
+      "translation": "RIVERKNIFE"
+    },
+    {
+      "id": "i7_dat#0",
+      "file": "i7_dat",
+      "record": 0,
+      "marker": "",
+      "source": "콜드",
+      "translation": "COLD"
+    },
+    {
+      "id": "i7_dat#1",
+      "file": "i7_dat",
+      "record": 1,
+      "marker": "",
+      "source": "로빈",
+      "translation": "ROBIN"
+    },
+    {
+      "id": "i7_dat#2",
+      "file": "i7_dat",
+      "record": 2,
+      "marker": "",
+      "source": "크로우",
+      "translation": "CROW"
+    },
+    {
+      "id": "i7_dat#3",
+      "file": "i7_dat",
+      "record": 3,
+      "marker": "",
+      "source": "호크아이",
+      "translation": "HAWKEYE"
+    },
+    {
+      "id": "i7_dat#4",
+      "file": "i7_dat",
+      "record": 4,
+      "marker": "",
+      "source": "카이트",
+      "translation": "KITE"
+    },
+    {
+      "id": "i7_dat#5",
+      "file": "i7_dat",
+      "record": 5,
+      "marker": "",
+      "source": "해리어",
+      "translation": "HARRIER"
+    },
+    {
+      "id": "i7_dat#6",
+      "file": "i7_dat",
+      "record": 6,
+      "marker": "",
+      "source": "그레이호크",
+      "translation": "GREYHAWK"
+    },
+    {
+      "id": "i7_dat#7",
+      "file": "i7_dat",
+      "record": 7,
+      "marker": "",
+      "source": "벌처",
+      "translation": "VULTURE"
+    },
+    {
+      "id": "i7_dat#8",
+      "file": "i7_dat",
+      "record": 8,
+      "marker": "",
+      "source": "팔콘",
+      "translation": "FALCON"
+    },
+    {
+      "id": "i7_dat#9",
+      "file": "i7_dat",
+      "record": 9,
+      "marker": "",
+      "source": "콘돌",
+      "translation": "CONDOR"
+    },
+    {
+      "id": "i7_dat#10",
+      "file": "i7_dat",
+      "record": 10,
+      "marker": "",
+      "source": "하피",
+      "translation": "HARPY"
+    },
+    {
+      "id": "i7_dat#11",
+      "file": "i7_dat",
+      "record": 11,
+      "marker": "",
+      "source": "그리핀",
+      "translation": "GRIFFIN"
+    },
+    {
+      "id": "i7_dat#12",
+      "file": "i7_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "블랙카이트",
+      "translation": "BLACK KITE"
+    },
+    {
+      "id": "i7_dat#13",
+      "file": "i7_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "팔켄",
+      "translation": "FALCON"
+    },
+    {
+      "id": "i7_dat#14",
+      "file": "i7_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "해리어롱바렐",
+      "translation": "HARRIER BARREL"
+    },
+    {
+      "id": "i7_dat#15",
+      "file": "i7_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "팔켄매그넘",
+      "translation": "FALKEN MAGNUM"
+    },
+    {
+      "id": "i7_dat#16",
+      "file": "i7_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "썬더버드",
+      "translation": "THUNDERBIRD"
+    },
+    {
+      "id": "i7_dat#17",
+      "file": "i7_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "블랙하피",
+      "translation": "BLACK HARPY"
+    },
+    {
+      "id": "i7_dat#18",
+      "file": "i7_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "마스터팔켄",
+      "translation": "MASTER FALKEN"
+    },
+    {
+      "id": "i7_dat#19",
+      "file": "i7_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "더블엘터",
+      "translation": "DOUBLE ELTER"
+    },
+    {
+      "id": "i7_dat#20",
+      "file": "i7_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "데스리미터",
+      "translation": "DEATH LIMITER"
+    },
+    {
+      "id": "i7_dat#21",
+      "file": "i7_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "알펜로즈",
+      "translation": "ALPENROSE"
+    },
+    {
+      "id": "i7_dat#22",
+      "file": "i7_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "템페스트",
+      "translation": "TEMPEST"
+    },
+    {
+      "id": "i7_dat#23",
+      "file": "i7_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@카이져스톰",
+      "translation": "@KAISERSTORM"
+    },
+    {
+      "id": "i7_dat#24",
+      "file": "i7_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의단총",
+      "translation": "VOID GUN"
+    },
+    {
+      "id": "i7_dat#25",
+      "file": "i7_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "플로라",
+      "translation": "FLORA"
+    },
+    {
+      "id": "i7_dat#26",
+      "file": "i7_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "썬더볼트",
+      "translation": "THUNDERBOLT"
+    },
+    {
+      "id": "i7_dat#27",
+      "file": "i7_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진알펜로즈",
+      "translation": "@JINALPENROSE"
+    },
+    {
+      "id": "i7_dat#28",
+      "file": "i7_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@템페스트",
+      "translation": "@TEMPEST"
+    },
+    {
+      "id": "i7_dat#29",
+      "file": "i7_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@카이져스톰",
+      "translation": "@KAISERSTORM"
+    },
+    {
+      "id": "i7_dat#30",
+      "file": "i7_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버건",
+      "translation": "RIVER GUN"
+    },
+    {
+      "id": "i8_dat#0",
+      "file": "i8_dat",
+      "record": 0,
+      "marker": "",
+      "source": "폭스테일",
+      "translation": "FOXTAIL"
+    },
+    {
+      "id": "i8_dat#1",
+      "file": "i8_dat",
+      "record": 1,
+      "marker": "",
+      "source": "울프탈론",
+      "translation": "WOLFTALON"
+    },
+    {
+      "id": "i8_dat#2",
+      "file": "i8_dat",
+      "record": 2,
+      "marker": "",
+      "source": "스네이크팽",
+      "translation": "SNAKEFANG"
+    },
+    {
+      "id": "i8_dat#3",
+      "file": "i8_dat",
+      "record": 3,
+      "marker": "",
+      "source": "하이에나암즈",
+      "translation": "HYENA ARMS"
+    },
+    {
+      "id": "i8_dat#4",
+      "file": "i8_dat",
+      "record": 4,
+      "marker": "",
+      "source": "퓨마웨폰",
+      "translation": "PUMA WEAPON"
+    },
+    {
+      "id": "i8_dat#5",
+      "file": "i8_dat",
+      "record": 5,
+      "marker": "",
+      "source": "레오파드암즈",
+      "translation": "LEOPARD ARMS"
+    },
+    {
+      "id": "i8_dat#6",
+      "file": "i8_dat",
+      "record": 6,
+      "marker": "",
+      "source": "샤크투스",
+      "translation": "SHARKTOOTH"
+    },
+    {
+      "id": "i8_dat#7",
+      "file": "i8_dat",
+      "record": 7,
+      "marker": "",
+      "source": "랩터클로",
+      "translation": "RAPTOR CLAW"
+    },
+    {
+      "id": "i8_dat#8",
+      "file": "i8_dat",
+      "record": 8,
+      "marker": "",
+      "source": "베어암즈",
+      "translation": "BEAR ARMS"
+    },
+    {
+      "id": "i8_dat#9",
+      "file": "i8_dat",
+      "record": 9,
+      "marker": "",
+      "source": "호크암즈",
+      "translation": "HAWK ARMS"
+    },
+    {
+      "id": "i8_dat#10",
+      "file": "i8_dat",
+      "record": 10,
+      "marker": "",
+      "source": "타이타닉암즈",
+      "translation": "TITANIC ARMS"
+    },
+    {
+      "id": "i8_dat#11",
+      "file": "i8_dat",
+      "record": 11,
+      "marker": "",
+      "source": "그리핀웨폰",
+      "translation": "GRIFFIN WEAPON"
+    },
+    {
+      "id": "i8_dat#12",
+      "file": "i8_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "워락",
+      "translation": "WARLOCK"
+    },
+    {
+      "id": "i8_dat#13",
+      "file": "i8_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "데몬암즈",
+      "translation": "DEMON ARMS"
+    },
+    {
+      "id": "i8_dat#14",
+      "file": "i8_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "라이오넬",
+      "translation": "LIONEL"
+    },
+    {
+      "id": "i8_dat#15",
+      "file": "i8_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "크라켄웨폰",
+      "translation": "KRAKEN WEAPON"
+    },
+    {
+      "id": "i8_dat#16",
+      "file": "i8_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "데스락",
+      "translation": "DEATHROCK"
+    },
+    {
+      "id": "i8_dat#17",
+      "file": "i8_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "에이션트웨폰",
+      "translation": "ANCIENT WEAPON"
+    },
+    {
+      "id": "i8_dat#18",
+      "file": "i8_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "발키리",
+      "translation": "VALKYRIE"
+    },
+    {
+      "id": "i8_dat#19",
+      "file": "i8_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "제비우스",
+      "translation": "XEVIUS"
+    },
+    {
+      "id": "i8_dat#20",
+      "file": "i8_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "유니콘혼",
+      "translation": "UNICORN HORN"
+    },
+    {
+      "id": "i8_dat#21",
+      "file": "i8_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "기간틱암즈",
+      "translation": "GIGANTIC ARMS"
+    },
+    {
+      "id": "i8_dat#22",
+      "file": "i8_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "이그니스",
+      "translation": "IGNIS"
+    },
+    {
+      "id": "i8_dat#23",
+      "file": "i8_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@길티샤인",
+      "translation": "@GUILTY SHINE"
+    },
+    {
+      "id": "i8_dat#24",
+      "file": "i8_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의캐논",
+      "translation": "VOID CANNON"
+    },
+    {
+      "id": "i8_dat#25",
+      "file": "i8_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "앱실론암즈",
+      "translation": "ABSILON ARMS"
+    },
+    {
+      "id": "i8_dat#26",
+      "file": "i8_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "헬파이어",
+      "translation": "HELLFIRE"
+    },
+    {
+      "id": "i8_dat#27",
+      "file": "i8_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진기간틱암즈",
+      "translation": "@GENETIC ARMS"
+    },
+    {
+      "id": "i8_dat#28",
+      "file": "i8_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@이그니스",
+      "translation": "@IGNIS"
+    },
+    {
+      "id": "i8_dat#29",
+      "file": "i8_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@길티샤인",
+      "translation": "@GUILTY SHINE"
+    },
+    {
+      "id": "i8_dat#30",
+      "file": "i8_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버캐논",
+      "translation": "RIVER CANNON"
+    },
+    {
+      "id": "i9_dat#0",
+      "file": "i9_dat",
+      "record": 0,
+      "marker": "",
+      "source": "다크스톤",
+      "translation": "DARK STONE"
+    },
+    {
+      "id": "i9_dat#1",
+      "file": "i9_dat",
+      "record": 1,
+      "marker": "",
+      "source": "흑수정",
+      "translation": "BLACK CRYSTAL"
+    },
+    {
+      "id": "i9_dat#2",
+      "file": "i9_dat",
+      "record": 2,
+      "marker": "",
+      "source": "공작석",
+      "translation": "MALACHITE"
+    },
+    {
+      "id": "i9_dat#3",
+      "file": "i9_dat",
+      "record": 3,
+      "marker": "",
+      "source": "다크앰버",
+      "translation": "DARK AMBER"
+    },
+    {
+      "id": "i9_dat#4",
+      "file": "i9_dat",
+      "record": 4,
+      "marker": "",
+      "source": "다크스피넬",
+      "translation": "DARK SPINEL"
+    },
+    {
+      "id": "i9_dat#5",
+      "file": "i9_dat",
+      "record": 5,
+      "marker": "",
+      "source": "마노",
+      "translation": "AGATE"
+    },
+    {
+      "id": "i9_dat#6",
+      "file": "i9_dat",
+      "record": 6,
+      "marker": "",
+      "source": "튜말린",
+      "translation": "TUMALINE"
+    },
+    {
+      "id": "i9_dat#7",
+      "file": "i9_dat",
+      "record": 7,
+      "marker": "",
+      "source": "자수정",
+      "translation": "AMETHYST"
+    },
+    {
+      "id": "i9_dat#8",
+      "file": "i9_dat",
+      "record": 8,
+      "marker": "",
+      "source": "가넷",
+      "translation": "GARNET"
+    },
+    {
+      "id": "i9_dat#9",
+      "file": "i9_dat",
+      "record": 9,
+      "marker": "",
+      "source": "흑진주",
+      "translation": "BLACK PEARL"
+    },
+    {
+      "id": "i9_dat#10",
+      "file": "i9_dat",
+      "record": 10,
+      "marker": "",
+      "source": "다크루비",
+      "translation": "DARK RUBY"
+    },
+    {
+      "id": "i9_dat#11",
+      "file": "i9_dat",
+      "record": 11,
+      "marker": "",
+      "source": "에메랄드",
+      "translation": "EMERALD"
+    },
+    {
+      "id": "i9_dat#12",
+      "file": "i9_dat",
+      "record": 12,
+      "marker": "|",
+      "source": "블러디스톤",
+      "translation": "BLOODY STONE"
+    },
+    {
+      "id": "i9_dat#13",
+      "file": "i9_dat",
+      "record": 13,
+      "marker": "|",
+      "source": "데스블러드",
+      "translation": "DEATHBLOOD"
+    },
+    {
+      "id": "i9_dat#14",
+      "file": "i9_dat",
+      "record": 14,
+      "marker": "|",
+      "source": "캣츠아이",
+      "translation": "CATS EYE"
+    },
+    {
+      "id": "i9_dat#15",
+      "file": "i9_dat",
+      "record": 15,
+      "marker": "|",
+      "source": "블랙오팔",
+      "translation": "BLACK OPAL"
+    },
+    {
+      "id": "i9_dat#16",
+      "file": "i9_dat",
+      "record": 16,
+      "marker": "|",
+      "source": "섀도우펄",
+      "translation": "SHADOW PEARL"
+    },
+    {
+      "id": "i9_dat#17",
+      "file": "i9_dat",
+      "record": 17,
+      "marker": "|",
+      "source": "데빌스펄",
+      "translation": "DEVILS PEARL"
+    },
+    {
+      "id": "i9_dat#18",
+      "file": "i9_dat",
+      "record": 18,
+      "marker": "$",
+      "source": "피닉스아이",
+      "translation": "PHOENIX EYE"
+    },
+    {
+      "id": "i9_dat#19",
+      "file": "i9_dat",
+      "record": 19,
+      "marker": "$",
+      "source": "메테오스톤",
+      "translation": "METEOR STONE"
+    },
+    {
+      "id": "i9_dat#20",
+      "file": "i9_dat",
+      "record": 20,
+      "marker": "$",
+      "source": "펠레노르",
+      "translation": "PELENOR"
+    },
+    {
+      "id": "i9_dat#21",
+      "file": "i9_dat",
+      "record": 21,
+      "marker": "{",
+      "source": "플루토",
+      "translation": "PLUTO"
+    },
+    {
+      "id": "i9_dat#22",
+      "file": "i9_dat",
+      "record": 22,
+      "marker": "{",
+      "source": "루인",
+      "translation": "RUIN"
+    },
+    {
+      "id": "i9_dat#23",
+      "file": "i9_dat",
+      "record": 23,
+      "marker": "",
+      "source": "@코어오브헬",
+      "translation": "@CORE OF HELL"
+    },
+    {
+      "id": "i9_dat#24",
+      "file": "i9_dat",
+      "record": 24,
+      "marker": "}",
+      "source": "공허의암흑성",
+      "translation": "VOID DARKNESS"
+    },
+    {
+      "id": "i9_dat#25",
+      "file": "i9_dat",
+      "record": 25,
+      "marker": "{",
+      "source": "블랙홀코어",
+      "translation": "BLACK HOLE CORE"
+    },
+    {
+      "id": "i9_dat#26",
+      "file": "i9_dat",
+      "record": 26,
+      "marker": "{",
+      "source": "이그지션",
+      "translation": "EXISTENCE"
+    },
+    {
+      "id": "i9_dat#27",
+      "file": "i9_dat",
+      "record": 27,
+      "marker": "",
+      "source": "@진플루토",
+      "translation": "@JINPLUTO"
+    },
+    {
+      "id": "i9_dat#28",
+      "file": "i9_dat",
+      "record": 28,
+      "marker": "",
+      "source": "@루인",
+      "translation": "@RUIN"
+    },
+    {
+      "id": "i9_dat#29",
+      "file": "i9_dat",
+      "record": 29,
+      "marker": "",
+      "source": "@코어오브헬",
+      "translation": "@CORE OF HELL"
+    },
+    {
+      "id": "i9_dat#30",
+      "file": "i9_dat",
+      "record": 30,
+      "marker": "{",
+      "source": "리버다크스톤",
+      "translation": "RIVER DARK STONE"
+    }
+  ]
+}

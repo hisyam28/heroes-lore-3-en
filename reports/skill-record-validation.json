@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "file": "s4_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 1
+    },
+    {
+      "file": "s5_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 0
+    },
+    {
+      "file": "s6_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 0
+    },
+    {
+      "file": "s7_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 0
+    },
+    {
+      "file": "s8_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 0
+    },
+    {
+      "file": "s9_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 0
+    },
+    {
+      "file": "s10_dat",
+      "records": 15,
+      "metadata_bytes_preserved": 450,
+      "legacy_changes_outside_confirmed_text_slots": 0
+    }
+  ],
+  "translated_nonempty_fields": 163,
+  "original_metadata_preserved": true
+}

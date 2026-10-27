@@ -1,0 +1,1952 @@
+{
+  "format": "heroes-lore-3-text-table-v1",
+  "encoding": "cp949",
+  "entries": [
+    {
+      "id": "res/dat/InGame_txt#0",
+      "file": "res/dat/InGame_txt",
+      "index": 0,
+      "source": "MENU",
+      "translation": "MENU"
+    },
+    {
+      "id": "res/dat/InGame_txt#1",
+      "file": "res/dat/InGame_txt",
+      "index": 1,
+      "source": "STATUS",
+      "translation": "STATUS"
+    },
+    {
+      "id": "res/dat/InGame_txt#2",
+      "file": "res/dat/InGame_txt",
+      "index": 2,
+      "source": "INVENTORY",
+      "translation": "ITEMS"
+    },
+    {
+      "id": "res/dat/InGame_txt#3",
+      "file": "res/dat/InGame_txt",
+      "index": 3,
+      "source": "EQUIPMENT",
+      "translation": "GEAR"
+    },
+    {
+      "id": "res/dat/InGame_txt#4",
+      "file": "res/dat/InGame_txt",
+      "index": 4,
+      "source": "SKILL",
+      "translation": "SKILLS"
+    },
+    {
+      "id": "res/dat/InGame_txt#5",
+      "file": "res/dat/InGame_txt",
+      "index": 5,
+      "source": "QUEST",
+      "translation": "QUESTS"
+    },
+    {
+      "id": "res/dat/InGame_txt#6",
+      "file": "res/dat/InGame_txt",
+      "index": 6,
+      "source": "SYSTEM",
+      "translation": "SYSTEM"
+    },
+    {
+      "id": "res/dat/InGame_txt#7",
+      "file": "res/dat/InGame_txt",
+      "index": 7,
+      "source": "상태보기",
+      "translation": "STATUS"
+    },
+    {
+      "id": "res/dat/InGame_txt#8",
+      "file": "res/dat/InGame_txt",
+      "index": 8,
+      "source": "가방",
+      "translation": "ITEMS"
+    },
+    {
+      "id": "res/dat/InGame_txt#9",
+      "file": "res/dat/InGame_txt",
+      "index": 9,
+      "source": "장비",
+      "translation": "GEAR"
+    },
+    {
+      "id": "res/dat/InGame_txt#10",
+      "file": "res/dat/InGame_txt",
+      "index": 10,
+      "source": "스킬",
+      "translation": "SKILLS"
+    },
+    {
+      "id": "res/dat/InGame_txt#11",
+      "file": "res/dat/InGame_txt",
+      "index": 11,
+      "source": "퀘스트",
+      "translation": "QUESTS"
+    },
+    {
+      "id": "res/dat/InGame_txt#12",
+      "file": "res/dat/InGame_txt",
+      "index": 12,
+      "source": "시스템",
+      "translation": "SYSTEM"
+    },
+    {
+      "id": "res/dat/InGame_txt#13",
+      "file": "res/dat/InGame_txt",
+      "index": 13,
+      "source": "세이브",
+      "translation": "SAVE"
+    },
+    {
+      "id": "res/dat/InGame_txt#14",
+      "file": "res/dat/InGame_txt",
+      "index": 14,
+      "source": "네트워크등록",
+      "translation": "ONLINE"
+    },
+    {
+      "id": "res/dat/InGame_txt#15",
+      "file": "res/dat/InGame_txt",
+      "index": 15,
+      "source": "환경설정",
+      "translation": "OPTIONS"
+    },
+    {
+      "id": "res/dat/InGame_txt#16",
+      "file": "res/dat/InGame_txt",
+      "index": 16,
+      "source": "도움말",
+      "translation": "HELP"
+    },
+    {
+      "id": "res/dat/InGame_txt#17",
+      "file": "res/dat/InGame_txt",
+      "index": 17,
+      "source": "이름",
+      "translation": "NM"
+    },
+    {
+      "id": "res/dat/InGame_txt#18",
+      "file": "res/dat/InGame_txt",
+      "index": 18,
+      "source": "효과",
+      "translation": "EFC"
+    },
+    {
+      "id": "res/dat/InGame_txt#19",
+      "file": "res/dat/InGame_txt",
+      "index": 19,
+      "source": "기타",
+      "translation": "OTHR"
+    },
+    {
+      "id": "res/dat/InGame_txt#20",
+      "file": "res/dat/InGame_txt",
+      "index": 20,
+      "source": "스피어",
+      "translation": "SPEAR"
+    },
+    {
+      "id": "res/dat/InGame_txt#21",
+      "file": "res/dat/InGame_txt",
+      "index": 21,
+      "source": "스워드",
+      "translation": "SWRD"
+    },
+    {
+      "id": "res/dat/InGame_txt#22",
+      "file": "res/dat/InGame_txt",
+      "index": 22,
+      "source": "나이프",
+      "translation": "DAGGER"
+    },
+    {
+      "id": "res/dat/InGame_txt#23",
+      "file": "res/dat/InGame_txt",
+      "index": 23,
+      "source": "건",
+      "translation": "GUN"
+    },
+    {
+      "id": "res/dat/InGame_txt#24",
+      "file": "res/dat/InGame_txt",
+      "index": 24,
+      "source": "라이플",
+      "translation": "RIFLE"
+    },
+    {
+      "id": "res/dat/InGame_txt#25",
+      "file": "res/dat/InGame_txt",
+      "index": 25,
+      "source": "다크",
+      "translation": "DARK"
+    },
+    {
+      "id": "res/dat/InGame_txt#26",
+      "file": "res/dat/InGame_txt",
+      "index": 26,
+      "source": "홀리",
+      "translation": "HOLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#27",
+      "file": "res/dat/InGame_txt",
+      "index": 27,
+      "source": "액티브",
+      "translation": "ACTIVE"
+    },
+    {
+      "id": "res/dat/InGame_txt#28",
+      "file": "res/dat/InGame_txt",
+      "index": 28,
+      "source": "패시브",
+      "translation": "PASSIVE"
+    },
+    {
+      "id": "res/dat/InGame_txt#29",
+      "file": "res/dat/InGame_txt",
+      "index": 29,
+      "source": "현재콤보단계:",
+      "translation": "COMBO: "
+    },
+    {
+      "id": "res/dat/InGame_txt#30",
+      "file": "res/dat/InGame_txt",
+      "index": 30,
+      "source": "쿨타임:",
+      "translation": "COOL: "
+    },
+    {
+      "id": "res/dat/InGame_txt#31",
+      "file": "res/dat/InGame_txt",
+      "index": 31,
+      "source": "지속시간:",
+      "translation": "TIME: "
+    },
+    {
+      "id": "res/dat/InGame_txt#32",
+      "file": "res/dat/InGame_txt",
+      "index": 32,
+      "source": "상세보기",
+      "translation": "DETAILS"
+    },
+    {
+      "id": "res/dat/InGame_txt#33",
+      "file": "res/dat/InGame_txt",
+      "index": 33,
+      "source": "사용하기",
+      "translation": "USE"
+    },
+    {
+      "id": "res/dat/InGame_txt#34",
+      "file": "res/dat/InGame_txt",
+      "index": 34,
+      "source": "버리기",
+      "translation": "DISCARD"
+    },
+    {
+      "id": "res/dat/InGame_txt#35",
+      "file": "res/dat/InGame_txt",
+      "index": 35,
+      "source": "1키등록",
+      "translation": "KEY 1"
+    },
+    {
+      "id": "res/dat/InGame_txt#36",
+      "file": "res/dat/InGame_txt",
+      "index": 36,
+      "source": "3키등록",
+      "translation": "KEY 3"
+    },
+    {
+      "id": "res/dat/InGame_txt#37",
+      "file": "res/dat/InGame_txt",
+      "index": 37,
+      "source": "9키등록",
+      "translation": "KEY 9"
+    },
+    {
+      "id": "res/dat/InGame_txt#38",
+      "file": "res/dat/InGame_txt",
+      "index": 38,
+      "source": "0키등록",
+      "translation": "KEY 0"
+    },
+    {
+      "id": "res/dat/InGame_txt#39",
+      "file": "res/dat/InGame_txt",
+      "index": 39,
+      "source": "#키등록",
+      "translation": "KEY #"
+    },
+    {
+      "id": "res/dat/InGame_txt#40",
+      "file": "res/dat/InGame_txt",
+      "index": 40,
+      "source": "등록취소",
+      "translation": "CLEAR KEY"
+    },
+    {
+      "id": "res/dat/InGame_txt#41",
+      "file": "res/dat/InGame_txt",
+      "index": 41,
+      "source": "물약",
+      "translation": "POTION"
+    },
+    {
+      "id": "res/dat/InGame_txt#42",
+      "file": "res/dat/InGame_txt",
+      "index": 42,
+      "source": "조합재료",
+      "translation": "MATERIAL"
+    },
+    {
+      "id": "res/dat/InGame_txt#43",
+      "file": "res/dat/InGame_txt",
+      "index": 43,
+      "source": "제련석",
+      "translation": "REFINE STONE"
+    },
+    {
+      "id": "res/dat/InGame_txt#44",
+      "file": "res/dat/InGame_txt",
+      "index": 44,
+      "source": "올리기",
+      "translation": "RAISE"
+    },
+    {
+      "id": "res/dat/InGame_txt#45",
+      "file": "res/dat/InGame_txt",
+      "index": 45,
+      "source": "내리기",
+      "translation": "LOWER"
+    },
+    {
+      "id": "res/dat/InGame_txt#46",
+      "file": "res/dat/InGame_txt",
+      "index": 46,
+      "source": "오브결합",
+      "translation": "FUSE ORBS"
+    },
+    {
+      "id": "res/dat/InGame_txt#47",
+      "file": "res/dat/InGame_txt",
+      "index": 47,
+      "source": "등록해제",
+      "translation": "UNREGISTER"
+    },
+    {
+      "id": "res/dat/InGame_txt#48",
+      "file": "res/dat/InGame_txt",
+      "index": 48,
+      "source": "LV",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#49",
+      "file": "res/dat/InGame_txt",
+      "index": 49,
+      "source": "HP",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#50",
+      "file": "res/dat/InGame_txt",
+      "index": 50,
+      "source": "SP",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#51",
+      "file": "res/dat/InGame_txt",
+      "index": 51,
+      "source": "EXP",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#52",
+      "file": "res/dat/InGame_txt",
+      "index": 52,
+      "source": "힘",
+      "translation": "STR"
+    },
+    {
+      "id": "res/dat/InGame_txt#53",
+      "file": "res/dat/InGame_txt",
+      "index": 53,
+      "source": "민첩",
+      "translation": "AGI"
+    },
+    {
+      "id": "res/dat/InGame_txt#54",
+      "file": "res/dat/InGame_txt",
+      "index": 54,
+      "source": "체력",
+      "translation": "VIT"
+    },
+    {
+      "id": "res/dat/InGame_txt#55",
+      "file": "res/dat/InGame_txt",
+      "index": 55,
+      "source": "정신",
+      "translation": "SPI"
+    },
+    {
+      "id": "res/dat/InGame_txt#56",
+      "file": "res/dat/InGame_txt",
+      "index": 56,
+      "source": "ATT1",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#57",
+      "file": "res/dat/InGame_txt",
+      "index": 57,
+      "source": "ATT2",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#58",
+      "file": "res/dat/InGame_txt",
+      "index": 58,
+      "source": "P.DEF",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#59",
+      "file": "res/dat/InGame_txt",
+      "index": 59,
+      "source": "M.DEF",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#60",
+      "file": "res/dat/InGame_txt",
+      "index": 60,
+      "source": "CRI",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#61",
+      "file": "res/dat/InGame_txt",
+      "index": 61,
+      "source": "RES",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#62",
+      "file": "res/dat/InGame_txt",
+      "index": 62,
+      "source": "ACC",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#63",
+      "file": "res/dat/InGame_txt",
+      "index": 63,
+      "source": "DOD",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#64",
+      "file": "res/dat/InGame_txt",
+      "index": 64,
+      "source": "투구",
+      "translation": "HELM"
+    },
+    {
+      "id": "res/dat/InGame_txt#65",
+      "file": "res/dat/InGame_txt",
+      "index": 65,
+      "source": "갑옷",
+      "translation": "ARMR"
+    },
+    {
+      "id": "res/dat/InGame_txt#66",
+      "file": "res/dat/InGame_txt",
+      "index": 66,
+      "source": "장갑",
+      "translation": "GLOVES"
+    },
+    {
+      "id": "res/dat/InGame_txt#67",
+      "file": "res/dat/InGame_txt",
+      "index": 67,
+      "source": "신발",
+      "translation": "BOOTS"
+    },
+    {
+      "id": "res/dat/InGame_txt#68",
+      "file": "res/dat/InGame_txt",
+      "index": 68,
+      "source": "스피어",
+      "translation": "SPEAR"
+    },
+    {
+      "id": "res/dat/InGame_txt#69",
+      "file": "res/dat/InGame_txt",
+      "index": 69,
+      "source": "스워드",
+      "translation": "SWRD"
+    },
+    {
+      "id": "res/dat/InGame_txt#70",
+      "file": "res/dat/InGame_txt",
+      "index": 70,
+      "source": "나이프",
+      "translation": "DAGGER"
+    },
+    {
+      "id": "res/dat/InGame_txt#71",
+      "file": "res/dat/InGame_txt",
+      "index": 71,
+      "source": "건",
+      "translation": "GUN"
+    },
+    {
+      "id": "res/dat/InGame_txt#72",
+      "file": "res/dat/InGame_txt",
+      "index": 72,
+      "source": "케논",
+      "translation": "CANNON"
+    },
+    {
+      "id": "res/dat/InGame_txt#73",
+      "file": "res/dat/InGame_txt",
+      "index": 73,
+      "source": "다크스톤",
+      "translation": "DARK ORB"
+    },
+    {
+      "id": "res/dat/InGame_txt#74",
+      "file": "res/dat/InGame_txt",
+      "index": 74,
+      "source": "홀리스톤",
+      "translation": "HOLY ORB"
+    },
+    {
+      "id": "res/dat/InGame_txt#75",
+      "file": "res/dat/InGame_txt",
+      "index": 75,
+      "source": "방패",
+      "translation": "SHIELD"
+    },
+    {
+      "id": "res/dat/InGame_txt#76",
+      "file": "res/dat/InGame_txt",
+      "index": 76,
+      "source": "장신구",
+      "translation": "ACCESSORY"
+    },
+    {
+      "id": "res/dat/InGame_txt#77",
+      "file": "res/dat/InGame_txt",
+      "index": 77,
+      "source": "네트워크 대전 전용",
+      "translation": "ONLINE ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#78",
+      "file": "res/dat/InGame_txt",
+      "index": 78,
+      "source": "퀘스트 아이템",
+      "translation": "QUEST ITEM"
+    },
+    {
+      "id": "res/dat/InGame_txt#79",
+      "file": "res/dat/InGame_txt",
+      "index": 79,
+      "source": "의조합설명서",
+      "translation": "CRAFT GUIDE"
+    },
+    {
+      "id": "res/dat/InGame_txt#80",
+      "file": "res/dat/InGame_txt",
+      "index": 80,
+      "source": "성능 +",
+      "translation": "POWER +"
+    },
+    {
+      "id": "res/dat/InGame_txt#81",
+      "file": "res/dat/InGame_txt",
+      "index": 81,
+      "source": "HP +",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#82",
+      "file": "res/dat/InGame_txt",
+      "index": 82,
+      "source": "HPMAX +",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#83",
+      "file": "res/dat/InGame_txt",
+      "index": 83,
+      "source": "HP회복 +",
+      "translation": "HP RECOVERY +"
+    },
+    {
+      "id": "res/dat/InGame_txt#84",
+      "file": "res/dat/InGame_txt",
+      "index": 84,
+      "source": "SP+",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#85",
+      "file": "res/dat/InGame_txt",
+      "index": 85,
+      "source": "물리공격 +",
+      "translation": "P.ATK +"
+    },
+    {
+      "id": "res/dat/InGame_txt#86",
+      "file": "res/dat/InGame_txt",
+      "index": 86,
+      "source": "특수공격 +",
+      "translation": "S.ATK +"
+    },
+    {
+      "id": "res/dat/InGame_txt#87",
+      "file": "res/dat/InGame_txt",
+      "index": 87,
+      "source": "물리방어 +",
+      "translation": "P.DEF +"
+    },
+    {
+      "id": "res/dat/InGame_txt#88",
+      "file": "res/dat/InGame_txt",
+      "index": 88,
+      "source": "특수방어 +",
+      "translation": "S.DEF +"
+    },
+    {
+      "id": "res/dat/InGame_txt#89",
+      "file": "res/dat/InGame_txt",
+      "index": 89,
+      "source": "명중 +",
+      "translation": "ACC +"
+    },
+    {
+      "id": "res/dat/InGame_txt#90",
+      "file": "res/dat/InGame_txt",
+      "index": 90,
+      "source": "회피 +",
+      "translation": "EVA +"
+    },
+    {
+      "id": "res/dat/InGame_txt#91",
+      "file": "res/dat/InGame_txt",
+      "index": 91,
+      "source": "방패 +",
+      "translation": "GUARD +"
+    },
+    {
+      "id": "res/dat/InGame_txt#92",
+      "file": "res/dat/InGame_txt",
+      "index": 92,
+      "source": "기절 +",
+      "translation": "STUN +"
+    },
+    {
+      "id": "res/dat/InGame_txt#93",
+      "file": "res/dat/InGame_txt",
+      "index": 93,
+      "source": "저항 +",
+      "translation": "RES +"
+    },
+    {
+      "id": "res/dat/InGame_txt#94",
+      "file": "res/dat/InGame_txt",
+      "index": 94,
+      "source": "SP소모 -",
+      "translation": "SP COST -"
+    },
+    {
+      "id": "res/dat/InGame_txt#95",
+      "file": "res/dat/InGame_txt",
+      "index": 95,
+      "source": "SP회복 +",
+      "translation": "SP REC +"
+    },
+    {
+      "id": "res/dat/InGame_txt#96",
+      "file": "res/dat/InGame_txt",
+      "index": 96,
+      "source": "HP흡수 +",
+      "translation": "HP DRAIN +"
+    },
+    {
+      "id": "res/dat/InGame_txt#97",
+      "file": "res/dat/InGame_txt",
+      "index": 97,
+      "source": "쿨타임 -",
+      "translation": "COOL -"
+    },
+    {
+      "id": "res/dat/InGame_txt#98",
+      "file": "res/dat/InGame_txt",
+      "index": 98,
+      "source": "방패무시 +",
+      "translation": "SHLD PIERCE +"
+    },
+    {
+      "id": "res/dat/InGame_txt#99",
+      "file": "res/dat/InGame_txt",
+      "index": 99,
+      "source": "지축모드",
+      "translation": "EARTHQUAKE MODE"
+    },
+    {
+      "id": "res/dat/InGame_txt#100",
+      "file": "res/dat/InGame_txt",
+      "index": 100,
+      "source": "은신모드",
+      "translation": "STEALTH MODE"
+    },
+    {
+      "id": "res/dat/InGame_txt#101",
+      "file": "res/dat/InGame_txt",
+      "index": 101,
+      "source": "공격유도",
+      "translation": "AIM ASSIST"
+    },
+    {
+      "id": "res/dat/InGame_txt#102",
+      "file": "res/dat/InGame_txt",
+      "index": 102,
+      "source": "보조스킬해제",
+      "translation": "NO SUPPORT SKILL"
+    },
+    {
+      "id": "res/dat/InGame_txt#103",
+      "file": "res/dat/InGame_txt",
+      "index": 103,
+      "source": "저주치료",
+      "translation": "CURE CURSE"
+    },
+    {
+      "id": "res/dat/InGame_txt#104",
+      "file": "res/dat/InGame_txt",
+      "index": 104,
+      "source": "힘 +",
+      "translation": "STR +"
+    },
+    {
+      "id": "res/dat/InGame_txt#105",
+      "file": "res/dat/InGame_txt",
+      "index": 105,
+      "source": "체력 +",
+      "translation": "VIT +"
+    },
+    {
+      "id": "res/dat/InGame_txt#106",
+      "file": "res/dat/InGame_txt",
+      "index": 106,
+      "source": "정신 +",
+      "translation": "SPI +"
+    },
+    {
+      "id": "res/dat/InGame_txt#107",
+      "file": "res/dat/InGame_txt",
+      "index": 107,
+      "source": "민첩 +",
+      "translation": "AGI +"
+    },
+    {
+      "id": "res/dat/InGame_txt#108",
+      "file": "res/dat/InGame_txt",
+      "index": 108,
+      "source": "로이동",
+      "translation": "MOVE TO"
+    },
+    {
+      "id": "res/dat/InGame_txt#109",
+      "file": "res/dat/InGame_txt",
+      "index": 109,
+      "source": "노멀",
+      "translation": "NORMAL"
+    },
+    {
+      "id": "res/dat/InGame_txt#110",
+      "file": "res/dat/InGame_txt",
+      "index": 110,
+      "source": "레어",
+      "translation": "RARE"
+    },
+    {
+      "id": "res/dat/InGame_txt#111",
+      "file": "res/dat/InGame_txt",
+      "index": 111,
+      "source": "에픽",
+      "translation": "EPIC"
+    },
+    {
+      "id": "res/dat/InGame_txt#112",
+      "file": "res/dat/InGame_txt",
+      "index": 112,
+      "source": "영웅",
+      "translation": "HEROIC"
+    },
+    {
+      "id": "res/dat/InGame_txt#113",
+      "file": "res/dat/InGame_txt",
+      "index": 113,
+      "source": "카드",
+      "translation": "CARD"
+    },
+    {
+      "id": "res/dat/InGame_txt#114",
+      "file": "res/dat/InGame_txt",
+      "index": 114,
+      "source": "조합재료",
+      "translation": "MATERIAL"
+    },
+    {
+      "id": "res/dat/InGame_txt#115",
+      "file": "res/dat/InGame_txt",
+      "index": 115,
+      "source": "조합서",
+      "translation": "RECIPE"
+    },
+    {
+      "id": "res/dat/InGame_txt#116",
+      "file": "res/dat/InGame_txt",
+      "index": 116,
+      "source": "오브",
+      "translation": "ORB"
+    },
+    {
+      "id": "res/dat/InGame_txt#117",
+      "file": "res/dat/InGame_txt",
+      "index": 117,
+      "source": "퀘스트",
+      "translation": "QUEST"
+    },
+    {
+      "id": "res/dat/InGame_txt#118",
+      "file": "res/dat/InGame_txt",
+      "index": 118,
+      "source": "소모품",
+      "translation": "CONSUMABLE"
+    },
+    {
+      "id": "res/dat/InGame_txt#119",
+      "file": "res/dat/InGame_txt",
+      "index": 119,
+      "source": "포인트투자",
+      "translation": "STAT POINTS"
+    },
+    {
+      "id": "res/dat/InGame_txt#120",
+      "file": "res/dat/InGame_txt",
+      "index": 120,
+      "source": "스워드/스피어전용",
+      "translation": "SWRD / SPEAR"
+    },
+    {
+      "id": "res/dat/InGame_txt#121",
+      "file": "res/dat/InGame_txt",
+      "index": 121,
+      "source": "건/라이플전용",
+      "translation": "GUN / RIFLE"
+    },
+    {
+      "id": "res/dat/InGame_txt#122",
+      "file": "res/dat/InGame_txt",
+      "index": 122,
+      "source": "다크/홀리스톤전용",
+      "translation": "DARK / HOLY ORB"
+    },
+    {
+      "id": "res/dat/InGame_txt#123",
+      "file": "res/dat/InGame_txt",
+      "index": 123,
+      "source": "방패전용",
+      "translation": "SHIELD ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#124",
+      "file": "res/dat/InGame_txt",
+      "index": 124,
+      "source": "나이프전용",
+      "translation": "DAGGER ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#125",
+      "file": "res/dat/InGame_txt",
+      "index": 125,
+      "source": "솔티아계열전용",
+      "translation": "SOLTIAN ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#126",
+      "file": "res/dat/InGame_txt",
+      "index": 126,
+      "source": "아스크라계열전용",
+      "translation": "ASKRAN ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#127",
+      "file": "res/dat/InGame_txt",
+      "index": 127,
+      "source": "빈슬롯",
+      "translation": "EMPTY SLOT"
+    },
+    {
+      "id": "res/dat/InGame_txt#128",
+      "file": "res/dat/InGame_txt",
+      "index": 128,
+      "source": "장착가능한 장비가 없습니다.",
+      "translation": "CANNOT EQUIP."
+    },
+    {
+      "id": "res/dat/InGame_txt#129",
+      "file": "res/dat/InGame_txt",
+      "index": 129,
+      "source": "장비장착",
+      "translation": "EQUIP"
+    },
+    {
+      "id": "res/dat/InGame_txt#130",
+      "file": "res/dat/InGame_txt",
+      "index": 130,
+      "source": "장비해제",
+      "translation": "UNEQUIP"
+    },
+    {
+      "id": "res/dat/InGame_txt#131",
+      "file": "res/dat/InGame_txt",
+      "index": 131,
+      "source": "예",
+      "translation": "YES"
+    },
+    {
+      "id": "res/dat/InGame_txt#132",
+      "file": "res/dat/InGame_txt",
+      "index": 132,
+      "source": "아니오",
+      "translation": "NO"
+    },
+    {
+      "id": "res/dat/InGame_txt#133",
+      "file": "res/dat/InGame_txt",
+      "index": 133,
+      "source": "장비를 해제하시겠습니까?",
+      "translation": "UNEQUIP ITEM?"
+    },
+    {
+      "id": "res/dat/InGame_txt#134",
+      "file": "res/dat/InGame_txt",
+      "index": 134,
+      "source": "확인",
+      "translation": "CONFIRM"
+    },
+    {
+      "id": "res/dat/InGame_txt#135",
+      "file": "res/dat/InGame_txt",
+      "index": 135,
+      "source": "장비를 장착할수 없습니다.",
+      "translation": "CANNOT EQUIP."
+    },
+    {
+      "id": "res/dat/InGame_txt#136",
+      "file": "res/dat/InGame_txt",
+      "index": 136,
+      "source": "인벤토리가 부족하여 이벤트를 실행할 수 없습니다.",
+      "translation": "INVENTORY FULL. CANNOT START."
+    },
+    {
+      "id": "res/dat/InGame_txt#137",
+      "file": "res/dat/InGame_txt",
+      "index": 137,
+      "source": "이벤트 실행에 필요한 아이템이 부족합니다.",
+      "translation": "REQUIRED ITEMS MISSING."
+    },
+    {
+      "id": "res/dat/InGame_txt#138",
+      "file": "res/dat/InGame_txt",
+      "index": 138,
+      "source": "소지금이 부족합니다.",
+      "translation": "NOT ENOUGH GOLD."
+    },
+    {
+      "id": "res/dat/InGame_txt#139",
+      "file": "res/dat/InGame_txt",
+      "index": 139,
+      "source": "개수를 설정하세요",
+      "translation": "ENTER A QUANTITY."
+    },
+    {
+      "id": "res/dat/InGame_txt#140",
+      "file": "res/dat/InGame_txt",
+      "index": 140,
+      "source": "구매하시겠습니까?",
+      "translation": "BUY THIS ITEM?"
+    },
+    {
+      "id": "res/dat/InGame_txt#141",
+      "file": "res/dat/InGame_txt",
+      "index": 141,
+      "source": "아이템 구매",
+      "translation": "BUY ITEM"
+    },
+    {
+      "id": "res/dat/InGame_txt#142",
+      "file": "res/dat/InGame_txt",
+      "index": 142,
+      "source": "아이템 판매",
+      "translation": "SELL ITEM"
+    },
+    {
+      "id": "res/dat/InGame_txt#143",
+      "file": "res/dat/InGame_txt",
+      "index": 143,
+      "source": "방어구",
+      "translation": "ARMR"
+    },
+    {
+      "id": "res/dat/InGame_txt#144",
+      "file": "res/dat/InGame_txt",
+      "index": 144,
+      "source": "무기",
+      "translation": "WEAPONS"
+    },
+    {
+      "id": "res/dat/InGame_txt#145",
+      "file": "res/dat/InGame_txt",
+      "index": 145,
+      "source": "기타",
+      "translation": "OTHR"
+    },
+    {
+      "id": "res/dat/InGame_txt#146",
+      "file": "res/dat/InGame_txt",
+      "index": 146,
+      "source": "구매하였습니다",
+      "translation": "PURCHASED."
+    },
+    {
+      "id": "res/dat/InGame_txt#147",
+      "file": "res/dat/InGame_txt",
+      "index": 147,
+      "source": "판매하였습니다",
+      "translation": "SOLD."
+    },
+    {
+      "id": "res/dat/InGame_txt#148",
+      "file": "res/dat/InGame_txt",
+      "index": 148,
+      "source": "메인메뉴",
+      "translation": "MAIN MENU"
+    },
+    {
+      "id": "res/dat/InGame_txt#149",
+      "file": "res/dat/InGame_txt",
+      "index": 149,
+      "source": "OPTION",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#150",
+      "file": "res/dat/InGame_txt",
+      "index": 150,
+      "source": "HELP",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/InGame_txt#151",
+      "file": "res/dat/InGame_txt",
+      "index": 151,
+      "source": "판매하시겠습니까?",
+      "translation": "SELL THIS ITEM?"
+    },
+    {
+      "id": "res/dat/InGame_txt#152",
+      "file": "res/dat/InGame_txt",
+      "index": 152,
+      "source": "저장하시겠습니까?",
+      "translation": "SAVE GAME?"
+    },
+    {
+      "id": "res/dat/InGame_txt#153",
+      "file": "res/dat/InGame_txt",
+      "index": 153,
+      "source": "저장하였습니다",
+      "translation": "SAVED."
+    },
+    {
+      "id": "res/dat/InGame_txt#154",
+      "file": "res/dat/InGame_txt",
+      "index": 154,
+      "source": "아이템을 팔 수 없습니다",
+      "translation": "CANNOT SELL."
+    },
+    {
+      "id": "res/dat/InGame_txt#155",
+      "file": "res/dat/InGame_txt",
+      "index": 155,
+      "source": "귀환장소를 선택하세요",
+      "translation": "CHOOSE RETURN POINT."
+    },
+    {
+      "id": "res/dat/InGame_txt#156",
+      "file": "res/dat/InGame_txt",
+      "index": 156,
+      "source": "토레즈",
+      "translation": "TOREZ"
+    },
+    {
+      "id": "res/dat/InGame_txt#157",
+      "file": "res/dat/InGame_txt",
+      "index": 157,
+      "source": "네오 솔티아",
+      "translation": "NEO SOLTIA"
+    },
+    {
+      "id": "res/dat/InGame_txt#158",
+      "file": "res/dat/InGame_txt",
+      "index": 158,
+      "source": "로우엔",
+      "translation": "LOWEN"
+    },
+    {
+      "id": "res/dat/InGame_txt#159",
+      "file": "res/dat/InGame_txt",
+      "index": 159,
+      "source": "솔티안 주둔지",
+      "translation": "SOLTIAN GARRISON"
+    },
+    {
+      "id": "res/dat/InGame_txt#160",
+      "file": "res/dat/InGame_txt",
+      "index": 160,
+      "source": "아스크란 주둔지",
+      "translation": "ASKRAN GARRISON"
+    },
+    {
+      "id": "res/dat/InGame_txt#161",
+      "file": "res/dat/InGame_txt",
+      "index": 161,
+      "source": "솔티아 은거지",
+      "translation": "SOLTIAN REFUGE"
+    },
+    {
+      "id": "res/dat/InGame_txt#162",
+      "file": "res/dat/InGame_txt",
+      "index": 162,
+      "source": "귀환서를 사용할수 없는 퀘스트 진행중입니다",
+      "translation": "CANNOT RETURN DURING QUEST."
+    },
+    {
+      "id": "res/dat/InGame_txt#163",
+      "file": "res/dat/InGame_txt",
+      "index": 163,
+      "source": "최근 귀환장소로 이동하겠습니까?",
+      "translation": "RETURN TO LAST POINT?"
+    },
+    {
+      "id": "res/dat/InGame_txt#164",
+      "file": "res/dat/InGame_txt",
+      "index": 164,
+      "source": "이미 장착중입니다.",
+      "translation": "ALREADY EQUIPPED."
+    },
+    {
+      "id": "res/dat/InGame_txt#165",
+      "file": "res/dat/InGame_txt",
+      "index": 165,
+      "source": "버릴수 없는 아이템입니다.",
+      "translation": "CANNOT DISCARD."
+    },
+    {
+      "id": "res/dat/InGame_txt#166",
+      "file": "res/dat/InGame_txt",
+      "index": 166,
+      "source": "저장할 수 없는 지역입니다",
+      "translation": "CANNOT SAVE HERE."
+    },
+    {
+      "id": "res/dat/InGame_txt#167",
+      "file": "res/dat/InGame_txt",
+      "index": 167,
+      "source": "인벤토리가 부족합니다",
+      "translation": "INVENTORY FULL."
+    },
+    {
+      "id": "res/dat/InGame_txt#168",
+      "file": "res/dat/InGame_txt",
+      "index": 168,
+      "source": "메인메뉴로 나가시겠습니까?",
+      "translation": "RETURN TO MENU?"
+    },
+    {
+      "id": "res/dat/InGame_txt#169",
+      "file": "res/dat/InGame_txt",
+      "index": 169,
+      "source": "부활하시겠습니까?",
+      "translation": "REVIVE?"
+    },
+    {
+      "id": "res/dat/InGame_txt#170",
+      "file": "res/dat/InGame_txt",
+      "index": 170,
+      "source": "하드코어 모드로;재시작합니다",
+      "translation": "RESTARTING IN HARDCORE MODE"
+    },
+    {
+      "id": "res/dat/InGame_txt#171",
+      "file": "res/dat/InGame_txt",
+      "index": 171,
+      "source": "@투신의",
+      "translation": "@OF THE WAR GOD"
+    },
+    {
+      "id": "res/dat/InGame_txt#172",
+      "file": "res/dat/InGame_txt",
+      "index": 172,
+      "source": "@공명의",
+      "translation": "@OF RESONANCE"
+    },
+    {
+      "id": "res/dat/InGame_txt#173",
+      "file": "res/dat/InGame_txt",
+      "index": 173,
+      "source": "@뇌제의",
+      "translation": "@OF THE THUNDER EMPEROR"
+    },
+    {
+      "id": "res/dat/InGame_txt#174",
+      "file": "res/dat/InGame_txt",
+      "index": 174,
+      "source": "@금강의",
+      "translation": "@OF THE DIAMOND FIST"
+    },
+    {
+      "id": "res/dat/InGame_txt#175",
+      "file": "res/dat/InGame_txt",
+      "index": 175,
+      "source": "@정령의",
+      "translation": "@OF THE SPIRIT"
+    },
+    {
+      "id": "res/dat/InGame_txt#176",
+      "file": "res/dat/InGame_txt",
+      "index": 176,
+      "source": "@사신의",
+      "translation": "@OF THE REAPER"
+    },
+    {
+      "id": "res/dat/InGame_txt#177",
+      "file": "res/dat/InGame_txt",
+      "index": 177,
+      "source": "@영제의",
+      "translation": "@OF THE SPIRIT EMPEROR"
+    },
+    {
+      "id": "res/dat/InGame_txt#178",
+      "file": "res/dat/InGame_txt",
+      "index": 178,
+      "source": "@철벽의",
+      "translation": "@OF THE IRON WALL"
+    },
+    {
+      "id": "res/dat/InGame_txt#179",
+      "file": "res/dat/InGame_txt",
+      "index": 179,
+      "source": "@속박의",
+      "translation": "@OF BINDING"
+    },
+    {
+      "id": "res/dat/InGame_txt#180",
+      "file": "res/dat/InGame_txt",
+      "index": 180,
+      "source": "@결의의",
+      "translation": "@OF RESOLVE"
+    },
+    {
+      "id": "res/dat/InGame_txt#181",
+      "file": "res/dat/InGame_txt",
+      "index": 181,
+      "source": "@현자의",
+      "translation": "@OF THE SAGE"
+    },
+    {
+      "id": "res/dat/InGame_txt#182",
+      "file": "res/dat/InGame_txt",
+      "index": 182,
+      "source": "@마도의",
+      "translation": "@OF SORCERY"
+    },
+    {
+      "id": "res/dat/InGame_txt#183",
+      "file": "res/dat/InGame_txt",
+      "index": 183,
+      "source": "@흡혈의",
+      "translation": "@OF THE VAMPIRE"
+    },
+    {
+      "id": "res/dat/InGame_txt#184",
+      "file": "res/dat/InGame_txt",
+      "index": 184,
+      "source": "@폭풍의",
+      "translation": "@OF THE STORM"
+    },
+    {
+      "id": "res/dat/InGame_txt#185",
+      "file": "res/dat/InGame_txt",
+      "index": 185,
+      "source": "@직격의",
+      "translation": "@OF THE DIRECT STRIKE"
+    },
+    {
+      "id": "res/dat/InGame_txt#186",
+      "file": "res/dat/InGame_txt",
+      "index": 186,
+      "source": "인벤토리가 가득 차서 사용할 수 없습니다.",
+      "translation": "INVENTORY FULL."
+    },
+    {
+      "id": "res/dat/InGame_txt#187",
+      "file": "res/dat/InGame_txt",
+      "index": 187,
+      "source": "무기제한 없음",
+      "translation": "ANY WEAPON"
+    },
+    {
+      "id": "res/dat/InGame_txt#188",
+      "file": "res/dat/InGame_txt",
+      "index": 188,
+      "source": "전사계열 전용",
+      "translation": "WARRIOR ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#189",
+      "file": "res/dat/InGame_txt",
+      "index": 189,
+      "source": "총기계열 전용",
+      "translation": "GUNNER ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#190",
+      "file": "res/dat/InGame_txt",
+      "index": 190,
+      "source": "법사계열 전용",
+      "translation": "MAGE ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#191",
+      "file": "res/dat/InGame_txt",
+      "index": 191,
+      "source": "방어계열 전용",
+      "translation": "DEFENDER ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#192",
+      "file": "res/dat/InGame_txt",
+      "index": 192,
+      "source": "회피계열 전용",
+      "translation": "EVASION ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#193",
+      "file": "res/dat/InGame_txt",
+      "index": 193,
+      "source": "솔티안 전용",
+      "translation": "SOLTIAN ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#194",
+      "file": "res/dat/InGame_txt",
+      "index": 194,
+      "source": "아스크란 전용",
+      "translation": "ASKRAN ONLY"
+    },
+    {
+      "id": "res/dat/InGame_txt#195",
+      "file": "res/dat/InGame_txt",
+      "index": 195,
+      "source": "오브를 입수 하였습니다.",
+      "translation": "ORB OBTAINED."
+    },
+    {
+      "id": "res/dat/InGame_txt#196",
+      "file": "res/dat/InGame_txt",
+      "index": 196,
+      "source": "사용할수 없는 지역입니다.",
+      "translation": "CANNOT USE HERE."
+    },
+    {
+      "id": "res/dat/InGame_txt#197",
+      "file": "res/dat/InGame_txt",
+      "index": 197,
+      "source": "정식판으로 등록을 해야만 무제한으로 게임을 진행할수있습니다",
+      "translation": "REGISTER FOR FULL GAME."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#0",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 0,
+      "source": "바람의 광전사들.;쌍검과 대검을 사용하여;폭풍처럼 적진을 유린한다.",
+      "translation": "WINDLIKE BERSERKERS.;TWIN BLADES AND GREATSWORDS;SWEEP THROUGH ENEMY RANKS."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#1",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 1,
+      "source": "가디언의 힘과 거대한 검으로;모든 것을 파괴하는;솔티아의 사신들.",
+      "translation": "SOLTIAS REAPERS.;THEY WIELD GUARDIAN POWER;AND A MIGHTY SWORD,;CRUSHING ALL IN THEIR PATH."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#2",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 2,
+      "source": "크루세이더의 유지를 이은;어둠속의 암살자들.;그 의지를 막을자는 없다.",
+      "translation": "SHADOW ASSASSINS, HEIRS TO;THE CRUSADERS LEGACY.;NONE CAN STOP THEIR WILL."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#3",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 3,
+      "source": "과거 리파이너를 지키던;성스러운 호위 기사.;최전방에서 아군을 수호한다.",
+      "translation": "HOLY KNIGHTS WHO GUARDED;THE REFINERS. THEY DEFEND;ALLIES ON THE FRONT LINE."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#4",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 4,
+      "source": "최후의 가디언, 홀리 코어를;극한까지 다룰 수 있는;신비한 힘의 지배자.",
+      "translation": "THE LAST GUARDIANS.;MASTERS OF HOLY CORE POWER;AND A MYSTERIOUS FORCE."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#5",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 5,
+      "source": "아스크라의 용맹한 기사들.;방패를 차고 돌진하여;대검으로 적진을 휘젓는다.",
+      "translation": "ASKRAS BRAVE KNIGHTS.;THEY CHARGE WITH SHIELDS;AND SWING GREAT SWORDS."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#6",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 6,
+      "source": "2개의 건과 거대한 검으로;그 어떤 상황도 헤쳐나가는;아스크라의 절대 파괴자.;",
+      "translation": "ASKRAS ULTIMATE DESTROYERS.;TWIN GUNS, A MASSIVE SWORD;READY FOR ANY SITUATION."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#7",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 7,
+      "source": "어두운 세계의 영웅.;빠르고 정확하게 움직여;목표의 숨통을 끊는다.",
+      "translation": "HEROES OF THE DARK WORLD.;QUICK, PRECISE MOVEMENTS;STRIKE DOWN THEIR TARGETS."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#8",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 8,
+      "source": "레갈리스 교를 지탱하던;성스러운 기사단.;공방 양면에 부족함이 없다.",
+      "translation": "HOLY KNIGHTS OF REGALIS.;THE ORDER EXCELS IN BOTH;ATTACK AND DEFENSE."
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#9",
+      "file": "res/menu/chatacterbody_txt",
+      "index": 9,
+      "source": "전란 속에 만들어진;모든 총기를 다루는,;전쟁이 낳은 비운의 천재.",
+      "translation": "WAR-BORN TRAGIC GENIUS,;SKILLED WITH EVERY FIREARM."
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#0",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 0,
+      "source": "버서커",
+      "translation": "BERSERKER"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#1",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 1,
+      "source": "데스나이트",
+      "translation": "DEATH KNIGHT"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#2",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 2,
+      "source": "섀도우워커",
+      "translation": "SHADOW WALKER"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#3",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 3,
+      "source": "가디언나이트",
+      "translation": "GUARDIAN KNIGHT"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#4",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 4,
+      "source": "소울마스터",
+      "translation": "SOUL MASTER"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#5",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 5,
+      "source": "어썰트워리어",
+      "translation": "ASSAULT WARRIOR"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#6",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 6,
+      "source": "디스럽터",
+      "translation": "DISRUPTOR"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#7",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 7,
+      "source": "건슬링어",
+      "translation": "GUNSLINGER"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#8",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 8,
+      "source": "나이트템플러",
+      "translation": "KNIGHT TEMPLAR"
+    },
+    {
+      "id": "res/menu/chatacterhader_txt#9",
+      "file": "res/menu/chatacterhader_txt",
+      "index": 9,
+      "source": "크레이지암즈",
+      "translation": "CRAZY ARMS"
+    },
+    {
+      "id": "res/menu/countrybody_txt#0",
+      "file": "res/menu/countrybody_txt",
+      "index": 0,
+      "source": "오래 전 에레보스 대륙에서 탈출했던 천공 대륙 솔티아의 주민들.;가디언의 소멸 이후;붕괴하는 고향에서;탈출해, 대지에서;안식처를 찾는다.",
+      "translation": "LONG AGO, SOLTIA;LEFT EREBUS FOR;THE SKY. WHEN;THE GUARDIAN;VANISHED, SOLTIA;BEGAN TO FALL.;ITS PEOPLE FLED;TO EARTH BELOW."
+    },
+    {
+      "id": "res/menu/countrybody_txt#1",
+      "file": "res/menu/countrybody_txt",
+      "index": 1,
+      "source": "수 백년간 발전된 총기로 분쟁을 반복해온 전란의 대륙 에레보스는,;아스크라 왕국에;의해 통일된 이후 그 이름 아래 통일된 평화를 꿈꾼다.",
+      "translation": "EREBUS FOUGHT;FOR CENTURIES;OVER ADVANCED;FIREARMS. UNITED;UNDER ASKRA, ITS;PEOPLE NOW SEEK;LASTING PEACE."
+    },
+    {
+      "id": "res/menu/countryheader_txt#0",
+      "file": "res/menu/countryheader_txt",
+      "index": 0,
+      "source": "네오솔티아",
+      "translation": "NEO SOLTIA"
+    },
+    {
+      "id": "res/menu/countryheader_txt#1",
+      "file": "res/menu/countryheader_txt",
+      "index": 1,
+      "source": "아스크라",
+      "translation": "ASKRA"
+    },
+    {
+      "id": "res/menu/countryheader_txt#2",
+      "file": "res/menu/countryheader_txt",
+      "index": 2,
+      "source": "네오솔티아-케이",
+      "translation": "NEO SOLTIA - KEI"
+    },
+    {
+      "id": "res/menu/countryheader_txt#3",
+      "file": "res/menu/countryheader_txt",
+      "index": 3,
+      "source": "아스크라-리츠",
+      "translation": "ASKRA - RITS"
+    },
+    {
+      "id": "res/menu/helpbody_txt#0",
+      "file": "res/menu/helpbody_txt",
+      "index": 0,
+      "source": "이동: 방향키 2 4 6 8;조사/대화: EZ, 확인;게임메뉴: CLR;;주무기콤보: EZ, 확인;보조무기콤보: 7;단축키: 1 3 9 0 #;(회복아이템&스킬 등록);이벤트 스킵: #;미니맵 보기: *;퀵세이브: 통화키;;붉은게이지: 체력(HP);파란게이지: 기력(SP);노란게이지: 경험치",
+      "translation": "MOVE: 2, 4, 6, 8;TALK: EZ;MENU: CLR;;MAIN COMBO: EZ;OFFHAND COMBO: 7;SHORTCUTS: 1, 3, 9, 0, #;(SET ITEMS OR SKILLS);SKIP EVENT: #;MAP: *;QUICK SAVE: CALL KEY;;RED: HP;BLUE: SP;YELLOW: EXP"
+    },
+    {
+      "id": "res/menu/helpbody_txt#1",
+      "file": "res/menu/helpbody_txt",
+      "index": 1,
+      "source": "천공의 대륙 솔티아에서;대지로 내려온 마법 국가.;플레이어 캐릭터는 [케이];;버서커:;양손검&단검을 사용하는;회피형 전사;;데스나이트:;양손검&다크마법을 사용하는;공격형 전사;;섀도우워커:;단검&다크마법을 사용하는;회피형 법사;;가디언나이트:;창&방패&홀리마법을 사용하는;방어형 전사;;소울마스터:;다크&홀리마법을 사용하는;공격형 법사",
+      "translation": "SOLTIA FELL FROM THE SKY;TO THE LAND BELOW.;PLAYER: KEI;;BERSERKER:;FAST, DUAL-WIELD FIGHTER;;DEATH KNIGHT:;HEAVY ATTACKER, DARK MAGIC;;SHADOW WALKER:;QUICK DAGGER MAGE;;GUARDIAN KNIGHT:;SPEAR, SHIELD, HOLY MAGIC;;SOUL MASTER:;DARK AND HOLY MAGIC"
+    },
+    {
+      "id": "res/menu/helpbody_txt#2",
+      "file": "res/menu/helpbody_txt",
+      "index": 2,
+      "source": "총기가 크게 발달한;에레보스 대륙의 통일 왕국.;플레이어 캐릭터는 [리츠];;어썰트워리어:;창&방패&양손검을 사용하는;균형형 전사;;디스럽터:;양손검&건을 사용하는;기교형 전사;;건슬링어:;단검&건을 사용하는;회피형 사수;;나이트템플러:;창&방패&라이플을 사용하는;방어형 전사;;크레이지암즈:;건&라이플을 사용하는;공격형 사수",
+      "translation": "ASKRA UNITED EREBUS;WITH ADVANCED GUNS.;PLAYER: RITS;;ASSAULT WARRIOR:;BALANCED, ALL-ROUND FIGHTER;;DISRUPTOR:;SWORD AND GUN SPECIALIST;;GUNSLINGER:;FAST, EVASIVE SHOOTER;;KNIGHT TEMPLAR:;RIFLE AND SHIELD DEFENDER;;CRAZY ARMS:;DUAL-GUN ATTACKER"
+    },
+    {
+      "id": "res/menu/helpbody_txt#3",
+      "file": "res/menu/helpbody_txt",
+      "index": 3,
+      "source": "1레벨에 4포인트 주어지는;스탯포인트로 능력치를;육성할 수 있습니다.;;힘, 정신, 체력, 민첩을;각각 증가시킬 수 있으며,;100 이상부터는;스탯포인트가 2 소모됩니다.;힘: 물리공격력 증가;정신: 마법&총기 공격력 증가;체력: 최대HP와 방어력 증가;민첩: 회피율 증가;;각 스탯은 특정한 비율로;다음의 최종 능력치를;증가시켜 줍니다.;ATT1: 주무기 공격력;ATT2: 보조무기 공격력;P.DEF: 물리 방어력;M.DEF: 마법&총기 방어력;CRI: 기절능력, 최대255;RES: 기절저항, 최대255;ACC: 명중능력, 최대 255;DOD: 회피능력, 최대 255",
+      "translation": "GAIN 4 STAT PTS AT LV 1.;;STR: PHYSICAL ATK;SPI: MAGIC AND GUN ATK;VIT: MAX HP AND DEF;AGI: EVASION;;STATS ALSO AFFECT:;ATK1: MAIN WEAPON;ATK2: OFFHAND;P.DEF: PHYSICAL DEF;M.DEF: MAGIC / GUN DEF;CRI: STUN;RES: STUN RESIST;ACC: ACCURACY;DOD: EVASION"
+    },
+    {
+      "id": "res/menu/helpbody_txt#4",
+      "file": "res/menu/helpbody_txt",
+      "index": 4,
+      "source": "스킬은 레벨업을 통해 얻는;스킬포인트를 사용하여;육성할 수 있습니다.;;스킬포인트는;20레벨까지 매 1포인트씩,;20레벨 이후부터 2레벨에;1포인트씩 주어집니다.;각 클래스는;주무기의 액티브스킬 6개,;보조무기의 액티브스킬 6개,;패시브스킬 6개를 가집니다.;;각 무기의 첫 액티브스킬은;육성하면 기본 콤보의 횟수,;또는 공격력이 증가합니다.;나머지 액티브 스킬은;1 3 9 0 # 단축키에 등록해;사용 가능합니다.;;패시브 스킬은;따로 사용하지 않아도;항상 효과가 적용됩니다.;",
+      "translation": "EARN SKILL PTS BY LEVELING.;GET 1 PT PER LV TO 20,;THEN 1 PT EVERY 2 LVS.;;EACH CLASS HAS 6 MAIN,;6 OFFHAND, AND 6 PASSIVE SKILLS.;;UPGRADE THE FIRST WEAPON SKILL;TO IMPROVE BASIC COMBOS.;;ASSIGN ACTIVE SKILLS TO;KEYS 1, 3, 9, 0, OR #.;;PASSIVE SKILLS ARE ALWAYS ON."
+    },
+    {
+      "id": "res/menu/helpbody_txt#5",
+      "file": "res/menu/helpbody_txt",
+      "index": 5,
+      "source": "모든 장비는 성능과 옵션,;코스츔이 각각 다르며;착용에 필요한 요구레벨과;요구명예를 갖습니다.;;주인공의 레벨이;장비의 요구레벨보다 낮으면;착용이 불가능하며,;주인공의 명예 등급이;장비의 요구명예보다 낮으면;착용은 가능하지만;성능이 크게 저하됩니다.;;명예는 네트워크 대전을 통해;올릴 수 있습니다.",
+      "translation": "GEAR HAS UNIQUE STATS,;OPTIONS, AND APPEARANCE.;;MEET THE REQUIRED LEVEL;TO EQUIP AN ITEM.;;A LOW HONOR RANK REDUCES;THE ITEMS PERFORMANCE.;;EARN HONOR IN ONLINE BATTLES."
+    },
+    {
+      "id": "res/menu/helpbody_txt#6",
+      "file": "res/menu/helpbody_txt",
+      "index": 6,
+      "source": "플레이어는 사냥을 하고;캐릭터를 육성하며 퀘스트를;수행해 나가야 합니다.;;솔티아와 아스크라는 각각;케이와 리츠를 조작해;다른 시나리오를 따라;메인 퀘스트가 진행됩니다.;또한 마을에서는 시나리오와;별개인 다양한 서브퀘스트를;수행할 수 있으며,;서브퀘스트는 메인퀘스트보다;높은 보상을 제공합니다.",
+      "translation": "HUNT, GROW STRONGER,;AND COMPLETE QUESTS.;;KEI AND RITS FOLLOW;SEPARATE MAIN STORIES.;;TOWNS ALSO OFFER SIDE QUESTS;WITH EXTRA REWARDS."
+    },
+    {
+      "id": "res/menu/helpbody_txt#7",
+      "file": "res/menu/helpbody_txt",
+      "index": 7,
+      "source": "제련:;대장장이에게서 실행.;제련석을 많이 사용할수록;성공확률이 증가하며,;실패할 경우 장비가;파괴되거나 제련도가;초기화될 수 있습니다.;;일반조합:;대장장이에게서 실행.;각 마을의 대장장이는;조합할 수 있는 물품이;각각 다르며;일정량의 재료를 들여;조합할 수 있습니다.;;특수조합:;대장장이에게서 실행.;조합서(1회용)와 재료를;사용하여 조합하며,;실패확률이 존재합니다.;실패시 조합서 이외의;재료가 소실됩니다.;;오브결합:;네트워크 창고에 올려진;오브와 장비를 결합 가능.;한장비에 한종류의 오브만;결합할 수 있습니다.;실패확률이 존재하며;실패시 장비가 파괴되거나;결합된 오브가 사라집니다.;조합, 또는 제련중에;게임을 종료하시면;세이브 파일이 손상될 수;있으니 주의하세요.",
+      "translation": "REFINE:;USE STONES AT A BLACKSMITH.;MORE STONES IMPROVE YOUR ODDS.;FAILURE MAY DAMAGE GEAR.;;CRAFT:;USE LOCAL MATERIALS OR RECIPES.;SPECIAL CRAFTING CAN FAIL.;FAILED CRAFTS USE THE MATERIALS.;;ORB FUSION:;ADD ONE ORB TO A GEAR ITEM.;FAILURE MAY BREAK GEAR OR REMOVE IT.;;KEEP THE GAME RUNNING;DURING CRAFTING OR REFINING."
+    },
+    {
+      "id": "res/menu/helpbody_txt#8",
+      "file": "res/menu/helpbody_txt",
+      "index": 8,
+      "source": "육성한 캐릭터를 네트워크에;등록하여 다른 플레이어와;대전을 하거나 아이템을;거래할 수 있습니다.;;네트워크 창고 메뉴에서;육성한 슬롯을 선택하면;등록이 가능합니다.;자신이 선택한 국가의;길드원이 되어 공성전,;길드전에 참여하거나,;;3인파티를 만들어;7개 유적지에 위치한;보스를 사냥하는 것도;가능합니다.;단,;다른 국가의 캐릭터로는;길드 활동을 할 수 없으며,;다른 국가의 점령지에서는;보스 사냥을 할 수 없습니다.",
+      "translation": "REGISTER A CHARACTER ONLINE;TO BATTLE OR TRADE.;;JOIN YOUR NATIONS GUILD;FOR SIEGES AND GUILD WARS.;;FORM A PARTY OF 3;TO HUNT BOSSES AT 7 RUINS.;;GUILD PLAY IS LIMITED;TO YOUR OWN NATION."
+    },
+    {
+      "id": "res/menu/helpbody_txt#9",
+      "file": "res/menu/helpbody_txt",
+      "index": 9,
+      "source": "네트워크 창고에서는;캐릭터 등록 이외에도,;;아이템을 창고에 올려서;다른 슬롯으로 옮기거나;;캐시아이템을 구매하여;싱글 플레이를 더욱;원활하게 할 수 있습니다.;네트워크 등록한 데이터를;다시 싱글로 복구하시면;아이템데이터와 퀘스트;진행상황이 초기화되니,;;핸드폰 교체시에는;아이템을 모두 창고로;올리시기 바랍니다.;",
+      "translation": "STORE ITEMS ONLINE;TO MOVE THEM BETWEEN SLOTS.;;PREMIUM ITEMS CAN HELP;IN SINGLE-PLAYER MODE.;;RESTORING ONLINE DATA;RESETS ITEMS AND QUESTS.;;BEFORE CHANGING PHONES,;STORE ALL ITEMS ONLINE."
+    },
+    {
+      "id": "res/menu/helpbody_txt#10",
+      "file": "res/menu/helpbody_txt",
+      "index": 10,
+      "source": "영웅서기3 대지의성흔;VER 1.0.4;;일렉트로닉아츠코리아(유);;홈페이지;WWW.EAMOBILE.CO.KR;;E-메일;SUPPORT@;EAMOBILE.CO.KR;;전화문의:02-565-8062",
+      "translation": "HEROES LORE 3:;MARK OF THE EARTH;VER 1.0.4;;ELECTRONIC ARTS KOREA LTD.;;WWW.EAMOBILE.CO.KR;SUPPORT@EAMOBILE.CO.KR;PHONE: +82-2-565-8062"
+    },
+    {
+      "id": "res/menu/helpbody_txt#11",
+      "file": "res/menu/helpbody_txt",
+      "index": 11,
+      "source": "제품명;영웅서기3 대지의성흔;;이용등급;전체이용가;;제작연원일;2008. 9. 5.;상호;일렉트로닉아츠코리아(유);;등급분류번호;제 MO-080912-003호;;게임제작업등록번호;제 1999-000001호",
+      "translation": "TITLE: HEROES LORE 3;MARK OF THE EARTH;;AGE: ALL AGES;RELEASED: 2008-09-05;RATING ID: MO-080912-003;REGISTRATION: 1999-000001"
+    },
+    {
+      "id": "res/menu/helpbody_txt#12",
+      "file": "res/menu/helpbody_txt",
+      "index": 12,
+      "source": "멀티태스킹 지원;단말 기종일 경우;통화중일 때 자동으로;일시정지가 되지 않습니다.",
+      "translation": "CALLS DO NOT PAUSE;THE GAME ON SOME DEVICES."
+    },
+    {
+      "id": "res/menu/helphader_txt#0",
+      "file": "res/menu/helphader_txt",
+      "index": 0,
+      "source": "기본 인터페이스",
+      "translation": "BASIC CONTROLS"
+    },
+    {
+      "id": "res/menu/helphader_txt#1",
+      "file": "res/menu/helphader_txt",
+      "index": 1,
+      "source": "네오 솔티아 소개",
+      "translation": "ABOUT NEO SOLTIA"
+    },
+    {
+      "id": "res/menu/helphader_txt#2",
+      "file": "res/menu/helphader_txt",
+      "index": 2,
+      "source": "아스크라 소개",
+      "translation": "ABOUT ASKRA"
+    },
+    {
+      "id": "res/menu/helphader_txt#3",
+      "file": "res/menu/helphader_txt",
+      "index": 3,
+      "source": "능력치 육성",
+      "translation": "ATTRIBUTES"
+    },
+    {
+      "id": "res/menu/helphader_txt#4",
+      "file": "res/menu/helphader_txt",
+      "index": 4,
+      "source": "스킬 육성",
+      "translation": "SKILLS"
+    },
+    {
+      "id": "res/menu/helphader_txt#5",
+      "file": "res/menu/helphader_txt",
+      "index": 5,
+      "source": "캐릭터의 장비",
+      "translation": "GEAR"
+    },
+    {
+      "id": "res/menu/helphader_txt#6",
+      "file": "res/menu/helphader_txt",
+      "index": 6,
+      "source": "퀘스트의 진행",
+      "translation": "QUESTS"
+    },
+    {
+      "id": "res/menu/helphader_txt#7",
+      "file": "res/menu/helphader_txt",
+      "index": 7,
+      "source": "아이템의 조합",
+      "translation": "CRAFTING"
+    },
+    {
+      "id": "res/menu/helphader_txt#8",
+      "file": "res/menu/helphader_txt",
+      "index": 8,
+      "source": "네트워크 플레이",
+      "translation": "ONLINE PLAY"
+    },
+    {
+      "id": "res/menu/helphader_txt#9",
+      "file": "res/menu/helphader_txt",
+      "index": 9,
+      "source": "네트워크 상점",
+      "translation": "ONLINE STORAGE"
+    },
+    {
+      "id": "res/menu/helphader_txt#10",
+      "file": "res/menu/helphader_txt",
+      "index": 10,
+      "source": "게임 문의",
+      "translation": "CONTACT SUPPORT"
+    },
+    {
+      "id": "res/menu/helphader_txt#11",
+      "file": "res/menu/helphader_txt",
+      "index": 11,
+      "source": "게임 심의 정보",
+      "translation": "GAME RATING INFORMATION"
+    },
+    {
+      "id": "res/menu/helphader_txt#12",
+      "file": "res/menu/helphader_txt",
+      "index": 12,
+      "source": "멀티태스킹",
+      "translation": "MULTITASKING"
+    },
+    {
+      "id": "res/menu/menu_txt#0",
+      "file": "res/menu/menu_txt",
+      "index": 0,
+      "source": "게임시작",
+      "translation": "START GAME"
+    },
+    {
+      "id": "res/menu/menu_txt#1",
+      "file": "res/menu/menu_txt",
+      "index": 1,
+      "source": "네트워크창고",
+      "translation": "NETWORK STORAGE"
+    },
+    {
+      "id": "res/menu/menu_txt#2",
+      "file": "res/menu/menu_txt",
+      "index": 2,
+      "source": "환경설정",
+      "translation": "SETTINGS"
+    },
+    {
+      "id": "res/menu/menu_txt#3",
+      "file": "res/menu/menu_txt",
+      "index": 3,
+      "source": "게임방법",
+      "translation": "HOW TO PLAY"
+    },
+    {
+      "id": "res/menu/menu_txt#4",
+      "file": "res/menu/menu_txt",
+      "index": 4,
+      "source": "커뮤니티",
+      "translation": "COMMUNITY"
+    },
+    {
+      "id": "res/menu/menu_txt#5",
+      "file": "res/menu/menu_txt",
+      "index": 5,
+      "source": "게임종료",
+      "translation": "EXIT GAME"
+    },
+    {
+      "id": "res/menu/menu_txt#6",
+      "file": "res/menu/menu_txt",
+      "index": 6,
+      "source": "솔티아",
+      "translation": "SOLTIA"
+    },
+    {
+      "id": "res/menu/menu_txt#7",
+      "file": "res/menu/menu_txt",
+      "index": 7,
+      "source": "아스크라",
+      "translation": "ASKRA"
+    },
+    {
+      "id": "res/menu/menu_txt#8",
+      "file": "res/menu/menu_txt",
+      "index": 8,
+      "source": "민간인",
+      "translation": "CIVILIAN"
+    },
+    {
+      "id": "res/menu/menu_txt#9",
+      "file": "res/menu/menu_txt",
+      "index": 9,
+      "source": "의병",
+      "translation": "MILITIA"
+    },
+    {
+      "id": "res/menu/menu_txt#10",
+      "file": "res/menu/menu_txt",
+      "index": 10,
+      "source": "방어군",
+      "translation": "DEFENSE FORCE"
+    },
+    {
+      "id": "res/menu/menu_txt#11",
+      "file": "res/menu/menu_txt",
+      "index": 11,
+      "source": "캡틴",
+      "translation": "CAPTAIN"
+    },
+    {
+      "id": "res/menu/menu_txt#12",
+      "file": "res/menu/menu_txt",
+      "index": 12,
+      "source": "템플러",
+      "translation": "TEMPLAR"
+    },
+    {
+      "id": "res/menu/menu_txt#13",
+      "file": "res/menu/menu_txt",
+      "index": 13,
+      "source": "엘리트",
+      "translation": "ELITE"
+    },
+    {
+      "id": "res/menu/menu_txt#14",
+      "file": "res/menu/menu_txt",
+      "index": 14,
+      "source": "메이져",
+      "translation": "MAJOR"
+    },
+    {
+      "id": "res/menu/menu_txt#15",
+      "file": "res/menu/menu_txt",
+      "index": 15,
+      "source": "제네랄",
+      "translation": "GENERAL"
+    },
+    {
+      "id": "res/menu/menu_txt#16",
+      "file": "res/menu/menu_txt",
+      "index": 16,
+      "source": "마스터",
+      "translation": "MASTER"
+    },
+    {
+      "id": "res/menu/menu_txt#17",
+      "file": "res/menu/menu_txt",
+      "index": 17,
+      "source": "민간인",
+      "translation": "CIVILIAN"
+    },
+    {
+      "id": "res/menu/menu_txt#18",
+      "file": "res/menu/menu_txt",
+      "index": 18,
+      "source": "용병",
+      "translation": "MERCENARY"
+    },
+    {
+      "id": "res/menu/menu_txt#19",
+      "file": "res/menu/menu_txt",
+      "index": 19,
+      "source": "정규병",
+      "translation": "REGULAR SOLDIER"
+    },
+    {
+      "id": "res/menu/menu_txt#20",
+      "file": "res/menu/menu_txt",
+      "index": 20,
+      "source": "십인장",
+      "translation": "CENTURION"
+    },
+    {
+      "id": "res/menu/menu_txt#21",
+      "file": "res/menu/menu_txt",
+      "index": 21,
+      "source": "정규기사",
+      "translation": "KNIGHT"
+    },
+    {
+      "id": "res/menu/menu_txt#22",
+      "file": "res/menu/menu_txt",
+      "index": 22,
+      "source": "일급기사",
+      "translation": "FIRST-CLASS KNIGHT"
+    },
+    {
+      "id": "res/menu/menu_txt#23",
+      "file": "res/menu/menu_txt",
+      "index": 23,
+      "source": "기사단장",
+      "translation": "KNIGHT COMMANDER"
+    },
+    {
+      "id": "res/menu/menu_txt#24",
+      "file": "res/menu/menu_txt",
+      "index": 24,
+      "source": "근위대장",
+      "translation": "ROYAL GUARD COMMANDER"
+    },
+    {
+      "id": "res/menu/menu_txt#25",
+      "file": "res/menu/menu_txt",
+      "index": 25,
+      "source": "사령관",
+      "translation": "COMMANDER"
+    },
+    {
+      "id": "res/menu/title_txt#0",
+      "file": "res/menu/title_txt",
+      "index": 0,
+      "source": "VER 0.0.1",
+      "translation": "VER 1.0.4"
+    },
+    {
+      "id": "res/menu/title_txt#1",
+      "file": "res/menu/title_txt",
+      "index": 1,
+      "source": "PRESS ANY KEY",
+      "translation": "PRESS ANY KEY"
+    }
+  ]
+}

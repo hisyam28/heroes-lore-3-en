@@ -1,0 +1,7652 @@
+{
+  "nested_asset": "assets/hero3_fixed.zip",
+  "game_jar": "0002865E.jar",
+  "entry_count": 1274,
+  "uncompressed_bytes": 21922804,
+  "entries": [
+    {
+      "path": "binary.mod",
+      "size": 519952,
+      "compressed_size": 280562,
+      "crc32": "f9c891ae"
+    },
+    {
+      "path": "META-INF/MANIFEST.MF",
+      "size": 71,
+      "compressed_size": 71,
+      "crc32": "0c925006"
+    },
+    {
+      "path": "res/boss/boss0_cif",
+      "size": 9162,
+      "compressed_size": 2311,
+      "crc32": "89f808b0"
+    },
+    {
+      "path": "res/boss/boss1_cif",
+      "size": 7019,
+      "compressed_size": 2320,
+      "crc32": "0758a34d"
+    },
+    {
+      "path": "res/boss/boss2_cif",
+      "size": 8071,
+      "compressed_size": 3835,
+      "crc32": "3db18355"
+    },
+    {
+      "path": "res/boss/boss3_cif",
+      "size": 12953,
+      "compressed_size": 6301,
+      "crc32": "a2dac906"
+    },
+    {
+      "path": "res/boss/boss4_cif",
+      "size": 44978,
+      "compressed_size": 11401,
+      "crc32": "eb73537c"
+    },
+    {
+      "path": "res/boss/boss9000_bm",
+      "size": 13782,
+      "compressed_size": 8218,
+      "crc32": "2f6685d6"
+    },
+    {
+      "path": "res/boss/boss9001_bm",
+      "size": 11318,
+      "compressed_size": 5611,
+      "crc32": "3a2f051f"
+    },
+    {
+      "path": "res/boss/boss9002_bm",
+      "size": 13836,
+      "compressed_size": 8872,
+      "crc32": "78d044d0"
+    },
+    {
+      "path": "res/boss/boss9003_bm",
+      "size": 13147,
+      "compressed_size": 7054,
+      "crc32": "529640a2"
+    },
+    {
+      "path": "res/boss/boss9004_bm",
+      "size": 10495,
+      "compressed_size": 5911,
+      "crc32": "146c1cac"
+    },
+    {
+      "path": "res/boss/bossh_dat",
+      "size": 508,
+      "compressed_size": 345,
+      "crc32": "b691e669"
+    },
+    {
+      "path": "res/boss/boss_dat",
+      "size": 508,
+      "compressed_size": 337,
+      "crc32": "e6d70c8b"
+    },
+    {
+      "path": "res/comm/attmsg_bm",
+      "size": 2360,
+      "compressed_size": 509,
+      "crc32": "f3f36379"
+    },
+    {
+      "path": "res/comm/inmenu_bm",
+      "size": 3191,
+      "compressed_size": 644,
+      "crc32": "88a74393"
+    },
+    {
+      "path": "res/comm/item_bm",
+      "size": 6426,
+      "compressed_size": 3671,
+      "crc32": "bd08ece5"
+    },
+    {
+      "path": "res/comm/number_bm",
+      "size": 5914,
+      "compressed_size": 866,
+      "crc32": "c13dadba"
+    },
+    {
+      "path": "res/comm/shadow_bm",
+      "size": 1232,
+      "compressed_size": 422,
+      "crc32": "e99f8b7c"
+    },
+    {
+      "path": "res/comm/ui_bm",
+      "size": 1982,
+      "compressed_size": 481,
+      "crc32": "be2da1c1"
+    },
+    {
+      "path": "res/dat/char_dat",
+      "size": 348,
+      "compressed_size": 206,
+      "crc32": "e7e5a4c0"
+    },
+    {
+      "path": "res/dat/des_dat",
+      "size": 824,
+      "compressed_size": 552,
+      "crc32": "7af41f4f"
+    },
+    {
+      "path": "res/dat/droph_dat",
+      "size": 3080,
+      "compressed_size": 2295,
+      "crc32": "d9e87ecc"
+    },
+    {
+      "path": "res/dat/drop_dat",
+      "size": 3080,
+      "compressed_size": 2726,
+      "crc32": "66ce1dfe"
+    },
+    {
+      "path": "res/dat/enemyg_dat",
+      "size": 3542,
+      "compressed_size": 788,
+      "crc32": "fe6bd2af"
+    },
+    {
+      "path": "res/dat/enemyh_dat",
+      "size": 5495,
+      "compressed_size": 2921,
+      "crc32": "5411669f"
+    },
+    {
+      "path": "res/dat/enemy_dat",
+      "size": 5495,
+      "compressed_size": 2929,
+      "crc32": "171e32b9"
+    },
+    {
+      "path": "res/dat/getitem_dat",
+      "size": 400,
+      "compressed_size": 405,
+      "crc32": "2442d95d"
+    },
+    {
+      "path": "res/dat/i0_dat",
+      "size": 1600,
+      "compressed_size": 876,
+      "crc32": "07d11d74"
+    },
+    {
+      "path": "res/dat/i10_dat",
+      "size": 972,
+      "compressed_size": 638,
+      "crc32": "05f5a785"
+    },
+    {
+      "path": "res/dat/i11_dat",
+      "size": 892,
+      "compressed_size": 570,
+      "crc32": "cc7d1c0a"
+    },
+    {
+      "path": "res/dat/i12_dat",
+      "size": 1319,
+      "compressed_size": 532,
+      "crc32": "4e394f3c"
+    },
+    {
+      "path": "res/dat/i13_dat",
+      "size": 2174,
+      "compressed_size": 960,
+      "crc32": "aa16d99d"
+    },
+    {
+      "path": "res/dat/i14_dat",
+      "size": 1984,
+      "compressed_size": 998,
+      "crc32": "61faa2a7"
+    },
+    {
+      "path": "res/dat/i15_dat",
+      "size": 7424,
+      "compressed_size": 6912,
+      "crc32": "961908c0"
+    },
+    {
+      "path": "res/dat/i16_dat",
+      "size": 727,
+      "compressed_size": 491,
+      "crc32": "22b61d86"
+    },
+    {
+      "path": "res/dat/i17_dat",
+      "size": 1140,
+      "compressed_size": 811,
+      "crc32": "a7e54777"
+    },
+    {
+      "path": "res/dat/i18_dat",
+      "size": 1314,
+      "compressed_size": 809,
+      "crc32": "75ef40ff"
+    },
+    {
+      "path": "res/dat/i1_dat",
+      "size": 1818,
+      "compressed_size": 1045,
+      "crc32": "2941cf9d"
+    },
+    {
+      "path": "res/dat/i2_dat",
+      "size": 1656,
+      "compressed_size": 943,
+      "crc32": "a4aaf186"
+    },
+    {
+      "path": "res/dat/i3_dat",
+      "size": 1674,
+      "compressed_size": 942,
+      "crc32": "d5e873a4"
+    },
+    {
+      "path": "res/dat/i4_dat",
+      "size": 1006,
+      "compressed_size": 649,
+      "crc32": "6d4279df"
+    },
+    {
+      "path": "res/dat/i5_dat",
+      "size": 1022,
+      "compressed_size": 697,
+      "crc32": "3f298546"
+    },
+    {
+      "path": "res/dat/i6_dat",
+      "size": 1028,
+      "compressed_size": 681,
+      "crc32": "6e1454f9"
+    },
+    {
+      "path": "res/dat/i7_dat",
+      "size": 962,
+      "compressed_size": 645,
+      "crc32": "e54b677e"
+    },
+    {
+      "path": "res/dat/i8_dat",
+      "size": 1004,
+      "compressed_size": 699,
+      "crc32": "19ab08f7"
+    },
+    {
+      "path": "res/dat/i9_dat",
+      "size": 976,
+      "compressed_size": 644,
+      "crc32": "61cb5a4e"
+    },
+    {
+      "path": "res/dat/InGame_txt",
+      "size": 2511,
+      "compressed_size": 1675,
+      "crc32": "695d9200"
+    },
+    {
+      "path": "res/dat/pe000_pa",
+      "size": 81,
+      "compressed_size": 86,
+      "crc32": "d1288646"
+    },
+    {
+      "path": "res/dat/pe001_pa",
+      "size": 101,
+      "compressed_size": 106,
+      "crc32": "46851d2d"
+    },
+    {
+      "path": "res/dat/pe002_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "c020e739"
+    },
+    {
+      "path": "res/dat/pe003_pa",
+      "size": 133,
+      "compressed_size": 138,
+      "crc32": "f0d86167"
+    },
+    {
+      "path": "res/dat/pe004_pa",
+      "size": 77,
+      "compressed_size": 82,
+      "crc32": "51533458"
+    },
+    {
+      "path": "res/dat/pe005_pa",
+      "size": 73,
+      "compressed_size": 78,
+      "crc32": "8e80462a"
+    },
+    {
+      "path": "res/dat/pe006_pa",
+      "size": 65,
+      "compressed_size": 70,
+      "crc32": "8932c422"
+    },
+    {
+      "path": "res/dat/pe007_pa",
+      "size": 73,
+      "compressed_size": 78,
+      "crc32": "44275082"
+    },
+    {
+      "path": "res/dat/pe008_pa",
+      "size": 89,
+      "compressed_size": 94,
+      "crc32": "8c4b7702"
+    },
+    {
+      "path": "res/dat/pe009_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "0b7a8310"
+    },
+    {
+      "path": "res/dat/pe010_pa",
+      "size": 81,
+      "compressed_size": 86,
+      "crc32": "3e918ad0"
+    },
+    {
+      "path": "res/dat/pe011_pa",
+      "size": 69,
+      "compressed_size": 74,
+      "crc32": "1b060acf"
+    },
+    {
+      "path": "res/dat/pe012_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "a7186ae3"
+    },
+    {
+      "path": "res/dat/pe013_pa",
+      "size": 105,
+      "compressed_size": 110,
+      "crc32": "a6698fe5"
+    },
+    {
+      "path": "res/dat/pe014_pa",
+      "size": 33,
+      "compressed_size": 38,
+      "crc32": "f9dd9e54"
+    },
+    {
+      "path": "res/dat/pe015_pa",
+      "size": 65,
+      "compressed_size": 70,
+      "crc32": "e1803775"
+    },
+    {
+      "path": "res/dat/pe016_pa",
+      "size": 17,
+      "compressed_size": 19,
+      "crc32": "f8c61dba"
+    },
+    {
+      "path": "res/dat/pe017_pa",
+      "size": 97,
+      "compressed_size": 102,
+      "crc32": "82d7eefb"
+    },
+    {
+      "path": "res/dat/pe018_pa",
+      "size": 61,
+      "compressed_size": 58,
+      "crc32": "ae0ee7bc"
+    },
+    {
+      "path": "res/dat/pe019_pa",
+      "size": 61,
+      "compressed_size": 62,
+      "crc32": "42ae036f"
+    },
+    {
+      "path": "res/dat/pe020_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "7431a478"
+    },
+    {
+      "path": "res/dat/pe021_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "f373be1a"
+    },
+    {
+      "path": "res/dat/pe022_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "9dab94f1"
+    },
+    {
+      "path": "res/dat/pe023_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "48376bd5"
+    },
+    {
+      "path": "res/dat/pe024_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "ba8d825b"
+    },
+    {
+      "path": "res/dat/pe025_pa",
+      "size": 17,
+      "compressed_size": 19,
+      "crc32": "4a47920d"
+    },
+    {
+      "path": "res/dat/pe026_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "ccf585ec"
+    },
+    {
+      "path": "res/dat/pe027_pa",
+      "size": 69,
+      "compressed_size": 74,
+      "crc32": "9d1fe885"
+    },
+    {
+      "path": "res/dat/pe028_pa",
+      "size": 61,
+      "compressed_size": 66,
+      "crc32": "ff726e82"
+    },
+    {
+      "path": "res/dat/pe029_pa",
+      "size": 73,
+      "compressed_size": 78,
+      "crc32": "e4d39ba2"
+    },
+    {
+      "path": "res/dat/pe030_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "59077a5a"
+    },
+    {
+      "path": "res/dat/pe031_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "51aa2dce"
+    },
+    {
+      "path": "res/dat/pe032_pa",
+      "size": 45,
+      "compressed_size": 48,
+      "crc32": "ffe0994c"
+    },
+    {
+      "path": "res/dat/pe033_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "ab1ee2f3"
+    },
+    {
+      "path": "res/dat/pe034_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "b94f3500"
+    },
+    {
+      "path": "res/dat/pe035_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "34f23c9c"
+    },
+    {
+      "path": "res/dat/pe036_pa",
+      "size": 69,
+      "compressed_size": 74,
+      "crc32": "e9a7d5ee"
+    },
+    {
+      "path": "res/dat/pe037_pa",
+      "size": 85,
+      "compressed_size": 90,
+      "crc32": "50470faa"
+    },
+    {
+      "path": "res/dat/pe038_pa",
+      "size": 85,
+      "compressed_size": 90,
+      "crc32": "789aeb42"
+    },
+    {
+      "path": "res/dat/pe039_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "d8abc0b5"
+    },
+    {
+      "path": "res/dat/pe040_pa",
+      "size": 37,
+      "compressed_size": 42,
+      "crc32": "2bda4a79"
+    },
+    {
+      "path": "res/dat/pe041_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "29d9fc01"
+    },
+    {
+      "path": "res/dat/pe042_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "81788b0a"
+    },
+    {
+      "path": "res/dat/pe043_pa",
+      "size": 85,
+      "compressed_size": 90,
+      "crc32": "826ad26c"
+    },
+    {
+      "path": "res/dat/pe044_pa",
+      "size": 97,
+      "compressed_size": 102,
+      "crc32": "924f4749"
+    },
+    {
+      "path": "res/dat/pe045_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "c48fd8dd"
+    },
+    {
+      "path": "res/dat/pe046_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "efe0c4e2"
+    },
+    {
+      "path": "res/dat/pe047_pa",
+      "size": 101,
+      "compressed_size": 106,
+      "crc32": "71bbbadc"
+    },
+    {
+      "path": "res/dat/pe048_pa",
+      "size": 81,
+      "compressed_size": 86,
+      "crc32": "b6705c7c"
+    },
+    {
+      "path": "res/dat/pe049_pa",
+      "size": 85,
+      "compressed_size": 90,
+      "crc32": "f4444ff9"
+    },
+    {
+      "path": "res/dat/pe050_pa",
+      "size": 93,
+      "compressed_size": 98,
+      "crc32": "0021773c"
+    },
+    {
+      "path": "res/dat/pe051_pa",
+      "size": 97,
+      "compressed_size": 102,
+      "crc32": "50f30bc4"
+    },
+    {
+      "path": "res/dat/pe052_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "94f9c03b"
+    },
+    {
+      "path": "res/dat/pe053_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "186f276d"
+    },
+    {
+      "path": "res/dat/pe054_pa",
+      "size": 73,
+      "compressed_size": 78,
+      "crc32": "35a4470a"
+    },
+    {
+      "path": "res/dat/pe055_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "0216157d"
+    },
+    {
+      "path": "res/dat/pe056_pa",
+      "size": 97,
+      "compressed_size": 102,
+      "crc32": "f0c19238"
+    },
+    {
+      "path": "res/dat/pe057_pa",
+      "size": 109,
+      "compressed_size": 114,
+      "crc32": "8ddd428c"
+    },
+    {
+      "path": "res/dat/ph000_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "15de351c"
+    },
+    {
+      "path": "res/dat/ph001_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "7be0ccd4"
+    },
+    {
+      "path": "res/dat/ph002_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "e2933434"
+    },
+    {
+      "path": "res/dat/ph003_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "308900f6"
+    },
+    {
+      "path": "res/dat/ph004_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "3915a635"
+    },
+    {
+      "path": "res/dat/ph005_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "87e2e996"
+    },
+    {
+      "path": "res/dat/ph006_pa",
+      "size": 21,
+      "compressed_size": 23,
+      "crc32": "07d63311"
+    },
+    {
+      "path": "res/dat/ph007_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "a5be4ea7"
+    },
+    {
+      "path": "res/dat/ph008_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "17db855b"
+    },
+    {
+      "path": "res/dat/ph009_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "4e8ab63e"
+    },
+    {
+      "path": "res/dat/ph010_pa",
+      "size": 45,
+      "compressed_size": 48,
+      "crc32": "b6dfbc4a"
+    },
+    {
+      "path": "res/dat/ph011_pa",
+      "size": 45,
+      "compressed_size": 48,
+      "crc32": "2b84c788"
+    },
+    {
+      "path": "res/dat/ph012_pa",
+      "size": 25,
+      "compressed_size": 27,
+      "crc32": "b6094c72"
+    },
+    {
+      "path": "res/dat/ph013_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "f3491432"
+    },
+    {
+      "path": "res/dat/ph014_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "457ceb1b"
+    },
+    {
+      "path": "res/dat/ph015_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "efec9e18"
+    },
+    {
+      "path": "res/dat/ph016_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "a3265951"
+    },
+    {
+      "path": "res/dat/ph017_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "9a4d5ea5"
+    },
+    {
+      "path": "res/dat/ph018_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "44e43186"
+    },
+    {
+      "path": "res/dat/ph019_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "fadbbdd8"
+    },
+    {
+      "path": "res/dat/ph020_pa",
+      "size": 25,
+      "compressed_size": 27,
+      "crc32": "424254ae"
+    },
+    {
+      "path": "res/dat/ph021_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "0c127ea8"
+    },
+    {
+      "path": "res/dat/ph022_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "bdf02e48"
+    },
+    {
+      "path": "res/dat/ph023_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "f7dcbb48"
+    },
+    {
+      "path": "res/dat/ph024_pa",
+      "size": 49,
+      "compressed_size": 52,
+      "crc32": "b3b3506b"
+    },
+    {
+      "path": "res/dat/ph025_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "872c1c1a"
+    },
+    {
+      "path": "res/dat/ph026_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "8b878009"
+    },
+    {
+      "path": "res/dat/ph027_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "5d50c303"
+    },
+    {
+      "path": "res/dat/ph028_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "71c8489b"
+    },
+    {
+      "path": "res/dat/ph029_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "8c831033"
+    },
+    {
+      "path": "res/dat/ph030_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "b2b3d56c"
+    },
+    {
+      "path": "res/dat/ph031_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "1ed2a57d"
+    },
+    {
+      "path": "res/dat/ph032_pa",
+      "size": 53,
+      "compressed_size": 56,
+      "crc32": "3062a241"
+    },
+    {
+      "path": "res/dat/ph033_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "a755903b"
+    },
+    {
+      "path": "res/dat/ph034_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "22ee3947"
+    },
+    {
+      "path": "res/dat/ph035_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "6c42d7ca"
+    },
+    {
+      "path": "res/dat/ph036_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "9489c61a"
+    },
+    {
+      "path": "res/dat/ph037_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "8a1be25e"
+    },
+    {
+      "path": "res/dat/ph038_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "e186dba3"
+    },
+    {
+      "path": "res/dat/ph039_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "5227f38b"
+    },
+    {
+      "path": "res/dat/ph040_pa",
+      "size": 53,
+      "compressed_size": 54,
+      "crc32": "8c3b5c5b"
+    },
+    {
+      "path": "res/dat/ph041_pa",
+      "size": 53,
+      "compressed_size": 56,
+      "crc32": "2663e369"
+    },
+    {
+      "path": "res/dat/ph042_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "576bf0e4"
+    },
+    {
+      "path": "res/dat/ph043_pa",
+      "size": 49,
+      "compressed_size": 52,
+      "crc32": "16f0ae90"
+    },
+    {
+      "path": "res/dat/ph044_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "9631fd75"
+    },
+    {
+      "path": "res/dat/ph045_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "b98fe56e"
+    },
+    {
+      "path": "res/dat/ph046_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "f270472d"
+    },
+    {
+      "path": "res/dat/ph047_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "e6dd12e5"
+    },
+    {
+      "path": "res/dat/ph048_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "d5445886"
+    },
+    {
+      "path": "res/dat/ph049_pa",
+      "size": 53,
+      "compressed_size": 58,
+      "crc32": "7455f9a6"
+    },
+    {
+      "path": "res/dat/ph050_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "ec052e12"
+    },
+    {
+      "path": "res/dat/ph051_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "d82bea7d"
+    },
+    {
+      "path": "res/dat/ph052_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "4734b8dd"
+    },
+    {
+      "path": "res/dat/ph053_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "fe7cf0b6"
+    },
+    {
+      "path": "res/dat/ph054_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "9469877b"
+    },
+    {
+      "path": "res/dat/ph055_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "5e8b3a46"
+    },
+    {
+      "path": "res/dat/ph056_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "d5800629"
+    },
+    {
+      "path": "res/dat/ph057_pa",
+      "size": 97,
+      "compressed_size": 100,
+      "crc32": "3f379d69"
+    },
+    {
+      "path": "res/dat/ph058_pa",
+      "size": 57,
+      "compressed_size": 62,
+      "crc32": "52c77b83"
+    },
+    {
+      "path": "res/dat/ph059_pa",
+      "size": 73,
+      "compressed_size": 78,
+      "crc32": "717887b8"
+    },
+    {
+      "path": "res/dat/ph060_pa",
+      "size": 53,
+      "compressed_size": 53,
+      "crc32": "86209dae"
+    },
+    {
+      "path": "res/dat/ph061_pa",
+      "size": 33,
+      "compressed_size": 38,
+      "crc32": "e6f7df3c"
+    },
+    {
+      "path": "res/dat/ph062_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "84b1376d"
+    },
+    {
+      "path": "res/dat/ph063_pa",
+      "size": 101,
+      "compressed_size": 100,
+      "crc32": "88b92502"
+    },
+    {
+      "path": "res/dat/ph064_pa",
+      "size": 49,
+      "compressed_size": 50,
+      "crc32": "ff79d25f"
+    },
+    {
+      "path": "res/dat/ph065_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "6b2f1983"
+    },
+    {
+      "path": "res/dat/ph066_pa",
+      "size": 33,
+      "compressed_size": 38,
+      "crc32": "13673498"
+    },
+    {
+      "path": "res/dat/ph067_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "6b2f1983"
+    },
+    {
+      "path": "res/dat/ph068_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "c3567cd5"
+    },
+    {
+      "path": "res/dat/ph069_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "c5f09ccd"
+    },
+    {
+      "path": "res/dat/ph070_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "22e33505"
+    },
+    {
+      "path": "res/dat/ph071_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "272d2993"
+    },
+    {
+      "path": "res/dat/ph072_pa",
+      "size": 29,
+      "compressed_size": 34,
+      "crc32": "8edb9888"
+    },
+    {
+      "path": "res/dat/ph073_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "7d3991be"
+    },
+    {
+      "path": "res/dat/ph074_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "8bde4c1a"
+    },
+    {
+      "path": "res/dat/ph075_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "4742d812"
+    },
+    {
+      "path": "res/dat/ph076_pa",
+      "size": 41,
+      "compressed_size": 44,
+      "crc32": "409837b2"
+    },
+    {
+      "path": "res/dat/ph077_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "7e64a037"
+    },
+    {
+      "path": "res/dat/ph078_pa",
+      "size": 45,
+      "compressed_size": 48,
+      "crc32": "255a9f3b"
+    },
+    {
+      "path": "res/dat/ph079_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "4dae0f46"
+    },
+    {
+      "path": "res/dat/ph080_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "aa8bc7b6"
+    },
+    {
+      "path": "res/dat/ph081_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "aeaeb00b"
+    },
+    {
+      "path": "res/dat/ph082_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "232ed734"
+    },
+    {
+      "path": "res/dat/ph083_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "a91f3fc5"
+    },
+    {
+      "path": "res/dat/ph084_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "711210c2"
+    },
+    {
+      "path": "res/dat/ph085_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "4e96b2e2"
+    },
+    {
+      "path": "res/dat/ph086_pa",
+      "size": 41,
+      "compressed_size": 46,
+      "crc32": "d22ed82a"
+    },
+    {
+      "path": "res/dat/ph087_pa",
+      "size": 77,
+      "compressed_size": 82,
+      "crc32": "8ccbc29c"
+    },
+    {
+      "path": "res/dat/ph088_pa",
+      "size": 77,
+      "compressed_size": 82,
+      "crc32": "0a551f19"
+    },
+    {
+      "path": "res/dat/ph089_pa",
+      "size": 85,
+      "compressed_size": 90,
+      "crc32": "53d4a372"
+    },
+    {
+      "path": "res/dat/ph090_pa",
+      "size": 61,
+      "compressed_size": 66,
+      "crc32": "e34d7702"
+    },
+    {
+      "path": "res/dat/ph091_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "d045b609"
+    },
+    {
+      "path": "res/dat/ph092_pa",
+      "size": 61,
+      "compressed_size": 66,
+      "crc32": "a6d7cca6"
+    },
+    {
+      "path": "res/dat/ph093_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "438697b7"
+    },
+    {
+      "path": "res/dat/ph094_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "c4fdf641"
+    },
+    {
+      "path": "res/dat/ph095_pa",
+      "size": 65,
+      "compressed_size": 70,
+      "crc32": "49ceb5a1"
+    },
+    {
+      "path": "res/dat/ph096_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "9aa0bd9a"
+    },
+    {
+      "path": "res/dat/ph097_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "46047b68"
+    },
+    {
+      "path": "res/dat/ph098_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "7cebd6e4"
+    },
+    {
+      "path": "res/dat/ph099_pa",
+      "size": 65,
+      "compressed_size": 70,
+      "crc32": "7ff9b3da"
+    },
+    {
+      "path": "res/dat/ph100_pa",
+      "size": 81,
+      "compressed_size": 86,
+      "crc32": "4f0b8bd7"
+    },
+    {
+      "path": "res/dat/ph101_pa",
+      "size": 45,
+      "compressed_size": 48,
+      "crc32": "80d70c8f"
+    },
+    {
+      "path": "res/dat/ph102_pa",
+      "size": 21,
+      "compressed_size": 24,
+      "crc32": "4594b7f8"
+    },
+    {
+      "path": "res/dat/ph103_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "7a828a62"
+    },
+    {
+      "path": "res/dat/ph104_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "4078adf6"
+    },
+    {
+      "path": "res/dat/ph105_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "f72a7674"
+    },
+    {
+      "path": "res/dat/ph106_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "4aa4df20"
+    },
+    {
+      "path": "res/dat/ph107_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "3387c676"
+    },
+    {
+      "path": "res/dat/ph108_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "c997e287"
+    },
+    {
+      "path": "res/dat/ph109_pa",
+      "size": 69,
+      "compressed_size": 69,
+      "crc32": "d3afa780"
+    },
+    {
+      "path": "res/dat/ph110_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "647b3f17"
+    },
+    {
+      "path": "res/dat/ph111_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "e3428a3a"
+    },
+    {
+      "path": "res/dat/ph112_pa",
+      "size": 65,
+      "compressed_size": 70,
+      "crc32": "0861b8cf"
+    },
+    {
+      "path": "res/dat/ph113_pa",
+      "size": 65,
+      "compressed_size": 66,
+      "crc32": "9d44448f"
+    },
+    {
+      "path": "res/dat/ph114_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "9c1af4ae"
+    },
+    {
+      "path": "res/dat/ph115_pa",
+      "size": 65,
+      "compressed_size": 70,
+      "crc32": "84d0b6af"
+    },
+    {
+      "path": "res/dat/ph116_pa",
+      "size": 49,
+      "compressed_size": 50,
+      "crc32": "414d23ae"
+    },
+    {
+      "path": "res/dat/ph117_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "c9cec8c1"
+    },
+    {
+      "path": "res/dat/ph118_pa",
+      "size": 37,
+      "compressed_size": 42,
+      "crc32": "b1e60542"
+    },
+    {
+      "path": "res/dat/ph119_pa",
+      "size": 37,
+      "compressed_size": 40,
+      "crc32": "e7a27a7d"
+    },
+    {
+      "path": "res/dat/ph120_pa",
+      "size": 13,
+      "compressed_size": 15,
+      "crc32": "439b7481"
+    },
+    {
+      "path": "res/dat/ph121_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "f61ddf04"
+    },
+    {
+      "path": "res/dat/ph122_pa",
+      "size": 37,
+      "compressed_size": 42,
+      "crc32": "c1082eb3"
+    },
+    {
+      "path": "res/dat/ph123_pa",
+      "size": 29,
+      "compressed_size": 31,
+      "crc32": "8c027509"
+    },
+    {
+      "path": "res/dat/ph124_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "5f1294ed"
+    },
+    {
+      "path": "res/dat/ph125_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "c6e0cec2"
+    },
+    {
+      "path": "res/dat/ph126_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "d52a6997"
+    },
+    {
+      "path": "res/dat/ph127_pa",
+      "size": 61,
+      "compressed_size": 63,
+      "crc32": "b899c8fe"
+    },
+    {
+      "path": "res/dat/ph128_pa",
+      "size": 69,
+      "compressed_size": 74,
+      "crc32": "7559138e"
+    },
+    {
+      "path": "res/dat/ph129_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "d408520a"
+    },
+    {
+      "path": "res/dat/ph130_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "5614aead"
+    },
+    {
+      "path": "res/dat/ph131_pa",
+      "size": 49,
+      "compressed_size": 54,
+      "crc32": "c1c95e7a"
+    },
+    {
+      "path": "res/dat/ph132_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "fbb4c8b7"
+    },
+    {
+      "path": "res/dat/ph133_pa",
+      "size": 33,
+      "compressed_size": 36,
+      "crc32": "57bd72bb"
+    },
+    {
+      "path": "res/dat/ph134_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "ce7bf086"
+    },
+    {
+      "path": "res/dat/ph135_pa",
+      "size": 21,
+      "compressed_size": 23,
+      "crc32": "6cc9f2a2"
+    },
+    {
+      "path": "res/dat/ph136_pa",
+      "size": 13,
+      "compressed_size": 15,
+      "crc32": "2003708b"
+    },
+    {
+      "path": "res/dat/ph137_pa",
+      "size": 13,
+      "compressed_size": 15,
+      "crc32": "1965106f"
+    },
+    {
+      "path": "res/dat/ph138_pa",
+      "size": 17,
+      "compressed_size": 20,
+      "crc32": "b04a3698"
+    },
+    {
+      "path": "res/dat/ph139_pa",
+      "size": 17,
+      "compressed_size": 19,
+      "crc32": "b6bf61d3"
+    },
+    {
+      "path": "res/dat/ph140_pa",
+      "size": 17,
+      "compressed_size": 19,
+      "crc32": "4b0f3911"
+    },
+    {
+      "path": "res/dat/ph141_pa",
+      "size": 17,
+      "compressed_size": 20,
+      "crc32": "94c087b3"
+    },
+    {
+      "path": "res/dat/ph142_pa",
+      "size": 29,
+      "compressed_size": 31,
+      "crc32": "7e8a1d7e"
+    },
+    {
+      "path": "res/dat/ph143_pa",
+      "size": 29,
+      "compressed_size": 31,
+      "crc32": "d20ca840"
+    },
+    {
+      "path": "res/dat/ph144_pa",
+      "size": 17,
+      "compressed_size": 19,
+      "crc32": "791c76ec"
+    },
+    {
+      "path": "res/dat/ph145_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "e4186a9d"
+    },
+    {
+      "path": "res/dat/ph146_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "3bfa7152"
+    },
+    {
+      "path": "res/dat/ph147_pa",
+      "size": 13,
+      "compressed_size": 16,
+      "crc32": "4b8f73ff"
+    },
+    {
+      "path": "res/dat/ph148_pa",
+      "size": 21,
+      "compressed_size": 23,
+      "crc32": "6e260e25"
+    },
+    {
+      "path": "res/dat/ph149_pa",
+      "size": 13,
+      "compressed_size": 15,
+      "crc32": "924e079c"
+    },
+    {
+      "path": "res/dat/ph150_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "443690be"
+    },
+    {
+      "path": "res/dat/ph151_pa",
+      "size": 45,
+      "compressed_size": 50,
+      "crc32": "cfad9547"
+    },
+    {
+      "path": "res/dat/ph152_pa",
+      "size": 29,
+      "compressed_size": 32,
+      "crc32": "3771d97b"
+    },
+    {
+      "path": "res/dat/ph153_pa",
+      "size": 45,
+      "compressed_size": 48,
+      "crc32": "9e5f6a55"
+    },
+    {
+      "path": "res/dat/ph154_pa",
+      "size": 17,
+      "compressed_size": 19,
+      "crc32": "4c314ed9"
+    },
+    {
+      "path": "res/dat/ph155_pa",
+      "size": 29,
+      "compressed_size": 31,
+      "crc32": "76759da2"
+    },
+    {
+      "path": "res/dat/ph156_pa",
+      "size": 61,
+      "compressed_size": 59,
+      "crc32": "b8d02512"
+    },
+    {
+      "path": "res/dat/ph157_pa",
+      "size": 25,
+      "compressed_size": 28,
+      "crc32": "7ed1d2c1"
+    },
+    {
+      "path": "res/dat/quest_00_dat",
+      "size": 4851,
+      "compressed_size": 2542,
+      "crc32": "79fa8e41"
+    },
+    {
+      "path": "res/dat/quest_01_dat",
+      "size": 4216,
+      "compressed_size": 2439,
+      "crc32": "a26bea67"
+    },
+    {
+      "path": "res/dat/quest_10_dat",
+      "size": 5360,
+      "compressed_size": 2621,
+      "crc32": "fb8c06de"
+    },
+    {
+      "path": "res/dat/quest_11_dat",
+      "size": 4269,
+      "compressed_size": 2543,
+      "crc32": "1441996c"
+    },
+    {
+      "path": "res/dat/shoph_dat",
+      "size": 72,
+      "compressed_size": 77,
+      "crc32": "bfee1c18"
+    },
+    {
+      "path": "res/dat/shop_dat",
+      "size": 72,
+      "compressed_size": 77,
+      "crc32": "ee7b00f9"
+    },
+    {
+      "path": "res/dat/smithh_dat",
+      "size": 896,
+      "compressed_size": 732,
+      "crc32": "498614ce"
+    },
+    {
+      "path": "res/dat/smith_dat",
+      "size": 896,
+      "compressed_size": 851,
+      "crc32": "0f255215"
+    },
+    {
+      "path": "res/enemy/e000_cif",
+      "size": 1697,
+      "compressed_size": 836,
+      "crc32": "b1f3c620"
+    },
+    {
+      "path": "res/enemy/e001_cif",
+      "size": 1278,
+      "compressed_size": 264,
+      "crc32": "2c39fa7c"
+    },
+    {
+      "path": "res/enemy/e002_cif",
+      "size": 1817,
+      "compressed_size": 420,
+      "crc32": "0096f13e"
+    },
+    {
+      "path": "res/enemy/e003_cif",
+      "size": 1435,
+      "compressed_size": 460,
+      "crc32": "f5681663"
+    },
+    {
+      "path": "res/enemy/e004_cif",
+      "size": 4180,
+      "compressed_size": 1500,
+      "crc32": "a7685c8e"
+    },
+    {
+      "path": "res/enemy/e005_cif",
+      "size": 1247,
+      "compressed_size": 422,
+      "crc32": "bad70d29"
+    },
+    {
+      "path": "res/enemy/e006_cif",
+      "size": 2137,
+      "compressed_size": 844,
+      "crc32": "8f0db577"
+    },
+    {
+      "path": "res/enemy/e007_cif",
+      "size": 2193,
+      "compressed_size": 921,
+      "crc32": "f4354d50"
+    },
+    {
+      "path": "res/enemy/e008_cif",
+      "size": 8804,
+      "compressed_size": 3702,
+      "crc32": "eae3d2a0"
+    },
+    {
+      "path": "res/enemy/e009_cif",
+      "size": 5013,
+      "compressed_size": 720,
+      "crc32": "2c858e88"
+    },
+    {
+      "path": "res/enemy/e0100_bm",
+      "size": 1265,
+      "compressed_size": 814,
+      "crc32": "995c8113"
+    },
+    {
+      "path": "res/enemy/e0101_bm",
+      "size": 2584,
+      "compressed_size": 1502,
+      "crc32": "b59c0cfb"
+    },
+    {
+      "path": "res/enemy/e0102_bm",
+      "size": 1418,
+      "compressed_size": 885,
+      "crc32": "4a84d2b6"
+    },
+    {
+      "path": "res/enemy/e0103_bm",
+      "size": 635,
+      "compressed_size": 418,
+      "crc32": "ece7a2fc"
+    },
+    {
+      "path": "res/enemy/e0104_bm",
+      "size": 4251,
+      "compressed_size": 2785,
+      "crc32": "06df55d1"
+    },
+    {
+      "path": "res/enemy/e0105_bm",
+      "size": 2710,
+      "compressed_size": 1430,
+      "crc32": "9f62dec8"
+    },
+    {
+      "path": "res/enemy/e0106_bm",
+      "size": 1463,
+      "compressed_size": 871,
+      "crc32": "e1ca7b33"
+    },
+    {
+      "path": "res/enemy/e0107_bm",
+      "size": 2160,
+      "compressed_size": 1493,
+      "crc32": "7e1d74e9"
+    },
+    {
+      "path": "res/enemy/e0108_bm",
+      "size": 1941,
+      "compressed_size": 1306,
+      "crc32": "c313e06d"
+    },
+    {
+      "path": "res/enemy/e0109_bm",
+      "size": 2909,
+      "compressed_size": 1645,
+      "crc32": "0cec6f79"
+    },
+    {
+      "path": "res/enemy/e010_cif",
+      "size": 2846,
+      "compressed_size": 1312,
+      "crc32": "7d2223df"
+    },
+    {
+      "path": "res/enemy/e0110_bm",
+      "size": 1060,
+      "compressed_size": 833,
+      "crc32": "f0710788"
+    },
+    {
+      "path": "res/enemy/e0111_bm",
+      "size": 3596,
+      "compressed_size": 2701,
+      "crc32": "7787dffd"
+    },
+    {
+      "path": "res/enemy/e0112_bm",
+      "size": 2031,
+      "compressed_size": 1573,
+      "crc32": "f895ca31"
+    },
+    {
+      "path": "res/enemy/e0113_bm",
+      "size": 2867,
+      "compressed_size": 1884,
+      "crc32": "a6f2c790"
+    },
+    {
+      "path": "res/enemy/e0114_bm",
+      "size": 3889,
+      "compressed_size": 2401,
+      "crc32": "a4604877"
+    },
+    {
+      "path": "res/enemy/e0115_bm",
+      "size": 396,
+      "compressed_size": 260,
+      "crc32": "4bdd8d49"
+    },
+    {
+      "path": "res/enemy/e0116_bm",
+      "size": 4485,
+      "compressed_size": 2744,
+      "crc32": "41546556"
+    },
+    {
+      "path": "res/enemy/e0117_bm",
+      "size": 2245,
+      "compressed_size": 1226,
+      "crc32": "5afe8f6c"
+    },
+    {
+      "path": "res/enemy/e0118_bm",
+      "size": 2298,
+      "compressed_size": 1542,
+      "crc32": "78c6dffe"
+    },
+    {
+      "path": "res/enemy/e0119_bm",
+      "size": 4433,
+      "compressed_size": 2894,
+      "crc32": "1d277835"
+    },
+    {
+      "path": "res/enemy/e011_cif",
+      "size": 8858,
+      "compressed_size": 2979,
+      "crc32": "71d07eb6"
+    },
+    {
+      "path": "res/enemy/e0120_bm",
+      "size": 1677,
+      "compressed_size": 1090,
+      "crc32": "319191af"
+    },
+    {
+      "path": "res/enemy/e0121_bm",
+      "size": 3033,
+      "compressed_size": 1771,
+      "crc32": "9228356f"
+    },
+    {
+      "path": "res/enemy/e0122_bm",
+      "size": 4803,
+      "compressed_size": 2360,
+      "crc32": "f2f1bbde"
+    },
+    {
+      "path": "res/enemy/e0123_bm",
+      "size": 5435,
+      "compressed_size": 3225,
+      "crc32": "7a603d49"
+    },
+    {
+      "path": "res/enemy/e0125_bm",
+      "size": 897,
+      "compressed_size": 421,
+      "crc32": "449f8b11"
+    },
+    {
+      "path": "res/enemy/e0126_bm",
+      "size": 572,
+      "compressed_size": 300,
+      "crc32": "9bdd612f"
+    },
+    {
+      "path": "res/enemy/e0127_bm",
+      "size": 361,
+      "compressed_size": 246,
+      "crc32": "6285407c"
+    },
+    {
+      "path": "res/enemy/e012_cif",
+      "size": 5244,
+      "compressed_size": 2250,
+      "crc32": "2c714c16"
+    },
+    {
+      "path": "res/enemy/e013_cif",
+      "size": 4495,
+      "compressed_size": 1876,
+      "crc32": "f62ad596"
+    },
+    {
+      "path": "res/enemy/e014_cif",
+      "size": 9125,
+      "compressed_size": 3155,
+      "crc32": "daad5d5e"
+    },
+    {
+      "path": "res/enemy/e015_cif",
+      "size": 1853,
+      "compressed_size": 709,
+      "crc32": "c5ed4f1e"
+    },
+    {
+      "path": "res/enemy/e016_cif",
+      "size": 9350,
+      "compressed_size": 3133,
+      "crc32": "209d90bd"
+    },
+    {
+      "path": "res/enemy/e017_cif",
+      "size": 2341,
+      "compressed_size": 679,
+      "crc32": "d5826e47"
+    },
+    {
+      "path": "res/enemy/e018_cif",
+      "size": 7951,
+      "compressed_size": 2917,
+      "crc32": "0a684297"
+    },
+    {
+      "path": "res/enemy/e019_cif",
+      "size": 10869,
+      "compressed_size": 4446,
+      "crc32": "b7e1a596"
+    },
+    {
+      "path": "res/enemy/e020_cif",
+      "size": 1393,
+      "compressed_size": 685,
+      "crc32": "62d91be8"
+    },
+    {
+      "path": "res/enemy/e021_cif",
+      "size": 2433,
+      "compressed_size": 500,
+      "crc32": "b59a0c20"
+    },
+    {
+      "path": "res/enemy/e022_cif",
+      "size": 8906,
+      "compressed_size": 1174,
+      "crc32": "6f6f5793"
+    },
+    {
+      "path": "res/enemy/e023_cif",
+      "size": 12211,
+      "compressed_size": 5641,
+      "crc32": "3adfd3d5"
+    },
+    {
+      "path": "res/enemy/e024_cif",
+      "size": 5,
+      "compressed_size": 7,
+      "crc32": "6647cb0e"
+    },
+    {
+      "path": "res/enemy/e025_cif",
+      "size": 863,
+      "compressed_size": 247,
+      "crc32": "0d4f5cc9"
+    },
+    {
+      "path": "res/enemy/e026_cif",
+      "size": 783,
+      "compressed_size": 283,
+      "crc32": "35da3ccd"
+    },
+    {
+      "path": "res/enemy/e027_cif",
+      "size": 946,
+      "compressed_size": 129,
+      "crc32": "d4309b3d"
+    },
+    {
+      "path": "res/enemy/e1000_bm",
+      "size": 287,
+      "compressed_size": 216,
+      "crc32": "8b9ee269"
+    },
+    {
+      "path": "res/enemy/e1001_bm",
+      "size": 307,
+      "compressed_size": 272,
+      "crc32": "771ede33"
+    },
+    {
+      "path": "res/enemy/e1002_bm",
+      "size": 427,
+      "compressed_size": 325,
+      "crc32": "d82a6fc2"
+    },
+    {
+      "path": "res/enemy/e1003_bm",
+      "size": 339,
+      "compressed_size": 294,
+      "crc32": "ee0949cd"
+    },
+    {
+      "path": "res/enemy/e1004_bm",
+      "size": 347,
+      "compressed_size": 286,
+      "crc32": "cd2f2a30"
+    },
+    {
+      "path": "res/enemy/e1005_bm",
+      "size": 439,
+      "compressed_size": 337,
+      "crc32": "24deaafd"
+    },
+    {
+      "path": "res/enemy/e1006_bm",
+      "size": 427,
+      "compressed_size": 337,
+      "crc32": "7c41df9a"
+    },
+    {
+      "path": "res/enemy/e1007_bm",
+      "size": 360,
+      "compressed_size": 310,
+      "crc32": "a3d8d6ad"
+    },
+    {
+      "path": "res/enemy/e1008_bm",
+      "size": 364,
+      "compressed_size": 315,
+      "crc32": "ddb894be"
+    },
+    {
+      "path": "res/enemy/e1009_bm",
+      "size": 382,
+      "compressed_size": 329,
+      "crc32": "01579366"
+    },
+    {
+      "path": "res/enemy/e100_cif",
+      "size": 2328,
+      "compressed_size": 1150,
+      "crc32": "121fae52"
+    },
+    {
+      "path": "res/enemy/e1010_bm",
+      "size": 203,
+      "compressed_size": 185,
+      "crc32": "91a747a3"
+    },
+    {
+      "path": "res/enemy/e1011_bm",
+      "size": 197,
+      "compressed_size": 181,
+      "crc32": "55341ba5"
+    },
+    {
+      "path": "res/enemy/e1012_bm",
+      "size": 203,
+      "compressed_size": 199,
+      "crc32": "f7893695"
+    },
+    {
+      "path": "res/enemy/e1013_bm",
+      "size": 289,
+      "compressed_size": 220,
+      "crc32": "c206534b"
+    },
+    {
+      "path": "res/enemy/e101_cif",
+      "size": 8203,
+      "compressed_size": 2880,
+      "crc32": "773de848"
+    },
+    {
+      "path": "res/enemy/e102_cif",
+      "size": 4465,
+      "compressed_size": 1800,
+      "crc32": "97b320ae"
+    },
+    {
+      "path": "res/enemy/e103_cif",
+      "size": 6204,
+      "compressed_size": 2428,
+      "crc32": "2362e611"
+    },
+    {
+      "path": "res/enemy/e104_cif",
+      "size": 10166,
+      "compressed_size": 4626,
+      "crc32": "6eca35f2"
+    },
+    {
+      "path": "res/enemy/e105_cif",
+      "size": 4400,
+      "compressed_size": 1956,
+      "crc32": "a1cabd05"
+    },
+    {
+      "path": "res/enemy/e1100_bm",
+      "size": 1336,
+      "compressed_size": 758,
+      "crc32": "4c8dc27a"
+    },
+    {
+      "path": "res/enemy/e1101_bm",
+      "size": 1420,
+      "compressed_size": 872,
+      "crc32": "98dc70f1"
+    },
+    {
+      "path": "res/enemy/e1102_bm",
+      "size": 453,
+      "compressed_size": 297,
+      "crc32": "43eec7f1"
+    },
+    {
+      "path": "res/enemy/e1103_bm",
+      "size": 360,
+      "compressed_size": 261,
+      "crc32": "1678a7d2"
+    },
+    {
+      "path": "res/enemy/e1104_bm",
+      "size": 354,
+      "compressed_size": 252,
+      "crc32": "90cd8004"
+    },
+    {
+      "path": "res/enemy/e1105_bm",
+      "size": 448,
+      "compressed_size": 290,
+      "crc32": "7b351992"
+    },
+    {
+      "path": "res/enemy/e1106_bm",
+      "size": 438,
+      "compressed_size": 278,
+      "crc32": "67e379fa"
+    },
+    {
+      "path": "res/enemy/e1107_bm",
+      "size": 3060,
+      "compressed_size": 1591,
+      "crc32": "477cff7d"
+    },
+    {
+      "path": "res/enemy/e1108_bm",
+      "size": 3056,
+      "compressed_size": 1593,
+      "crc32": "490371bc"
+    },
+    {
+      "path": "res/enemy/e1109_bm",
+      "size": 1149,
+      "compressed_size": 771,
+      "crc32": "ab1b5db5"
+    },
+    {
+      "path": "res/enemy/e1110_bm",
+      "size": 1167,
+      "compressed_size": 839,
+      "crc32": "fc4ec51d"
+    },
+    {
+      "path": "res/enemy/e1200_bm",
+      "size": 584,
+      "compressed_size": 276,
+      "crc32": "e9a848f9"
+    },
+    {
+      "path": "res/enemy/e1201_bm",
+      "size": 1411,
+      "compressed_size": 865,
+      "crc32": "a1d24f4d"
+    },
+    {
+      "path": "res/enemy/e1202_bm",
+      "size": 1394,
+      "compressed_size": 791,
+      "crc32": "cb0e0c0e"
+    },
+    {
+      "path": "res/enemy/e1203_bm",
+      "size": 1268,
+      "compressed_size": 737,
+      "crc32": "50d2b534"
+    },
+    {
+      "path": "res/enemy/e1204_bm",
+      "size": 1288,
+      "compressed_size": 857,
+      "crc32": "8f4665b3"
+    },
+    {
+      "path": "res/enemy/e1300_bm",
+      "size": 88,
+      "compressed_size": 64,
+      "crc32": "20af6456"
+    },
+    {
+      "path": "res/enemy/e1301_bm",
+      "size": 615,
+      "compressed_size": 453,
+      "crc32": "917c3aa3"
+    },
+    {
+      "path": "res/enemy/e1302_bm",
+      "size": 151,
+      "compressed_size": 130,
+      "crc32": "9164963b"
+    },
+    {
+      "path": "res/enemy/e1303_bm",
+      "size": 302,
+      "compressed_size": 97,
+      "crc32": "560e32cb"
+    },
+    {
+      "path": "res/enemy/e1400_bm",
+      "size": 298,
+      "compressed_size": 206,
+      "crc32": "3e3d99c5"
+    },
+    {
+      "path": "res/enemy/e1401_bm",
+      "size": 410,
+      "compressed_size": 267,
+      "crc32": "5c95214c"
+    },
+    {
+      "path": "res/event/e0000_scn",
+      "size": 5763,
+      "compressed_size": 3534,
+      "crc32": "8dd629ae"
+    },
+    {
+      "path": "res/event/e0001_scn",
+      "size": 5665,
+      "compressed_size": 3563,
+      "crc32": "d1f56bba"
+    },
+    {
+      "path": "res/event/e0002_scn",
+      "size": 5346,
+      "compressed_size": 3314,
+      "crc32": "3cdb9a55"
+    },
+    {
+      "path": "res/event/e0003_scn",
+      "size": 3636,
+      "compressed_size": 2332,
+      "crc32": "6f5f02c0"
+    },
+    {
+      "path": "res/event/e0004_scn",
+      "size": 5313,
+      "compressed_size": 3159,
+      "crc32": "84c119d4"
+    },
+    {
+      "path": "res/event/e0005_scn",
+      "size": 4861,
+      "compressed_size": 2934,
+      "crc32": "e54f39cf"
+    },
+    {
+      "path": "res/event/e0006_scn",
+      "size": 2103,
+      "compressed_size": 1321,
+      "crc32": "bc9ffc53"
+    },
+    {
+      "path": "res/event/e0007_scn",
+      "size": 76,
+      "compressed_size": 81,
+      "crc32": "d5c1b10d"
+    },
+    {
+      "path": "res/event/e0008_scn",
+      "size": 76,
+      "compressed_size": 81,
+      "crc32": "e0b1e125"
+    },
+    {
+      "path": "res/event/e0009_scn",
+      "size": 788,
+      "compressed_size": 601,
+      "crc32": "c2902054"
+    },
+    {
+      "path": "res/event/e0010_scn",
+      "size": 104,
+      "compressed_size": 103,
+      "crc32": "e469a930"
+    },
+    {
+      "path": "res/event/e0011_scn",
+      "size": 256,
+      "compressed_size": 212,
+      "crc32": "8b4fd30c"
+    },
+    {
+      "path": "res/event/e0012_scn",
+      "size": 516,
+      "compressed_size": 417,
+      "crc32": "3d1af735"
+    },
+    {
+      "path": "res/event/e0013_scn",
+      "size": 205,
+      "compressed_size": 205,
+      "crc32": "75ff83c2"
+    },
+    {
+      "path": "res/event/e0014_scn",
+      "size": 223,
+      "compressed_size": 226,
+      "crc32": "39ea7ec4"
+    },
+    {
+      "path": "res/event/e0015_scn",
+      "size": 418,
+      "compressed_size": 368,
+      "crc32": "1cad974d"
+    },
+    {
+      "path": "res/event/e0016_scn",
+      "size": 936,
+      "compressed_size": 711,
+      "crc32": "826b2ae6"
+    },
+    {
+      "path": "res/event/e0017_scn",
+      "size": 88,
+      "compressed_size": 89,
+      "crc32": "9c5daf97"
+    },
+    {
+      "path": "res/event/e0018_scn",
+      "size": 88,
+      "compressed_size": 89,
+      "crc32": "3ce23bbc"
+    },
+    {
+      "path": "res/event/e0019_scn",
+      "size": 379,
+      "compressed_size": 318,
+      "crc32": "89718fc3"
+    },
+    {
+      "path": "res/event/e0020_scn",
+      "size": 167,
+      "compressed_size": 157,
+      "crc32": "b8a6b4b0"
+    },
+    {
+      "path": "res/event/e0021_scn",
+      "size": 156,
+      "compressed_size": 153,
+      "crc32": "04041362"
+    },
+    {
+      "path": "res/event/e0022_scn",
+      "size": 2854,
+      "compressed_size": 1758,
+      "crc32": "8ff71587"
+    },
+    {
+      "path": "res/event/e0023_scn",
+      "size": 105,
+      "compressed_size": 103,
+      "crc32": "16329ac9"
+    },
+    {
+      "path": "res/event/e0024_scn",
+      "size": 78,
+      "compressed_size": 80,
+      "crc32": "cdacc955"
+    },
+    {
+      "path": "res/event/e0025_scn",
+      "size": 438,
+      "compressed_size": 240,
+      "crc32": "6266c3ef"
+    },
+    {
+      "path": "res/event/e0026_scn",
+      "size": 512,
+      "compressed_size": 284,
+      "crc32": "19361ae7"
+    },
+    {
+      "path": "res/event/e0027_scn",
+      "size": 74,
+      "compressed_size": 73,
+      "crc32": "834340dd"
+    },
+    {
+      "path": "res/event/e0028_scn",
+      "size": 316,
+      "compressed_size": 292,
+      "crc32": "0c60be12"
+    },
+    {
+      "path": "res/event/e0029_scn",
+      "size": 4693,
+      "compressed_size": 2688,
+      "crc32": "9bcf0986"
+    },
+    {
+      "path": "res/event/e0030_scn",
+      "size": 444,
+      "compressed_size": 277,
+      "crc32": "58d232d3"
+    },
+    {
+      "path": "res/event/e0031_scn",
+      "size": 459,
+      "compressed_size": 284,
+      "crc32": "c2a5c12a"
+    },
+    {
+      "path": "res/event/e0032_scn",
+      "size": 1559,
+      "compressed_size": 1136,
+      "crc32": "2974e947"
+    },
+    {
+      "path": "res/event/e0033_scn",
+      "size": 616,
+      "compressed_size": 500,
+      "crc32": "3b52dea6"
+    },
+    {
+      "path": "res/event/e0034_scn",
+      "size": 1115,
+      "compressed_size": 852,
+      "crc32": "c8bf1bc4"
+    },
+    {
+      "path": "res/event/e0035_scn",
+      "size": 5734,
+      "compressed_size": 3685,
+      "crc32": "6a1b64f5"
+    },
+    {
+      "path": "res/event/e0036_scn",
+      "size": 8322,
+      "compressed_size": 4842,
+      "crc32": "c2d3f545"
+    },
+    {
+      "path": "res/event/e0037_scn",
+      "size": 1683,
+      "compressed_size": 1182,
+      "crc32": "1948dd53"
+    },
+    {
+      "path": "res/event/e0038_scn",
+      "size": 1129,
+      "compressed_size": 844,
+      "crc32": "db780983"
+    },
+    {
+      "path": "res/event/e0039_scn",
+      "size": 14584,
+      "compressed_size": 7921,
+      "crc32": "a0859664"
+    },
+    {
+      "path": "res/event/e0040_scn",
+      "size": 1994,
+      "compressed_size": 1329,
+      "crc32": "85b4dc82"
+    },
+    {
+      "path": "res/event/e0041_scn",
+      "size": 3196,
+      "compressed_size": 1973,
+      "crc32": "52892ca4"
+    },
+    {
+      "path": "res/event/e0042_scn",
+      "size": 1935,
+      "compressed_size": 1291,
+      "crc32": "7659f8d8"
+    },
+    {
+      "path": "res/event/e0043_scn",
+      "size": 3091,
+      "compressed_size": 2010,
+      "crc32": "d508b2e9"
+    },
+    {
+      "path": "res/event/e0044_scn",
+      "size": 291,
+      "compressed_size": 237,
+      "crc32": "d8d7da77"
+    },
+    {
+      "path": "res/event/e0045_scn",
+      "size": 159,
+      "compressed_size": 149,
+      "crc32": "96025078"
+    },
+    {
+      "path": "res/event/e0046_scn",
+      "size": 76,
+      "compressed_size": 74,
+      "crc32": "a2892fd5"
+    },
+    {
+      "path": "res/event/e0047_scn",
+      "size": 76,
+      "compressed_size": 75,
+      "crc32": "d108d426"
+    },
+    {
+      "path": "res/event/e0048_scn",
+      "size": 76,
+      "compressed_size": 75,
+      "crc32": "153e9639"
+    },
+    {
+      "path": "res/event/e0049_scn",
+      "size": 279,
+      "compressed_size": 253,
+      "crc32": "02ad81a0"
+    },
+    {
+      "path": "res/event/e0050_scn",
+      "size": 84,
+      "compressed_size": 84,
+      "crc32": "c8f27bbf"
+    },
+    {
+      "path": "res/event/e0051_scn",
+      "size": 2355,
+      "compressed_size": 1552,
+      "crc32": "97fdde54"
+    },
+    {
+      "path": "res/event/e0052_scn",
+      "size": 1421,
+      "compressed_size": 1034,
+      "crc32": "8c7af60c"
+    },
+    {
+      "path": "res/event/e0053_scn",
+      "size": 332,
+      "compressed_size": 291,
+      "crc32": "b110fcdd"
+    },
+    {
+      "path": "res/event/e0054_scn",
+      "size": 673,
+      "compressed_size": 557,
+      "crc32": "641b0074"
+    },
+    {
+      "path": "res/event/e0055_scn",
+      "size": 209,
+      "compressed_size": 203,
+      "crc32": "bead17a1"
+    },
+    {
+      "path": "res/event/e0056_scn",
+      "size": 1339,
+      "compressed_size": 1015,
+      "crc32": "5c1b574b"
+    },
+    {
+      "path": "res/event/e0057_scn",
+      "size": 306,
+      "compressed_size": 273,
+      "crc32": "4e7c64b8"
+    },
+    {
+      "path": "res/event/e0058_scn",
+      "size": 186,
+      "compressed_size": 178,
+      "crc32": "9c0c827a"
+    },
+    {
+      "path": "res/event/e0059_scn",
+      "size": 176,
+      "compressed_size": 179,
+      "crc32": "af3ae6c0"
+    },
+    {
+      "path": "res/event/e0060_scn",
+      "size": 858,
+      "compressed_size": 662,
+      "crc32": "35a31b07"
+    },
+    {
+      "path": "res/event/e0061_scn",
+      "size": 126,
+      "compressed_size": 123,
+      "crc32": "5879c07a"
+    },
+    {
+      "path": "res/event/e0062_scn",
+      "size": 1164,
+      "compressed_size": 858,
+      "crc32": "dd982a51"
+    },
+    {
+      "path": "res/event/e0063_scn",
+      "size": 357,
+      "compressed_size": 300,
+      "crc32": "0f177133"
+    },
+    {
+      "path": "res/event/e0064_scn",
+      "size": 155,
+      "compressed_size": 148,
+      "crc32": "14920487"
+    },
+    {
+      "path": "res/event/e0065_scn",
+      "size": 246,
+      "compressed_size": 204,
+      "crc32": "0b2c83c5"
+    },
+    {
+      "path": "res/event/e0066_scn",
+      "size": 238,
+      "compressed_size": 217,
+      "crc32": "89049a51"
+    },
+    {
+      "path": "res/event/e0067_scn",
+      "size": 329,
+      "compressed_size": 265,
+      "crc32": "b8af26c6"
+    },
+    {
+      "path": "res/event/e0068_scn",
+      "size": 248,
+      "compressed_size": 159,
+      "crc32": "a64dc9e0"
+    },
+    {
+      "path": "res/event/e0069_scn",
+      "size": 301,
+      "compressed_size": 212,
+      "crc32": "9a55e8a2"
+    },
+    {
+      "path": "res/event/e0070_scn",
+      "size": 1340,
+      "compressed_size": 990,
+      "crc32": "4220003d"
+    },
+    {
+      "path": "res/event/e0071_scn",
+      "size": 778,
+      "compressed_size": 587,
+      "crc32": "f153c3f0"
+    },
+    {
+      "path": "res/event/e0072_scn",
+      "size": 1345,
+      "compressed_size": 925,
+      "crc32": "832069dd"
+    },
+    {
+      "path": "res/event/e0073_scn",
+      "size": 85,
+      "compressed_size": 80,
+      "crc32": "1fa58ccf"
+    },
+    {
+      "path": "res/event/e0074_scn",
+      "size": 85,
+      "compressed_size": 80,
+      "crc32": "8c523e22"
+    },
+    {
+      "path": "res/event/e0075_scn",
+      "size": 170,
+      "compressed_size": 162,
+      "crc32": "07dc4601"
+    },
+    {
+      "path": "res/event/e0076_scn",
+      "size": 1971,
+      "compressed_size": 1358,
+      "crc32": "59e7d5b5"
+    },
+    {
+      "path": "res/event/e0077_scn",
+      "size": 184,
+      "compressed_size": 178,
+      "crc32": "ccd81b4a"
+    },
+    {
+      "path": "res/event/e0078_scn",
+      "size": 99,
+      "compressed_size": 95,
+      "crc32": "8baa0a87"
+    },
+    {
+      "path": "res/event/e0079_scn",
+      "size": 916,
+      "compressed_size": 710,
+      "crc32": "2845ee5c"
+    },
+    {
+      "path": "res/event/e0080_scn",
+      "size": 71,
+      "compressed_size": 76,
+      "crc32": "8987ae63"
+    },
+    {
+      "path": "res/event/e0081_scn",
+      "size": 2178,
+      "compressed_size": 1527,
+      "crc32": "b067c76b"
+    },
+    {
+      "path": "res/event/e0082_scn",
+      "size": 3845,
+      "compressed_size": 2390,
+      "crc32": "ed84a146"
+    },
+    {
+      "path": "res/event/e0083_scn",
+      "size": 932,
+      "compressed_size": 697,
+      "crc32": "1754a35c"
+    },
+    {
+      "path": "res/event/e0084_scn",
+      "size": 161,
+      "compressed_size": 156,
+      "crc32": "ee005eae"
+    },
+    {
+      "path": "res/event/e0085_scn",
+      "size": 3771,
+      "compressed_size": 2369,
+      "crc32": "071f303e"
+    },
+    {
+      "path": "res/event/e0086_scn",
+      "size": 78,
+      "compressed_size": 80,
+      "crc32": "89aa4da5"
+    },
+    {
+      "path": "res/event/e0087_scn",
+      "size": 2263,
+      "compressed_size": 1517,
+      "crc32": "f9a38f75"
+    },
+    {
+      "path": "res/event/e0088_scn",
+      "size": 78,
+      "compressed_size": 79,
+      "crc32": "c19440e7"
+    },
+    {
+      "path": "res/event/e0089_scn",
+      "size": 235,
+      "compressed_size": 234,
+      "crc32": "1004a3f6"
+    },
+    {
+      "path": "res/event/e0090_scn",
+      "size": 335,
+      "compressed_size": 301,
+      "crc32": "0093408d"
+    },
+    {
+      "path": "res/event/e0091_scn",
+      "size": 78,
+      "compressed_size": 80,
+      "crc32": "a818794f"
+    },
+    {
+      "path": "res/event/e0092_scn",
+      "size": 85,
+      "compressed_size": 83,
+      "crc32": "18872497"
+    },
+    {
+      "path": "res/event/e0093_scn",
+      "size": 2777,
+      "compressed_size": 1652,
+      "crc32": "9d40e16b"
+    },
+    {
+      "path": "res/event/e0094_scn",
+      "size": 178,
+      "compressed_size": 179,
+      "crc32": "71fcd448"
+    },
+    {
+      "path": "res/event/e0095_scn",
+      "size": 161,
+      "compressed_size": 153,
+      "crc32": "2e136779"
+    },
+    {
+      "path": "res/event/e0096_scn",
+      "size": 738,
+      "compressed_size": 604,
+      "crc32": "631cf9ee"
+    },
+    {
+      "path": "res/event/e0097_scn",
+      "size": 168,
+      "compressed_size": 163,
+      "crc32": "a39d06a4"
+    },
+    {
+      "path": "res/event/e0098_scn",
+      "size": 1202,
+      "compressed_size": 911,
+      "crc32": "dc1313a7"
+    },
+    {
+      "path": "res/event/e0099_scn",
+      "size": 189,
+      "compressed_size": 175,
+      "crc32": "4ea17851"
+    },
+    {
+      "path": "res/event/e0100_scn",
+      "size": 76,
+      "compressed_size": 75,
+      "crc32": "33cab3a2"
+    },
+    {
+      "path": "res/event/e0101_scn",
+      "size": 76,
+      "compressed_size": 75,
+      "crc32": "6249ea2d"
+    },
+    {
+      "path": "res/event/e0102_scn",
+      "size": 2026,
+      "compressed_size": 1321,
+      "crc32": "2f0091b9"
+    },
+    {
+      "path": "res/event/e0103_scn",
+      "size": 3138,
+      "compressed_size": 1987,
+      "crc32": "cc058b47"
+    },
+    {
+      "path": "res/event/e0104_scn",
+      "size": 159,
+      "compressed_size": 156,
+      "crc32": "0e63ee22"
+    },
+    {
+      "path": "res/event/e0105_scn",
+      "size": 9123,
+      "compressed_size": 5365,
+      "crc32": "47981369"
+    },
+    {
+      "path": "res/event/e0106_scn",
+      "size": 4355,
+      "compressed_size": 2776,
+      "crc32": "ef8b6a59"
+    },
+    {
+      "path": "res/event/e0107_scn",
+      "size": 898,
+      "compressed_size": 569,
+      "crc32": "ef4d5717"
+    },
+    {
+      "path": "res/event/e0108_scn",
+      "size": 629,
+      "compressed_size": 377,
+      "crc32": "c73866dc"
+    },
+    {
+      "path": "res/event/e0109_scn",
+      "size": 2011,
+      "compressed_size": 1392,
+      "crc32": "133d4520"
+    },
+    {
+      "path": "res/event/e0110_scn",
+      "size": 548,
+      "compressed_size": 390,
+      "crc32": "4ce48491"
+    },
+    {
+      "path": "res/event/e0111_scn",
+      "size": 1052,
+      "compressed_size": 843,
+      "crc32": "23655129"
+    },
+    {
+      "path": "res/event/e0112_scn",
+      "size": 2802,
+      "compressed_size": 1896,
+      "crc32": "93a54089"
+    },
+    {
+      "path": "res/event/e0113_scn",
+      "size": 4162,
+      "compressed_size": 2717,
+      "crc32": "fa8221f7"
+    },
+    {
+      "path": "res/event/e0114_scn",
+      "size": 8960,
+      "compressed_size": 5166,
+      "crc32": "ba140865"
+    },
+    {
+      "path": "res/event/e0115_scn",
+      "size": 2317,
+      "compressed_size": 1604,
+      "crc32": "b433b70c"
+    },
+    {
+      "path": "res/event/e0116_scn",
+      "size": 4313,
+      "compressed_size": 2748,
+      "crc32": "782b0229"
+    },
+    {
+      "path": "res/event/e0117_scn",
+      "size": 1284,
+      "compressed_size": 874,
+      "crc32": "4883c7d6"
+    },
+    {
+      "path": "res/event/e0118_scn",
+      "size": 3695,
+      "compressed_size": 2303,
+      "crc32": "a895d6fb"
+    },
+    {
+      "path": "res/event/e0119_scn",
+      "size": 90,
+      "compressed_size": 92,
+      "crc32": "9a952b49"
+    },
+    {
+      "path": "res/event/e0120_scn",
+      "size": 171,
+      "compressed_size": 162,
+      "crc32": "e100bef9"
+    },
+    {
+      "path": "res/event/e0121_scn",
+      "size": 157,
+      "compressed_size": 152,
+      "crc32": "5b9d5ee9"
+    },
+    {
+      "path": "res/event/e0122_scn",
+      "size": 1065,
+      "compressed_size": 790,
+      "crc32": "b3289e74"
+    },
+    {
+      "path": "res/event/e0123_scn",
+      "size": 76,
+      "compressed_size": 75,
+      "crc32": "9c4425a8"
+    },
+    {
+      "path": "res/event/e0124_scn",
+      "size": 287,
+      "compressed_size": 266,
+      "crc32": "712b44cd"
+    },
+    {
+      "path": "res/event/e0125_scn",
+      "size": 781,
+      "compressed_size": 639,
+      "crc32": "775b6dc2"
+    },
+    {
+      "path": "res/event/e0126_scn",
+      "size": 574,
+      "compressed_size": 470,
+      "crc32": "6a15e0d5"
+    },
+    {
+      "path": "res/event/e0127_scn",
+      "size": 1442,
+      "compressed_size": 1006,
+      "crc32": "43db6aad"
+    },
+    {
+      "path": "res/event/e0128_scn",
+      "size": 764,
+      "compressed_size": 575,
+      "crc32": "69c2975e"
+    },
+    {
+      "path": "res/event/e0129_scn",
+      "size": 748,
+      "compressed_size": 565,
+      "crc32": "ca005f8c"
+    },
+    {
+      "path": "res/event/e0130_scn",
+      "size": 110,
+      "compressed_size": 109,
+      "crc32": "80ea354b"
+    },
+    {
+      "path": "res/event/e0131_scn",
+      "size": 454,
+      "compressed_size": 344,
+      "crc32": "d7861d41"
+    },
+    {
+      "path": "res/event/e0132_scn",
+      "size": 402,
+      "compressed_size": 287,
+      "crc32": "58d4389b"
+    },
+    {
+      "path": "res/event/e0133_scn",
+      "size": 158,
+      "compressed_size": 156,
+      "crc32": "b5b7ba8a"
+    },
+    {
+      "path": "res/event/e0134_scn",
+      "size": 1232,
+      "compressed_size": 926,
+      "crc32": "662fec1d"
+    },
+    {
+      "path": "res/event/e0135_scn",
+      "size": 616,
+      "compressed_size": 453,
+      "crc32": "9b465d29"
+    },
+    {
+      "path": "res/event/e0136_scn",
+      "size": 410,
+      "compressed_size": 353,
+      "crc32": "bd4fd76c"
+    },
+    {
+      "path": "res/event/e0137_scn",
+      "size": 191,
+      "compressed_size": 179,
+      "crc32": "73316baa"
+    },
+    {
+      "path": "res/event/e0138_scn",
+      "size": 871,
+      "compressed_size": 696,
+      "crc32": "cbf333eb"
+    },
+    {
+      "path": "res/event/e0139_scn",
+      "size": 106,
+      "compressed_size": 111,
+      "crc32": "afbb3d00"
+    },
+    {
+      "path": "res/event/e0140_scn",
+      "size": 5606,
+      "compressed_size": 3196,
+      "crc32": "91d10c60"
+    },
+    {
+      "path": "res/event/e0141_scn",
+      "size": 69,
+      "compressed_size": 70,
+      "crc32": "2f6925e6"
+    },
+    {
+      "path": "res/event/e0142_scn",
+      "size": 72,
+      "compressed_size": 73,
+      "crc32": "7ed76ed0"
+    },
+    {
+      "path": "res/event/e0143_scn",
+      "size": 69,
+      "compressed_size": 69,
+      "crc32": "23998475"
+    },
+    {
+      "path": "res/event/e0144_scn",
+      "size": 196,
+      "compressed_size": 177,
+      "crc32": "f38b4511"
+    },
+    {
+      "path": "res/event/e0145_scn",
+      "size": 83,
+      "compressed_size": 78,
+      "crc32": "a68a9726"
+    },
+    {
+      "path": "res/event/e0146_scn",
+      "size": 299,
+      "compressed_size": 190,
+      "crc32": "33045fc8"
+    },
+    {
+      "path": "res/event/e0147_scn",
+      "size": 83,
+      "compressed_size": 79,
+      "crc32": "37791464"
+    },
+    {
+      "path": "res/event/e0148_scn",
+      "size": 544,
+      "compressed_size": 367,
+      "crc32": "4df8bbeb"
+    },
+    {
+      "path": "res/event/e0149_scn",
+      "size": 4156,
+      "compressed_size": 2267,
+      "crc32": "f42c24fd"
+    },
+    {
+      "path": "res/event/e0150_scn",
+      "size": 4895,
+      "compressed_size": 2965,
+      "crc32": "91c4fec4"
+    },
+    {
+      "path": "res/event/e0151_scn",
+      "size": 4755,
+      "compressed_size": 2999,
+      "crc32": "299bfb3a"
+    },
+    {
+      "path": "res/event/e0152_scn",
+      "size": 2370,
+      "compressed_size": 1486,
+      "crc32": "47f43812"
+    },
+    {
+      "path": "res/event/e0153_scn",
+      "size": 1682,
+      "compressed_size": 1176,
+      "crc32": "b5de55f2"
+    },
+    {
+      "path": "res/event/e0154_scn",
+      "size": 1419,
+      "compressed_size": 989,
+      "crc32": "dfee10d7"
+    },
+    {
+      "path": "res/event/e0155_scn",
+      "size": 188,
+      "compressed_size": 193,
+      "crc32": "8455caef"
+    },
+    {
+      "path": "res/event/e0156_scn",
+      "size": 677,
+      "compressed_size": 552,
+      "crc32": "b95e90ab"
+    },
+    {
+      "path": "res/event/e0157_scn",
+      "size": 76,
+      "compressed_size": 81,
+      "crc32": "8f02f926"
+    },
+    {
+      "path": "res/event/e0158_scn",
+      "size": 607,
+      "compressed_size": 480,
+      "crc32": "dec55382"
+    },
+    {
+      "path": "res/event/e0159_scn",
+      "size": 76,
+      "compressed_size": 78,
+      "crc32": "61e6a4c8"
+    },
+    {
+      "path": "res/event/e0160_scn",
+      "size": 788,
+      "compressed_size": 596,
+      "crc32": "ebf90bc4"
+    },
+    {
+      "path": "res/event/e0161_scn",
+      "size": 76,
+      "compressed_size": 81,
+      "crc32": "e28aad83"
+    },
+    {
+      "path": "res/event/e0162_scn",
+      "size": 76,
+      "compressed_size": 78,
+      "crc32": "26c5f684"
+    },
+    {
+      "path": "res/event/e0163_scn",
+      "size": 76,
+      "compressed_size": 78,
+      "crc32": "c48438ef"
+    },
+    {
+      "path": "res/event/e0164_scn",
+      "size": 256,
+      "compressed_size": 210,
+      "crc32": "9b08f04f"
+    },
+    {
+      "path": "res/event/e0165_scn",
+      "size": 267,
+      "compressed_size": 250,
+      "crc32": "97532323"
+    },
+    {
+      "path": "res/event/e0166_scn",
+      "size": 98,
+      "compressed_size": 98,
+      "crc32": "cbc7e80b"
+    },
+    {
+      "path": "res/event/e0167_scn",
+      "size": 244,
+      "compressed_size": 177,
+      "crc32": "2218e887"
+    },
+    {
+      "path": "res/event/e0168_scn",
+      "size": 319,
+      "compressed_size": 203,
+      "crc32": "d13313ef"
+    },
+    {
+      "path": "res/event/e0169_scn",
+      "size": 177,
+      "compressed_size": 176,
+      "crc32": "dc16b3a5"
+    },
+    {
+      "path": "res/event/e0170_scn",
+      "size": 252,
+      "compressed_size": 248,
+      "crc32": "1f80c9fe"
+    },
+    {
+      "path": "res/event/e0171_scn",
+      "size": 2061,
+      "compressed_size": 1415,
+      "crc32": "75fd2a11"
+    },
+    {
+      "path": "res/event/e0172_scn",
+      "size": 569,
+      "compressed_size": 448,
+      "crc32": "29e99fdb"
+    },
+    {
+      "path": "res/event/e0173_scn",
+      "size": 297,
+      "compressed_size": 258,
+      "crc32": "c0e2d731"
+    },
+    {
+      "path": "res/event/e0174_scn",
+      "size": 810,
+      "compressed_size": 544,
+      "crc32": "c4e472af"
+    },
+    {
+      "path": "res/event/e0175_scn",
+      "size": 439,
+      "compressed_size": 262,
+      "crc32": "74b8c00d"
+    },
+    {
+      "path": "res/event/e0176_scn",
+      "size": 247,
+      "compressed_size": 230,
+      "crc32": "d7d632b0"
+    },
+    {
+      "path": "res/event/e0177_scn",
+      "size": 247,
+      "compressed_size": 230,
+      "crc32": "999aded9"
+    },
+    {
+      "path": "res/event/e0178_scn",
+      "size": 489,
+      "compressed_size": 409,
+      "crc32": "a2277650"
+    },
+    {
+      "path": "res/event/e0179_scn",
+      "size": 268,
+      "compressed_size": 243,
+      "crc32": "7cccb392"
+    },
+    {
+      "path": "res/event/e0180_scn",
+      "size": 10011,
+      "compressed_size": 5737,
+      "crc32": "ed6aed15"
+    },
+    {
+      "path": "res/event/e0181_scn",
+      "size": 159,
+      "compressed_size": 152,
+      "crc32": "35038936"
+    },
+    {
+      "path": "res/event/e0182_scn",
+      "size": 238,
+      "compressed_size": 202,
+      "crc32": "aa629a85"
+    },
+    {
+      "path": "res/event/e0183_scn",
+      "size": 930,
+      "compressed_size": 659,
+      "crc32": "4c81e47e"
+    },
+    {
+      "path": "res/event/e0184_scn",
+      "size": 189,
+      "compressed_size": 174,
+      "crc32": "838eb7a3"
+    },
+    {
+      "path": "res/event/e0185_scn",
+      "size": 4238,
+      "compressed_size": 2514,
+      "crc32": "67e0b3b1"
+    },
+    {
+      "path": "res/event/e0186_scn",
+      "size": 1110,
+      "compressed_size": 598,
+      "crc32": "0082bf94"
+    },
+    {
+      "path": "res/event/e0187_scn",
+      "size": 161,
+      "compressed_size": 156,
+      "crc32": "497a9185"
+    },
+    {
+      "path": "res/event/e0188_scn",
+      "size": 1184,
+      "compressed_size": 679,
+      "crc32": "4ec03e52"
+    },
+    {
+      "path": "res/event/e0189_scn",
+      "size": 5204,
+      "compressed_size": 3209,
+      "crc32": "fac00a59"
+    },
+    {
+      "path": "res/event/e0190_scn",
+      "size": 965,
+      "compressed_size": 815,
+      "crc32": "44c40159"
+    },
+    {
+      "path": "res/event/e0191_scn",
+      "size": 393,
+      "compressed_size": 381,
+      "crc32": "e1105883"
+    },
+    {
+      "path": "res/event/e0192_scn",
+      "size": 8059,
+      "compressed_size": 4346,
+      "crc32": "9ba6eb28"
+    },
+    {
+      "path": "res/event/e0193_scn",
+      "size": 167,
+      "compressed_size": 160,
+      "crc32": "3958fde9"
+    },
+    {
+      "path": "res/event/e0194_scn",
+      "size": 153,
+      "compressed_size": 148,
+      "crc32": "ad760c7f"
+    },
+    {
+      "path": "res/event/e0195_scn",
+      "size": 74,
+      "compressed_size": 79,
+      "crc32": "d079519c"
+    },
+    {
+      "path": "res/event/e0196_scn",
+      "size": 3581,
+      "compressed_size": 2119,
+      "crc32": "45fa0f00"
+    },
+    {
+      "path": "res/event/e0197_scn",
+      "size": 3397,
+      "compressed_size": 2023,
+      "crc32": "b3b56933"
+    },
+    {
+      "path": "res/event/e0198_scn",
+      "size": 74,
+      "compressed_size": 73,
+      "crc32": "1d06b8da"
+    },
+    {
+      "path": "res/event/e0199_scn",
+      "size": 74,
+      "compressed_size": 73,
+      "crc32": "cc67b32f"
+    },
+    {
+      "path": "res/event/e0200_scn",
+      "size": 219,
+      "compressed_size": 203,
+      "crc32": "096710aa"
+    },
+    {
+      "path": "res/event/e0201_scn",
+      "size": 1032,
+      "compressed_size": 600,
+      "crc32": "7ee5bc36"
+    },
+    {
+      "path": "res/event/e0202_scn",
+      "size": 389,
+      "compressed_size": 214,
+      "crc32": "2c8d9080"
+    },
+    {
+      "path": "res/event/e0203_scn",
+      "size": 383,
+      "compressed_size": 208,
+      "crc32": "9d9bdbc4"
+    },
+    {
+      "path": "res/event/e0204_scn",
+      "size": 980,
+      "compressed_size": 497,
+      "crc32": "abc24792"
+    },
+    {
+      "path": "res/event/e0205_scn",
+      "size": 79,
+      "compressed_size": 81,
+      "crc32": "c9e04f35"
+    },
+    {
+      "path": "res/event/e0206_scn",
+      "size": 79,
+      "compressed_size": 81,
+      "crc32": "b5004553"
+    },
+    {
+      "path": "res/event/e0207_scn",
+      "size": 181,
+      "compressed_size": 174,
+      "crc32": "6975bac6"
+    },
+    {
+      "path": "res/event/e0208_scn",
+      "size": 7458,
+      "compressed_size": 4332,
+      "crc32": "748bc1cd"
+    },
+    {
+      "path": "res/event/e0209_scn",
+      "size": 80,
+      "compressed_size": 74,
+      "crc32": "376f76be"
+    },
+    {
+      "path": "res/event/e0210_scn",
+      "size": 77,
+      "compressed_size": 73,
+      "crc32": "9b13c2e9"
+    },
+    {
+      "path": "res/event/e0211_scn",
+      "size": 77,
+      "compressed_size": 71,
+      "crc32": "0296db2d"
+    },
+    {
+      "path": "res/event/e0212_scn",
+      "size": 208,
+      "compressed_size": 195,
+      "crc32": "c995ab39"
+    },
+    {
+      "path": "res/event/e0213_scn",
+      "size": 80,
+      "compressed_size": 74,
+      "crc32": "932f2108"
+    },
+    {
+      "path": "res/event/e0214_scn",
+      "size": 77,
+      "compressed_size": 73,
+      "crc32": "5f9db9cc"
+    },
+    {
+      "path": "res/event/e0215_scn",
+      "size": 228,
+      "compressed_size": 209,
+      "crc32": "f72869f7"
+    },
+    {
+      "path": "res/event/e0216_scn",
+      "size": 80,
+      "compressed_size": 73,
+      "crc32": "2ace9219"
+    },
+    {
+      "path": "res/event/e0217_scn",
+      "size": 77,
+      "compressed_size": 70,
+      "crc32": "6b42a62b"
+    },
+    {
+      "path": "res/event/e0218_scn",
+      "size": 2279,
+      "compressed_size": 1594,
+      "crc32": "f3dfa970"
+    },
+    {
+      "path": "res/event/e0219_scn",
+      "size": 80,
+      "compressed_size": 74,
+      "crc32": "78bf0856"
+    },
+    {
+      "path": "res/event/e0220_scn",
+      "size": 77,
+      "compressed_size": 73,
+      "crc32": "0d66f2ea"
+    },
+    {
+      "path": "res/event/e0221_scn",
+      "size": 105,
+      "compressed_size": 80,
+      "crc32": "5bd320ef"
+    },
+    {
+      "path": "res/event/e0222_scn",
+      "size": 77,
+      "compressed_size": 70,
+      "crc32": "5845a796"
+    },
+    {
+      "path": "res/event/e0223_scn",
+      "size": 77,
+      "compressed_size": 73,
+      "crc32": "20e72e9e"
+    },
+    {
+      "path": "res/event/e0224_scn",
+      "size": 77,
+      "compressed_size": 71,
+      "crc32": "a7d94b2d"
+    },
+    {
+      "path": "res/event/e0225_scn",
+      "size": 105,
+      "compressed_size": 83,
+      "crc32": "8c9d360e"
+    },
+    {
+      "path": "res/event/e0226_scn",
+      "size": 105,
+      "compressed_size": 84,
+      "crc32": "d3f697fb"
+    },
+    {
+      "path": "res/event/e0227_scn",
+      "size": 77,
+      "compressed_size": 71,
+      "crc32": "684c766e"
+    },
+    {
+      "path": "res/event/e0228_scn",
+      "size": 77,
+      "compressed_size": 71,
+      "crc32": "2c177e11"
+    },
+    {
+      "path": "res/event/e0229_scn",
+      "size": 149,
+      "compressed_size": 111,
+      "crc32": "3a389c82"
+    },
+    {
+      "path": "res/event/e0230_scn",
+      "size": 125,
+      "compressed_size": 96,
+      "crc32": "13fdccab"
+    },
+    {
+      "path": "res/event/e0231_scn",
+      "size": 105,
+      "compressed_size": 81,
+      "crc32": "5b913dcb"
+    },
+    {
+      "path": "res/event/e0232_scn",
+      "size": 1082,
+      "compressed_size": 643,
+      "crc32": "b863838e"
+    },
+    {
+      "path": "res/event/e0233_scn",
+      "size": 4239,
+      "compressed_size": 2701,
+      "crc32": "b5a24965"
+    },
+    {
+      "path": "res/event/e0234_scn",
+      "size": 3670,
+      "compressed_size": 2244,
+      "crc32": "95c9dd8e"
+    },
+    {
+      "path": "res/event/e0235_scn",
+      "size": 1922,
+      "compressed_size": 1369,
+      "crc32": "c933a5be"
+    },
+    {
+      "path": "res/event/e0236_scn",
+      "size": 1139,
+      "compressed_size": 794,
+      "crc32": "420e2ee0"
+    },
+    {
+      "path": "res/event/e0237_scn",
+      "size": 3402,
+      "compressed_size": 2076,
+      "crc32": "532ca618"
+    },
+    {
+      "path": "res/event/e0238_scn",
+      "size": 2011,
+      "compressed_size": 1264,
+      "crc32": "b189c0cb"
+    },
+    {
+      "path": "res/event/e0239_scn",
+      "size": 1495,
+      "compressed_size": 991,
+      "crc32": "a86f20bc"
+    },
+    {
+      "path": "res/event/e0240_scn",
+      "size": 519,
+      "compressed_size": 419,
+      "crc32": "44bd2a71"
+    },
+    {
+      "path": "res/event/e0241_scn",
+      "size": 2147,
+      "compressed_size": 1256,
+      "crc32": "40a106d7"
+    },
+    {
+      "path": "res/event/e0242_scn",
+      "size": 6687,
+      "compressed_size": 3895,
+      "crc32": "01602a37"
+    },
+    {
+      "path": "res/event/e0243_scn",
+      "size": 3345,
+      "compressed_size": 1213,
+      "crc32": "7de9e331"
+    },
+    {
+      "path": "res/fgi/fgi0_bm",
+      "size": 31285,
+      "compressed_size": 12244,
+      "crc32": "8b316934"
+    },
+    {
+      "path": "res/fgi/fgi0_cif",
+      "size": 962,
+      "compressed_size": 606,
+      "crc32": "323daf00"
+    },
+    {
+      "path": "res/fgi/fgi1_bm",
+      "size": 31432,
+      "compressed_size": 13714,
+      "crc32": "7fa59905"
+    },
+    {
+      "path": "res/fgi/fgi1_cif",
+      "size": 467,
+      "compressed_size": 171,
+      "crc32": "cb6f979d"
+    },
+    {
+      "path": "res/fgi/fgi2_bm",
+      "size": 150,
+      "compressed_size": 135,
+      "crc32": "0f42c892"
+    },
+    {
+      "path": "res/fgi/fgi2_cif",
+      "size": 1091,
+      "compressed_size": 466,
+      "crc32": "8e1a4a9f"
+    },
+    {
+      "path": "res/fgi/fgi3_bm",
+      "size": 315,
+      "compressed_size": 218,
+      "crc32": "c337b9c9"
+    },
+    {
+      "path": "res/fgi/fgi3_cif",
+      "size": 369,
+      "compressed_size": 166,
+      "crc32": "80a0a0c0"
+    },
+    {
+      "path": "res/fgi/fgi4_bm",
+      "size": 144,
+      "compressed_size": 141,
+      "crc32": "530af826"
+    },
+    {
+      "path": "res/fgi/fgi4_cif",
+      "size": 931,
+      "compressed_size": 516,
+      "crc32": "9861c4ca"
+    },
+    {
+      "path": "res/fgi/fgi5_bm",
+      "size": 93,
+      "compressed_size": 98,
+      "crc32": "9a25b0ab"
+    },
+    {
+      "path": "res/fgi/fgi5_cif",
+      "size": 141,
+      "compressed_size": 94,
+      "crc32": "649efbb4"
+    },
+    {
+      "path": "res/fgi/fgi6_bm",
+      "size": 280,
+      "compressed_size": 283,
+      "crc32": "35f81dde"
+    },
+    {
+      "path": "res/fgi/fgi6_cif",
+      "size": 674,
+      "compressed_size": 464,
+      "crc32": "f873dd0d"
+    },
+    {
+      "path": "res/font/eng5",
+      "size": 1045,
+      "compressed_size": 467,
+      "crc32": "17ae92ed"
+    },
+    {
+      "path": "res/font/eng7",
+      "size": 1045,
+      "compressed_size": 526,
+      "crc32": "08e7e806"
+    },
+    {
+      "path": "res/font/etc",
+      "size": 199,
+      "compressed_size": 93,
+      "crc32": "6f386e7b"
+    },
+    {
+      "path": "res/font/kor",
+      "size": 3600,
+      "compressed_size": 985,
+      "crc32": "9aba0ed3"
+    },
+    {
+      "path": "res/font/korb",
+      "size": 7920,
+      "compressed_size": 1170,
+      "crc32": "5b0016e4"
+    },
+    {
+      "path": "res/font/table",
+      "size": 4700,
+      "compressed_size": 4062,
+      "crc32": "b6b69b08"
+    },
+    {
+      "path": "res/hero/commeffect_bm",
+      "size": 8574,
+      "compressed_size": 4551,
+      "crc32": "552e8102"
+    },
+    {
+      "path": "res/hero/commeffect_cif",
+      "size": 6819,
+      "compressed_size": 3188,
+      "crc32": "bbf7d29d"
+    },
+    {
+      "path": "res/hero/h00000_bm",
+      "size": 1601,
+      "compressed_size": 738,
+      "crc32": "3f772cd3"
+    },
+    {
+      "path": "res/hero/h00001_bm",
+      "size": 1639,
+      "compressed_size": 775,
+      "crc32": "714e2a17"
+    },
+    {
+      "path": "res/hero/h00002_bm",
+      "size": 936,
+      "compressed_size": 404,
+      "crc32": "b634dc5c"
+    },
+    {
+      "path": "res/hero/h00003_bm",
+      "size": 940,
+      "compressed_size": 492,
+      "crc32": "839d7cd5"
+    },
+    {
+      "path": "res/hero/h0_cif",
+      "size": 8025,
+      "compressed_size": 3016,
+      "crc32": "92e2dbda"
+    },
+    {
+      "path": "res/hero/h10000_bm",
+      "size": 273,
+      "compressed_size": 164,
+      "crc32": "e171ede7"
+    },
+    {
+      "path": "res/hero/h10001_bm",
+      "size": 269,
+      "compressed_size": 166,
+      "crc32": "9a734392"
+    },
+    {
+      "path": "res/hero/h10002_bm",
+      "size": 261,
+      "compressed_size": 125,
+      "crc32": "40ca208f"
+    },
+    {
+      "path": "res/hero/h10003_bm",
+      "size": 261,
+      "compressed_size": 137,
+      "crc32": "1ca456e3"
+    },
+    {
+      "path": "res/hero/h10004_bm",
+      "size": 275,
+      "compressed_size": 184,
+      "crc32": "5023778a"
+    },
+    {
+      "path": "res/hero/h10005_bm",
+      "size": 279,
+      "compressed_size": 186,
+      "crc32": "f00eaf0a"
+    },
+    {
+      "path": "res/hero/h10006_bm",
+      "size": 273,
+      "compressed_size": 181,
+      "crc32": "d0ee0636"
+    },
+    {
+      "path": "res/hero/h10007_bm",
+      "size": 279,
+      "compressed_size": 203,
+      "crc32": "362ab91f"
+    },
+    {
+      "path": "res/hero/h10008_bm",
+      "size": 285,
+      "compressed_size": 210,
+      "crc32": "1742675c"
+    },
+    {
+      "path": "res/hero/h10009_bm",
+      "size": 257,
+      "compressed_size": 125,
+      "crc32": "004f2607"
+    },
+    {
+      "path": "res/hero/h10010_bm",
+      "size": 277,
+      "compressed_size": 189,
+      "crc32": "81593a39"
+    },
+    {
+      "path": "res/hero/h10011_bm",
+      "size": 267,
+      "compressed_size": 149,
+      "crc32": "b8eebeb4"
+    },
+    {
+      "path": "res/hero/h10012_bm",
+      "size": 259,
+      "compressed_size": 148,
+      "crc32": "321b281a"
+    },
+    {
+      "path": "res/hero/h10013_bm",
+      "size": 277,
+      "compressed_size": 166,
+      "crc32": "e9778bcd"
+    },
+    {
+      "path": "res/hero/h10014_bm",
+      "size": 259,
+      "compressed_size": 152,
+      "crc32": "7ac5e25e"
+    },
+    {
+      "path": "res/hero/h10015_bm",
+      "size": 281,
+      "compressed_size": 176,
+      "crc32": "407d50e3"
+    },
+    {
+      "path": "res/hero/h10016_bm",
+      "size": 271,
+      "compressed_size": 165,
+      "crc32": "f8c25864"
+    },
+    {
+      "path": "res/hero/h10017_bm",
+      "size": 273,
+      "compressed_size": 168,
+      "crc32": "6d1f83c3"
+    },
+    {
+      "path": "res/hero/h10018_bm",
+      "size": 281,
+      "compressed_size": 196,
+      "crc32": "cd1d3a8e"
+    },
+    {
+      "path": "res/hero/h10019_bm",
+      "size": 287,
+      "compressed_size": 192,
+      "crc32": "c07f7343"
+    },
+    {
+      "path": "res/hero/h10020_bm",
+      "size": 277,
+      "compressed_size": 202,
+      "crc32": "4563d684"
+    },
+    {
+      "path": "res/hero/h10021_bm",
+      "size": 289,
+      "compressed_size": 176,
+      "crc32": "84510df3"
+    },
+    {
+      "path": "res/hero/h10022_bm",
+      "size": 289,
+      "compressed_size": 219,
+      "crc32": "e90b320d"
+    },
+    {
+      "path": "res/hero/h10_cif",
+      "size": 19410,
+      "compressed_size": 7355,
+      "crc32": "0a2d257e"
+    },
+    {
+      "path": "res/hero/h11_cif",
+      "size": 8795,
+      "compressed_size": 3229,
+      "crc32": "5a17f60e"
+    },
+    {
+      "path": "res/hero/h1_cif",
+      "size": 6690,
+      "compressed_size": 2552,
+      "crc32": "ef0ac77e"
+    },
+    {
+      "path": "res/hero/h20000_bm",
+      "size": 1205,
+      "compressed_size": 579,
+      "crc32": "4a6b4251"
+    },
+    {
+      "path": "res/hero/h20001_bm",
+      "size": 1127,
+      "compressed_size": 492,
+      "crc32": "7ba1c459"
+    },
+    {
+      "path": "res/hero/h20002_bm",
+      "size": 1127,
+      "compressed_size": 497,
+      "crc32": "b95f50d9"
+    },
+    {
+      "path": "res/hero/h20003_bm",
+      "size": 1207,
+      "compressed_size": 605,
+      "crc32": "ef67ae7a"
+    },
+    {
+      "path": "res/hero/h20004_bm",
+      "size": 1171,
+      "compressed_size": 548,
+      "crc32": "e4c315eb"
+    },
+    {
+      "path": "res/hero/h20005_bm",
+      "size": 1125,
+      "compressed_size": 488,
+      "crc32": "b3ae9f33"
+    },
+    {
+      "path": "res/hero/h20006_bm",
+      "size": 1145,
+      "compressed_size": 536,
+      "crc32": "8c7698ba"
+    },
+    {
+      "path": "res/hero/h20007_bm",
+      "size": 1153,
+      "compressed_size": 564,
+      "crc32": "bca5acb2"
+    },
+    {
+      "path": "res/hero/h20008_bm",
+      "size": 1221,
+      "compressed_size": 642,
+      "crc32": "e8ca0023"
+    },
+    {
+      "path": "res/hero/h20009_bm",
+      "size": 1145,
+      "compressed_size": 546,
+      "crc32": "66162617"
+    },
+    {
+      "path": "res/hero/h20010_bm",
+      "size": 1205,
+      "compressed_size": 640,
+      "crc32": "33e44ddf"
+    },
+    {
+      "path": "res/hero/h20011_bm",
+      "size": 1131,
+      "compressed_size": 537,
+      "crc32": "28b4b708"
+    },
+    {
+      "path": "res/hero/h20012_bm",
+      "size": 1135,
+      "compressed_size": 533,
+      "crc32": "5b6a026c"
+    },
+    {
+      "path": "res/hero/h20013_bm",
+      "size": 1151,
+      "compressed_size": 584,
+      "crc32": "766180c3"
+    },
+    {
+      "path": "res/hero/h20014_bm",
+      "size": 1131,
+      "compressed_size": 545,
+      "crc32": "d9caca9e"
+    },
+    {
+      "path": "res/hero/h20015_bm",
+      "size": 918,
+      "compressed_size": 533,
+      "crc32": "20d0415f"
+    },
+    {
+      "path": "res/hero/h2_cif",
+      "size": 6947,
+      "compressed_size": 2860,
+      "crc32": "dab3ec0f"
+    },
+    {
+      "path": "res/hero/h30000_bm",
+      "size": 3797,
+      "compressed_size": 1885,
+      "crc32": "c2fef7d4"
+    },
+    {
+      "path": "res/hero/h30001_bm",
+      "size": 3823,
+      "compressed_size": 2009,
+      "crc32": "7efcf20b"
+    },
+    {
+      "path": "res/hero/h30002_bm",
+      "size": 3775,
+      "compressed_size": 1978,
+      "crc32": "2a96bd45"
+    },
+    {
+      "path": "res/hero/h30003_bm",
+      "size": 3785,
+      "compressed_size": 1870,
+      "crc32": "8f963342"
+    },
+    {
+      "path": "res/hero/h30004_bm",
+      "size": 3835,
+      "compressed_size": 2052,
+      "crc32": "22941236"
+    },
+    {
+      "path": "res/hero/h30005_bm",
+      "size": 3777,
+      "compressed_size": 1896,
+      "crc32": "435eeb08"
+    },
+    {
+      "path": "res/hero/h30006_bm",
+      "size": 3771,
+      "compressed_size": 1893,
+      "crc32": "2f3d26b6"
+    },
+    {
+      "path": "res/hero/h30007_bm",
+      "size": 3719,
+      "compressed_size": 1779,
+      "crc32": "a8e8a62e"
+    },
+    {
+      "path": "res/hero/h30008_bm",
+      "size": 3727,
+      "compressed_size": 1781,
+      "crc32": "e2dd3f58"
+    },
+    {
+      "path": "res/hero/h30009_bm",
+      "size": 3855,
+      "compressed_size": 2251,
+      "crc32": "c3408170"
+    },
+    {
+      "path": "res/hero/h30010_bm",
+      "size": 3827,
+      "compressed_size": 2116,
+      "crc32": "b09dd951"
+    },
+    {
+      "path": "res/hero/h30011_bm",
+      "size": 3881,
+      "compressed_size": 2271,
+      "crc32": "1e6a042d"
+    },
+    {
+      "path": "res/hero/h30012_bm",
+      "size": 3865,
+      "compressed_size": 2126,
+      "crc32": "653787ae"
+    },
+    {
+      "path": "res/hero/h3_cif",
+      "size": 7116,
+      "compressed_size": 2710,
+      "crc32": "69f30e96"
+    },
+    {
+      "path": "res/hero/h40400_bm",
+      "size": 7052,
+      "compressed_size": 3770,
+      "crc32": "91fabe54"
+    },
+    {
+      "path": "res/hero/h40500_bm",
+      "size": 22984,
+      "compressed_size": 8512,
+      "crc32": "95dd1e27"
+    },
+    {
+      "path": "res/hero/h40600_bm",
+      "size": 8838,
+      "compressed_size": 4637,
+      "crc32": "f40cd03f"
+    },
+    {
+      "path": "res/hero/h40700_bm",
+      "size": 5150,
+      "compressed_size": 3281,
+      "crc32": "e656cf72"
+    },
+    {
+      "path": "res/hero/h40800_bm",
+      "size": 8559,
+      "compressed_size": 4569,
+      "crc32": "ad3c3fce"
+    },
+    {
+      "path": "res/hero/h40900_bm",
+      "size": 7990,
+      "compressed_size": 4485,
+      "crc32": "c3d6d87b"
+    },
+    {
+      "path": "res/hero/h41000_bm",
+      "size": 9610,
+      "compressed_size": 5104,
+      "crc32": "04c7c41b"
+    },
+    {
+      "path": "res/hero/h4_cif",
+      "size": 41666,
+      "compressed_size": 12694,
+      "crc32": "3222d9ea"
+    },
+    {
+      "path": "res/hero/h50400_bm",
+      "size": 1172,
+      "compressed_size": 428,
+      "crc32": "4ca62c52"
+    },
+    {
+      "path": "res/hero/h50401_bm",
+      "size": 1168,
+      "compressed_size": 449,
+      "crc32": "731c052a"
+    },
+    {
+      "path": "res/hero/h50402_bm",
+      "size": 1194,
+      "compressed_size": 515,
+      "crc32": "ff1b9c20"
+    },
+    {
+      "path": "res/hero/h50403_bm",
+      "size": 1190,
+      "compressed_size": 536,
+      "crc32": "8c7d0513"
+    },
+    {
+      "path": "res/hero/h50404_bm",
+      "size": 1192,
+      "compressed_size": 576,
+      "crc32": "62dd2fae"
+    },
+    {
+      "path": "res/hero/h50405_bm",
+      "size": 1194,
+      "compressed_size": 509,
+      "crc32": "10800301"
+    },
+    {
+      "path": "res/hero/h50406_bm",
+      "size": 1194,
+      "compressed_size": 569,
+      "crc32": "c6f79d72"
+    },
+    {
+      "path": "res/hero/h50407_bm",
+      "size": 1210,
+      "compressed_size": 581,
+      "crc32": "cccc56c6"
+    },
+    {
+      "path": "res/hero/h50408_bm",
+      "size": 1210,
+      "compressed_size": 546,
+      "crc32": "9de2c0dc"
+    },
+    {
+      "path": "res/hero/h50409_bm",
+      "size": 1196,
+      "compressed_size": 537,
+      "crc32": "119e0749"
+    },
+    {
+      "path": "res/hero/h50410_bm",
+      "size": 1192,
+      "compressed_size": 645,
+      "crc32": "043a3bb7"
+    },
+    {
+      "path": "res/hero/h50411_bm",
+      "size": 1190,
+      "compressed_size": 577,
+      "crc32": "0fbd36f3"
+    },
+    {
+      "path": "res/hero/h50412_bm",
+      "size": 1198,
+      "compressed_size": 593,
+      "crc32": "ef844070"
+    },
+    {
+      "path": "res/hero/h50500_bm",
+      "size": 1426,
+      "compressed_size": 552,
+      "crc32": "432e3c03"
+    },
+    {
+      "path": "res/hero/h50501_bm",
+      "size": 1392,
+      "compressed_size": 475,
+      "crc32": "c9f00aac"
+    },
+    {
+      "path": "res/hero/h50502_bm",
+      "size": 1416,
+      "compressed_size": 586,
+      "crc32": "7bbae445"
+    },
+    {
+      "path": "res/hero/h50503_bm",
+      "size": 1426,
+      "compressed_size": 645,
+      "crc32": "3061d0b6"
+    },
+    {
+      "path": "res/hero/h50504_bm",
+      "size": 1432,
+      "compressed_size": 686,
+      "crc32": "337e4bba"
+    },
+    {
+      "path": "res/hero/h50505_bm",
+      "size": 1392,
+      "compressed_size": 470,
+      "crc32": "692f5e79"
+    },
+    {
+      "path": "res/hero/h50506_bm",
+      "size": 1430,
+      "compressed_size": 736,
+      "crc32": "56bdf31c"
+    },
+    {
+      "path": "res/hero/h50507_bm",
+      "size": 1424,
+      "compressed_size": 684,
+      "crc32": "9b7944ca"
+    },
+    {
+      "path": "res/hero/h50508_bm",
+      "size": 1442,
+      "compressed_size": 732,
+      "crc32": "c874418f"
+    },
+    {
+      "path": "res/hero/h50509_bm",
+      "size": 1424,
+      "compressed_size": 612,
+      "crc32": "b7498c61"
+    },
+    {
+      "path": "res/hero/h50510_bm",
+      "size": 1430,
+      "compressed_size": 713,
+      "crc32": "341b938d"
+    },
+    {
+      "path": "res/hero/h50511_bm",
+      "size": 1434,
+      "compressed_size": 761,
+      "crc32": "588d5482"
+    },
+    {
+      "path": "res/hero/h50512_bm",
+      "size": 1444,
+      "compressed_size": 851,
+      "crc32": "6c9e617b"
+    },
+    {
+      "path": "res/hero/h50513_bm",
+      "size": 693,
+      "compressed_size": 393,
+      "crc32": "949a9cfc"
+    },
+    {
+      "path": "res/hero/h50600_bm",
+      "size": 1411,
+      "compressed_size": 425,
+      "crc32": "5799f617"
+    },
+    {
+      "path": "res/hero/h50601_bm",
+      "size": 1405,
+      "compressed_size": 473,
+      "crc32": "6d7a5547"
+    },
+    {
+      "path": "res/hero/h50602_bm",
+      "size": 1407,
+      "compressed_size": 455,
+      "crc32": "0bde0c91"
+    },
+    {
+      "path": "res/hero/h50603_bm",
+      "size": 1401,
+      "compressed_size": 479,
+      "crc32": "91bc7e0e"
+    },
+    {
+      "path": "res/hero/h50604_bm",
+      "size": 1399,
+      "compressed_size": 459,
+      "crc32": "3515464c"
+    },
+    {
+      "path": "res/hero/h50605_bm",
+      "size": 1409,
+      "compressed_size": 456,
+      "crc32": "487204b3"
+    },
+    {
+      "path": "res/hero/h50606_bm",
+      "size": 1409,
+      "compressed_size": 453,
+      "crc32": "047ec070"
+    },
+    {
+      "path": "res/hero/h50607_bm",
+      "size": 1407,
+      "compressed_size": 484,
+      "crc32": "46ac5bc9"
+    },
+    {
+      "path": "res/hero/h50608_bm",
+      "size": 1401,
+      "compressed_size": 555,
+      "crc32": "b7df84f5"
+    },
+    {
+      "path": "res/hero/h50609_bm",
+      "size": 1409,
+      "compressed_size": 500,
+      "crc32": "b7cf239d"
+    },
+    {
+      "path": "res/hero/h50610_bm",
+      "size": 1413,
+      "compressed_size": 542,
+      "crc32": "0ea861b9"
+    },
+    {
+      "path": "res/hero/h50611_bm",
+      "size": 1401,
+      "compressed_size": 511,
+      "crc32": "afd52620"
+    },
+    {
+      "path": "res/hero/h50612_bm",
+      "size": 1415,
+      "compressed_size": 439,
+      "crc32": "6186664d"
+    },
+    {
+      "path": "res/hero/h50700_bm",
+      "size": 1124,
+      "compressed_size": 452,
+      "crc32": "eeed9ad5"
+    },
+    {
+      "path": "res/hero/h50701_bm",
+      "size": 1014,
+      "compressed_size": 363,
+      "crc32": "528c4180"
+    },
+    {
+      "path": "res/hero/h50702_bm",
+      "size": 1096,
+      "compressed_size": 476,
+      "crc32": "367497d8"
+    },
+    {
+      "path": "res/hero/h50703_bm",
+      "size": 1098,
+      "compressed_size": 487,
+      "crc32": "6e0244aa"
+    },
+    {
+      "path": "res/hero/h50704_bm",
+      "size": 1150,
+      "compressed_size": 547,
+      "crc32": "72939fba"
+    },
+    {
+      "path": "res/hero/h50705_bm",
+      "size": 1086,
+      "compressed_size": 485,
+      "crc32": "6b32913d"
+    },
+    {
+      "path": "res/hero/h50706_bm",
+      "size": 1094,
+      "compressed_size": 473,
+      "crc32": "c198e1d4"
+    },
+    {
+      "path": "res/hero/h50707_bm",
+      "size": 1090,
+      "compressed_size": 616,
+      "crc32": "f4d559ff"
+    },
+    {
+      "path": "res/hero/h50708_bm",
+      "size": 1096,
+      "compressed_size": 443,
+      "crc32": "67b0c758"
+    },
+    {
+      "path": "res/hero/h50709_bm",
+      "size": 1160,
+      "compressed_size": 609,
+      "crc32": "a6e3c9d5"
+    },
+    {
+      "path": "res/hero/h50710_bm",
+      "size": 1102,
+      "compressed_size": 539,
+      "crc32": "92243931"
+    },
+    {
+      "path": "res/hero/h50711_bm",
+      "size": 1128,
+      "compressed_size": 557,
+      "crc32": "cfd6026b"
+    },
+    {
+      "path": "res/hero/h50712_bm",
+      "size": 1189,
+      "compressed_size": 657,
+      "crc32": "aa68b30b"
+    },
+    {
+      "path": "res/hero/h50800_bm",
+      "size": 1217,
+      "compressed_size": 643,
+      "crc32": "3a57ebcd"
+    },
+    {
+      "path": "res/hero/h50801_bm",
+      "size": 1247,
+      "compressed_size": 684,
+      "crc32": "01898f80"
+    },
+    {
+      "path": "res/hero/h50802_bm",
+      "size": 1215,
+      "compressed_size": 624,
+      "crc32": "2616834f"
+    },
+    {
+      "path": "res/hero/h50803_bm",
+      "size": 1219,
+      "compressed_size": 639,
+      "crc32": "9cd7494a"
+    },
+    {
+      "path": "res/hero/h50804_bm",
+      "size": 1223,
+      "compressed_size": 687,
+      "crc32": "9313629e"
+    },
+    {
+      "path": "res/hero/h50805_bm",
+      "size": 1231,
+      "compressed_size": 717,
+      "crc32": "9b6498cb"
+    },
+    {
+      "path": "res/hero/h50806_bm",
+      "size": 1221,
+      "compressed_size": 662,
+      "crc32": "47bf8c70"
+    },
+    {
+      "path": "res/hero/h50807_bm",
+      "size": 1225,
+      "compressed_size": 725,
+      "crc32": "34b90da3"
+    },
+    {
+      "path": "res/hero/h50808_bm",
+      "size": 1243,
+      "compressed_size": 791,
+      "crc32": "bd37e1b0"
+    },
+    {
+      "path": "res/hero/h50809_bm",
+      "size": 1217,
+      "compressed_size": 608,
+      "crc32": "c2714bee"
+    },
+    {
+      "path": "res/hero/h50810_bm",
+      "size": 1217,
+      "compressed_size": 608,
+      "crc32": "c2714bee"
+    },
+    {
+      "path": "res/hero/h50811_bm",
+      "size": 1217,
+      "compressed_size": 608,
+      "crc32": "c2714bee"
+    },
+    {
+      "path": "res/hero/h50812_bm",
+      "size": 1217,
+      "compressed_size": 608,
+      "crc32": "c2714bee"
+    },
+    {
+      "path": "res/hero/h50900_bm",
+      "size": 1526,
+      "compressed_size": 675,
+      "crc32": "2413a044"
+    },
+    {
+      "path": "res/hero/h50901_bm",
+      "size": 1526,
+      "compressed_size": 826,
+      "crc32": "f6748f62"
+    },
+    {
+      "path": "res/hero/h50902_bm",
+      "size": 1526,
+      "compressed_size": 828,
+      "crc32": "f941a8ef"
+    },
+    {
+      "path": "res/hero/h50903_bm",
+      "size": 1526,
+      "compressed_size": 779,
+      "crc32": "b38dad74"
+    },
+    {
+      "path": "res/hero/h50904_bm",
+      "size": 1526,
+      "compressed_size": 942,
+      "crc32": "1a114d75"
+    },
+    {
+      "path": "res/hero/h50905_bm",
+      "size": 1526,
+      "compressed_size": 760,
+      "crc32": "e946303f"
+    },
+    {
+      "path": "res/hero/h50906_bm",
+      "size": 1526,
+      "compressed_size": 810,
+      "crc32": "7cd78662"
+    },
+    {
+      "path": "res/hero/h50907_bm",
+      "size": 1526,
+      "compressed_size": 938,
+      "crc32": "c52c6bda"
+    },
+    {
+      "path": "res/hero/h50908_bm",
+      "size": 1526,
+      "compressed_size": 891,
+      "crc32": "be617b95"
+    },
+    {
+      "path": "res/hero/h50909_bm",
+      "size": 1524,
+      "compressed_size": 1012,
+      "crc32": "aa97e7e3"
+    },
+    {
+      "path": "res/hero/h51000_bm",
+      "size": 1526,
+      "compressed_size": 678,
+      "crc32": "a7efe379"
+    },
+    {
+      "path": "res/hero/h51001_bm",
+      "size": 1526,
+      "compressed_size": 820,
+      "crc32": "bac70034"
+    },
+    {
+      "path": "res/hero/h51002_bm",
+      "size": 1526,
+      "compressed_size": 831,
+      "crc32": "d1abb94f"
+    },
+    {
+      "path": "res/hero/h51003_bm",
+      "size": 1526,
+      "compressed_size": 779,
+      "crc32": "1fed78c7"
+    },
+    {
+      "path": "res/hero/h51004_bm",
+      "size": 1526,
+      "compressed_size": 942,
+      "crc32": "f3f9484d"
+    },
+    {
+      "path": "res/hero/h51005_bm",
+      "size": 1526,
+      "compressed_size": 762,
+      "crc32": "10dc66a3"
+    },
+    {
+      "path": "res/hero/h51006_bm",
+      "size": 1526,
+      "compressed_size": 808,
+      "crc32": "242e6b8f"
+    },
+    {
+      "path": "res/hero/h51007_bm",
+      "size": 1526,
+      "compressed_size": 940,
+      "crc32": "9a3aa585"
+    },
+    {
+      "path": "res/hero/h51008_bm",
+      "size": 1526,
+      "compressed_size": 893,
+      "crc32": "9d22d4e0"
+    },
+    {
+      "path": "res/hero/h51009_bm",
+      "size": 1524,
+      "compressed_size": 1008,
+      "crc32": "edaff97e"
+    },
+    {
+      "path": "res/hero/h51100_bm",
+      "size": 177,
+      "compressed_size": 125,
+      "crc32": "cd376872"
+    },
+    {
+      "path": "res/hero/h51101_bm",
+      "size": 171,
+      "compressed_size": 102,
+      "crc32": "fbd3cbab"
+    },
+    {
+      "path": "res/hero/h51102_bm",
+      "size": 169,
+      "compressed_size": 80,
+      "crc32": "7c5ce188"
+    },
+    {
+      "path": "res/hero/h51103_bm",
+      "size": 181,
+      "compressed_size": 136,
+      "crc32": "134bd555"
+    },
+    {
+      "path": "res/hero/h51104_bm",
+      "size": 167,
+      "compressed_size": 108,
+      "crc32": "563539fb"
+    },
+    {
+      "path": "res/hero/h51105_bm",
+      "size": 173,
+      "compressed_size": 101,
+      "crc32": "38e22940"
+    },
+    {
+      "path": "res/hero/h51106_bm",
+      "size": 173,
+      "compressed_size": 119,
+      "crc32": "78583ba6"
+    },
+    {
+      "path": "res/hero/h51107_bm",
+      "size": 173,
+      "compressed_size": 138,
+      "crc32": "86e3a980"
+    },
+    {
+      "path": "res/hero/h51108_bm",
+      "size": 171,
+      "compressed_size": 131,
+      "crc32": "4cb7c56e"
+    },
+    {
+      "path": "res/hero/h51109_bm",
+      "size": 179,
+      "compressed_size": 144,
+      "crc32": "153a8684"
+    },
+    {
+      "path": "res/hero/h51110_bm",
+      "size": 179,
+      "compressed_size": 139,
+      "crc32": "35f90f4e"
+    },
+    {
+      "path": "res/hero/h51111_bm",
+      "size": 179,
+      "compressed_size": 146,
+      "crc32": "930bd062"
+    },
+    {
+      "path": "res/hero/h51112_bm",
+      "size": 179,
+      "compressed_size": 144,
+      "crc32": "b65d1614"
+    },
+    {
+      "path": "res/hero/h5_cif",
+      "size": 38660,
+      "compressed_size": 13489,
+      "crc32": "bdb247ba"
+    },
+    {
+      "path": "res/hero/h60000_bm",
+      "size": 1272,
+      "compressed_size": 150,
+      "crc32": "6ae34004"
+    },
+    {
+      "path": "res/hero/h60001_bm",
+      "size": 1314,
+      "compressed_size": 338,
+      "crc32": "5ee23ea9"
+    },
+    {
+      "path": "res/hero/h60002_bm",
+      "size": 1296,
+      "compressed_size": 480,
+      "crc32": "056eadb8"
+    },
+    {
+      "path": "res/hero/h60003_bm",
+      "size": 1300,
+      "compressed_size": 190,
+      "crc32": "f405d002"
+    },
+    {
+      "path": "res/hero/h60004_bm",
+      "size": 1318,
+      "compressed_size": 425,
+      "crc32": "9d544887"
+    },
+    {
+      "path": "res/hero/h60005_bm",
+      "size": 1306,
+      "compressed_size": 509,
+      "crc32": "49313d16"
+    },
+    {
+      "path": "res/hero/h60006_bm",
+      "size": 1334,
+      "compressed_size": 654,
+      "crc32": "82b469ce"
+    },
+    {
+      "path": "res/hero/h60007_bm",
+      "size": 1284,
+      "compressed_size": 211,
+      "crc32": "4345f262"
+    },
+    {
+      "path": "res/hero/h60008_bm",
+      "size": 1302,
+      "compressed_size": 313,
+      "crc32": "f58ad468"
+    },
+    {
+      "path": "res/hero/h60009_bm",
+      "size": 1324,
+      "compressed_size": 734,
+      "crc32": "930d7747"
+    },
+    {
+      "path": "res/hero/h60010_bm",
+      "size": 1302,
+      "compressed_size": 535,
+      "crc32": "465f68ea"
+    },
+    {
+      "path": "res/hero/h60011_bm",
+      "size": 1316,
+      "compressed_size": 566,
+      "crc32": "a2f4e0b1"
+    },
+    {
+      "path": "res/hero/h60012_bm",
+      "size": 1314,
+      "compressed_size": 531,
+      "crc32": "67323340"
+    },
+    {
+      "path": "res/hero/h60013_bm",
+      "size": 1326,
+      "compressed_size": 592,
+      "crc32": "bbf29b12"
+    },
+    {
+      "path": "res/hero/h60014_bm",
+      "size": 1290,
+      "compressed_size": 378,
+      "crc32": "0e280aa3"
+    },
+    {
+      "path": "res/hero/h60015_bm",
+      "size": 1296,
+      "compressed_size": 438,
+      "crc32": "53ecbcf1"
+    },
+    {
+      "path": "res/hero/h60016_bm",
+      "size": 1310,
+      "compressed_size": 388,
+      "crc32": "f2ec8ad2"
+    },
+    {
+      "path": "res/hero/h6_cif",
+      "size": 52673,
+      "compressed_size": 15877,
+      "crc32": "91dfa25f"
+    },
+    {
+      "path": "res/hero/h7_cif",
+      "size": 40023,
+      "compressed_size": 9847,
+      "crc32": "0209ee74"
+    },
+    {
+      "path": "res/hero/h8_cif",
+      "size": 22400,
+      "compressed_size": 7344,
+      "crc32": "53c9c018"
+    },
+    {
+      "path": "res/hero/h9_cif",
+      "size": 39252,
+      "compressed_size": 10524,
+      "crc32": "b898097a"
+    },
+    {
+      "path": "res/logo/logo_bm",
+      "size": 5109,
+      "compressed_size": 2194,
+      "crc32": "5f21247a"
+    },
+    {
+      "path": "res/map/map0_mp",
+      "size": 3062,
+      "compressed_size": 1759,
+      "crc32": "8e45b9f4"
+    },
+    {
+      "path": "res/map/map100_mp",
+      "size": 2466,
+      "compressed_size": 1003,
+      "crc32": "ff3f37cd"
+    },
+    {
+      "path": "res/map/map101_mp",
+      "size": 1497,
+      "compressed_size": 745,
+      "crc32": "5ef3ea74"
+    },
+    {
+      "path": "res/map/map102_mp",
+      "size": 5149,
+      "compressed_size": 2731,
+      "crc32": "e9af71d1"
+    },
+    {
+      "path": "res/map/map103_mp",
+      "size": 3436,
+      "compressed_size": 1778,
+      "crc32": "ef6fc91c"
+    },
+    {
+      "path": "res/map/map104_mp",
+      "size": 3964,
+      "compressed_size": 2061,
+      "crc32": "fea45a8d"
+    },
+    {
+      "path": "res/map/map105_mp",
+      "size": 3405,
+      "compressed_size": 1021,
+      "crc32": "72b57c22"
+    },
+    {
+      "path": "res/map/map106_mp",
+      "size": 3542,
+      "compressed_size": 1394,
+      "crc32": "34ba071a"
+    },
+    {
+      "path": "res/map/map107_mp",
+      "size": 3283,
+      "compressed_size": 1299,
+      "crc32": "c9a953b3"
+    },
+    {
+      "path": "res/map/map108_mp",
+      "size": 1121,
+      "compressed_size": 552,
+      "crc32": "65527e19"
+    },
+    {
+      "path": "res/map/map109_mp",
+      "size": 3853,
+      "compressed_size": 1704,
+      "crc32": "10b830c5"
+    },
+    {
+      "path": "res/map/map10_mp",
+      "size": 4140,
+      "compressed_size": 2052,
+      "crc32": "0efc724d"
+    },
+    {
+      "path": "res/map/map110_mp",
+      "size": 3093,
+      "compressed_size": 1666,
+      "crc32": "7950a6b6"
+    },
+    {
+      "path": "res/map/map111_mp",
+      "size": 2477,
+      "compressed_size": 1355,
+      "crc32": "29211e83"
+    },
+    {
+      "path": "res/map/map112_mp",
+      "size": 2321,
+      "compressed_size": 1303,
+      "crc32": "14404fd8"
+    },
+    {
+      "path": "res/map/map113_mp",
+      "size": 3867,
+      "compressed_size": 1959,
+      "crc32": "57e57b82"
+    },
+    {
+      "path": "res/map/map114_mp",
+      "size": 1363,
+      "compressed_size": 770,
+      "crc32": "2b65bf3d"
+    },
+    {
+      "path": "res/map/map115_mp",
+      "size": 2156,
+      "compressed_size": 1145,
+      "crc32": "ee0a8732"
+    },
+    {
+      "path": "res/map/map116_mp",
+      "size": 2422,
+      "compressed_size": 1213,
+      "crc32": "7a584bac"
+    },
+    {
+      "path": "res/map/map117_mp",
+      "size": 2354,
+      "compressed_size": 1187,
+      "crc32": "4033e866"
+    },
+    {
+      "path": "res/map/map118_mp",
+      "size": 2523,
+      "compressed_size": 1132,
+      "crc32": "cb5ddaf2"
+    },
+    {
+      "path": "res/map/map119_mp",
+      "size": 5093,
+      "compressed_size": 2083,
+      "crc32": "f64ed296"
+    },
+    {
+      "path": "res/map/map11_mp",
+      "size": 2244,
+      "compressed_size": 1228,
+      "crc32": "afa44dbe"
+    },
+    {
+      "path": "res/map/map120_mp",
+      "size": 4701,
+      "compressed_size": 1882,
+      "crc32": "31af3b86"
+    },
+    {
+      "path": "res/map/map121_mp",
+      "size": 4751,
+      "compressed_size": 1970,
+      "crc32": "8e92f7ef"
+    },
+    {
+      "path": "res/map/map122_mp",
+      "size": 2717,
+      "compressed_size": 1103,
+      "crc32": "d8dcc0dc"
+    },
+    {
+      "path": "res/map/map123_mp",
+      "size": 2871,
+      "compressed_size": 1238,
+      "crc32": "78271512"
+    },
+    {
+      "path": "res/map/map124_mp",
+      "size": 3156,
+      "compressed_size": 1255,
+      "crc32": "0c3a1637"
+    },
+    {
+      "path": "res/map/map125_mp",
+      "size": 1075,
+      "compressed_size": 519,
+      "crc32": "68d433ef"
+    },
+    {
+      "path": "res/map/map126_mp",
+      "size": 926,
+      "compressed_size": 393,
+      "crc32": "c84024c0"
+    },
+    {
+      "path": "res/map/map127_mp",
+      "size": 936,
+      "compressed_size": 478,
+      "crc32": "c1ad9408"
+    },
+    {
+      "path": "res/map/map128_mp",
+      "size": 846,
+      "compressed_size": 458,
+      "crc32": "db0b5399"
+    },
+    {
+      "path": "res/map/map129_mp",
+      "size": 977,
+      "compressed_size": 446,
+      "crc32": "eaf80b33"
+    },
+    {
+      "path": "res/map/map12_mp",
+      "size": 4063,
+      "compressed_size": 2015,
+      "crc32": "d3d6f17e"
+    },
+    {
+      "path": "res/map/map130_mp",
+      "size": 951,
+      "compressed_size": 365,
+      "crc32": "058a1c73"
+    },
+    {
+      "path": "res/map/map131_mp",
+      "size": 837,
+      "compressed_size": 322,
+      "crc32": "72244486"
+    },
+    {
+      "path": "res/map/map132_mp",
+      "size": 3396,
+      "compressed_size": 1542,
+      "crc32": "c112e113"
+    },
+    {
+      "path": "res/map/map133_mp",
+      "size": 3389,
+      "compressed_size": 1578,
+      "crc32": "f48c9ea9"
+    },
+    {
+      "path": "res/map/map134_mp",
+      "size": 831,
+      "compressed_size": 42,
+      "crc32": "32ac5f05"
+    },
+    {
+      "path": "res/map/map13_mp",
+      "size": 3539,
+      "compressed_size": 1806,
+      "crc32": "266d8c0b"
+    },
+    {
+      "path": "res/map/map14_mp",
+      "size": 3491,
+      "compressed_size": 1533,
+      "crc32": "27640dcb"
+    },
+    {
+      "path": "res/map/map15_mp",
+      "size": 3819,
+      "compressed_size": 1752,
+      "crc32": "419fdf9e"
+    },
+    {
+      "path": "res/map/map16_mp",
+      "size": 2384,
+      "compressed_size": 928,
+      "crc32": "4bad5904"
+    },
+    {
+      "path": "res/map/map17_mp",
+      "size": 3767,
+      "compressed_size": 1397,
+      "crc32": "bcfff976"
+    },
+    {
+      "path": "res/map/map18_mp",
+      "size": 2170,
+      "compressed_size": 1097,
+      "crc32": "596699f8"
+    },
+    {
+      "path": "res/map/map19_mp",
+      "size": 2515,
+      "compressed_size": 1239,
+      "crc32": "a7837d06"
+    },
+    {
+      "path": "res/map/map1_mp",
+      "size": 879,
+      "compressed_size": 456,
+      "crc32": "0a9cdd12"
+    },
+    {
+      "path": "res/map/map20_mp",
+      "size": 1045,
+      "compressed_size": 529,
+      "crc32": "0cfafd42"
+    },
+    {
+      "path": "res/map/map21_mp",
+      "size": 3340,
+      "compressed_size": 1409,
+      "crc32": "934dfcaa"
+    },
+    {
+      "path": "res/map/map22_mp",
+      "size": 3737,
+      "compressed_size": 1528,
+      "crc32": "f33ace5d"
+    },
+    {
+      "path": "res/map/map23_mp",
+      "size": 4363,
+      "compressed_size": 2468,
+      "crc32": "31b51373"
+    },
+    {
+      "path": "res/map/map24_mp",
+      "size": 2164,
+      "compressed_size": 847,
+      "crc32": "0642ff8b"
+    },
+    {
+      "path": "res/map/map25_mp",
+      "size": 1271,
+      "compressed_size": 664,
+      "crc32": "66ea7367"
+    },
+    {
+      "path": "res/map/map26_mp",
+      "size": 865,
+      "compressed_size": 446,
+      "crc32": "4176503b"
+    },
+    {
+      "path": "res/map/map27_mp",
+      "size": 1749,
+      "compressed_size": 864,
+      "crc32": "d53bb465"
+    },
+    {
+      "path": "res/map/map28_mp",
+      "size": 1158,
+      "compressed_size": 629,
+      "crc32": "8478e3f7"
+    },
+    {
+      "path": "res/map/map29_mp",
+      "size": 755,
+      "compressed_size": 438,
+      "crc32": "2d0509c1"
+    },
+    {
+      "path": "res/map/map2_mp",
+      "size": 2287,
+      "compressed_size": 1120,
+      "crc32": "73f19a50"
+    },
+    {
+      "path": "res/map/map30_mp",
+      "size": 2864,
+      "compressed_size": 1092,
+      "crc32": "00939c5d"
+    },
+    {
+      "path": "res/map/map31_mp",
+      "size": 2610,
+      "compressed_size": 1241,
+      "crc32": "b9f14ecf"
+    },
+    {
+      "path": "res/map/map32_mp",
+      "size": 2348,
+      "compressed_size": 1063,
+      "crc32": "9c991a37"
+    },
+    {
+      "path": "res/map/map33_mp",
+      "size": 2146,
+      "compressed_size": 973,
+      "crc32": "dfe31be4"
+    },
+    {
+      "path": "res/map/map34_mp",
+      "size": 2186,
+      "compressed_size": 1126,
+      "crc32": "6c63b38b"
+    },
+    {
+      "path": "res/map/map35_mp",
+      "size": 1856,
+      "compressed_size": 842,
+      "crc32": "260d6b2b"
+    },
+    {
+      "path": "res/map/map36_mp",
+      "size": 1951,
+      "compressed_size": 944,
+      "crc32": "ab759390"
+    },
+    {
+      "path": "res/map/map37_mp",
+      "size": 2225,
+      "compressed_size": 1128,
+      "crc32": "9e6f7b1a"
+    },
+    {
+      "path": "res/map/map38_mp",
+      "size": 2533,
+      "compressed_size": 1232,
+      "crc32": "03f3c79e"
+    },
+    {
+      "path": "res/map/map39_mp",
+      "size": 3582,
+      "compressed_size": 1761,
+      "crc32": "c9f06767"
+    },
+    {
+      "path": "res/map/map3_mp",
+      "size": 544,
+      "compressed_size": 340,
+      "crc32": "4c45b952"
+    },
+    {
+      "path": "res/map/map40_mp",
+      "size": 3258,
+      "compressed_size": 1434,
+      "crc32": "27659eee"
+    },
+    {
+      "path": "res/map/map41_mp",
+      "size": 2907,
+      "compressed_size": 1162,
+      "crc32": "8fbe6666"
+    },
+    {
+      "path": "res/map/map42_mp",
+      "size": 2187,
+      "compressed_size": 848,
+      "crc32": "4cd96663"
+    },
+    {
+      "path": "res/map/map43_mp",
+      "size": 4479,
+      "compressed_size": 1999,
+      "crc32": "46713d82"
+    },
+    {
+      "path": "res/map/map44_mp",
+      "size": 1479,
+      "compressed_size": 474,
+      "crc32": "e77f4f7a"
+    },
+    {
+      "path": "res/map/map45_mp",
+      "size": 3406,
+      "compressed_size": 1815,
+      "crc32": "12d20e9d"
+    },
+    {
+      "path": "res/map/map46_mp",
+      "size": 3689,
+      "compressed_size": 1852,
+      "crc32": "54b5aa63"
+    },
+    {
+      "path": "res/map/map47_mp",
+      "size": 3801,
+      "compressed_size": 1969,
+      "crc32": "e9d89e07"
+    },
+    {
+      "path": "res/map/map48_mp",
+      "size": 2248,
+      "compressed_size": 1280,
+      "crc32": "e5f5c3fa"
+    },
+    {
+      "path": "res/map/map49_mp",
+      "size": 2963,
+      "compressed_size": 1229,
+      "crc32": "8106c3d9"
+    },
+    {
+      "path": "res/map/map4_mp",
+      "size": 1259,
+      "compressed_size": 664,
+      "crc32": "c37a0c1f"
+    },
+    {
+      "path": "res/map/map50_mp",
+      "size": 2482,
+      "compressed_size": 919,
+      "crc32": "047ce1a1"
+    },
+    {
+      "path": "res/map/map51_mp",
+      "size": 1820,
+      "compressed_size": 741,
+      "crc32": "05b03ce3"
+    },
+    {
+      "path": "res/map/map52_mp",
+      "size": 3759,
+      "compressed_size": 1802,
+      "crc32": "50bd9959"
+    },
+    {
+      "path": "res/map/map53_mp",
+      "size": 3887,
+      "compressed_size": 1739,
+      "crc32": "0922161c"
+    },
+    {
+      "path": "res/map/map54_mp",
+      "size": 4117,
+      "compressed_size": 1889,
+      "crc32": "c7087b65"
+    },
+    {
+      "path": "res/map/map55_mp",
+      "size": 2736,
+      "compressed_size": 1367,
+      "crc32": "51566496"
+    },
+    {
+      "path": "res/map/map56_mp",
+      "size": 4157,
+      "compressed_size": 1971,
+      "crc32": "c0dac42e"
+    },
+    {
+      "path": "res/map/map57_mp",
+      "size": 2063,
+      "compressed_size": 1086,
+      "crc32": "4c34ad54"
+    },
+    {
+      "path": "res/map/map58_mp",
+      "size": 1870,
+      "compressed_size": 766,
+      "crc32": "b5274594"
+    },
+    {
+      "path": "res/map/map59_mp",
+      "size": 2900,
+      "compressed_size": 811,
+      "crc32": "f274cd5b"
+    },
+    {
+      "path": "res/map/map5_mp",
+      "size": 827,
+      "compressed_size": 497,
+      "crc32": "dcd05c63"
+    },
+    {
+      "path": "res/map/map60_mp",
+      "size": 3488,
+      "compressed_size": 1792,
+      "crc32": "739b04d7"
+    },
+    {
+      "path": "res/map/map61_mp",
+      "size": 1016,
+      "compressed_size": 561,
+      "crc32": "d7844730"
+    },
+    {
+      "path": "res/map/map62_mp",
+      "size": 1269,
+      "compressed_size": 608,
+      "crc32": "3c811554"
+    },
+    {
+      "path": "res/map/map63_mp",
+      "size": 1823,
+      "compressed_size": 720,
+      "crc32": "3f81bf69"
+    },
+    {
+      "path": "res/map/map64_mp",
+      "size": 881,
+      "compressed_size": 451,
+      "crc32": "4767b1c3"
+    },
+    {
+      "path": "res/map/map65_mp",
+      "size": 964,
+      "compressed_size": 378,
+      "crc32": "e942cb92"
+    },
+    {
+      "path": "res/map/map66_mp",
+      "size": 3249,
+      "compressed_size": 1598,
+      "crc32": "b986a801"
+    },
+    {
+      "path": "res/map/map67_mp",
+      "size": 4035,
+      "compressed_size": 1941,
+      "crc32": "161c1352"
+    },
+    {
+      "path": "res/map/map68_mp",
+      "size": 3942,
+      "compressed_size": 1919,
+      "crc32": "09b08b80"
+    },
+    {
+      "path": "res/map/map69_mp",
+      "size": 4507,
+      "compressed_size": 2198,
+      "crc32": "f7e844f6"
+    },
+    {
+      "path": "res/map/map6_mp",
+      "size": 1932,
+      "compressed_size": 1108,
+      "crc32": "5a6d5568"
+    },
+    {
+      "path": "res/map/map70_mp",
+      "size": 3489,
+      "compressed_size": 1689,
+      "crc32": "ca3222c0"
+    },
+    {
+      "path": "res/map/map71_mp",
+      "size": 2103,
+      "compressed_size": 938,
+      "crc32": "3cb70fe9"
+    },
+    {
+      "path": "res/map/map72_mp",
+      "size": 1977,
+      "compressed_size": 951,
+      "crc32": "3b0f74e7"
+    },
+    {
+      "path": "res/map/map73_mp",
+      "size": 2854,
+      "compressed_size": 1328,
+      "crc32": "d78fec65"
+    },
+    {
+      "path": "res/map/map74_mp",
+      "size": 3410,
+      "compressed_size": 1378,
+      "crc32": "93928d3a"
+    },
+    {
+      "path": "res/map/map75_mp",
+      "size": 1878,
+      "compressed_size": 834,
+      "crc32": "9712da2a"
+    },
+    {
+      "path": "res/map/map76_mp",
+      "size": 1228,
+      "compressed_size": 529,
+      "crc32": "4c5a2593"
+    },
+    {
+      "path": "res/map/map77_mp",
+      "size": 1344,
+      "compressed_size": 486,
+      "crc32": "1c0a52a8"
+    },
+    {
+      "path": "res/map/map78_mp",
+      "size": 1373,
+      "compressed_size": 499,
+      "crc32": "537f2227"
+    },
+    {
+      "path": "res/map/map79_mp",
+      "size": 1349,
+      "compressed_size": 568,
+      "crc32": "130876f0"
+    },
+    {
+      "path": "res/map/map7_mp",
+      "size": 4176,
+      "compressed_size": 2210,
+      "crc32": "4b415ede"
+    },
+    {
+      "path": "res/map/map80_mp",
+      "size": 2836,
+      "compressed_size": 977,
+      "crc32": "63062bdd"
+    },
+    {
+      "path": "res/map/map81_mp",
+      "size": 2452,
+      "compressed_size": 1323,
+      "crc32": "a2eb8721"
+    },
+    {
+      "path": "res/map/map82_mp",
+      "size": 2325,
+      "compressed_size": 1095,
+      "crc32": "d5c0097d"
+    },
+    {
+      "path": "res/map/map83_mp",
+      "size": 1046,
+      "compressed_size": 598,
+      "crc32": "970eda6b"
+    },
+    {
+      "path": "res/map/map84_mp",
+      "size": 1080,
+      "compressed_size": 562,
+      "crc32": "63038535"
+    },
+    {
+      "path": "res/map/map85_mp",
+      "size": 605,
+      "compressed_size": 340,
+      "crc32": "eeb4e7b0"
+    },
+    {
+      "path": "res/map/map86_mp",
+      "size": 2220,
+      "compressed_size": 1128,
+      "crc32": "7ac6ef16"
+    },
+    {
+      "path": "res/map/map87_mp",
+      "size": 3942,
+      "compressed_size": 1902,
+      "crc32": "c9bd288a"
+    },
+    {
+      "path": "res/map/map88_mp",
+      "size": 3829,
+      "compressed_size": 1866,
+      "crc32": "aa2e64f1"
+    },
+    {
+      "path": "res/map/map89_mp",
+      "size": 2102,
+      "compressed_size": 1064,
+      "crc32": "c706791b"
+    },
+    {
+      "path": "res/map/map8_mp",
+      "size": 4143,
+      "compressed_size": 2080,
+      "crc32": "e3e8091b"
+    },
+    {
+      "path": "res/map/map90_mp",
+      "size": 3671,
+      "compressed_size": 1955,
+      "crc32": "e47ad3c9"
+    },
+    {
+      "path": "res/map/map91_mp",
+      "size": 2321,
+      "compressed_size": 651,
+      "crc32": "15c8b5c9"
+    },
+    {
+      "path": "res/map/map92_mp",
+      "size": 4205,
+      "compressed_size": 1948,
+      "crc32": "3208883e"
+    },
+    {
+      "path": "res/map/map93_mp",
+      "size": 4198,
+      "compressed_size": 1981,
+      "crc32": "c140debe"
+    },
+    {
+      "path": "res/map/map94_mp",
+      "size": 2482,
+      "compressed_size": 1158,
+      "crc32": "f7a234f9"
+    },
+    {
+      "path": "res/map/map95_mp",
+      "size": 3125,
+      "compressed_size": 1489,
+      "crc32": "7356a540"
+    },
+    {
+      "path": "res/map/map96_mp",
+      "size": 826,
+      "compressed_size": 396,
+      "crc32": "185ac96d"
+    },
+    {
+      "path": "res/map/map97_mp",
+      "size": 1781,
+      "compressed_size": 833,
+      "crc32": "b6205d86"
+    },
+    {
+      "path": "res/map/map98_mp",
+      "size": 1853,
+      "compressed_size": 714,
+      "crc32": "0dc7261f"
+    },
+    {
+      "path": "res/map/map99_mp",
+      "size": 1335,
+      "compressed_size": 441,
+      "crc32": "e7357e10"
+    },
+    {
+      "path": "res/map/map9_mp",
+      "size": 4190,
+      "compressed_size": 2135,
+      "crc32": "4ddc02db"
+    },
+    {
+      "path": "res/map/obj_0_bm",
+      "size": 3249,
+      "compressed_size": 1514,
+      "crc32": "3da2f756"
+    },
+    {
+      "path": "res/map/obj_10_bm",
+      "size": 12681,
+      "compressed_size": 4711,
+      "crc32": "f6087bbe"
+    },
+    {
+      "path": "res/map/obj_11_bm",
+      "size": 2846,
+      "compressed_size": 1465,
+      "crc32": "7c256694"
+    },
+    {
+      "path": "res/map/obj_12_bm",
+      "size": 3675,
+      "compressed_size": 1603,
+      "crc32": "c3e8a075"
+    },
+    {
+      "path": "res/map/obj_13_bm",
+      "size": 3073,
+      "compressed_size": 1315,
+      "crc32": "b7b5b5dc"
+    },
+    {
+      "path": "res/map/obj_14_bm",
+      "size": 7218,
+      "compressed_size": 2767,
+      "crc32": "7dd33e44"
+    },
+    {
+      "path": "res/map/obj_15_bm",
+      "size": 2619,
+      "compressed_size": 1969,
+      "crc32": "dc7d668e"
+    },
+    {
+      "path": "res/map/obj_16_bm",
+      "size": 5028,
+      "compressed_size": 2695,
+      "crc32": "44439ef9"
+    },
+    {
+      "path": "res/map/obj_17_bm",
+      "size": 5724,
+      "compressed_size": 2819,
+      "crc32": "7a90175b"
+    },
+    {
+      "path": "res/map/obj_18_bm",
+      "size": 4106,
+      "compressed_size": 1856,
+      "crc32": "04bf05b8"
+    },
+    {
+      "path": "res/map/obj_19_bm",
+      "size": 1297,
+      "compressed_size": 619,
+      "crc32": "79c8e9f8"
+    },
+    {
+      "path": "res/map/obj_1_bm",
+      "size": 1277,
+      "compressed_size": 826,
+      "crc32": "da665e77"
+    },
+    {
+      "path": "res/map/obj_20_bm",
+      "size": 12468,
+      "compressed_size": 6848,
+      "crc32": "988c79eb"
+    },
+    {
+      "path": "res/map/obj_21_bm",
+      "size": 2212,
+      "compressed_size": 1485,
+      "crc32": "11a4ef5a"
+    },
+    {
+      "path": "res/map/obj_22_bm",
+      "size": 1921,
+      "compressed_size": 1084,
+      "crc32": "0c438634"
+    },
+    {
+      "path": "res/map/obj_23_bm",
+      "size": 2503,
+      "compressed_size": 1187,
+      "crc32": "07f9b61c"
+    },
+    {
+      "path": "res/map/obj_24_bm",
+      "size": 1265,
+      "compressed_size": 706,
+      "crc32": "9ef9118a"
+    },
+    {
+      "path": "res/map/obj_25_bm",
+      "size": 3454,
+      "compressed_size": 2265,
+      "crc32": "6c088222"
+    },
+    {
+      "path": "res/map/obj_26_bm",
+      "size": 3397,
+      "compressed_size": 1541,
+      "crc32": "2f554e7f"
+    },
+    {
+      "path": "res/map/obj_27_bm",
+      "size": 2836,
+      "compressed_size": 1398,
+      "crc32": "bdbb3d69"
+    },
+    {
+      "path": "res/map/obj_28_bm",
+      "size": 1117,
+      "compressed_size": 771,
+      "crc32": "cd20e571"
+    },
+    {
+      "path": "res/map/obj_29_bm",
+      "size": 251,
+      "compressed_size": 173,
+      "crc32": "22e87dc4"
+    },
+    {
+      "path": "res/map/obj_2_bm",
+      "size": 1576,
+      "compressed_size": 1048,
+      "crc32": "4c5ea399"
+    },
+    {
+      "path": "res/map/obj_30_bm",
+      "size": 1273,
+      "compressed_size": 687,
+      "crc32": "f99992ae"
+    },
+    {
+      "path": "res/map/obj_31_bm",
+      "size": 1993,
+      "compressed_size": 1282,
+      "crc32": "f826cff8"
+    },
+    {
+      "path": "res/map/obj_32_bm",
+      "size": 2917,
+      "compressed_size": 1930,
+      "crc32": "f2ac4fbc"
+    },
+    {
+      "path": "res/map/obj_33_bm",
+      "size": 49445,
+      "compressed_size": 27431,
+      "crc32": "3d8ea582"
+    },
+    {
+      "path": "res/map/obj_34_bm",
+      "size": 12425,
+      "compressed_size": 5488,
+      "crc32": "077f4d56"
+    },
+    {
+      "path": "res/map/obj_35_bm",
+      "size": 4476,
+      "compressed_size": 2390,
+      "crc32": "667be882"
+    },
+    {
+      "path": "res/map/obj_36_bm",
+      "size": 8537,
+      "compressed_size": 3635,
+      "crc32": "9ba5c2e2"
+    },
+    {
+      "path": "res/map/obj_37_bm",
+      "size": 1216,
+      "compressed_size": 850,
+      "crc32": "ae3cdd83"
+    },
+    {
+      "path": "res/map/obj_38_bm",
+      "size": 1048,
+      "compressed_size": 694,
+      "crc32": "430ee70b"
+    },
+    {
+      "path": "res/map/obj_39_bm",
+      "size": 2636,
+      "compressed_size": 1867,
+      "crc32": "bd4bd216"
+    },
+    {
+      "path": "res/map/obj_3_bm",
+      "size": 2354,
+      "compressed_size": 1355,
+      "crc32": "74abc35e"
+    },
+    {
+      "path": "res/map/obj_40_bm",
+      "size": 3507,
+      "compressed_size": 2131,
+      "crc32": "bda07a46"
+    },
+    {
+      "path": "res/map/obj_41_bm",
+      "size": 2150,
+      "compressed_size": 1425,
+      "crc32": "46322914"
+    },
+    {
+      "path": "res/map/obj_42_bm",
+      "size": 1737,
+      "compressed_size": 990,
+      "crc32": "7ee1e892"
+    },
+    {
+      "path": "res/map/obj_43_bm",
+      "size": 11004,
+      "compressed_size": 7189,
+      "crc32": "3d0b3dc4"
+    },
+    {
+      "path": "res/map/obj_4_bm",
+      "size": 1173,
+      "compressed_size": 582,
+      "crc32": "53a38ee6"
+    },
+    {
+      "path": "res/map/obj_5_bm",
+      "size": 2765,
+      "compressed_size": 1693,
+      "crc32": "2250afef"
+    },
+    {
+      "path": "res/map/obj_6_bm",
+      "size": 6674,
+      "compressed_size": 3329,
+      "crc32": "b1944d2e"
+    },
+    {
+      "path": "res/map/obj_7_bm",
+      "size": 1663,
+      "compressed_size": 582,
+      "crc32": "44c82fd8"
+    },
+    {
+      "path": "res/map/obj_8_bm",
+      "size": 13049,
+      "compressed_size": 4717,
+      "crc32": "dbcae847"
+    },
+    {
+      "path": "res/map/obj_9_bm",
+      "size": 7575,
+      "compressed_size": 3857,
+      "crc32": "f44a5759"
+    },
+    {
+      "path": "res/map/sprite_0_cif",
+      "size": 15,
+      "compressed_size": 17,
+      "crc32": "ceb3ab67"
+    },
+    {
+      "path": "res/map/sprite_1_cif",
+      "size": 15,
+      "compressed_size": 14,
+      "crc32": "8ec06e86"
+    },
+    {
+      "path": "res/map/sprite_2_cif",
+      "size": 15,
+      "compressed_size": 17,
+      "crc32": "6c09fa94"
+    },
+    {
+      "path": "res/map/sprite_3_cif",
+      "size": 15,
+      "compressed_size": 17,
+      "crc32": "b9f74936"
+    },
+    {
+      "path": "res/map/sprite_4_cif",
+      "size": 15,
+      "compressed_size": 17,
+      "crc32": "b0b1b2a6"
+    },
+    {
+      "path": "res/map/sprite_5_cif",
+      "size": 15,
+      "compressed_size": 17,
+      "crc32": "2dbe53d0"
+    },
+    {
+      "path": "res/map/sprite_6_cif",
+      "size": 15,
+      "compressed_size": 17,
+      "crc32": "51df760b"
+    },
+    {
+      "path": "res/map/sprObj0_bm",
+      "size": 1207,
+      "compressed_size": 644,
+      "crc32": "9045cc22"
+    },
+    {
+      "path": "res/map/sprObj1_bm",
+      "size": 782,
+      "compressed_size": 121,
+      "crc32": "26df6a17"
+    },
+    {
+      "path": "res/map/sprObj2_bm",
+      "size": 1440,
+      "compressed_size": 764,
+      "crc32": "8e261253"
+    },
+    {
+      "path": "res/map/sprObj3_bm",
+      "size": 1037,
+      "compressed_size": 191,
+      "crc32": "52f29823"
+    },
+    {
+      "path": "res/map/sprObj4_bm",
+      "size": 1133,
+      "compressed_size": 564,
+      "crc32": "509e6d2b"
+    },
+    {
+      "path": "res/map/sprObj5_bm",
+      "size": 2079,
+      "compressed_size": 670,
+      "crc32": "898c4d05"
+    },
+    {
+      "path": "res/map/sprObj6_bm",
+      "size": 331,
+      "compressed_size": 198,
+      "crc32": "8ce94f11"
+    },
+    {
+      "path": "res/map/sprObj_0_bm",
+      "size": 3167,
+      "compressed_size": 927,
+      "crc32": "e1f65b29"
+    },
+    {
+      "path": "res/map/theme_0_bm",
+      "size": 8003,
+      "compressed_size": 6113,
+      "crc32": "32b0912c"
+    },
+    {
+      "path": "res/map/theme_10_bm",
+      "size": 4495,
+      "compressed_size": 2258,
+      "crc32": "616750de"
+    },
+    {
+      "path": "res/map/theme_11_bm",
+      "size": 2813,
+      "compressed_size": 2063,
+      "crc32": "dcad220e"
+    },
+    {
+      "path": "res/map/theme_12_bm",
+      "size": 3001,
+      "compressed_size": 1681,
+      "crc32": "b94f9fe1"
+    },
+    {
+      "path": "res/map/theme_13_bm",
+      "size": 4321,
+      "compressed_size": 2734,
+      "crc32": "ddacb553"
+    },
+    {
+      "path": "res/map/theme_14_bm",
+      "size": 2423,
+      "compressed_size": 1068,
+      "crc32": "c1221b8a"
+    },
+    {
+      "path": "res/map/theme_15_bm",
+      "size": 5407,
+      "compressed_size": 3292,
+      "crc32": "c5182b25"
+    },
+    {
+      "path": "res/map/theme_16_bm",
+      "size": 4385,
+      "compressed_size": 2424,
+      "crc32": "8ea10df1"
+    },
+    {
+      "path": "res/map/theme_17_bm",
+      "size": 6009,
+      "compressed_size": 4683,
+      "crc32": "2bc0d252"
+    },
+    {
+      "path": "res/map/theme_18_bm",
+      "size": 5989,
+      "compressed_size": 4581,
+      "crc32": "d79a4ba9"
+    },
+    {
+      "path": "res/map/theme_19_bm",
+      "size": 913,
+      "compressed_size": 626,
+      "crc32": "e21da32b"
+    },
+    {
+      "path": "res/map/theme_1_bm",
+      "size": 5883,
+      "compressed_size": 3432,
+      "crc32": "299ab092"
+    },
+    {
+      "path": "res/map/theme_20_bm",
+      "size": 7927,
+      "compressed_size": 4223,
+      "crc32": "67a3ec17"
+    },
+    {
+      "path": "res/map/theme_21_bm",
+      "size": 5711,
+      "compressed_size": 2804,
+      "crc32": "4f2eb37c"
+    },
+    {
+      "path": "res/map/theme_22_bm",
+      "size": 5869,
+      "compressed_size": 3658,
+      "crc32": "08b81b98"
+    },
+    {
+      "path": "res/map/theme_23_bm",
+      "size": 7887,
+      "compressed_size": 4391,
+      "crc32": "7cf456d0"
+    },
+    {
+      "path": "res/map/theme_24_bm",
+      "size": 3507,
+      "compressed_size": 1343,
+      "crc32": "f33cbd17"
+    },
+    {
+      "path": "res/map/theme_25_bm",
+      "size": 2165,
+      "compressed_size": 1061,
+      "crc32": "aeb3f251"
+    },
+    {
+      "path": "res/map/theme_26_bm",
+      "size": 3513,
+      "compressed_size": 2216,
+      "crc32": "a8b2592e"
+    },
+    {
+      "path": "res/map/theme_27_bm",
+      "size": 3219,
+      "compressed_size": 1923,
+      "crc32": "c194c283"
+    },
+    {
+      "path": "res/map/theme_28_bm",
+      "size": 3975,
+      "compressed_size": 2426,
+      "crc32": "10072864"
+    },
+    {
+      "path": "res/map/theme_29_bm",
+      "size": 3269,
+      "compressed_size": 2309,
+      "crc32": "4e7fcae3"
+    },
+    {
+      "path": "res/map/theme_2_bm",
+      "size": 5291,
+      "compressed_size": 3603,
+      "crc32": "0db4ab59"
+    },
+    {
+      "path": "res/map/theme_30_bm",
+      "size": 3467,
+      "compressed_size": 2036,
+      "crc32": "9eecc928"
+    },
+    {
+      "path": "res/map/theme_31_bm",
+      "size": 3969,
+      "compressed_size": 1238,
+      "crc32": "f4836347"
+    },
+    {
+      "path": "res/map/theme_32_bm",
+      "size": 3203,
+      "compressed_size": 2092,
+      "crc32": "2d2747fa"
+    },
+    {
+      "path": "res/map/theme_33_bm",
+      "size": 2391,
+      "compressed_size": 992,
+      "crc32": "45cb5189"
+    },
+    {
+      "path": "res/map/theme_34_bm",
+      "size": 6055,
+      "compressed_size": 2877,
+      "crc32": "d35a3c99"
+    },
+    {
+      "path": "res/map/theme_35_bm",
+      "size": 6153,
+      "compressed_size": 4164,
+      "crc32": "3d0a2754"
+    },
+    {
+      "path": "res/map/theme_36_bm",
+      "size": 4101,
+      "compressed_size": 2450,
+      "crc32": "8fc20807"
+    },
+    {
+      "path": "res/map/theme_37_bm",
+      "size": 4853,
+      "compressed_size": 2612,
+      "crc32": "2c06bbf5"
+    },
+    {
+      "path": "res/map/theme_38_bm",
+      "size": 5505,
+      "compressed_size": 2424,
+      "crc32": "3f27cf05"
+    },
+    {
+      "path": "res/map/theme_39_bm",
+      "size": 1601,
+      "compressed_size": 787,
+      "crc32": "e0b0299d"
+    },
+    {
+      "path": "res/map/theme_3_bm",
+      "size": 3081,
+      "compressed_size": 2271,
+      "crc32": "25799330"
+    },
+    {
+      "path": "res/map/theme_40_bm",
+      "size": 6085,
+      "compressed_size": 3084,
+      "crc32": "8d5e48a8"
+    },
+    {
+      "path": "res/map/theme_41_bm",
+      "size": 7063,
+      "compressed_size": 4558,
+      "crc32": "47f77b20"
+    },
+    {
+      "path": "res/map/theme_42_bm",
+      "size": 4819,
+      "compressed_size": 3678,
+      "crc32": "17c7a88c"
+    },
+    {
+      "path": "res/map/theme_43_bm",
+      "size": 2623,
+      "compressed_size": 1196,
+      "crc32": "6016b07d"
+    },
+    {
+      "path": "res/map/theme_44_bm",
+      "size": 8265,
+      "compressed_size": 4104,
+      "crc32": "e3dc6102"
+    },
+    {
+      "path": "res/map/theme_45_bm",
+      "size": 3847,
+      "compressed_size": 3195,
+      "crc32": "1d4c8519"
+    },
+    {
+      "path": "res/map/theme_46_bm",
+      "size": 147,
+      "compressed_size": 21,
+      "crc32": "648c8f28"
+    },
+    {
+      "path": "res/map/theme_4_bm",
+      "size": 4929,
+      "compressed_size": 2662,
+      "crc32": "c888cee4"
+    },
+    {
+      "path": "res/map/theme_5_bm",
+      "size": 3927,
+      "compressed_size": 2177,
+      "crc32": "1e63775e"
+    },
+    {
+      "path": "res/map/theme_6_bm",
+      "size": 3325,
+      "compressed_size": 2613,
+      "crc32": "022501a4"
+    },
+    {
+      "path": "res/map/theme_7_bm",
+      "size": 4203,
+      "compressed_size": 2993,
+      "crc32": "0c2c767b"
+    },
+    {
+      "path": "res/map/theme_8_bm",
+      "size": 5141,
+      "compressed_size": 3883,
+      "crc32": "68264654"
+    },
+    {
+      "path": "res/map/theme_9_bm",
+      "size": 5865,
+      "compressed_size": 3610,
+      "crc32": "340d2047"
+    },
+    {
+      "path": "res/menu/alp_bm",
+      "size": 2704,
+      "compressed_size": 1240,
+      "crc32": "d097316f"
+    },
+    {
+      "path": "res/menu/chatacterbody_txt",
+      "size": 708,
+      "compressed_size": 540,
+      "crc32": "2a20139d"
+    },
+    {
+      "path": "res/menu/chatacterhader_txt",
+      "size": 134,
+      "compressed_size": 133,
+      "crc32": "9fedb356"
+    },
+    {
+      "path": "res/menu/countrybody_txt",
+      "size": 273,
+      "compressed_size": 234,
+      "crc32": "f8a8aab3"
+    },
+    {
+      "path": "res/menu/countryheader_txt",
+      "size": 62,
+      "compressed_size": 51,
+      "crc32": "afdf0be5"
+    },
+    {
+      "path": "res/menu/helpbody_txt",
+      "size": 4191,
+      "compressed_size": 2322,
+      "crc32": "61aa46fe"
+    },
+    {
+      "path": "res/menu/helphader_txt",
+      "size": 207,
+      "compressed_size": 182,
+      "crc32": "132bf25d"
+    },
+    {
+      "path": "res/menu/kei_bm",
+      "size": 5404,
+      "compressed_size": 3012,
+      "crc32": "78f651d3"
+    },
+    {
+      "path": "res/menu/menu_bm",
+      "size": 6281,
+      "compressed_size": 3747,
+      "crc32": "8322ec86"
+    },
+    {
+      "path": "res/menu/menu_cif",
+      "size": 1667,
+      "compressed_size": 438,
+      "crc32": "f3251bdd"
+    },
+    {
+      "path": "res/menu/menu_txt",
+      "size": 258,
+      "compressed_size": 228,
+      "crc32": "9fa49cab"
+    },
+    {
+      "path": "res/menu/rits_bm",
+      "size": 5849,
+      "compressed_size": 3106,
+      "crc32": "dcb142c4"
+    },
+    {
+      "path": "res/menu/title_bm",
+      "size": 27058,
+      "compressed_size": 13806,
+      "crc32": "6f3a0878"
+    },
+    {
+      "path": "res/menu/title_cif",
+      "size": 5130,
+      "compressed_size": 1222,
+      "crc32": "42b3cde7"
+    },
+    {
+      "path": "res/menu/title_txt",
+      "size": 32,
+      "compressed_size": 34,
+      "crc32": "d2bc9697"
+    },
+    {
+      "path": "res/npc/face_bm",
+      "size": 139500,
+      "compressed_size": 93367,
+      "crc32": "8218957a"
+    },
+    {
+      "path": "res/npc/imo_bm",
+      "size": 891,
+      "compressed_size": 568,
+      "crc32": "57ba591e"
+    },
+    {
+      "path": "res/npc/npc0000_bm",
+      "size": 854,
+      "compressed_size": 674,
+      "crc32": "9d818dc3"
+    },
+    {
+      "path": "res/npc/npc0001_bm",
+      "size": 1408,
+      "compressed_size": 965,
+      "crc32": "9203382c"
+    },
+    {
+      "path": "res/npc/npc0002_bm",
+      "size": 949,
+      "compressed_size": 666,
+      "crc32": "d96f8399"
+    },
+    {
+      "path": "res/npc/npc0003_bm",
+      "size": 1180,
+      "compressed_size": 715,
+      "crc32": "b3bd2963"
+    },
+    {
+      "path": "res/npc/npc0004_bm",
+      "size": 1159,
+      "compressed_size": 679,
+      "crc32": "2b607086"
+    },
+    {
+      "path": "res/npc/npc0005_bm",
+      "size": 886,
+      "compressed_size": 505,
+      "crc32": "ebacc074"
+    },
+    {
+      "path": "res/npc/npc0006_bm",
+      "size": 1349,
+      "compressed_size": 798,
+      "crc32": "8eb479e2"
+    },
+    {
+      "path": "res/npc/npc0007_bm",
+      "size": 847,
+      "compressed_size": 495,
+      "crc32": "19ac69bb"
+    },
+    {
+      "path": "res/npc/npc0008_bm",
+      "size": 831,
+      "compressed_size": 493,
+      "crc32": "a629cc51"
+    },
+    {
+      "path": "res/npc/npc000_cif",
+      "size": 3253,
+      "compressed_size": 1333,
+      "crc32": "394085f1"
+    },
+    {
+      "path": "res/npc/npc0010_bm",
+      "size": 1112,
+      "compressed_size": 544,
+      "crc32": "d8aabed2"
+    },
+    {
+      "path": "res/npc/npc0011_bm",
+      "size": 857,
+      "compressed_size": 522,
+      "crc32": "35464a01"
+    },
+    {
+      "path": "res/npc/npc0012_bm",
+      "size": 853,
+      "compressed_size": 538,
+      "crc32": "48e25284"
+    },
+    {
+      "path": "res/npc/npc0013_bm",
+      "size": 784,
+      "compressed_size": 481,
+      "crc32": "d125af3b"
+    },
+    {
+      "path": "res/npc/npc0014_bm",
+      "size": 1018,
+      "compressed_size": 653,
+      "crc32": "1dd4d92f"
+    },
+    {
+      "path": "res/npc/npc0015_bm",
+      "size": 1050,
+      "compressed_size": 619,
+      "crc32": "d6b0e7c9"
+    },
+    {
+      "path": "res/npc/npc0016_bm",
+      "size": 849,
+      "compressed_size": 465,
+      "crc32": "e2cce9b2"
+    },
+    {
+      "path": "res/npc/npc0017_bm",
+      "size": 201,
+      "compressed_size": 160,
+      "crc32": "9a4a9838"
+    },
+    {
+      "path": "res/npc/npc0018_bm",
+      "size": 657,
+      "compressed_size": 432,
+      "crc32": "582bdcea"
+    },
+    {
+      "path": "res/npc/npc0019_bm",
+      "size": 665,
+      "compressed_size": 421,
+      "crc32": "aad55ebf"
+    },
+    {
+      "path": "res/npc/npc001_cif",
+      "size": 5782,
+      "compressed_size": 1682,
+      "crc32": "4239416a"
+    },
+    {
+      "path": "res/npc/npc0020_bm",
+      "size": 205,
+      "compressed_size": 182,
+      "crc32": "ce3f8b92"
+    },
+    {
+      "path": "res/npc/npc0021_bm",
+      "size": 199,
+      "compressed_size": 164,
+      "crc32": "fb7766ab"
+    },
+    {
+      "path": "res/npc/npc0022_bm",
+      "size": 197,
+      "compressed_size": 167,
+      "crc32": "5221dd54"
+    },
+    {
+      "path": "res/npc/npc0023_bm",
+      "size": 869,
+      "compressed_size": 548,
+      "crc32": "6d053fd1"
+    },
+    {
+      "path": "res/npc/npc0024_bm",
+      "size": 1008,
+      "compressed_size": 541,
+      "crc32": "f68939f1"
+    },
+    {
+      "path": "res/npc/npc0025_bm",
+      "size": 986,
+      "compressed_size": 539,
+      "crc32": "ebf6c95e"
+    },
+    {
+      "path": "res/npc/npc0026_bm",
+      "size": 843,
+      "compressed_size": 471,
+      "crc32": "79309987"
+    },
+    {
+      "path": "res/npc/npc002_cif",
+      "size": 2881,
+      "compressed_size": 1139,
+      "crc32": "2884ab54"
+    },
+    {
+      "path": "res/npc/npc004_cif",
+      "size": 1383,
+      "compressed_size": 510,
+      "crc32": "f8770f54"
+    },
+    {
+      "path": "res/npc/npc005_cif",
+      "size": 2374,
+      "compressed_size": 1062,
+      "crc32": "8fac0b07"
+    },
+    {
+      "path": "res/npc/npc006_cif",
+      "size": 2234,
+      "compressed_size": 491,
+      "crc32": "ee1f49c3"
+    },
+    {
+      "path": "res/npc/npc007_cif",
+      "size": 1077,
+      "compressed_size": 502,
+      "crc32": "b419d67e"
+    },
+    {
+      "path": "res/npc/npc008_cif",
+      "size": 2649,
+      "compressed_size": 962,
+      "crc32": "f0f94f9b"
+    },
+    {
+      "path": "res/npc/npc009_cif",
+      "size": 2033,
+      "compressed_size": 1005,
+      "crc32": "152027fa"
+    },
+    {
+      "path": "res/npc/npc010_cif",
+      "size": 1656,
+      "compressed_size": 266,
+      "crc32": "d2bd383e"
+    },
+    {
+      "path": "res/npc/npc012_cif",
+      "size": 1234,
+      "compressed_size": 472,
+      "crc32": "3176f7e0"
+    },
+    {
+      "path": "res/npc/npc013_cif",
+      "size": 1399,
+      "compressed_size": 492,
+      "crc32": "6f150eec"
+    },
+    {
+      "path": "res/npc/npc014_cif",
+      "size": 1007,
+      "compressed_size": 316,
+      "crc32": "d5db1307"
+    },
+    {
+      "path": "res/npc/npc015_cif",
+      "size": 1151,
+      "compressed_size": 345,
+      "crc32": "c7be592a"
+    },
+    {
+      "path": "res/npc/npc016_cif",
+      "size": 1007,
+      "compressed_size": 329,
+      "crc32": "04958823"
+    },
+    {
+      "path": "res/npc/npc017cif",
+      "size": 1039,
+      "compressed_size": 342,
+      "crc32": "c5916f08"
+    },
+    {
+      "path": "res/npc/npc017_cif",
+      "size": 1039,
+      "compressed_size": 340,
+      "crc32": "8d2eaf34"
+    },
+    {
+      "path": "res/npc/npc018_cif",
+      "size": 1007,
+      "compressed_size": 305,
+      "crc32": "4644995f"
+    },
+    {
+      "path": "res/npc/npc019_cif",
+      "size": 1544,
+      "compressed_size": 497,
+      "crc32": "ccd42299"
+    },
+    {
+      "path": "res/npc/npc020_cif",
+      "size": 1007,
+      "compressed_size": 287,
+      "crc32": "a1c8d8bc"
+    },
+    {
+      "path": "res/npc/npc021_cif",
+      "size": 344,
+      "compressed_size": 93,
+      "crc32": "8645f291"
+    },
+    {
+      "path": "res/npc/npc022_cif",
+      "size": 344,
+      "compressed_size": 88,
+      "crc32": "83612c24"
+    },
+    {
+      "path": "res/npc/npc023_cif",
+      "size": 1377,
+      "compressed_size": 469,
+      "crc32": "d7a33b20"
+    },
+    {
+      "path": "res/npc/npc024_cif",
+      "size": 1636,
+      "compressed_size": 580,
+      "crc32": "f49690cb"
+    },
+    {
+      "path": "res/npc/npc025_cif",
+      "size": 60,
+      "compressed_size": 62,
+      "crc32": "91ad04bb"
+    },
+    {
+      "path": "res/npc/npc026_cif",
+      "size": 75,
+      "compressed_size": 71,
+      "crc32": "e75ea9f5"
+    },
+    {
+      "path": "res/npc/npc027_cif",
+      "size": 1151,
+      "compressed_size": 347,
+      "crc32": "83ed7546"
+    },
+    {
+      "path": "res/npc/npc1000_bm",
+      "size": 1219,
+      "compressed_size": 717,
+      "crc32": "1beea3ad"
+    },
+    {
+      "path": "res/npc/npc1001_bm",
+      "size": 1024,
+      "compressed_size": 632,
+      "crc32": "5f9069af"
+    },
+    {
+      "path": "res/npc/npc1002_bm",
+      "size": 835,
+      "compressed_size": 526,
+      "crc32": "205e2a64"
+    },
+    {
+      "path": "res/npc/npc1003_bm",
+      "size": 336,
+      "compressed_size": 254,
+      "crc32": "90382cbf"
+    },
+    {
+      "path": "res/npc/npc1004_bm",
+      "size": 1025,
+      "compressed_size": 654,
+      "crc32": "91b97f95"
+    },
+    {
+      "path": "res/npc/npc1005_bm",
+      "size": 886,
+      "compressed_size": 598,
+      "crc32": "d3b33ac9"
+    },
+    {
+      "path": "res/npc/npc1006_bm",
+      "size": 893,
+      "compressed_size": 498,
+      "crc32": "e869a41b"
+    },
+    {
+      "path": "res/npc/npc1007_bm",
+      "size": 1479,
+      "compressed_size": 910,
+      "crc32": "9fc56925"
+    },
+    {
+      "path": "res/npc/npc1008_bm",
+      "size": 933,
+      "compressed_size": 567,
+      "crc32": "6a19faf9"
+    },
+    {
+      "path": "res/npc/npc1010_bm",
+      "size": 1182,
+      "compressed_size": 795,
+      "crc32": "7cd583f4"
+    },
+    {
+      "path": "res/npc/npc1011_bm",
+      "size": 947,
+      "compressed_size": 567,
+      "crc32": "2a4cd1da"
+    },
+    {
+      "path": "res/npc/npc1012_bm",
+      "size": 891,
+      "compressed_size": 493,
+      "crc32": "56c4c9bf"
+    },
+    {
+      "path": "res/npc/npc1013_bm",
+      "size": 828,
+      "compressed_size": 491,
+      "crc32": "35349fbd"
+    },
+    {
+      "path": "res/npc/npc1014_bm",
+      "size": 941,
+      "compressed_size": 533,
+      "crc32": "92ff33c9"
+    },
+    {
+      "path": "res/npc/npc1015_bm",
+      "size": 985,
+      "compressed_size": 558,
+      "crc32": "73890ac8"
+    },
+    {
+      "path": "res/npc/npc1016_bm",
+      "size": 232,
+      "compressed_size": 202,
+      "crc32": "e63f07d1"
+    },
+    {
+      "path": "res/npc/npc1017_bm",
+      "size": 224,
+      "compressed_size": 187,
+      "crc32": "85f02da3"
+    },
+    {
+      "path": "res/npc/npc1018_bm",
+      "size": 224,
+      "compressed_size": 183,
+      "crc32": "562bcfb4"
+    },
+    {
+      "path": "res/npc/npc1019_bm",
+      "size": 420,
+      "compressed_size": 252,
+      "crc32": "fcc23053"
+    },
+    {
+      "path": "res/npc/npc1020_bm",
+      "size": 931,
+      "compressed_size": 519,
+      "crc32": "b300fdd6"
+    },
+    {
+      "path": "res/npc/npc1021_bm",
+      "size": 897,
+      "compressed_size": 483,
+      "crc32": "b3149dd3"
+    },
+    {
+      "path": "res/npc/npc1022_bm",
+      "size": 933,
+      "compressed_size": 568,
+      "crc32": "38440232"
+    },
+    {
+      "path": "res/npc/npc1023_bm",
+      "size": 436,
+      "compressed_size": 305,
+      "crc32": "f6b1052b"
+    },
+    {
+      "path": "res/npc/npc1024_bm",
+      "size": 214,
+      "compressed_size": 171,
+      "crc32": "4ece6c58"
+    },
+    {
+      "path": "res/npc/npc2000_bm",
+      "size": 2901,
+      "compressed_size": 1625,
+      "crc32": "aa630932"
+    },
+    {
+      "path": "res/npc/npc2001_bm",
+      "size": 1772,
+      "compressed_size": 1115,
+      "crc32": "d7f9b53f"
+    },
+    {
+      "path": "res/npc/npc2002_bm",
+      "size": 3260,
+      "compressed_size": 2178,
+      "crc32": "7e541012"
+    },
+    {
+      "path": "res/npc/npc2003_bm",
+      "size": 3566,
+      "compressed_size": 1485,
+      "crc32": "22defbe1"
+    },
+    {
+      "path": "res/npc/npc2004_bm",
+      "size": 2431,
+      "compressed_size": 1435,
+      "crc32": "ccd3f3c0"
+    },
+    {
+      "path": "res/npc/npc2005_bm",
+      "size": 3507,
+      "compressed_size": 1657,
+      "crc32": "b0305292"
+    },
+    {
+      "path": "res/npc/npc2006_bm",
+      "size": 2019,
+      "compressed_size": 1234,
+      "crc32": "0524dfa6"
+    },
+    {
+      "path": "res/npc/npc2007_bm",
+      "size": 4425,
+      "compressed_size": 1884,
+      "crc32": "d6846a7a"
+    },
+    {
+      "path": "res/npc/npc2008_bm",
+      "size": 2154,
+      "compressed_size": 1190,
+      "crc32": "e6bf5b9d"
+    },
+    {
+      "path": "res/npc/npc2010_bm",
+      "size": 2940,
+      "compressed_size": 1787,
+      "crc32": "267f904d"
+    },
+    {
+      "path": "res/npc/npc2011_bm",
+      "size": 2216,
+      "compressed_size": 1193,
+      "crc32": "039e6c3a"
+    },
+    {
+      "path": "res/npc/npc2012_bm",
+      "size": 1838,
+      "compressed_size": 1089,
+      "crc32": "dfb9b2e9"
+    },
+    {
+      "path": "res/npc/npc2013_bm",
+      "size": 1622,
+      "compressed_size": 1011,
+      "crc32": "c9753746"
+    },
+    {
+      "path": "res/npc/npc2014_bm",
+      "size": 3520,
+      "compressed_size": 1379,
+      "crc32": "007bac19"
+    },
+    {
+      "path": "res/npc/npc2015_bm",
+      "size": 2366,
+      "compressed_size": 1328,
+      "crc32": "fe466a54"
+    },
+    {
+      "path": "res/npc/npc2016_bm",
+      "size": 181,
+      "compressed_size": 162,
+      "crc32": "260f2c84"
+    },
+    {
+      "path": "res/npc/npc2017_bm",
+      "size": 181,
+      "compressed_size": 168,
+      "crc32": "acf6b7be"
+    },
+    {
+      "path": "res/npc/npc2018_bm",
+      "size": 390,
+      "compressed_size": 269,
+      "crc32": "a5737fde"
+    },
+    {
+      "path": "res/npc/npc2019_bm",
+      "size": 1046,
+      "compressed_size": 621,
+      "crc32": "dc8e19ca"
+    },
+    {
+      "path": "res/npc/npc2020_bm",
+      "size": 1856,
+      "compressed_size": 999,
+      "crc32": "a8cec562"
+    },
+    {
+      "path": "res/npc/npc2021_bm",
+      "size": 1888,
+      "compressed_size": 1005,
+      "crc32": "bde4e018"
+    },
+    {
+      "path": "res/npc/npc2022_bm",
+      "size": 1962,
+      "compressed_size": 1228,
+      "crc32": "b0751f70"
+    },
+    {
+      "path": "res/npc/npc2023_bm",
+      "size": 1040,
+      "compressed_size": 650,
+      "crc32": "634cf1f5"
+    },
+    {
+      "path": "res/npc/npc2024_bm",
+      "size": 181,
+      "compressed_size": 180,
+      "crc32": "5f1772be"
+    },
+    {
+      "path": "res/npc/npc3000_bm",
+      "size": 2574,
+      "compressed_size": 1790,
+      "crc32": "b4884987"
+    },
+    {
+      "path": "res/npc/npc3001_bm",
+      "size": 9332,
+      "compressed_size": 3289,
+      "crc32": "2effc070"
+    },
+    {
+      "path": "res/npc/npc3002_bm",
+      "size": 4441,
+      "compressed_size": 1555,
+      "crc32": "aa28bafa"
+    },
+    {
+      "path": "res/npc/npc3003_bm",
+      "size": 4436,
+      "compressed_size": 1873,
+      "crc32": "a8bb9945"
+    },
+    {
+      "path": "res/npc/npc3004_bm",
+      "size": 2955,
+      "compressed_size": 647,
+      "crc32": "86a99c87"
+    },
+    {
+      "path": "res/npc/npc3005_bm",
+      "size": 5042,
+      "compressed_size": 2110,
+      "crc32": "8a850bc6"
+    },
+    {
+      "path": "res/npc/npc3006_bm",
+      "size": 5603,
+      "compressed_size": 3174,
+      "crc32": "91e5c210"
+    },
+    {
+      "path": "res/npc/npc3007_bm",
+      "size": 1781,
+      "compressed_size": 393,
+      "crc32": "415ac725"
+    },
+    {
+      "path": "res/npc/npc4000_bm",
+      "size": 1407,
+      "compressed_size": 455,
+      "crc32": "0bde0c91"
+    },
+    {
+      "path": "res/npc/npc4001_bm",
+      "size": 2001,
+      "compressed_size": 378,
+      "crc32": "1444a480"
+    },
+    {
+      "path": "res/npc/npc4002_bm",
+      "size": 1905,
+      "compressed_size": 649,
+      "crc32": "0a0ce8c2"
+    },
+    {
+      "path": "res/npc/npc4003_bm",
+      "size": 283,
+      "compressed_size": 190,
+      "crc32": "deab88e3"
+    },
+    {
+      "path": "res/npc/npc4004_bm",
+      "size": 633,
+      "compressed_size": 200,
+      "crc32": "c47d4e2d"
+    },
+    {
+      "path": "res/npc/npc4005_bm",
+      "size": 2607,
+      "compressed_size": 1388,
+      "crc32": "4fde0d49"
+    },
+    {
+      "path": "res/npc/npc4006_bm",
+      "size": 556,
+      "compressed_size": 271,
+      "crc32": "3ca5704d"
+    },
+    {
+      "path": "res/npc/npc4007_bm",
+      "size": 852,
+      "compressed_size": 466,
+      "crc32": "806773d3"
+    },
+    {
+      "path": "res/npc/npc4008_bm",
+      "size": 813,
+      "compressed_size": 300,
+      "crc32": "29799bc1"
+    },
+    {
+      "path": "res/npc/npc4009_bm",
+      "size": 1364,
+      "compressed_size": 644,
+      "crc32": "f35a9bc8"
+    },
+    {
+      "path": "res/npc/npc4010_bm",
+      "size": 210,
+      "compressed_size": 169,
+      "crc32": "cd3ef05f"
+    },
+    {
+      "path": "res/npc/npc9000_bm",
+      "size": 1810,
+      "compressed_size": 1207,
+      "crc32": "f74d67a9"
+    },
+    {
+      "path": "res/npc/npc9001_bm",
+      "size": 918,
+      "compressed_size": 701,
+      "crc32": "6cb3f3d7"
+    },
+    {
+      "path": "res/npc/npc9002_bm",
+      "size": 1313,
+      "compressed_size": 849,
+      "crc32": "1515b930"
+    },
+    {
+      "path": "res/npc/npc9003_bm",
+      "size": 692,
+      "compressed_size": 537,
+      "crc32": "cd071109"
+    },
+    {
+      "path": "res/npc/npc9004_bm",
+      "size": 1310,
+      "compressed_size": 822,
+      "crc32": "594fd403"
+    },
+    {
+      "path": "res/npc/npc9005_bm",
+      "size": 411,
+      "compressed_size": 325,
+      "crc32": "e35533dd"
+    },
+    {
+      "path": "res/npc/npc9006_bm",
+      "size": 419,
+      "compressed_size": 316,
+      "crc32": "f1cb1b08"
+    },
+    {
+      "path": "res/npc/npc9007_bm",
+      "size": 417,
+      "compressed_size": 336,
+      "crc32": "7602d018"
+    },
+    {
+      "path": "res/npc/npc9008_bm",
+      "size": 560,
+      "compressed_size": 489,
+      "crc32": "a19df5e1"
+    },
+    {
+      "path": "res/npc/npc9009_bm",
+      "size": 632,
+      "compressed_size": 522,
+      "crc32": "412665d4"
+    },
+    {
+      "path": "res/npc/npc900_cif",
+      "size": 1324,
+      "compressed_size": 503,
+      "crc32": "5966a431"
+    },
+    {
+      "path": "res/npc/npc9010_bm",
+      "size": 891,
+      "compressed_size": 671,
+      "crc32": "8c5f2480"
+    },
+    {
+      "path": "res/npc/npc9011_bm",
+      "size": 556,
+      "compressed_size": 460,
+      "crc32": "f771e252"
+    },
+    {
+      "path": "res/npc/npc901_cif",
+      "size": 342,
+      "compressed_size": 87,
+      "crc32": "5640f2b7"
+    },
+    {
+      "path": "res/npc/npc902_cif",
+      "size": 406,
+      "compressed_size": 105,
+      "crc32": "a5db9178"
+    },
+    {
+      "path": "res/npc/npc903_cif",
+      "size": 278,
+      "compressed_size": 77,
+      "crc32": "1b8300c0"
+    },
+    {
+      "path": "res/npc/npc904_cif",
+      "size": 406,
+      "compressed_size": 101,
+      "crc32": "eb1c7f9d"
+    },
+    {
+      "path": "res/npc/npc905_cif",
+      "size": 342,
+      "compressed_size": 80,
+      "crc32": "4ae1554c"
+    },
+    {
+      "path": "res/npc/npc906_cif",
+      "size": 406,
+      "compressed_size": 103,
+      "crc32": "618aae33"
+    },
+    {
+      "path": "res/npc/npc907_cif",
+      "size": 406,
+      "compressed_size": 96,
+      "crc32": "6fd25246"
+    },
+    {
+      "path": "res/npc/npc908_cif",
+      "size": 802,
+      "compressed_size": 252,
+      "crc32": "161d7c5b"
+    },
+    {
+      "path": "res/npc/npcg_dat",
+      "size": 1014,
+      "compressed_size": 370,
+      "crc32": "f349a2b6"
+    },
+    {
+      "path": "res/skill/s10_bm",
+      "size": 2516,
+      "compressed_size": 2018,
+      "crc32": "274021c1"
+    },
+    {
+      "path": "res/skill/s10_dat",
+      "size": 938,
+      "compressed_size": 506,
+      "crc32": "cfc6c2ce"
+    },
+    {
+      "path": "res/skill/s4_bm",
+      "size": 2544,
+      "compressed_size": 1969,
+      "crc32": "c064dbd1"
+    },
+    {
+      "path": "res/skill/s4_dat",
+      "size": 894,
+      "compressed_size": 486,
+      "crc32": "7554e981"
+    },
+    {
+      "path": "res/skill/s5_bm",
+      "size": 2522,
+      "compressed_size": 1973,
+      "crc32": "461717fb"
+    },
+    {
+      "path": "res/skill/s5_dat",
+      "size": 922,
+      "compressed_size": 482,
+      "crc32": "edf31ca4"
+    },
+    {
+      "path": "res/skill/s6_bm",
+      "size": 2514,
+      "compressed_size": 1973,
+      "crc32": "de3ed32e"
+    },
+    {
+      "path": "res/skill/s6_dat",
+      "size": 926,
+      "compressed_size": 512,
+      "crc32": "96198ec2"
+    },
+    {
+      "path": "res/skill/s7_bm",
+      "size": 2526,
+      "compressed_size": 1965,
+      "crc32": "c99b1efc"
+    },
+    {
+      "path": "res/skill/s7_dat",
+      "size": 923,
+      "compressed_size": 494,
+      "crc32": "80a7a175"
+    },
+    {
+      "path": "res/skill/s8_bm",
+      "size": 2516,
+      "compressed_size": 1975,
+      "crc32": "ff226461"
+    },
+    {
+      "path": "res/skill/s8_dat",
+      "size": 930,
+      "compressed_size": 508,
+      "crc32": "3a62dbad"
+    },
+    {
+      "path": "res/skill/s9_bm",
+      "size": 2520,
+      "compressed_size": 2082,
+      "crc32": "88a83b90"
+    },
+    {
+      "path": "res/skill/s9_dat",
+      "size": 904,
+      "compressed_size": 490,
+      "crc32": "f4a8740e"
+    },
+    {
+      "path": "res/snd/bgm0_mf",
+      "size": 1482850,
+      "compressed_size": 1592,
+      "crc32": "ba9ff63d"
+    },
+    {
+      "path": "res/snd/bgm10_mf",
+      "size": 999585,
+      "compressed_size": 1123,
+      "crc32": "c76398f3"
+    },
+    {
+      "path": "res/snd/bgm11_mf",
+      "size": 1204065,
+      "compressed_size": 1321,
+      "crc32": "f81c25f0"
+    },
+    {
+      "path": "res/snd/bgm12_mf",
+      "size": 1127458,
+      "compressed_size": 1250,
+      "crc32": "8dcdaf9b"
+    },
+    {
+      "path": "res/snd/bgm13_mf",
+      "size": 911459,
+      "compressed_size": 1040,
+      "crc32": "fcb51bb8"
+    },
+    {
+      "path": "res/snd/bgm14_mf",
+      "size": 751330,
+      "compressed_size": 884,
+      "crc32": "cd8e9f28"
+    },
+    {
+      "path": "res/snd/bgm15_mf",
+      "size": 694882,
+      "compressed_size": 829,
+      "crc32": "21bd9b24"
+    },
+    {
+      "path": "res/snd/bgm16_mf",
+      "size": 1191970,
+      "compressed_size": 1312,
+      "crc32": "9edc7232"
+    },
+    {
+      "path": "res/snd/bgm17_mf",
+      "size": 694883,
+      "compressed_size": 830,
+      "crc32": "68ffc6a7"
+    },
+    {
+      "path": "res/snd/bgm18_mf",
+      "size": 707554,
+      "compressed_size": 839,
+      "crc32": "70e794a4"
+    },
+    {
+      "path": "res/snd/bgm1_mf",
+      "size": 1314658,
+      "compressed_size": 1428,
+      "crc32": "4f3de02b"
+    },
+    {
+      "path": "res/snd/bgm2_mf",
+      "size": 865953,
+      "compressed_size": 992,
+      "crc32": "d0c068d5"
+    },
+    {
+      "path": "res/snd/bgm3_mf",
+      "size": 911458,
+      "compressed_size": 1040,
+      "crc32": "83d488f1"
+    },
+    {
+      "path": "res/snd/bgm4_mf",
+      "size": 1355554,
+      "compressed_size": 1470,
+      "crc32": "982f9bf9"
+    },
+    {
+      "path": "res/snd/bgm5_mf",
+      "size": 848098,
+      "compressed_size": 978,
+      "crc32": "fdf54033"
+    },
+    {
+      "path": "res/snd/bgm6_mf",
+      "size": 711586,
+      "compressed_size": 845,
+      "crc32": "5fc1be4f"
+    },
+    {
+      "path": "res/snd/bgm7_mf",
+      "size": 869986,
+      "compressed_size": 998,
+      "crc32": "da921112"
+    },
+    {
+      "path": "res/snd/bgm8_mf",
+      "size": 1063521,
+      "compressed_size": 1184,
+      "crc32": "e9d34398"
+    },
+    {
+      "path": "res/snd/bgm9_mf",
+      "size": 901089,
+      "compressed_size": 1029,
+      "crc32": "383c475a"
+    },
+    {
+      "path": "res/snd/sd000_mf",
+      "size": 2721,
+      "compressed_size": 2545,
+      "crc32": "92552f5a"
+    },
+    {
+      "path": "res/snd/sd001_mf",
+      "size": 12082,
+      "compressed_size": 10945,
+      "crc32": "d992beb9"
+    },
+    {
+      "path": "res/snd/sd002_mf",
+      "size": 7495,
+      "compressed_size": 6870,
+      "crc32": "7e52c3da"
+    },
+    {
+      "path": "res/snd/sd003_mf",
+      "size": 931,
+      "compressed_size": 913,
+      "crc32": "a692573d"
+    },
+    {
+      "path": "res/snd/sd004_mf",
+      "size": 3833,
+      "compressed_size": 3659,
+      "crc32": "5f806746"
+    },
+    {
+      "path": "res/snd/sd005_mf",
+      "size": 996,
+      "compressed_size": 971,
+      "crc32": "9e7ec525"
+    },
+    {
+      "path": "res/snd/sd006_mf",
+      "size": 1633,
+      "compressed_size": 1565,
+      "crc32": "584a6afa"
+    },
+    {
+      "path": "res/snd/sd007_mf",
+      "size": 2596,
+      "compressed_size": 2425,
+      "crc32": "8321769a"
+    },
+    {
+      "path": "res/snd/sd008_mf",
+      "size": 3894,
+      "compressed_size": 3557,
+      "crc32": "6c544e7b"
+    },
+    {
+      "path": "res/snd/sd009_mf",
+      "size": 6944,
+      "compressed_size": 6379,
+      "crc32": "c8e714c8"
+    },
+    {
+      "path": "res/snd/sd010_mf",
+      "size": 6966,
+      "compressed_size": 6364,
+      "crc32": "a799f5ad"
+    },
+    {
+      "path": "res/snd/sd011_mf",
+      "size": 6801,
+      "compressed_size": 6236,
+      "crc32": "f3c7f6a6"
+    },
+    {
+      "path": "res/snd/sd012_mf",
+      "size": 12825,
+      "compressed_size": 11101,
+      "crc32": "5100cc24"
+    },
+    {
+      "path": "res/snd/sd013_mf",
+      "size": 8103,
+      "compressed_size": 7291,
+      "crc32": "cab95c4d"
+    }
+  ]
+}

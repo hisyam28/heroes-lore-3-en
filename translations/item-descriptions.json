@@ -1,0 +1,874 @@
+{
+  "entries": [
+    {
+      "file": "res/dat/i13_dat",
+      "record": 0,
+      "source": "사용자의 HP를 대량 회복한다.",
+      "translation": "RESTORE MUCH HP TO;USER."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 1,
+      "source": "파티 전체의 HP를 소량 회복한다.",
+      "translation": "RESTORE SOME HP TO;PARTY."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 2,
+      "source": "사용자의 SP를 대량 회복한다.",
+      "translation": "RESTORE MUCH SP TO;USER."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 3,
+      "source": "파티 전체의 SP를 소량 회복한다.",
+      "translation": "RESTORE SOME SP TO;PARTY."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 4,
+      "source": "사용자의 HP최대치를 순간 증가시킨다.",
+      "translation": "BRIEFLY RAISE MAX HP."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 5,
+      "source": "파티 전체의 HP최대치를 일정시간 증가시킨다.",
+      "translation": "RAISE PARTY MAX HP FOR;A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 6,
+      "source": "파티 전체의 HP회복량이 일정시간 증가한다.",
+      "translation": "RAISE PARTY HP;RECOVERY FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 7,
+      "source": "사용자의 물리공격력이 일정시간 증가한다.",
+      "translation": "RAISE USER P.ATK FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 8,
+      "source": "사용자의 물리공격력이 순간 극대화된다.",
+      "translation": "BRIEFLY MAXIMIZE USER;P.ATK."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 9,
+      "source": "사용자의 특수공격력(마법/총기)이 일정시간 증가한다.",
+      "translation": "RAISE USER MAGIC/GUN;ATK FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 10,
+      "source": "사용자의 특수공격력(마법/총기)이 순간 극대화된다.",
+      "translation": "BRIEFLY MAXIMIZE;MAGIC/GUN ATK."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 11,
+      "source": "사용자의 물리방어력이 일정시간 증가한다.",
+      "translation": "RAISE USER P.DEF FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 12,
+      "source": "사용자의 물리방어력이 순간 극대화된다.",
+      "translation": "BRIEFLY MAXIMIZE USER;P.DEF."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 13,
+      "source": "사용자의 특수방어력이 일정시간 증가한다.",
+      "translation": "RAISE USER S.DEF FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 14,
+      "source": "사용자의 특수방어력이 순간 극대화된다.",
+      "translation": "BRIEFLY MAXIMIZE USER;S.DEF."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 15,
+      "source": "사용자의 명중률이 일정시간 증가한다.",
+      "translation": "RAISE USER ACC FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 16,
+      "source": "사용자의 회피율이 일정시간 증가한다.",
+      "translation": "RAISE USER EVA FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 17,
+      "source": "사용자의 쿨타임이 일정시간 크게 감소한다.",
+      "translation": "GREATLY CUT COOLDOWN;FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 18,
+      "source": "대상의 모든 상태이상을 회복한다.",
+      "translation": "CURE ALL TARGET;AILMENTS."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 19,
+      "source": "대상의 모든 능력치 증가 상태를 해제시킨다.",
+      "translation": "REMOVE ALL TARGET STAT;BUFFS."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 20,
+      "source": "사용자의 방패방어율이 일정시간 증가한다.",
+      "translation": "RAISE USER BLOCK;CHANCE FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 21,
+      "source": "적 파티 전체의 명중률을 일정시간 감소시킨다.",
+      "translation": "LOWER ENEMY PARTY ACC;FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 22,
+      "source": "적 파티 전체의 물리방어력을 일정시간 감소시킨다.",
+      "translation": "LOWER ENEMY PARTY;P.DEF FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 23,
+      "source": "적 파티 전체의 특수방어력을 일정시간 감소시킨다.",
+      "translation": "LOWER ENEMY PARTY;S.DEF FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 24,
+      "source": "대상의 회피율을 일정시간 감소시킨다.",
+      "translation": "LOWER TARGET EVA FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 25,
+      "source": "적 파티 전체의 HP최대치를 일정시간 감소시킨다.",
+      "translation": "LOWER ENEMY PARTY MAX;HP FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 26,
+      "source": "(캐쉬카드)",
+      "translation": "(CASH CARDS)"
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 27,
+      "source": "레이드 전용. 파티원 1인을 전투불능 상태에서 회복한다.",
+      "translation": "RAID ONLY. REVIVE ONE;PARTY MEMBER."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 28,
+      "source": "사용자의 HP를 대량 회복한다.",
+      "translation": "RESTORE MUCH HP TO;USER."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 29,
+      "source": "사용자의 SP를 대량 회복한다.",
+      "translation": "RESTORE MUCH SP TO;USER."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 30,
+      "source": "사용자의 물리공격력이 순간 극대화된다.",
+      "translation": "BRIEFLY MAXIMIZE USER;P.ATK."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 31,
+      "source": "사용자의 특수공격력(마법/총기)이 순간 극대화된다.",
+      "translation": "BRIEFLY MAXIMIZE;MAGIC/GUN ATK."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 32,
+      "source": "사용자의 명중률이 일정시간 증가한다.",
+      "translation": "RAISE USER ACC FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 33,
+      "source": "사용자의 회피율이 일정시간 증가한다.",
+      "translation": "RAISE USER EVA FOR A;WHILE."
+    },
+    {
+      "file": "res/dat/i13_dat",
+      "record": 34,
+      "source": "사용자의 방패방어율이 일정시간 증가한다.",
+      "translation": "RAISE USER BLOCK;CHANCE FOR A WHILE."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 0,
+      "source": "각종 아이템의 조합에 사용되는 용액",
+      "translation": "SOLUTION USED TO CRAFT;ITEMS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 1,
+      "source": "각종 아이템의 조합에 사용되는 용액",
+      "translation": "SOLUTION USED TO CRAFT;ITEMS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 2,
+      "source": "각종 아이템의 조합에 사용되는 용액",
+      "translation": "SOLUTION USED TO CRAFT;ITEMS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 3,
+      "source": "무기나 방어구의 제련에 사용되는 돌",
+      "translation": "STONE TO REFINE;WEAPONS AND ARMR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 4,
+      "source": "창/양손검/나이프의 조합에 사용",
+      "translation": "CRAFT SPEARS, G.SWRDS;AND DAGGERS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 5,
+      "source": "홀리스톤/다크스톤의 조합에 사용",
+      "translation": "CRAFT HOLY AND DARK;ORBS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 6,
+      "source": "권총/라이플의 조합에 사용",
+      "translation": "CRAFT HANDGUNS AND;RIFLES."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 7,
+      "source": "각종 방어구의 조합에 사용",
+      "translation": "USED TO CRAFT ARMR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 8,
+      "source": "각종 방어구의 조합에 사용",
+      "translation": "USED TO CRAFT ARMR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 9,
+      "source": "바람의 속성을 가진 구멍뚫린 돌",
+      "translation": "HOLED STONE WITH WIND;POWER."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 10,
+      "source": "냉기의 속성을 가진 순백의 돌",
+      "translation": "PURE WHITE STONE WITH;ICE POWER."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 11,
+      "source": "짐승의 피를 머금고 있는 나뭇가지",
+      "translation": "BRANCH SOAKED IN BEAST;BLOOD."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 12,
+      "source": "어둠의 속성을 가진 검은 돌",
+      "translation": "BLACK STONE WITH DARK;POWER."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 13,
+      "source": "이름모를 짐승의 가공된 뼛조각",
+      "translation": "WORKED BONE OF AN;UNKNOWN BEAST."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 14,
+      "source": "짜잘한 나뭇 가지",
+      "translation": "SMALL TWIGS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 15,
+      "source": "신비한 빛을 내는 가루",
+      "translation": "MYSTERIOUS GLOWING;POWDER."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 16,
+      "source": "쥐들의 가죽",
+      "translation": "RAT SKINS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 17,
+      "source": "플레임 쿠퍼의 가죽",
+      "translation": "FLAME COOPER HIDE."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 18,
+      "source": "아크헨지의 털",
+      "translation": "ARC HENGE FUR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 19,
+      "source": "쥐들의발톱",
+      "translation": "RAT CLAWS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 20,
+      "source": "박쥐의 날개 조각",
+      "translation": "BAT WING PIECES."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 21,
+      "source": "라이칸의 이빨",
+      "translation": "LYCAN FANGS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 22,
+      "source": "솔티아인들이 가지고 다니는 문장",
+      "translation": "CREST CARRIED BY;SOLTIANS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 23,
+      "source": "정체불명의 가고일들에게 달린 뿔",
+      "translation": "HORNS OF MYSTERIOUS;GARGOYLES."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 24,
+      "source": "코르버스 길드원들의 소속 문장",
+      "translation": "CORVUS GUILD MEMBERS;CREST."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 25,
+      "source": "라이칸이 사용하는 검의 칼날",
+      "translation": "BLADE FROM A LYCAN;SWORD."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 26,
+      "source": "라이트닝가드가 생성하는 가루",
+      "translation": "POWDER FROM LIGHTNING;GUARDS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 27,
+      "source": "에인션트버그가 옮기는 꿀",
+      "translation": "HONEY CARRIED BY;ANCIENT BUGS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 28,
+      "source": "(네트워크전용)",
+      "translation": "(ONLINE ONLY)"
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 29,
+      "source": "투구/갑옷 조합용 고대 금속",
+      "translation": "ANCIENT METAL FOR;HELMS AND ARMR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 30,
+      "source": "장갑/신발 조합용 고대 가죽",
+      "translation": "ANCIENT HIDE FOR;GLOVES AND BOOTS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 31,
+      "source": "물리무기/방패 조합용 고대 제련석",
+      "translation": "ANCT STONE FOR MELEE;WEAPONS/SHIELDS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 32,
+      "source": "스톤/총기 조합용 고대 정령석",
+      "translation": "ANCIENT SPIRIT STONE;FOR ORBS AND GUNS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 33,
+      "source": "투구/갑옷 조합용 고대 금속",
+      "translation": "ANCIENT METAL FOR;HELMS AND ARMR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 34,
+      "source": "장갑/신발 조합용 고대 가죽",
+      "translation": "ANCIENT HIDE FOR;GLOVES AND BOOTS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 35,
+      "source": "물리무기/방패 조합용 고대 제련석",
+      "translation": "ANCT STONE FOR MELEE;WEAPONS/SHIELDS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 36,
+      "source": "스톤/총기 조합용 고대 정령석",
+      "translation": "ANCIENT SPIRIT STONE;FOR ORBS AND GUNS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 37,
+      "source": "투구/갑옷 조합용 고대 금속",
+      "translation": "ANCIENT METAL FOR;HELMS AND ARMR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 38,
+      "source": "장갑/신발 조합용 고대 가죽",
+      "translation": "ANCIENT HIDE FOR;GLOVES AND BOOTS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 39,
+      "source": "물리무기/방패 조합용 고대 제련석",
+      "translation": "ANCT STONE FOR MELEE;WEAPONS/SHIELDS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 40,
+      "source": "스톤/총기 조합용 고대 정령석",
+      "translation": "ANCIENT SPIRIT STONE;FOR ORBS AND GUNS."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 41,
+      "source": "전사계열의 장비 조합용 강화 문장",
+      "translation": "ENHANCEMENT CREST TO;CRAFT WARRIOR GEAR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 42,
+      "source": "총기계열의 장비 조합용 강화 문장",
+      "translation": "ENHANCEMENT CREST TO;CRAFT GUNNER GEAR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 43,
+      "source": "마법계열의 장비 조합용 강화 문장",
+      "translation": "ENHANCEMENT CREST TO;CRAFT MAGE GEAR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 44,
+      "source": "방어계열의 장비 조합용 강화 문장",
+      "translation": "ENHANCEMENT CREST TO;CRAFT DEFENDER GEAR."
+    },
+    {
+      "file": "res/dat/i14_dat",
+      "record": 45,
+      "source": "회피계열의 장비 조합용 강화 문장",
+      "translation": "ENHANCEMENT CREST TO;CRAFT EVASION GEAR."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 0,
+      "source": "HP의 최대치를 증가.;",
+      "translation": "RAISE MAX HP."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 1,
+      "source": "HP를 자동 회복.;",
+      "translation": "AUTO-RESTORE HP."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 2,
+      "source": "장비의 성능을 강화.;",
+      "translation": "BOOST GEAR POWER."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 3,
+      "source": "물리 공격에 대한 방어력을 강화.;",
+      "translation": "BOOST PHYSICAL DEF."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 4,
+      "source": "마법/총기에 대한 방어력을 강화.;",
+      "translation": "BOOST DEF VS;MAGIC/GUNS."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 5,
+      "source": "공격의 명중률을 증가.;",
+      "translation": "RAISE ACC."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 6,
+      "source": "공격에 대한 회피율을 증가.;",
+      "translation": "RAISE EVA."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 7,
+      "source": "방패의 블록 확률을 증가.;",
+      "translation": "RAISE SHIELD BLOCK;CHANCE."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 8,
+      "source": "크리티컬의 발생 확률을 증가.;",
+      "translation": "RAISE CRITICAL CHANCE."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 9,
+      "source": "크리티컬 공격을 맞을 확률 감소.;",
+      "translation": "LOWER CHANCE OF TAKING;CRITS."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 10,
+      "source": "스킬사용에 소모되는 SP를 감소.;",
+      "translation": "LOWER SKILL SP COST."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 11,
+      "source": "SP의 회복속도를 증가.;",
+      "translation": "RESTORE SP FASTER."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 12,
+      "source": "공격을 통해 적의 HP를 흡수.;",
+      "translation": "DRAIN FOE HP WITH;ATKS."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 13,
+      "source": "스킬의 쿨타임을 감소.;",
+      "translation": "SHORTEN SKILL;COOLDOWN."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 14,
+      "source": "적의 방패를 무시할 확률 증가.;",
+      "translation": "RAISE SHIELD-PIERCE;CHANCE."
+    },
+    {
+      "file": "res/dat/i16_dat",
+      "record": 15,
+      "source": "장비의 오브 홈을 하나 늘림.;가방에서 장비를 선택.",
+      "translation": "ADD 1 SOCKET. SELECT;GEAR IN THE BAG."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 0,
+      "source": "고유의 신호를 발생시키는 펜던트",
+      "translation": "PENDANT THAT EMITS A;UNIQUE SIGNAL."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 1,
+      "source": "펜던트A의 위치를 조사할 수 있는 펜던트",
+      "translation": "PENDANT THAT LOCATES;PENDANT A."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 2,
+      "source": "네메시스협곡의 독기에 대한 면역을 만들어주는 물",
+      "translation": "WATER: IMMUNITY TO;NEMESIS CANYON TOXINS."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 3,
+      "source": "북쪽의 유적으로 전달해야하는 의문의 보석",
+      "translation": "GEM TO DELIVER TO THE;NORTHERN RUINS."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 4,
+      "source": "토레즈 시민 알버트 슈 하임 19세",
+      "translation": "TOREZ CITIZEN ALBERT;SHU HEIM, AGE 19."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 5,
+      "source": "공장 출입을 위해 대충 만든 불법 카드",
+      "translation": "MAKESHIFT ILLEGAL CARD;FOR FACTORY ENTRY."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 6,
+      "source": "고대 봉인의 해제를 위해 필요한 보석",
+      "translation": "GEM NEEDED TO BREAK AN;ANCIENT SEAL."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 7,
+      "source": "토레즈공무원이 로우엔으로 보내는 서신",
+      "translation": "LETTER FROM A TOREZ;OFFICIAL TO LOWEN."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 8,
+      "source": "과거 솔럼의 생활상이 담겨있는 일지",
+      "translation": "JOURNAL ABOUT LIFE IN;OLD SOLUM."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 9,
+      "source": "윈터하츠에서 개발된 아주 매운 술",
+      "translation": "VERY SPICY WINTERHARTS;LIQUOR."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 10,
+      "source": "알아보기도 힘든데다 찢어지기까지 한 지도",
+      "translation": "TORN MAP THAT IS HARD;TO READ."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 11,
+      "source": "레아가 적어준 수련 목록",
+      "translation": "TRAINING LIST WRITTEN;BY LEA."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 12,
+      "source": "이벤트용으로 쓰일법한 소녀취향의 엽서",
+      "translation": "GIRLISH POSTCARD;SUITED FOR AN EVENT."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 13,
+      "source": "리파이너의 유적에서 발견된 유리방패",
+      "translation": "GLASS SHIELD FROM;REFINER RUINS."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 14,
+      "source": "오래된 리파이너 굴베이그의 유물",
+      "translation": "RELIC OF THE ANCIENT;REFINER GULLVEIG."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 15,
+      "source": "테너가 폐쇄된 공장에 숨겨두었다는 중요한 물건",
+      "translation": "KEY ITEM TENOR HID IN;A CLOSED FACTORY."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 16,
+      "source": "일레느가 남긴 완성되지 못한 닉스코어",
+      "translation": "UNFINISHED NYX CORE;LEFT BY ELAINE."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 17,
+      "source": "반전세력의 의지를 하나로 모으는 문장",
+      "translation": "CREST UNITING THE;ANTIWAR FACTION."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 18,
+      "source": "평화를 바라는 일레느의 낙서가 적힌 노트",
+      "translation": "NOTES OF ELAINES WISH;FOR PEACE."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 19,
+      "source": "총기 제작을 위해 필요한 부속품",
+      "translation": "PARTS NEEDED TO MAKE;GUNS."
+    },
+    {
+      "file": "res/dat/i17_dat",
+      "record": 20,
+      "source": "각종 재료들을 섞어만든 고급 사슬",
+      "translation": "FINE CHAIN MADE FROM;VARIOUS MATERIALS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 0,
+      "source": "HP를 200 회복한다.",
+      "translation": "RESTORE 200 HP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 1,
+      "source": "HP를 600 회복한다.",
+      "translation": "RESTORE 600 HP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 2,
+      "source": "HP를 1500 회복한다.",
+      "translation": "RESTORE 1500 HP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 3,
+      "source": "HP를 3000 회복한다.",
+      "translation": "RESTORE 3000 HP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 4,
+      "source": "SP를 20% 회복한다.",
+      "translation": "RESTORE 20% SP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 5,
+      "source": "SP를 50% 회복한다.",
+      "translation": "RESTORE 50% SP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 6,
+      "source": "SP를 완전 회복한다.",
+      "translation": "FULLY RESTORE SP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 7,
+      "source": "오브의 원석. 사용시 오브로 전환된다.",
+      "translation": "RAW ORB. USE TO TURN;INTO AN ORB."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 8,
+      "source": "최근에 지나온 마을로 귀환한다.",
+      "translation": "RETURN TO THE LAST;TOWN VISITED."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 9,
+      "source": "원하는 마을로 이동이 가능한 귀환서",
+      "translation": "RETURN TO A TOWN OF;YOUR CHOICE."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 10,
+      "source": "무엇이 나올지 모르는 상자",
+      "translation": "BOX WITH UNKNOWN;CONTENTS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 11,
+      "source": "게임오버 상태에서 자동 부활(싱글)",
+      "translation": "AUTO-REVIVE AT GAME;OVER. SINGLE PLAYER."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 12,
+      "source": "HP와 SP 완전 회복",
+      "translation": "FULLY RESTORE HP AND;SP."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 13,
+      "source": "아이템 자동 루팅;(게임종료시 까지)",
+      "translation": "AUTO-LOOT UNTIL THE;GAME CLOSES."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 14,
+      "source": "인벤토리 1가방 확장;(최대 5가방)",
+      "translation": "ADD ONE INVENTORY BAG.;MAX 5 BAGS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 15,
+      "source": "육성된 스테이터스 초기화",
+      "translation": "RESET ALLOCATED STAT;POINTS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 16,
+      "source": "육성된 스킬 초기화",
+      "translation": "RESET LEARNED SKILLS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 17,
+      "source": "경험치 2배;(사용후 1주일간)",
+      "translation": "DOUBLE EXP FOR ONE;WEEK AFTER USE."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 18,
+      "source": "경험치 4배;(사용후 1주일간)",
+      "translation": "QUADRUPLE EXP FOR ONE;WEEK AFTER USE."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 19,
+      "source": "네트워크창고 확장;(최대 8가방)",
+      "translation": "EXPAND ONLINE STORAGE.;MAX 8 BAGS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 20,
+      "source": "무엇이 나올지 모르는 상자",
+      "translation": "BOX WITH UNKNOWN;CONTENTS."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 21,
+      "source": "즉시 레벨 1 상승;(최대 70)",
+      "translation": "GAIN ONE LEVEL NOW.;MAX LEVEL 70."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 22,
+      "source": "캐릭터 국가제한 무시;(사용후 1주일간)",
+      "translation": "NO CHAR NATION LIMITS;FOR 1 WEEK AFTER USE."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 23,
+      "source": "장비 명예제한 무시;(사용후 1일간)",
+      "translation": "NO GEAR HONOR LIMITS;FOR 1 DAY AFTER USE."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 24,
+      "source": "장비레벨제한 5감소;(사용후 1주일간)",
+      "translation": "GEAR LV REQ -5 FOR 1;WEEK AFTER USE."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 25,
+      "source": "랜덤하게 오브가 드랍되는 상자",
+      "translation": "BOX CONTAINING A;RANDOM ORB."
+    },
+    {
+      "file": "res/dat/i18_dat",
+      "record": 26,
+      "source": "장비의 소켓을 증가;(최대 5소켓)",
+      "translation": "ADD A GEAR SOCKET. MAX;5 SOCKETS."
+    }
+  ]
+}

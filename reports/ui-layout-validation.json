@@ -1,0 +1,1040 @@
+{
+  "kind": "isolated game-font execution; panel budgets inferred from supplied screenshots",
+  "panels": [
+    {
+      "id": "res/menu/chatacterbody_txt#0",
+      "width_budget": 168,
+      "line_widths": [
+        121,
+        163,
+        157
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#1",
+      "width_budget": 168,
+      "line_widths": [
+        97,
+        151,
+        115,
+        163
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 42,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#2",
+      "width_budget": 168,
+      "line_widths": [
+        157,
+        127,
+        151
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#3",
+      "width_budget": 168,
+      "line_widths": [
+        145,
+        151,
+        151
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#4",
+      "width_budget": 168,
+      "line_widths": [
+        115,
+        157,
+        139
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#5",
+      "width_budget": 168,
+      "line_widths": [
+        127,
+        145,
+        139
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#6",
+      "width_budget": 168,
+      "line_widths": [
+        163,
+        157,
+        145
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#7",
+      "width_budget": 168,
+      "line_widths": [
+        151,
+        145,
+        157
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#8",
+      "width_budget": 168,
+      "line_widths": [
+        145,
+        145,
+        115
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 31,
+      "fits": true
+    },
+    {
+      "id": "res/menu/chatacterbody_txt#9",
+      "width_budget": 168,
+      "line_widths": [
+        139,
+        163
+      ],
+      "height_budget": 44,
+      "rendered_ink_height": 20,
+      "fits": true
+    },
+    {
+      "id": "res/menu/countrybody_txt#0",
+      "width_budget": 108,
+      "line_widths": [
+        97,
+        91,
+        79,
+        73,
+        97,
+        85,
+        91,
+        91
+      ],
+      "height_budget": 103,
+      "rendered_ink_height": 86,
+      "fits": true
+    },
+    {
+      "id": "res/menu/countrybody_txt#1",
+      "width_budget": 108,
+      "line_widths": [
+        79,
+        79,
+        79,
+        97,
+        97,
+        91,
+        85
+      ],
+      "height_budget": 103,
+      "rendered_ink_height": 75,
+      "fits": true
+    }
+  ],
+  "item_names_checked": 628,
+  "max_item_width": 109,
+  "detail_caption_widths": {
+    "NM": 13,
+    "EFC": 19
+  },
+  "item_description_checks": [
+    {
+      "table": "i13_dat",
+      "record": 0,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 1,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 2,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 3,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 4,
+      "width": 127,
+      "ink_height": 9
+    },
+    {
+      "table": "i13_dat",
+      "record": 5,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 6,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 7,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 8,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 9,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 10,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 11,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 12,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 13,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 14,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 15,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 16,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 17,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 18,
+      "width": 91,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 19,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 20,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 21,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 22,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 23,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 24,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 25,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 26,
+      "width": 73,
+      "ink_height": 9
+    },
+    {
+      "table": "i13_dat",
+      "record": 27,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 28,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 29,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 30,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 31,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 32,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 33,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i13_dat",
+      "record": 34,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 0,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 1,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 2,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 3,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 4,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 5,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 6,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 7,
+      "width": 115,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 8,
+      "width": 115,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 9,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 10,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 11,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 12,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 13,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 14,
+      "width": 73,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 15,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 16,
+      "width": 61,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 17,
+      "width": 109,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 18,
+      "width": 85,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 19,
+      "width": 61,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 20,
+      "width": 97,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 21,
+      "width": 73,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 22,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 23,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 24,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 25,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 26,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 27,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 28,
+      "width": 79,
+      "ink_height": 9
+    },
+    {
+      "table": "i14_dat",
+      "record": 29,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 30,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 31,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 32,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 33,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 34,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 35,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 36,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 37,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 38,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 39,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 40,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 41,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 42,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 43,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 44,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i14_dat",
+      "record": 45,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 0,
+      "width": 79,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 1,
+      "width": 97,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 2,
+      "width": 103,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 3,
+      "width": 115,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 4,
+      "width": 73,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 5,
+      "width": 61,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 6,
+      "width": 61,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 7,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 8,
+      "width": 133,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 9,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 10,
+      "width": 121,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 11,
+      "width": 109,
+      "ink_height": 9
+    },
+    {
+      "table": "i16_dat",
+      "record": 12,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 13,
+      "width": 79,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 14,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i16_dat",
+      "record": 15,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 0,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 1,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 2,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 3,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 4,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 5,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 6,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 7,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 8,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 9,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 10,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 11,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 12,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 13,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 14,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 15,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 16,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 17,
+      "width": 103,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 18,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 19,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i17_dat",
+      "record": 20,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 0,
+      "width": 91,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 1,
+      "width": 91,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 2,
+      "width": 97,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 3,
+      "width": 97,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 4,
+      "width": 91,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 5,
+      "width": 91,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 6,
+      "width": 103,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 7,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 8,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 9,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 10,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 11,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 12,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 13,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 14,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 15,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 16,
+      "width": 127,
+      "ink_height": 9
+    },
+    {
+      "table": "i18_dat",
+      "record": 17,
+      "width": 109,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 18,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 19,
+      "width": 133,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 20,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 21,
+      "width": 115,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 22,
+      "width": 127,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 23,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 24,
+      "width": 121,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 25,
+      "width": 97,
+      "ink_height": 20
+    },
+    {
+      "table": "i18_dat",
+      "record": 26,
+      "width": 133,
+      "ink_height": 20
+    }
+  ],
+  "skill_descriptions_checked": 63,
+  "enemy_names_checked": 161,
+  "max_enemy_name_width": 73,
+  "all_panels_fit": true
+}

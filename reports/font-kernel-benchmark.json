@@ -1,0 +1,63 @@
+{
+  "kind": "isolated ARM font kernel: both stubbed pixel writes and real game pixel writer; platform framebuffer/memcpy stubbed",
+  "glyph_grid_before": [
+    8,
+    11
+  ],
+  "glyph_grid_after": [
+    5,
+    7
+  ],
+  "latin_advance_before": 8,
+  "latin_advance_after": 6,
+  "space_advance_after": 6,
+  "line_height_before": 13,
+  "line_height_after": 11,
+  "tests": "printable glyphs, measuring, wrapping, line height, split drawing, Korean fallback",
+  "benchmark": [
+    {
+      "text": "HAND KNIFE",
+      "before_instructions": 19119,
+      "after_instructions": 9684,
+      "reduction_percent": 49.35,
+      "with_pixel_writer_before": 24204,
+      "with_pixel_writer_after": 16164,
+      "with_pixel_writer_reduction_percent": 33.22,
+      "old_width": 78,
+      "new_width": 61
+    },
+    {
+      "text": "GUARDIAN KNIGHT",
+      "before_instructions": 29664,
+      "after_instructions": 14969,
+      "reduction_percent": 49.54,
+      "with_pixel_writer_before": 37494,
+      "with_pixel_writer_after": 24914,
+      "with_pixel_writer_reduction_percent": 33.55,
+      "old_width": 118,
+      "new_width": 91
+    },
+    {
+      "text": "THEY DEFEND ALLIES ON THE FRONT LINE.",
+      "before_instructions": 65388,
+      "after_instructions": 32728,
+      "reduction_percent": 49.95,
+      "with_pixel_writer_before": 81630,
+      "with_pixel_writer_after": 53290,
+      "with_pixel_writer_reduction_percent": 34.72,
+      "old_width": 275,
+      "new_width": 223
+    },
+    {
+      "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789",
+      "before_instructions": 75966,
+      "after_instructions": 37971,
+      "reduction_percent": 50.02,
+      "with_pixel_writer_before": 95615,
+      "with_pixel_writer_after": 62448,
+      "with_pixel_writer_reduction_percent": 34.69,
+      "old_width": 294,
+      "new_width": 223
+    }
+  ]
+}

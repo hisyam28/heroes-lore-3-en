@@ -1,0 +1,14 @@
+{
+  "original_module_md5": "6a352944bb43c0789ca9f4b6f0702f4b",
+  "translated_module_md5": "e55b5690743b1b48a4a8afe2b684452b",
+  "native_profile_offset": 13067570,
+  "enabled_hook_kinds": [
+    "blend565_lgt",
+    "blit565_lgt",
+    "blit_lut565_lgt",
+    "tint_rect565_lgt"
+  ],
+  "loader_patch_expectations_verified": 14,
+  "native_code_changed": false,
+  "native_profile_hash_bytes_changed": 29
+}

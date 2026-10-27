@@ -1,0 +1,5197 @@
+{
+  "format": "hl3-prefixed-record-text-v1",
+  "encoding": "cp949",
+  "field_counts": {
+    "res/dat/quest_00_dat": 4,
+    "res/dat/quest_01_dat": 4,
+    "res/dat/quest_10_dat": 4,
+    "res/dat/quest_11_dat": 4,
+    "res/dat/char_dat": 2
+  },
+  "entries": [
+    {
+      "id": "res/dat/quest_00_dat#0.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 0,
+      "field": 0,
+      "source": "노력의 증명1",
+      "translation": "PROOF OF EFFORT 1"
+    },
+    {
+      "id": "res/dat/quest_00_dat#0.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 0,
+      "field": 1,
+      "source": "레아에게 받은 수련과제. 일단 만만한거 부터 해결하자.",
+      "translation": "LEAS TRAINING TASK. START;WITH THE EASIEST TARGETS."
+    },
+    {
+      "id": "res/dat/quest_00_dat#0.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 0,
+      "field": 2,
+      "source": "네메시스숲;블랙헨지",
+      "translation": "NEMESIS WOODS;BLACK HENGE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#0.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 0,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#1.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 1,
+      "field": 0,
+      "source": "수상한 동굴",
+      "translation": "A STRANGE CAVE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#1.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 1,
+      "field": 1,
+      "source": "처음보는 동굴. 뭔가 위험해 보이긴 하지만 궁금한데..",
+      "translation": "A CAVE I HAVE NEVER SEEN. IT;LOOKS DANGEROUS, BUT I AM;CURIOUS."
+    },
+    {
+      "id": "res/dat/quest_00_dat#1.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 1,
+      "field": 2,
+      "source": "네메시스숲;작은 동굴 탐사",
+      "translation": "NEMESIS WOODS;EXPLORE THE SMALL CAVE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#1.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 1,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#2.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 2,
+      "field": 0,
+      "source": "길잃은 소녀",
+      "translation": "LOST GIRL"
+    },
+    {
+      "id": "res/dat/quest_00_dat#2.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 2,
+      "field": 1,
+      "source": "길잃은 소녀를 네오 솔티아까지 안내해주자.",
+      "translation": "GUIDE THE LOST GIRL BACK TO;NEO SOLTIA."
+    },
+    {
+      "id": "res/dat/quest_00_dat#2.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 2,
+      "field": 2,
+      "source": "네오솔티아;시엔과 함께 귀환",
+      "translation": "NEO SOLTIA;RETURN WITH SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#2.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 2,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#3.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 3,
+      "field": 0,
+      "source": "아름다운 임무",
+      "translation": "A LOVELY MISSION"
+    },
+    {
+      "id": "res/dat/quest_00_dat#3.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 3,
+      "field": 1,
+      "source": "빛의 신당에 있는 시엔을 찾아가 레아의 펜던트를 전해주자.",
+      "translation": "FIND SIEN AT THE SHRINE OF;LIGHT AND GIVE HER LEAS;PENDANT."
+    },
+    {
+      "id": "res/dat/quest_00_dat#3.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 3,
+      "field": 2,
+      "source": "숲 서쪽의 빛의신당;시엔 재회",
+      "translation": "WESTERN FOREST SHRINE;MEET SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#3.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 3,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#4.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 4,
+      "field": 0,
+      "source": "길치인 소녀",
+      "translation": "LOST AGAIN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#4.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 4,
+      "field": 1,
+      "source": "여전히 네오솔티아를 못찾는 시엔. 수호기사의 의무를 다해 안내하자.",
+      "translation": "SIEN STILL CANNOT FIND NEO;SOLTIA. AS HER GUARDIAN;KNIGHT, GUIDE HER HOME."
+    },
+    {
+      "id": "res/dat/quest_00_dat#4.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 4,
+      "field": 2,
+      "source": "네오솔티아;시엔과 함께 귀환",
+      "translation": "NEO SOLTIA;RETURN WITH SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#4.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 4,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#5.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 5,
+      "field": 0,
+      "source": "협곡의 독소",
+      "translation": "CANYON TOXINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#5.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 5,
+      "field": 1,
+      "source": "시엔의 뒤를 쫓기 위해 남동쪽 주둔지대장장이에게서 협곡의 성수를 조합하자.",
+      "translation": "TO FOLLOW SIEN, ASK THE;SOUTHEAST GARRISON SMITH TO;CRAFT CANYON HOLY WATER."
+    },
+    {
+      "id": "res/dat/quest_00_dat#5.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 5,
+      "field": 2,
+      "source": "숲 남동쪽의 주둔지;협곡의 성수",
+      "translation": "SOUTHEAST FOREST CAMP;CANYON HOLY WATER"
+    },
+    {
+      "id": "res/dat/quest_00_dat#5.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 5,
+      "field": 3,
+      "source": "메인퀘스트- 레아",
+      "translation": "MAIN QUEST - LEA"
+    },
+    {
+      "id": "res/dat/quest_00_dat#6.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 6,
+      "field": 0,
+      "source": "위험한 협곡",
+      "translation": "DANGEROUS CANYON"
+    },
+    {
+      "id": "res/dat/quest_00_dat#6.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 6,
+      "field": 1,
+      "source": "분명히 협곡 어디선가 헤매고 있을 길치 소녀를 찾아보자.",
+      "translation": "FIND THE GIRL WHO IS SURELY;LOST SOMEWHERE IN THE;CANYON."
+    },
+    {
+      "id": "res/dat/quest_00_dat#6.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 6,
+      "field": 2,
+      "source": "주둔지 남쪽의 협곡;시엔 재회",
+      "translation": "CANYON SOUTH OF CAMP;MEET SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#6.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 6,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#7.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 7,
+      "field": 0,
+      "source": "국경 돌파",
+      "translation": "ACROSS THE BORDER"
+    },
+    {
+      "id": "res/dat/quest_00_dat#7.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 7,
+      "field": 1,
+      "source": "솔티아의 추락을 막기위해 적국으로.. 적군이 바글바글할텐데 괜찮을까?",
+      "translation": "ENTER THE ENEMY NATION TO;STOP SOLTIAS FALL. CAN I GET;PAST ALL THOSE SOLDIERS?"
+    },
+    {
+      "id": "res/dat/quest_00_dat#7.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 7,
+      "field": 2,
+      "source": "동쪽의 아스크란주둔지;아스크라 국경 돌파",
+      "translation": "EASTERN ASKRA CAMP;CROSS ASKRAS BORDER"
+    },
+    {
+      "id": "res/dat/quest_00_dat#7.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 7,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#8.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 8,
+      "field": 0,
+      "source": "추격을 피해",
+      "translation": "ESCAPE PURSUIT"
+    },
+    {
+      "id": "res/dat/quest_00_dat#8.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 8,
+      "field": 1,
+      "source": "망했다 들켰다. 사막으로 가야한다니까 북쪽으로 뛰고보자.",
+      "translation": "WE HAVE BEEN SPOTTED! THE;DESERT IS NORTH. RUN FOR IT."
+    },
+    {
+      "id": "res/dat/quest_00_dat#8.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 8,
+      "field": 2,
+      "source": "광산 북쪽의 사막;엔자크 사막 도달",
+      "translation": "DESERT NORTH OF MINES;REACH ENZAK DESERT"
+    },
+    {
+      "id": "res/dat/quest_00_dat#8.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 8,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#9.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 9,
+      "field": 0,
+      "source": "북쪽의 사막",
+      "translation": "NORTHERN DESERT"
+    },
+    {
+      "id": "res/dat/quest_00_dat#9.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 9,
+      "field": 1,
+      "source": "목적지는 북쪽의 사막. 시엔의 뒤를 쫓자. 그게 내 임무이고 운명이니까.",
+      "translation": "FOLLOW SIEN TO THE DESERT IN;THE NORTH. IT IS MY DUTY AND;MY DESTINY."
+    },
+    {
+      "id": "res/dat/quest_00_dat#9.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 9,
+      "field": 2,
+      "source": "북쪽의 엔자크사막;사막마을 엔자크 도달",
+      "translation": "NORTHERN ENZAK DESERT;REACH ENZAK TOWN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#9.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 9,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#10.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 10,
+      "field": 0,
+      "source": "수호기사의 의지",
+      "translation": "A KNIGHTS RESOLVE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#10.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 10,
+      "field": 1,
+      "source": "여기까지 와서 그냥 갈순 없다. 펜던트가 가르키는 남동쪽을 향하자.",
+      "translation": "I CANNOT TURN BACK NOW.;FOLLOW THE PENDANTS SIGNAL;TO THE SOUTHEAST."
+    },
+    {
+      "id": "res/dat/quest_00_dat#10.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 10,
+      "field": 2,
+      "source": "사막남동쪽의 유적;리파이너의유적 도달",
+      "translation": "SOUTHEAST DESERT RUINS;REACH REFINER RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#10.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 10,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#11.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 11,
+      "field": 0,
+      "source": "유적 진입",
+      "translation": "INTO THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#11.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 11,
+      "field": 1,
+      "source": "시엔이 찾던 과거의 흔적이 여기가 맞다면 어딘가에 그녀가 있을 것이다.",
+      "translation": "IF THESE ARE THE TRACES OF;THE PAST SIEN SOUGHT, SHE;MUST BE SOMEWHERE INSIDE."
+    },
+    {
+      "id": "res/dat/quest_00_dat#11.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 11,
+      "field": 2,
+      "source": "리파이너의 유적;유적 탐사",
+      "translation": "REFINER RUINS;EXPLORE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#11.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 11,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#12.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 12,
+      "field": 0,
+      "source": "독안에든 쥐",
+      "translation": "TRAPPED RAT"
+    },
+    {
+      "id": "res/dat/quest_00_dat#12.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 12,
+      "field": 1,
+      "source": "아스크란 군이 온다고 한다. 독안에 든 쥐가 되기 전에 유적을 빠져나가자.",
+      "translation": "ASKRAN TROOPS ARE COMING.;LEAVE THE RUINS BEFORE THEY;TRAP US."
+    },
+    {
+      "id": "res/dat/quest_00_dat#12.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 12,
+      "field": 2,
+      "source": "리파이너의 유적;유적 탈출",
+      "translation": "REFINER RUINS;ESCAPE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#12.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 12,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#13.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 13,
+      "field": 0,
+      "source": "미약한 신호",
+      "translation": "A FAINT SIGNAL"
+    },
+    {
+      "id": "res/dat/quest_00_dat#13.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 13,
+      "field": 1,
+      "source": "단서라고는는 펜던트의 미약한 남서쪽 신호 뿐.. 이걸 쫓는 방법 외엔 없다.",
+      "translation": "THE PENDANTS FAINT SIGNAL TO;THE SOUTHWEST IS OUR ONLY;CLUE. FOLLOW IT."
+    },
+    {
+      "id": "res/dat/quest_00_dat#13.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 13,
+      "field": 2,
+      "source": "남쪽 광산의 채굴장;아스크라 남부로 이동",
+      "translation": "SOUTHERN MINING SITE;GO TO SOUTHERN ASKRA"
+    },
+    {
+      "id": "res/dat/quest_00_dat#13.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 13,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#14.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 14,
+      "field": 0,
+      "source": "전장으로",
+      "translation": "TO THE FRONT"
+    },
+    {
+      "id": "res/dat/quest_00_dat#14.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 14,
+      "field": 1,
+      "source": "큐 대장이 나를 전장으로 불렀다. 검은 공장.. 그곳이 내 첫 전장이다!",
+      "translation": "CAPTAIN Q HAS SUMMONED ME TO;THE BLACK FACTORY, MY FIRST;BATTLEFIELD!"
+    },
+    {
+      "id": "res/dat/quest_00_dat#14.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 14,
+      "field": 2,
+      "source": "광산 남쪽의 검은공장;검은공장에 도달",
+      "translation": "FACTORY SOUTH OF MINES;REACH BLACK FACTORY"
+    },
+    {
+      "id": "res/dat/quest_00_dat#14.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 14,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#15.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 15,
+      "field": 0,
+      "source": "4년만의 반격",
+      "translation": "FOUR-YEAR REPRISAL"
+    },
+    {
+      "id": "res/dat/quest_00_dat#15.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 15,
+      "field": 1,
+      "source": "잔혹한 무기를 만들어 내는 검은 공장. 목표는 이곳의 중심부를 날리는 것!",
+      "translation": "THE BLACK FACTORY MAKES;CRUEL WEAPONS. OUR GOAL IS;TO DESTROY ITS CORE!"
+    },
+    {
+      "id": "res/dat/quest_00_dat#15.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 15,
+      "field": 2,
+      "source": "남쪽 검은공장;검은공장의 중심 도달",
+      "translation": "SOUTHERN BLACK FACTORY;REACH THE CORE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#15.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 15,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#16.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 16,
+      "field": 0,
+      "source": "탈출",
+      "translation": "ESCAPE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#16.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 16,
+      "field": 1,
+      "source": "내 힘은 아니었지만 어쨌든 탈옥 성공. 일단 바깥으로 나가자.",
+      "translation": "I HAD HELP, BUT I AM OUT OF;THE CELL. NOW FIND THE WAY;OUT."
+    },
+    {
+      "id": "res/dat/quest_00_dat#16.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 16,
+      "field": 2,
+      "source": "지하감옥 탈출",
+      "translation": "UNDERGROUND PRISON;ESCAPE THE PRISON"
+    },
+    {
+      "id": "res/dat/quest_00_dat#16.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 16,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#17.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 17,
+      "field": 0,
+      "source": "적국의 도시",
+      "translation": "AN ENEMY CITY"
+    },
+    {
+      "id": "res/dat/quest_00_dat#17.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 17,
+      "field": 1,
+      "source": "소문의 기계도시 토레즈에 들어왔다. 그런데 일레느라는 사람은 어떻게 찾지?",
+      "translation": "I HAVE REACHED THE FAMED;MACHINE CITY, TOREZ. HOW DO;I FIND ILENE?"
+    },
+    {
+      "id": "res/dat/quest_00_dat#17.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 17,
+      "field": 2,
+      "source": "광산도시 토레즈;일레느와 만남",
+      "translation": "MINING CITY TOREZ;MEET ILENE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#17.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 17,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#18.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 18,
+      "field": 0,
+      "source": "시민증 확보",
+      "translation": "GET AN ID CARD"
+    },
+    {
+      "id": "res/dat/quest_00_dat#18.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 18,
+      "field": 1,
+      "source": "시엔을 쫓아 동쪽으로 가려면 시민증이 필요하다. 시민증을 구해 일레느씨에게 돌아가자.",
+      "translation": "I NEED A CITIZEN ID TO;FOLLOW SIEN EAST. GET ONE;AND RETURN TO ILENE."
+    },
+    {
+      "id": "res/dat/quest_00_dat#18.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 18,
+      "field": 2,
+      "source": "광산 남쪽의 검은공장;시민증의 획득",
+      "translation": "FACTORY SOUTH OF MINES;OBTAIN A CITIZEN ID"
+    },
+    {
+      "id": "res/dat/quest_00_dat#18.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 18,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#19.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 19,
+      "field": 0,
+      "source": "평원의 마을",
+      "translation": "TOWN ON THE PLAINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#19.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 19,
+      "field": 1,
+      "source": "일단 위기는 넘겼다. 로우엔이라는 마을로 가서 대장장이 로브씨를 만나자.",
+      "translation": "THE WORST IS OVER FOR NOW.;GO TO LOWEN AND MEET ROBE;THE SMITH."
+    },
+    {
+      "id": "res/dat/quest_00_dat#19.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 19,
+      "field": 2,
+      "source": "로우엔 평원 남쪽;초원마을 로우엔 도달",
+      "translation": "SOUTH OF LOWEN PLAINS;REACH LOWEN TOWN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#19.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 19,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#20.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 20,
+      "field": 0,
+      "source": "공장 견학",
+      "translation": "FACTORY TOUR"
+    },
+    {
+      "id": "res/dat/quest_00_dat#20.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 20,
+      "field": 1,
+      "source": "공장 견학을 위해(?) 연마가루 10개와 흑암석 5개로 출입카드를 조합하자.",
+      "translation": "CRAFT AN ACCESS CARD FROM 10;POLISHING POWDERS AND 5 DARK;ROCKS FOR OUR FACTORY VISIT."
+    },
+    {
+      "id": "res/dat/quest_00_dat#20.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 20,
+      "field": 2,
+      "source": "초원마을 로우엔;시크릿카드 조합",
+      "translation": "LOWEN TOWN;CRAFT A SECRET CARD"
+    },
+    {
+      "id": "res/dat/quest_00_dat#20.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 20,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#21.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 21,
+      "field": 0,
+      "source": "반전세력 엘지스",
+      "translation": "ANTI-WAR ELGIS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#21.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 21,
+      "field": 1,
+      "source": "로우엔의 작은 공장에서 반전세력의 집회가 있다고 하니 찾아보자.",
+      "translation": "THE ANTI-WAR GROUP IS;MEETING IN LOWENS SMALL;FACTORY. FIND THEM."
+    },
+    {
+      "id": "res/dat/quest_00_dat#21.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 21,
+      "field": 2,
+      "source": "로우엔 공장;반전세력과 조우",
+      "translation": "LOWEN FACTORY;MEET THE ANTI-WAR GROUP"
+    },
+    {
+      "id": "res/dat/quest_00_dat#21.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 21,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#22.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 22,
+      "field": 0,
+      "source": "믿을만한 사람",
+      "translation": "SOMEONE TO TRUST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#22.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 22,
+      "field": 1,
+      "source": "로우엔도 위험해 졌다. 당장 믿을 사람은 일레느씨 뿐이니 찾아가 보자.",
+      "translation": "LOWEN IS DANGEROUS TOO.;ILENE IS THE ONLY PERSON I;CAN TRUST. FIND HER."
+    },
+    {
+      "id": "res/dat/quest_00_dat#22.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 22,
+      "field": 2,
+      "source": "북쪽의 광산마을 토레즈;일레느와 재회",
+      "translation": "TOREZ TO THE NORTH;MEET ILENE AGAIN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#22.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 22,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#23.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 23,
+      "field": 0,
+      "source": "다시 유적으로",
+      "translation": "BACK TO THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#23.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 23,
+      "field": 1,
+      "source": "지금 해야할 일은 솔티아의 추락을 막는 것. 유적으로 가서 단서를 찾아보자.",
+      "translation": "WE MUST STOP SOLTIAS FALL.;SEARCH THE RUINS FOR A CLUE."
+    },
+    {
+      "id": "res/dat/quest_00_dat#23.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 23,
+      "field": 2,
+      "source": "엔자크사막 동쪽;리파이너의유적 도달",
+      "translation": "EAST OF ENZAK DESERT;REACH REFINER RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#23.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 23,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#24.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 24,
+      "field": 0,
+      "source": "유적 강행돌파",
+      "translation": "BREAK THROUGH"
+    },
+    {
+      "id": "res/dat/quest_00_dat#24.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 24,
+      "field": 1,
+      "source": "굴베이그의 유적을 점령한 코르버스 길드. 이런 놈들 따위에게 질 순 없다!!",
+      "translation": "CORVUS GUILD HAS OCCUPIED;GULVEIGS RUINS. I WILL NOT;LET THEM STOP ME!"
+    },
+    {
+      "id": "res/dat/quest_00_dat#24.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 24,
+      "field": 2,
+      "source": "리파이너의유적;유적 탐사",
+      "translation": "REFINER RUINS;EXPLORE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#24.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 24,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#25.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 25,
+      "field": 0,
+      "source": "유적밖으로",
+      "translation": "OUT OF THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#25.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 25,
+      "field": 1,
+      "source": "케네스를 만난 뒤로 시엔의 몸상태가 이상하다. 유적을 빠져나가 시엔을 안정시키자.",
+      "translation": "SIEN HAS BEEN UNWELL SINCE;MEETING KENNETH. LEAVE THE;RUINS SO SHE CAN REST."
+    },
+    {
+      "id": "res/dat/quest_00_dat#25.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 25,
+      "field": 2,
+      "source": "리파이너의유적;유적 탈출",
+      "translation": "REFINER RUINS;ESCAPE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#25.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 25,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#26.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 26,
+      "field": 0,
+      "source": "등대를 향해",
+      "translation": "TO THE LIGHTHOUSE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#26.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 26,
+      "field": 1,
+      "source": "시엔이 솔티아를 떨어트리려 한다. 신호는 북서쪽. 나는 포기하지 않아!",
+      "translation": "SIEN MEANS TO BRING SOLTIA;DOWN. THE SIGNAL IS;NORTHWEST. I WILL NOT GIVE;UP!"
+    },
+    {
+      "id": "res/dat/quest_00_dat#26.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 26,
+      "field": 2,
+      "source": "사막 북쪽의 등대;등대 유적에 도달",
+      "translation": "LIGHTHOUSE NORTH OF DESERT;REACH THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#26.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 26,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#27.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 27,
+      "field": 0,
+      "source": "솔티아의 암운",
+      "translation": "SOLTIAS DARK HOUR"
+    },
+    {
+      "id": "res/dat/quest_00_dat#27.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 27,
+      "field": 1,
+      "source": "솔티아의 추락이 임박했다. 시엔과 내가 그것을 막을 수 있을까?",
+      "translation": "SOLTIA IS ABOUT TO FALL. CAN;SIEN AND I STOP IT?"
+    },
+    {
+      "id": "res/dat/quest_00_dat#27.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 27,
+      "field": 2,
+      "source": "등대;시엔과 재회",
+      "translation": "LIGHTHOUSE;MEET SIEN AGAIN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#27.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 27,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#28.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 28,
+      "field": 0,
+      "source": "시엔에게",
+      "translation": "TO SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#28.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 28,
+      "field": 1,
+      "source": "빛의 신당에 다시 격리된 시엔을 찾아가자. 많이 힘들어하고 있을거야.",
+      "translation": "SIEN IS ISOLATED AT THE;SHRINE OF LIGHT AGAIN. VISIT;HER. SHE MUST BE SUFFERING."
+    },
+    {
+      "id": "res/dat/quest_00_dat#28.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 28,
+      "field": 2,
+      "source": "숲 서쪽의 빛의신당;시엔 재회",
+      "translation": "WESTERN FOREST SHRINE;MEET SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#28.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 28,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#29.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 29,
+      "field": 0,
+      "source": "가면의 위협",
+      "translation": "THE MASKED THREAT"
+    },
+    {
+      "id": "res/dat/quest_00_dat#29.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 29,
+      "field": 1,
+      "source": "가면의 검사가 시엔을 노리고 있다. 그녀를 안전하게 네오솔티아에서 보호하자.",
+      "translation": "THE MASKED SWORDSMAN IS;HUNTING SIEN. PROTECT HER IN;NEO SOLTIA."
+    },
+    {
+      "id": "res/dat/quest_00_dat#29.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 29,
+      "field": 2,
+      "source": "네오솔티아;시엔과 함께 귀환",
+      "translation": "NEO SOLTIA;RETURN WITH SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#29.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 29,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#30.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 30,
+      "field": 0,
+      "source": "적국의 암살자",
+      "translation": "ENEMY ASSASSIN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#30.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 30,
+      "field": 1,
+      "source": "장로님이 암살이라니!? 게다가 저 회색머리 남자는.. 절대 놓쳐선 안돼!",
+      "translation": "THE ELDER HAS BEEN;ASSASSINATED! THAT;GRAY-HAIRED MAN... I MUST;CATCH HIM!"
+    },
+    {
+      "id": "res/dat/quest_00_dat#30.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 30,
+      "field": 2,
+      "source": "동쪽의 네메시스고원;암살자의 추격",
+      "translation": "NEMESIS HEIGHTS TO THE EAST;CHASE THE ASSASSIN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#30.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 30,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#31.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 31,
+      "field": 0,
+      "source": "고원의 전투",
+      "translation": "BATTLE ON THE HEIGHTS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#31.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 31,
+      "field": 1,
+      "source": "시엔이 고원의 전장으로 갔다. 도대체 무슨 수로 전쟁을 멈추려는 거지?",
+      "translation": "SIEN WENT TO THE;BATTLEFIELD. HOW DOES SHE;PLAN TO STOP THE WAR?"
+    },
+    {
+      "id": "res/dat/quest_00_dat#31.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 31,
+      "field": 2,
+      "source": "동쪽의 네메시스고원;전장의 시엔 재회",
+      "translation": "NEMESIS HEIGHTS TO THE EAST;FIND SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#31.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 31,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#32.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 32,
+      "field": 0,
+      "source": "절망의 아침",
+      "translation": "MORNING OF DESPAIR"
+    },
+    {
+      "id": "res/dat/quest_00_dat#32.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 32,
+      "field": 1,
+      "source": "뭘해야 할지 모르겠다.. 아직도 빛의 신당에 가면 시엔을 만날 수 있을 것 같은데..",
+      "translation": "I DO NOT KNOW WHAT TO DO. I;STILL FEEL I COULD FIND SIEN;AT THE SHRINE OF LIGHT."
+    },
+    {
+      "id": "res/dat/quest_00_dat#32.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 32,
+      "field": 2,
+      "source": "시엔이 있던 곳;절망의 극복",
+      "translation": "WHERE SIEN ONCE WAS;OVERCOME DESPAIR"
+    },
+    {
+      "id": "res/dat/quest_00_dat#32.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 32,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#33.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 33,
+      "field": 0,
+      "source": "의문의 신호",
+      "translation": "MYSTERIOUS SIGNAL"
+    },
+    {
+      "id": "res/dat/quest_00_dat#33.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 33,
+      "field": 1,
+      "source": "그녀와 함께 소멸한 펜던트의 신호가 북서쪽에서 잡힌다. 이건 누구의 신호지?",
+      "translation": "THE PENDANT VANISHED WITH;HER, YET I SENSE IT;NORTHWEST. WHO IS SENDING;THIS SIGNAL?"
+    },
+    {
+      "id": "res/dat/quest_00_dat#33.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 33,
+      "field": 2,
+      "source": "숲 북쪽의 작은동굴;신호의 추적",
+      "translation": "SMALL CAVE NORTH OF FOREST;FOLLOW THE SIGNAL"
+    },
+    {
+      "id": "res/dat/quest_00_dat#33.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 33,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#34.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 34,
+      "field": 0,
+      "source": "유적의 안쪽",
+      "translation": "DEEPER INTO THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#34.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 34,
+      "field": 1,
+      "source": "일레느씨를 경호하여 토레즈 북쪽 파괴된 엔자크 사막의 유적을 탐사하자.",
+      "translation": "ESCORT ILENE AS SHE EXPLORES;THE RUINS IN DEVASTATED;ENZAK DESERT, NORTH OF;TOREZ."
+    },
+    {
+      "id": "res/dat/quest_00_dat#34.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 34,
+      "field": 2,
+      "source": "리파이너의유적;유적 심층부 탐사",
+      "translation": "REFINER RUINS;EXPLORE DEEPER"
+    },
+    {
+      "id": "res/dat/quest_00_dat#34.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 34,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#35.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 35,
+      "field": 0,
+      "source": "동굴의 봉인",
+      "translation": "THE CAVES SEAL"
+    },
+    {
+      "id": "res/dat/quest_00_dat#35.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 35,
+      "field": 1,
+      "source": "그리폰의 피리로 세계를 돌며 영혼석 3개를 모아 작은 동굴의 봉인을 해제하자.",
+      "translation": "USE THE GRIFFON FLUTE TO;TRAVEL THE WORLD. COLLECT 3;SOUL STONES TO UNSEAL THE;SMALL CAVE."
+    },
+    {
+      "id": "res/dat/quest_00_dat#35.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 35,
+      "field": 2,
+      "source": "작은동굴의 봉인지;영혼석",
+      "translation": "SEALED SMALL CAVE;COLLECT SOUL STONES"
+    },
+    {
+      "id": "res/dat/quest_00_dat#35.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 35,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#36.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 36,
+      "field": 0,
+      "source": "마을 어딘가에",
+      "translation": "SOMEWHERE IN TOWN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#36.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 36,
+      "field": 1,
+      "source": "이대로 헤어질 순 없다. 마을 어딘가에 있을 시엔을 찾아보자.",
+      "translation": "I CANNOT LET HER GO LIKE;THIS. FIND SIEN SOMEWHERE IN;TOWN."
+    },
+    {
+      "id": "res/dat/quest_00_dat#36.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 36,
+      "field": 2,
+      "source": "네오솔티아;사라진 시엔 찾기",
+      "translation": "NEO SOLTIA;FIND THE MISSING SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#36.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 36,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#37.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 37,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#37.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 37,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#37.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 37,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#37.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 37,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#38.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 38,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#38.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 38,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#38.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 38,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#38.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 38,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_00_dat#39.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 39,
+      "field": 0,
+      "source": "황혼의 땅에",
+      "translation": "TO THE TWILIGHT LAND"
+    },
+    {
+      "id": "res/dat/quest_00_dat#39.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 39,
+      "field": 1,
+      "source": "동굴의 지나 서쪽 끝. 홀리코어가 있다는 곳을 향해.",
+      "translation": "PASS THROUGH THE CAVE TO THE;FAR WEST, WHERE THE HOLY;CORE LIES."
+    },
+    {
+      "id": "res/dat/quest_00_dat#39.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 39,
+      "field": 2,
+      "source": "봉인 해제된 숨겨진 길;황혼의 땅 도달",
+      "translation": "UNSEALED HIDDEN PATH;REACH THE TWILIGHT LAND"
+    },
+    {
+      "id": "res/dat/quest_00_dat#39.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 39,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#40.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 40,
+      "field": 0,
+      "source": "유적의 전장",
+      "translation": "BATTLE AT THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_00_dat#40.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 40,
+      "field": 1,
+      "source": "마지막 전쟁. 솔티아가 떨어진 구 엔자크 사막지역의 전장이 그곳이다.",
+      "translation": "THE FINAL WAR IS IN OLD;ENZAK DESERT, WHERE SOLTIA;FELL."
+    },
+    {
+      "id": "res/dat/quest_00_dat#40.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 40,
+      "field": 2,
+      "source": "파괴된 대지 북쪽;유적의 전장 도달",
+      "translation": "NORTH OF THE RUINED LAND;REACH THE BATTLEFIELD"
+    },
+    {
+      "id": "res/dat/quest_00_dat#40.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 40,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_00_dat#41.0",
+      "file": "res/dat/quest_00_dat",
+      "record": 41,
+      "field": 0,
+      "source": "마지막 선택",
+      "translation": "THE FINAL CHOICE"
+    },
+    {
+      "id": "res/dat/quest_00_dat#41.1",
+      "file": "res/dat/quest_00_dat",
+      "record": 41,
+      "field": 1,
+      "source": "시엔..!",
+      "translation": "SIEN...!"
+    },
+    {
+      "id": "res/dat/quest_00_dat#41.2",
+      "file": "res/dat/quest_00_dat",
+      "record": 41,
+      "field": 2,
+      "source": "시엔의 구출",
+      "translation": "RESCUE SIEN"
+    },
+    {
+      "id": "res/dat/quest_00_dat#41.3",
+      "file": "res/dat/quest_00_dat",
+      "record": 41,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_01_dat#0.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 0,
+      "field": 0,
+      "source": "엔자크의 영광",
+      "translation": "ENZAKS GLORY"
+    },
+    {
+      "id": "res/dat/quest_01_dat#0.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 0,
+      "field": 1,
+      "source": "엔자크에 대한 자긍심이 강한 역사학자가 요청한 고대 유물을 찾아보자.",
+      "translation": "FIND THE ANCIENT RELIC;SOUGHT BY THE HISTORIAN WHO;TAKES SUCH PRIDE IN ENZAK."
+    },
+    {
+      "id": "res/dat/quest_01_dat#0.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 0,
+      "field": 2,
+      "source": "엔자크사막;굴베이그의지팡이",
+      "translation": "ENZAK DESERT;GULVEIGS STAFF"
+    },
+    {
+      "id": "res/dat/quest_01_dat#0.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 0,
+      "field": 3,
+      "source": "엔자크- 역사학자",
+      "translation": "ENZAK - HISTORIAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#1.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 1,
+      "field": 0,
+      "source": "영혼의 시",
+      "translation": "POEM OF SOULS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#1.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 1,
+      "field": 1,
+      "source": "사랑하는 이를 지켜주는 영혼의 시라.. 순수한 소녀의 마음을 위해 힘써보자.",
+      "translation": "A POEM THAT PROTECTS A LOVED;ONES SOUL... HELP THE GIRL;FULFILL HER PURE WISH."
+    },
+    {
+      "id": "res/dat/quest_01_dat#1.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 1,
+      "field": 2,
+      "source": "광산도시 토레즈;유리엽서 조합",
+      "translation": "MINING CITY TOREZ;CRAFT A GLASS POSTCARD"
+    },
+    {
+      "id": "res/dat/quest_01_dat#1.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 1,
+      "field": 3,
+      "source": "토레즈- 소녀",
+      "translation": "TOREZ - GIRL"
+    },
+    {
+      "id": "res/dat/quest_01_dat#2.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 2,
+      "field": 0,
+      "source": "로우엔의 치안",
+      "translation": "LAW IN LOWEN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#2.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 2,
+      "field": 1,
+      "source": "부쩍 늘어난 로우엔 근처의 도적들. 영웅이 이런 때에 해야 할 일은 무엇인가!",
+      "translation": "BANDITS ARE MULTIPLYING;AROUND LOWEN. WHAT SHOULD A;HERO DO AT A TIME LIKE THIS?"
+    },
+    {
+      "id": "res/dat/quest_01_dat#2.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 2,
+      "field": 2,
+      "source": "로우엔 평원;도적",
+      "translation": "LOWEN PLAINS;BANDITS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#2.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 2,
+      "field": 3,
+      "source": "로우엔- 공무원",
+      "translation": "LOWEN - CIVIL SERVANT"
+    },
+    {
+      "id": "res/dat/quest_01_dat#3.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 3,
+      "field": 0,
+      "source": "남쪽의 마물",
+      "translation": "SOUTHERN DEMONS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#3.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 3,
+      "field": 1,
+      "source": "로우엔을 위협하는 데몬들. 모두에게 용기를 주기위해 놈들의 뿔을 모으자!",
+      "translation": "DEMONS THREATEN LOWEN.;COLLECT THEIR HORNS TO;RESTORE THE TOWNSPEOPLES;COURAGE!"
+    },
+    {
+      "id": "res/dat/quest_01_dat#3.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 3,
+      "field": 2,
+      "source": "로우엔 평원;데몬의뿔",
+      "translation": "LOWEN PLAINS;DEMON HORNS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#3.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 3,
+      "field": 3,
+      "source": "로우엔- 남자",
+      "translation": "LOWEN - MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#4.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 4,
+      "field": 0,
+      "source": "마지막 증거",
+      "translation": "THE FINAL PROOF"
+    },
+    {
+      "id": "res/dat/quest_01_dat#4.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 4,
+      "field": 1,
+      "source": "유적안에 있을 유리방패가 학설의 마지막 증거라? 도대체 무슨 학설이기에..",
+      "translation": "A GLASS SHIELD IN THE RUINS;IS THE FINAL PROOF OF A;THEORY. WHAT COULD THAT;THEORY BE?"
+    },
+    {
+      "id": "res/dat/quest_01_dat#4.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 4,
+      "field": 2,
+      "source": "리파이너의유적;유리방패",
+      "translation": "REFINER RUINS;GLASS SHIELD"
+    },
+    {
+      "id": "res/dat/quest_01_dat#4.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 4,
+      "field": 3,
+      "source": "엔자크- 역사학자",
+      "translation": "ENZAK - HISTORIAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#5.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 5,
+      "field": 0,
+      "source": "혼돈의 대륙",
+      "translation": "LAND IN CHAOS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#5.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 5,
+      "field": 1,
+      "source": "몬스터들의 갑작스런 변화에 대해 서로의 의견을 조율하는 서신을 전달해야 한다.",
+      "translation": "DELIVER A LETTER TO HELP;OFFICIALS SHARE THEIR VIEWS;ON THE MONSTERS SUDDEN;CHANGE."
+    },
+    {
+      "id": "res/dat/quest_01_dat#5.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 5,
+      "field": 2,
+      "source": "평원마을 로우엔;공무원에게 서신 전달",
+      "translation": "LOWEN TOWN;DELIVER THE OFFICIALS LETTER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#5.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 5,
+      "field": 3,
+      "source": "토레즈- 공무원",
+      "translation": "TOREZ - CIVIL SERVANT"
+    },
+    {
+      "id": "res/dat/quest_01_dat#6.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 6,
+      "field": 0,
+      "source": "고대의 마법장비",
+      "translation": "ANCIENT MAGIC GEAR"
+    },
+    {
+      "id": "res/dat/quest_01_dat#6.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 6,
+      "field": 1,
+      "source": "마법력과 장비의 조화로 더 강력한 마법장비를 만든다는 랄프에게 협조해주자.",
+      "translation": "HELP RALPH COMBINE MAGIC AND;EQUIPMENT TO CREATE MORE;POWERFUL MAGIC GEAR."
+    },
+    {
+      "id": "res/dat/quest_01_dat#6.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 6,
+      "field": 2,
+      "source": "네오솔티아;정령석",
+      "translation": "NEO SOLTIA;ELEMENTAL STONES"
+    },
+    {
+      "id": "res/dat/quest_01_dat#6.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 6,
+      "field": 3,
+      "source": "네오솔티아-대장장이",
+      "translation": "NEO SOLTIA - SMITH"
+    },
+    {
+      "id": "res/dat/quest_01_dat#7.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 7,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#7.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 7,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#7.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 7,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#7.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 7,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#8.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 8,
+      "field": 0,
+      "source": "좀 좋은 포션",
+      "translation": "A BETTER POTION"
+    },
+    {
+      "id": "res/dat/quest_01_dat#8.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 8,
+      "field": 1,
+      "source": "에인션트 버그를 잡아 소년이 모험을 위해 만든다는 좀 좋은 포션을 얻어보자. ",
+      "translation": "HUNT ANCIENT BUGS TO HELP;THE BOY MAKE A BETTER POTION;FOR HIS ADVENTURES."
+    },
+    {
+      "id": "res/dat/quest_01_dat#8.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 8,
+      "field": 2,
+      "source": "파괴된대지 에인션트버그;에인션트하니",
+      "translation": "RUINED LAND - ANCIENT BUGS;ANCIENT HONEY"
+    },
+    {
+      "id": "res/dat/quest_01_dat#8.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 8,
+      "field": 3,
+      "source": "잔존민의은거지- 꼬마",
+      "translation": "REFUGE - CHILD"
+    },
+    {
+      "id": "res/dat/quest_01_dat#9.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 9,
+      "field": 0,
+      "source": "지하의 절규소리",
+      "translation": "SCREAMS BELOW"
+    },
+    {
+      "id": "res/dat/quest_01_dat#9.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 9,
+      "field": 1,
+      "source": "토레즈의 지하에서 절규하고 있는 살아있는 시체들을 정리해 달라는 의뢰다.",
+      "translation": "CLEAR OUT THE SCREAMING;UNDEAD BENEATH TOREZ."
+    },
+    {
+      "id": "res/dat/quest_01_dat#9.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 9,
+      "field": 2,
+      "source": "토레즈 지하;스컬나이트",
+      "translation": "TOREZ UNDERGROUND;SKULL KNIGHTS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#9.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 9,
+      "field": 3,
+      "source": "토레즈- 여관종업원",
+      "translation": "TOREZ - INN WORKER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#10.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 10,
+      "field": 0,
+      "source": "채굴장의 재건",
+      "translation": "RESTORE THE MINE"
+    },
+    {
+      "id": "res/dat/quest_01_dat#10.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 10,
+      "field": 1,
+      "source": "이제 거의 채굴이 중지되다시피 한 토레즈 광산의 채굴장. 이곳을 다시 살려보자.",
+      "translation": "TOREZS MINING SITE HAS;ALMOST STOPPED OPERATING.;HELP BRING IT BACK TO LIFE."
+    },
+    {
+      "id": "res/dat/quest_01_dat#10.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 10,
+      "field": 2,
+      "source": "채굴장;스펙터",
+      "translation": "MINING SITE;SPECTERS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#10.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 10,
+      "field": 3,
+      "source": "아스크란주둔지- 남자",
+      "translation": "ASKRA CAMP - MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#11.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 11,
+      "field": 0,
+      "source": "사령의 동굴",
+      "translation": "CAVE OF THE DEAD"
+    },
+    {
+      "id": "res/dat/quest_01_dat#11.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 11,
+      "field": 1,
+      "source": "레갈리스교의 붕괴에 이어 나타난 악마의 무리. 그들을 지배하는 건..",
+      "translation": "DEMONS APPEARED AFTER THE;REGALIS FAITH FELL. WHO IS;CONTROLLING THEM?"
+    },
+    {
+      "id": "res/dat/quest_01_dat#11.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 11,
+      "field": 2,
+      "source": "로우엔남쪽 사령의동굴;블러디데몬",
+      "translation": "DEAD CAVE SOUTH OF LOWEN;BLOODY DEMONS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#11.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 11,
+      "field": 3,
+      "source": "로우엔여관- 모험가",
+      "translation": "LOWEN INN - ADVENTURER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#12.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 12,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#12.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 12,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#12.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 12,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#12.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 12,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_01_dat#13.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 13,
+      "field": 0,
+      "source": "숲의 지배자",
+      "translation": "LORD OF THE FOREST"
+    },
+    {
+      "id": "res/dat/quest_01_dat#13.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 13,
+      "field": 1,
+      "source": "네오 솔티아 근방의 블레이즈 로커에게 동료를 잃은 솔티안의 복수를 해주자.",
+      "translation": "AVENGE THE SOLTIAN WHO LOST;A COMRADE TO BLAZE LOCKER;NEAR NEO SOLTIA."
+    },
+    {
+      "id": "res/dat/quest_01_dat#13.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 13,
+      "field": 2,
+      "source": "네메시스숲;블레이즈로커",
+      "translation": "NEMESIS WOODS;BLAZE LOCKER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#13.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 13,
+      "field": 3,
+      "source": "솔티안주둔지- 병사",
+      "translation": "SOLTIA CAMP - SOLDIER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#14.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 14,
+      "field": 0,
+      "source": "소녀의 인형",
+      "translation": "THE GIRLS DOLL"
+    },
+    {
+      "id": "res/dat/quest_01_dat#14.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 14,
+      "field": 1,
+      "source": "야수의 숲에서 잔존민들을 위협하는 거대한 식인 꽃을 처치하자.",
+      "translation": "DEFEAT THE GIANT MAN-EATING;FLOWER THREATENING THE;SURVIVORS IN THE BEAST;WOODS."
+    },
+    {
+      "id": "res/dat/quest_01_dat#14.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 14,
+      "field": 2,
+      "source": "야수의숲;와일드아르보르",
+      "translation": "BEAST WOODS;WILD ARBOR"
+    },
+    {
+      "id": "res/dat/quest_01_dat#14.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 14,
+      "field": 3,
+      "source": "솔티아- 소녀",
+      "translation": "SOLTIA - GIRL"
+    },
+    {
+      "id": "res/dat/quest_01_dat#15.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 15,
+      "field": 0,
+      "source": "죽은자들의 왕",
+      "translation": "KING OF THE DEAD"
+    },
+    {
+      "id": "res/dat/quest_01_dat#15.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 15,
+      "field": 1,
+      "source": "토레즈주민들의 악몽을 일으키는 죽은자들의 왕이 어딘가에 있다.",
+      "translation": "THE KING OF THE DEAD IS;SOMEWHERE BELOW TOREZ,;CAUSING THE PEOPLES;NIGHTMARES."
+    },
+    {
+      "id": "res/dat/quest_01_dat#15.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 15,
+      "field": 2,
+      "source": "토레즈 지하;스컬카이져",
+      "translation": "TOREZ UNDERGROUND;SKULL KAISER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#15.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 15,
+      "field": 3,
+      "source": "토레즈- 노숙자",
+      "translation": "TOREZ - HOMELESS MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#16.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 16,
+      "field": 0,
+      "source": "미쳐버린 공장",
+      "translation": "FACTORY GONE MAD"
+    },
+    {
+      "id": "res/dat/quest_01_dat#16.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 16,
+      "field": 1,
+      "source": "인간의 통제를 벗어난 공장. 그곳의 기계들은 비스트들에 묶여 미쳐있다.",
+      "translation": "THE FACTORY IS OUT OF HUMAN;CONTROL. ITS MACHINES HAVE;GONE MAD UNDER THE BEASTS;INFLUENCE."
+    },
+    {
+      "id": "res/dat/quest_01_dat#16.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 16,
+      "field": 2,
+      "source": "로우엔공장;크레이지타이탄",
+      "translation": "LOWEN FACTORY;CRAZY TITAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#16.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 16,
+      "field": 3,
+      "source": "로우엔- 아저씨",
+      "translation": "LOWEN - MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#17.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 17,
+      "field": 0,
+      "source": "거대한 불곰",
+      "translation": "THE GIANT BEAR"
+    },
+    {
+      "id": "res/dat/quest_01_dat#17.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 17,
+      "field": 1,
+      "source": "채굴장은 토레즈의 생명이다. 그곳을 점령한 몬스터들을 토벌해 달라는 의뢰.",
+      "translation": "THE MINING SITE IS TOREZS;LIFELINE. EXTERMINATE THE;MONSTERS THAT HAVE OCCUPIED;IT."
+    },
+    {
+      "id": "res/dat/quest_01_dat#17.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 17,
+      "field": 2,
+      "source": "채굴장;다크니스이라",
+      "translation": "MINING SITE;DARKNESS IRA"
+    },
+    {
+      "id": "res/dat/quest_01_dat#17.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 17,
+      "field": 3,
+      "source": "토레즈- 공무원",
+      "translation": "TOREZ - CIVIL SERVANT"
+    },
+    {
+      "id": "res/dat/quest_01_dat#18.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 18,
+      "field": 0,
+      "source": "대지에 선 야수",
+      "translation": "BEAST ON THE EARTH"
+    },
+    {
+      "id": "res/dat/quest_01_dat#18.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 18,
+      "field": 1,
+      "source": "대지로 내려간 와일드스쿠툼. 놈이 가지고 간 옛 도시의 기록을 되찾아 오자.",
+      "translation": "WILD SCUTUM DESCENDED TO THE;EARTH WITH THE OLD CITYS;RECORDS. RECOVER THEM."
+    },
+    {
+      "id": "res/dat/quest_01_dat#18.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 18,
+      "field": 2,
+      "source": "파괴된대지;와일드스쿠툼",
+      "translation": "RUINED LAND;WILD SCUTUM"
+    },
+    {
+      "id": "res/dat/quest_01_dat#18.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 18,
+      "field": 3,
+      "source": "솔티아- 아저씨",
+      "translation": "SOLTIA - MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#19.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 19,
+      "field": 0,
+      "source": "협곡의 아종",
+      "translation": "CANYON VARIANT"
+    },
+    {
+      "id": "res/dat/quest_01_dat#19.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 19,
+      "field": 1,
+      "source": "폐쇄된 공장을 지배하고 있는 카오스 로커을 퇴치해달라는 의뢰. 할 수 있을까?",
+      "translation": "CAN I DEFEAT CHAOS LOCKER,;THE CREATURE RULING THE;CLOSED FACTORY?"
+    },
+    {
+      "id": "res/dat/quest_01_dat#19.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 19,
+      "field": 2,
+      "source": "폐쇄된공장;카오스로커",
+      "translation": "CLOSED FACTORY;CHAOS LOCKER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#19.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 19,
+      "field": 3,
+      "source": "아스크란주둔지- 상인",
+      "translation": "ASKRA CAMP - MERCHANT"
+    },
+    {
+      "id": "res/dat/quest_01_dat#20.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 20,
+      "field": 0,
+      "source": "악마의 지배자",
+      "translation": "LORD OF DEMONS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#20.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 20,
+      "field": 1,
+      "source": "사령의 동굴에 있는 악마들의 우두머리는 무엇을 지키고 있는 것일까.",
+      "translation": "WHAT IS THE LEADER OF THE;DEMONS IN THE CAVE OF THE;DEAD GUARDING?"
+    },
+    {
+      "id": "res/dat/quest_01_dat#20.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 20,
+      "field": 2,
+      "source": "사령의동굴;시바",
+      "translation": "DEAD CAVE;SHIVA"
+    },
+    {
+      "id": "res/dat/quest_01_dat#20.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 20,
+      "field": 3,
+      "source": "로우엔- 모험가",
+      "translation": "LOWEN - ADVENTURER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#21.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 21,
+      "field": 0,
+      "source": "아줌마의 명령",
+      "translation": "AUNTIES ORDER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#21.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 21,
+      "field": 1,
+      "source": "케이즈 아줌마는 거역할 수 없다. 잔나뭇가지를 모아드리자.",
+      "translation": "THERE IS NO DEFYING AUNTIE;PHAZE. COLLECT THE TWIGS SHE;WANTS."
+    },
+    {
+      "id": "res/dat/quest_01_dat#21.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 21,
+      "field": 2,
+      "source": "네메시스숲;잔나뭇가지",
+      "translation": "NEMESIS WOODS;SMALL TWIGS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#21.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 21,
+      "field": 3,
+      "source": "네오솔티아- 페이즈",
+      "translation": "NEO SOLTIA - PHAZE"
+    },
+    {
+      "id": "res/dat/quest_01_dat#22.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 22,
+      "field": 0,
+      "source": "로얄 윈터하츠",
+      "translation": "ROYAL WINTERHEARTS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#22.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 22,
+      "field": 1,
+      "source": "노아가 깨트려 버린 고급술을 하나 만들어 갖다주자.",
+      "translation": "CRAFT A BOTTLE OF THE FINE;LIQUOR NOAH BROKE AND BRING;IT TO HIM."
+    },
+    {
+      "id": "res/dat/quest_01_dat#22.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 22,
+      "field": 2,
+      "source": "네오솔티아 대장장이;로얄윈터하츠 조합",
+      "translation": "NEO SOLTIA SMITH;CRAFT ROYAL WINTERHEARTS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#22.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 22,
+      "field": 3,
+      "source": "네오솔티아- 노아",
+      "translation": "NEO SOLTIA - NOAH"
+    },
+    {
+      "id": "res/dat/quest_01_dat#23.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 23,
+      "field": 0,
+      "source": "빛나는 가루",
+      "translation": "GLOWING DUST"
+    },
+    {
+      "id": "res/dat/quest_01_dat#23.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 23,
+      "field": 1,
+      "source": "에릭 아저씨의 연구를 도와드리기 위해 홀리파우더를 구해주자.",
+      "translation": "GET HOLY POWDER TO HELP ERIC;WITH HIS RESEARCH."
+    },
+    {
+      "id": "res/dat/quest_01_dat#23.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 23,
+      "field": 2,
+      "source": "숲 서쪽의 빛의신당;홀리파우더",
+      "translation": "WESTERN FOREST SHRINE;HOLY POWDER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#23.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 23,
+      "field": 3,
+      "source": "네오솔티아- 에릭",
+      "translation": "NEO SOLTIA - ERIC"
+    },
+    {
+      "id": "res/dat/quest_01_dat#24.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 24,
+      "field": 0,
+      "source": "노력의 증명2",
+      "translation": "PROOF OF EFFORT 2"
+    },
+    {
+      "id": "res/dat/quest_01_dat#24.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 24,
+      "field": 1,
+      "source": "레아에게 받은 수련과제. 아직 다하려면 멀었다.",
+      "translation": "ANOTHER TRAINING TASK FROM;LEA. I STILL HAVE A LONG WAY;TO GO."
+    },
+    {
+      "id": "res/dat/quest_01_dat#24.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 24,
+      "field": 2,
+      "source": "네메시스숲;와일드쿠퍼",
+      "translation": "NEMESIS WOODS;WILD COOPERS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#24.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 24,
+      "field": 3,
+      "source": "네오솔티아- 레아",
+      "translation": "NEO SOLTIA - LEA"
+    },
+    {
+      "id": "res/dat/quest_01_dat#25.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 25,
+      "field": 0,
+      "source": "황혼의 전설",
+      "translation": "TWILIGHT LEGEND"
+    },
+    {
+      "id": "res/dat/quest_01_dat#25.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 25,
+      "field": 1,
+      "source": "황혼의 땅이 있다고 믿는 로빈. 네메시스 숲에 있다는 지도를 찾아줘보자.",
+      "translation": "ROBIN BELIEVES THE TWILIGHT;LAND EXISTS. FIND THE MAP;SAID TO BE IN NEMESIS WOODS."
+    },
+    {
+      "id": "res/dat/quest_01_dat#25.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 25,
+      "field": 2,
+      "source": "네메시스숲;반토막난지도",
+      "translation": "NEMESIS WOODS;HALF A MAP"
+    },
+    {
+      "id": "res/dat/quest_01_dat#25.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 25,
+      "field": 3,
+      "source": "네오솔티아- 로빈",
+      "translation": "NEO SOLTIA - ROBIN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#26.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 26,
+      "field": 0,
+      "source": "잃어버린 꿈",
+      "translation": "A LOST DREAM"
+    },
+    {
+      "id": "res/dat/quest_01_dat#26.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 26,
+      "field": 1,
+      "source": "검이 부러져 용기를 잃었다는 영웅 지망생에게 새로운 검을 선물해 주자.",
+      "translation": "GIVE A NEW SWORD TO THE;WOULD-BE HERO WHO LOST;COURAGE WHEN HIS SWORD;BROKE."
+    },
+    {
+      "id": "res/dat/quest_01_dat#26.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 26,
+      "field": 2,
+      "source": "사막마을 엔자크;그라디우스 조합",
+      "translation": "ENZAK TOWN;CRAFT A GLADIUS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#26.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 26,
+      "field": 3,
+      "source": "엔자크- 영웅지망생",
+      "translation": "ENZAK - ASPIRING HERO"
+    },
+    {
+      "id": "res/dat/quest_01_dat#27.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 27,
+      "field": 0,
+      "source": "노력의증명3",
+      "translation": "PROOF OF EFFORT 3"
+    },
+    {
+      "id": "res/dat/quest_01_dat#27.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 27,
+      "field": 1,
+      "source": "좀 심하다 싶을 정도의 과제다. 다시 레아를 만나기 전까진 다 할 수 있겠지.",
+      "translation": "THIS TASK SEEMS EXCESSIVE.;CAN I FINISH IT BEFORE I SEE;LEA AGAIN?"
+    },
+    {
+      "id": "res/dat/quest_01_dat#27.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 27,
+      "field": 2,
+      "source": "토레즈 광산;와일드라이칸",
+      "translation": "TOREZ MINES;WILD LYCANS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#27.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 27,
+      "field": 3,
+      "source": "네오솔티아- 레아",
+      "translation": "NEO SOLTIA - LEA"
+    },
+    {
+      "id": "res/dat/quest_01_dat#28.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 28,
+      "field": 0,
+      "source": "노력의증명4",
+      "translation": "PROOF OF EFFORT 4"
+    },
+    {
+      "id": "res/dat/quest_01_dat#28.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 28,
+      "field": 1,
+      "source": "이번이 마지막인가. 드디어 레아씨한테 나의 노력을 증명할 수 있겠어.",
+      "translation": "IS THIS THE FINAL TASK? I;CAN FINALLY PROVE MY EFFORT;TO LEA."
+    },
+    {
+      "id": "res/dat/quest_01_dat#28.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 28,
+      "field": 2,
+      "source": "로우엔 평원;앨더머쉬풀라",
+      "translation": "LOWEN PLAINS;ELDER MUSHPULLA"
+    },
+    {
+      "id": "res/dat/quest_01_dat#28.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 28,
+      "field": 3,
+      "source": "네오솔티아- 레아",
+      "translation": "NEO SOLTIA - LEA"
+    },
+    {
+      "id": "res/dat/quest_01_dat#29.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 29,
+      "field": 0,
+      "source": "신당의 쥐떼",
+      "translation": "RATS IN THE SHRINE"
+    },
+    {
+      "id": "res/dat/quest_01_dat#29.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 29,
+      "field": 1,
+      "source": "쥐떼 청소를 도와주는 것 쯤이야 별거 아니지만.. 로빈 녀석도 철이 들어야 될텐데.",
+      "translation": "CLEARING OUT RATS IS EASY;ENOUGH. ROBIN SHOULD LEARN;TO GROW UP TOO."
+    },
+    {
+      "id": "res/dat/quest_01_dat#29.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 29,
+      "field": 2,
+      "source": "빛의신당;쥐가죽",
+      "translation": "SHRINE OF LIGHT;RAT SKINS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#29.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 29,
+      "field": 3,
+      "source": "네오솔티아- 로빈",
+      "translation": "NEO SOLTIA - ROBIN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#30.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 30,
+      "field": 0,
+      "source": "연구의 성과",
+      "translation": "RESEARCH RESULTS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#30.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 30,
+      "field": 1,
+      "source": "마법과 방어구의 연동을 위해 50개의 그을린 가죽이 필요하다고 한다.",
+      "translation": "ERIC NEEDS 50 SCORCHED HIDES;TO LINK MAGIC WITH ARMOR."
+    },
+    {
+      "id": "res/dat/quest_01_dat#30.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 30,
+      "field": 2,
+      "source": "네메시스숲 플레임쿠퍼;그을린가죽",
+      "translation": "NEMESIS WOODS - FLAME COOPERS;SCORCHED HIDES"
+    },
+    {
+      "id": "res/dat/quest_01_dat#30.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 30,
+      "field": 3,
+      "source": "네오솔티아- 에릭",
+      "translation": "NEO SOLTIA - ERIC"
+    },
+    {
+      "id": "res/dat/quest_01_dat#31.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 31,
+      "field": 0,
+      "source": "겨울옷 준비",
+      "translation": "WINTER CLOTHES"
+    },
+    {
+      "id": "res/dat/quest_01_dat#31.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 31,
+      "field": 1,
+      "source": "사람들을 위해 겨울옷을 준비한다고 한다. 그리고 나에겐 거역할 수 없는 임무가..",
+      "translation": "PHAZE IS MAKING WINTER;CLOTHES FOR EVERYONE. OF;COURSE, I CANNOT REFUSE HER;TASK."
+    },
+    {
+      "id": "res/dat/quest_01_dat#31.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 31,
+      "field": 2,
+      "source": "네메시스숲 크레이지헨지;분홍잔털",
+      "translation": "NEMESIS WOODS - CRAZY HENGE;PINK TUFTS"
+    },
+    {
+      "id": "res/dat/quest_01_dat#31.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 31,
+      "field": 3,
+      "source": "네오솔티아- 페이즈",
+      "translation": "NEO SOLTIA - PHAZE"
+    },
+    {
+      "id": "res/dat/quest_01_dat#32.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 32,
+      "field": 0,
+      "source": "빛을잃은 성궤",
+      "translation": "THE DARKENED ARK"
+    },
+    {
+      "id": "res/dat/quest_01_dat#32.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 32,
+      "field": 1,
+      "source": "영혼석의 단서다. 야수의 숲 깊은 곳에 라이트닝 가드가 뿌리는 가루를 모으자.",
+      "translation": "A CLUE TO A SOUL STONE!;COLLECT POWDER FROM;LIGHTNING GUARDS DEEP IN THE;BEAST WOODS."
+    },
+    {
+      "id": "res/dat/quest_01_dat#32.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 32,
+      "field": 2,
+      "source": "은거지 서쪽 야수의숲;라이트닝파우더",
+      "translation": "BEAST WOODS WEST OF REFUGE;LIGHTNING POWDER"
+    },
+    {
+      "id": "res/dat/quest_01_dat#32.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 32,
+      "field": 3,
+      "source": "잔존민의은거지- 노인",
+      "translation": "REFUGE - OLD MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#33.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 33,
+      "field": 0,
+      "source": "로우엔의 문장",
+      "translation": "LOWENS CREST"
+    },
+    {
+      "id": "res/dat/quest_01_dat#33.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 33,
+      "field": 1,
+      "source": "영혼석의 단서다. 사령의 동굴에 숨겨진 문장 보관함을 회수해 오자.",
+      "translation": "A CLUE TO A SOUL STONE!;RECOVER THE CREST CASE;HIDDEN IN THE CAVE OF THE;DEAD."
+    },
+    {
+      "id": "res/dat/quest_01_dat#33.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 33,
+      "field": 2,
+      "source": "평원남쪽 사령의동굴;오래된보석함",
+      "translation": "DEAD CAVE SOUTH OF PLAINS;OLD JEWEL BOX"
+    },
+    {
+      "id": "res/dat/quest_01_dat#33.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 33,
+      "field": 3,
+      "source": "로우엔- 노인",
+      "translation": "LOWEN - OLD MAN"
+    },
+    {
+      "id": "res/dat/quest_01_dat#34.0",
+      "file": "res/dat/quest_01_dat",
+      "record": 34,
+      "field": 0,
+      "source": "테너의 유물",
+      "translation": "TENORS RELIC"
+    },
+    {
+      "id": "res/dat/quest_01_dat#34.1",
+      "file": "res/dat/quest_01_dat",
+      "record": 34,
+      "field": 1,
+      "source": "영혼석의 단서다. 폐쇄된 공장에서 쿠퍼들이 지키는 보물상자를 가져오자.",
+      "translation": "A CLUE TO A SOUL STONE!;RETRIEVE THE TREASURE CHEST;GUARDED BY COOPERS IN THE;CLOSED FACTORY."
+    },
+    {
+      "id": "res/dat/quest_01_dat#34.2",
+      "file": "res/dat/quest_01_dat",
+      "record": 34,
+      "field": 2,
+      "source": "협곡남쪽 폐쇄된공장;테너의유물함",
+      "translation": "CLOSED FACTORY SOUTH OF CANYON;TENORS RELIC BOX"
+    },
+    {
+      "id": "res/dat/quest_01_dat#34.3",
+      "file": "res/dat/quest_01_dat",
+      "record": 34,
+      "field": 3,
+      "source": "네오솔티아- 에이미",
+      "translation": "NEO SOLTIA - AMY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#0.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 0,
+      "field": 0,
+      "source": "수상한 보석",
+      "translation": "A STRANGE JEWEL"
+    },
+    {
+      "id": "res/dat/quest_10_dat#0.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 0,
+      "field": 1,
+      "source": "북서쪽 등대에 있는 남자에게 수상한 보석을 전해줘야 하는 의뢰.",
+      "translation": "DELIVER THE STRANGE JEWEL TO;A MAN AT THE LIGHTHOUSE IN;THE NORTHWEST."
+    },
+    {
+      "id": "res/dat/quest_10_dat#0.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 0,
+      "field": 2,
+      "source": "엔자크 북쪽의 등대유적;수상한 보석 전달",
+      "translation": "LIGHTHOUSE NORTH OF ENZAK;DELIVER THE JEWEL"
+    },
+    {
+      "id": "res/dat/quest_10_dat#0.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 0,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#1.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 1,
+      "field": 0,
+      "source": "낯익은 여자",
+      "translation": "A FAMILIAR WOMAN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#1.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 1,
+      "field": 1,
+      "source": "엔자크에 뜻밖의 낯익은 여자를 보았다. 어쩌면 일레느 일지도..",
+      "translation": "I SAW A FAMILIAR WOMAN IN;ENZAK. COULD IT HAVE BEEN;ILENE?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#1.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 1,
+      "field": 2,
+      "source": "사막마을 엔자크;낯익은 여자와 조우",
+      "translation": "ENZAK TOWN;MEET THE FAMILIAR WOMAN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#1.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 1,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#2.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 2,
+      "field": 0,
+      "source": "옛 친구의 부탁",
+      "translation": "AN OLD FRIENDS PLEA"
+    },
+    {
+      "id": "res/dat/quest_10_dat#2.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 2,
+      "field": 1,
+      "source": "뭔가 위기에 빠진 듯한 일레느가.. 남쪽의 철기도시 토레즈까지의 경호를 부탁했다.",
+      "translation": "ILENE SEEMS TO BE IN;TROUBLE. SHE ASKED ME TO;ESCORT HER SOUTH TO THE IRON;CITY, TOREZ."
+    },
+    {
+      "id": "res/dat/quest_10_dat#2.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 2,
+      "field": 2,
+      "source": "사막남쪽 토레즈;광산마을 토레즈 도달",
+      "translation": "TOREZ SOUTH OF DESERT;REACH THE MINING CITY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#2.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 2,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#3.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 3,
+      "field": 0,
+      "source": "반전세력 엘지스",
+      "translation": "ANTI-WAR ELGIS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#3.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 3,
+      "field": 1,
+      "source": "일레느의 집에서 있다는 반전주의자들의 집회가 있다는데.. 쓸데없는 짓이다.",
+      "translation": "ANTI-WAR ACTIVISTS ARE;MEETING AT ILENES HOUSE.;WHAT A WASTE OF TIME."
+    },
+    {
+      "id": "res/dat/quest_10_dat#3.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 3,
+      "field": 2,
+      "source": "토레즈 일레느의 집;반전세력의 집회 참석",
+      "translation": "ILENES HOUSE IN TOREZ;ATTEND THE MEETING"
+    },
+    {
+      "id": "res/dat/quest_10_dat#3.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 3,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#4.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 4,
+      "field": 0,
+      "source": "협곡의 성수",
+      "translation": "CANYON HOLY WATER"
+    },
+    {
+      "id": "res/dat/quest_10_dat#4.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 4,
+      "field": 1,
+      "source": "대장장이에게서 협곡의 성수를 조합해 남서쪽의 아스크란 주둔지로 가자.",
+      "translation": "ASK THE SMITH TO CRAFT;CANYON HOLY WATER, THEN GO;SOUTHWEST TO THE ASKRA CAMP."
+    },
+    {
+      "id": "res/dat/quest_10_dat#4.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 4,
+      "field": 2,
+      "source": "광산 서쪽의 주둔지;협곡의성수",
+      "translation": "CAMP WEST OF MINES;CANYON HOLY WATER"
+    },
+    {
+      "id": "res/dat/quest_10_dat#4.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 4,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#5.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 5,
+      "field": 0,
+      "source": "협곡 탐사",
+      "translation": "EXPLORE THE CANYON"
+    },
+    {
+      "id": "res/dat/quest_10_dat#5.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 5,
+      "field": 1,
+      "source": "협곡에 볼일이 있다는 일레느를 보호해야 한다. 뭔가 또 말린 기분이 드는데..",
+      "translation": "PROTECT ILENE WHILE SHE;ATTENDS TO BUSINESS IN THE;CANYON. I FEEL DRAWN INTO;HER PLANS AGAIN."
+    },
+    {
+      "id": "res/dat/quest_10_dat#5.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 5,
+      "field": 2,
+      "source": "협곡 남쪽의 폐쇄된공장;폐쇄된공장 탐사",
+      "translation": "CLOSED FACTORY SOUTH OF CANYON;EXPLORE THE FACTORY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#5.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 5,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#6.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 6,
+      "field": 0,
+      "source": "원치않는 동행",
+      "translation": "UNWANTED COMPANY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#6.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 6,
+      "field": 1,
+      "source": "뜻이 안맞는 여자다. 헤어지고 싶지만.. 일단 주둔지까지는 모셔다 줘야겠지.",
+      "translation": "WE NEVER AGREE. I WANT TO;PART WAYS, BUT I SHOULD AT;LEAST ESCORT HER BACK TO;CAMP."
+    },
+    {
+      "id": "res/dat/quest_10_dat#6.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 6,
+      "field": 2,
+      "source": "협곡 북동쪽의 주둔지;아스크란주둔지 도달",
+      "translation": "CAMP NORTHEAST OF CANYON;REACH ASKRA CAMP"
+    },
+    {
+      "id": "res/dat/quest_10_dat#6.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 6,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#7.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 7,
+      "field": 0,
+      "source": "솔티안의 침입",
+      "translation": "SOLTIAN INTRUDERS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#7.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 7,
+      "field": 1,
+      "source": "겁도없이 아스크라로 넘어오다니. 솔티안들이.. 뭔가를 꾸미고 있다.",
+      "translation": "THE SOLTIANS DARED TO ENTER;ASKRA. THEY MUST BE PLANNING;SOMETHING."
+    },
+    {
+      "id": "res/dat/quest_10_dat#7.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 7,
+      "field": 2,
+      "source": "토레즈광산 북쪽;솔티안들을 추격",
+      "translation": "NORTH OF TOREZ MINES;PURSUE THE SOLTIANS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#7.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 7,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#8.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 8,
+      "field": 0,
+      "source": "침입의 목적",
+      "translation": "THE INTRUDERS GOAL"
+    },
+    {
+      "id": "res/dat/quest_10_dat#8.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 8,
+      "field": 1,
+      "source": "솔티안들은 반전세력 엘지스와 접촉하려는 걸까. 일레느를 찾아가 확인해봐야겠다.",
+      "translation": "ARE THE SOLTIANS CONTACTING;ELGIS? FIND ILENE AND ASK;HER."
+    },
+    {
+      "id": "res/dat/quest_10_dat#8.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 8,
+      "field": 2,
+      "source": "광산마을 토레즈;일레느와 재회",
+      "translation": "MINING CITY TOREZ;MEET ILENE AGAIN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#8.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 8,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#9.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 9,
+      "field": 0,
+      "source": "계속되는 추적",
+      "translation": "THE PURSUIT CONTINUES"
+    },
+    {
+      "id": "res/dat/quest_10_dat#9.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 9,
+      "field": 1,
+      "source": "침입자의 목적은 리파이너의 유적.. 유적으로 가기위해 일단 엔자크의 폐가로 가자.",
+      "translation": "THE INTRUDERS ARE HEADING;FOR THE REFINER RUINS. FIRST;GO TO THE ABANDONED HOUSE IN;ENZAK."
+    },
+    {
+      "id": "res/dat/quest_10_dat#9.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 9,
+      "field": 2,
+      "source": "북쪽의 사막마을 엔자크;엔자크의 폐가 도달",
+      "translation": "ENZAK TOWN TO THE NORTH;REACH THE ABANDONED HOUSE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#9.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 9,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#10.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 10,
+      "field": 0,
+      "source": "앞서간 누군가",
+      "translation": "SOMEONE AHEAD"
+    },
+    {
+      "id": "res/dat/quest_10_dat#10.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 10,
+      "field": 1,
+      "source": "누군가가 한발앞서 유적을 향했다고 한다. 사막의 남동쪽에 있는 유적으로 서두르자.",
+      "translation": "SOMEONE HAS ALREADY LEFT FOR;THE RUINS. HURRY TO THE;SOUTHEAST OF THE DESERT."
+    },
+    {
+      "id": "res/dat/quest_10_dat#10.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 10,
+      "field": 2,
+      "source": "사막 남동쪽의 유적;리파이너의 유적 도달",
+      "translation": "SOUTHEAST DESERT RUINS;REACH REFINER RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#10.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 10,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#11.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 11,
+      "field": 0,
+      "source": "오래된 유적",
+      "translation": "ANCIENT RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#11.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 11,
+      "field": 1,
+      "source": "솔티안의 선조 리파이너들이 남겼다는 200년전의 유적. 이곳에 들어온건 누구지?",
+      "translation": "THE REFINERS, ANCESTORS OF;THE SOLTIANS, LEFT THESE;RUINS 200 YEARS AGO. WHO;ENTERED THEM?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#11.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 11,
+      "field": 2,
+      "source": "리파이너의유적;유적 탐사",
+      "translation": "REFINER RUINS;EXPLORE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#11.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 11,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#12.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 12,
+      "field": 0,
+      "source": "어둠의 길드",
+      "translation": "THE DARK GUILD"
+    },
+    {
+      "id": "res/dat/quest_10_dat#12.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 12,
+      "field": 1,
+      "source": "케네스와 코르버스 길드가 유적을 점령하려고 한다. 갇히면 큰일이니 일단 탈출.",
+      "translation": "KENNETH AND CORVUS GUILD ARE;TRYING TO SEIZE THE RUINS.;ESCAPE BEFORE THEY TRAP US."
+    },
+    {
+      "id": "res/dat/quest_10_dat#12.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 12,
+      "field": 2,
+      "source": "리파이너의유적;유적 탈출",
+      "translation": "REFINER RUINS;ESCAPE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#12.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 12,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#13.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 13,
+      "field": 0,
+      "source": "귀환",
+      "translation": "RETURN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#13.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 13,
+      "field": 1,
+      "source": "아스크라.. 코르버스.. 엘지스.. 그리고 닉스코어. 일레느에게 듣고 싶은 것이 많다.",
+      "translation": "ASKRA, CORVUS, ELGIS, AND;NYXCORE... I HAVE MANY;QUESTIONS FOR ILENE."
+    },
+    {
+      "id": "res/dat/quest_10_dat#13.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 13,
+      "field": 2,
+      "source": "남쪽의 광산마을 토레즈;일레느의 집 귀환",
+      "translation": "TOREZ TO THE SOUTH;RETURN TO ILENES HOUSE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#13.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 13,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#14.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 14,
+      "field": 0,
+      "source": "전장으로",
+      "translation": "TO THE FRONT"
+    },
+    {
+      "id": "res/dat/quest_10_dat#14.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 14,
+      "field": 1,
+      "source": "반전세력과는 바이바이다. 이제 주둔지의 정규용병으로 전쟁에 참여할 것이다.",
+      "translation": "GOODBYE TO THE ANTI-WAR;GROUP. I WILL JOIN THE WAR;AS A REGULAR MERCENARY AT;THE CAMP."
+    },
+    {
+      "id": "res/dat/quest_10_dat#14.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 14,
+      "field": 2,
+      "source": "광산 서쪽의 주둔지;정규군 지원",
+      "translation": "CAMP WEST OF MINES;JOIN THE REGULAR ARMY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#14.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 14,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#15.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 15,
+      "field": 0,
+      "source": "수비군 입단",
+      "translation": "JOIN THE DEFENDERS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#15.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 15,
+      "field": 1,
+      "source": "옛 기사단 부단장 멜페토님의 추천. 수비단에 입단하기 위해 검은공장으로 가자.",
+      "translation": "FORMER VICE-COMMANDER;MELPETO RECOMMENDED ME. GO;TO THE BLACK FACTORY TO JOIN;THE DEFENDERS."
+    },
+    {
+      "id": "res/dat/quest_10_dat#15.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 15,
+      "field": 2,
+      "source": "광산 남쪽의 검은공장;검은공장 도달",
+      "translation": "FACTORY SOUTH OF MINES;REACH BLACK FACTORY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#15.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 15,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#16.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 16,
+      "field": 0,
+      "source": "솔티안 추격",
+      "translation": "PURSUE THE SOLTIANS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#16.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 16,
+      "field": 1,
+      "source": "놈들이 채굴장 쪽으로 도망갔다. 그쪽에 땅굴이라도 파놓은 것 같은데.",
+      "translation": "THEY FLED TOWARD THE MINING;SITE. DID THEY DIG A TUNNEL;THERE?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#16.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 16,
+      "field": 2,
+      "source": "광산 북서쪽 채굴장;솔티안의 추격",
+      "translation": "MINING SITE TO THE NORTHWEST;PURSUE THE SOLTIANS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#16.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 16,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#17.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 17,
+      "field": 0,
+      "source": "지하감옥",
+      "translation": "UNDERGROUND PRISON"
+    },
+    {
+      "id": "res/dat/quest_10_dat#17.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 17,
+      "field": 1,
+      "source": "토레즈 마을 어딘가에 있는 지하감옥을 찾아가 갇혀있는 솔티안을 감시하는 임무다.",
+      "translation": "FIND THE UNDERGROUND PRISON;IN TOREZ AND WATCH THE;SOLTIAN CAPTIVE."
+    },
+    {
+      "id": "res/dat/quest_10_dat#17.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 17,
+      "field": 2,
+      "source": "광산마을 토레즈;지하로를 찾아 감옥 도달",
+      "translation": "MINING CITY TOREZ;FIND THE PASSAGE TO THE PRISON"
+    },
+    {
+      "id": "res/dat/quest_10_dat#17.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 17,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#18.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 18,
+      "field": 0,
+      "source": "위기의 엘지스",
+      "translation": "ELGIS IN DANGER"
+    },
+    {
+      "id": "res/dat/quest_10_dat#18.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 18,
+      "field": 1,
+      "source": "엘지스 숙청이 시작될 것 같다. 왜인지 일레느 이 바보가 신경쓰이는데..",
+      "translation": "A PURGE OF ELGIS SEEMS;IMMINENT. WHY AM I SO;WORRIED ABOUT THAT FOOL;ILENE?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#18.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 18,
+      "field": 2,
+      "source": "광산마을 토레즈;일레느와 재회",
+      "translation": "MINING CITY TOREZ;MEET ILENE AGAIN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#18.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 18,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#19.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 19,
+      "field": 0,
+      "source": "로우엔 공장",
+      "translation": "LOWEN FACTORY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#19.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 19,
+      "field": 1,
+      "source": "이런 내전은 납득할 수 없다. 로우엔 공장으로 부단장을 찾아가보자.",
+      "translation": "I CANNOT ACCEPT THIS CIVIL;WAR. FIND THE VICE-COMMANDER;AT LOWEN FACTORY."
+    },
+    {
+      "id": "res/dat/quest_10_dat#19.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 19,
+      "field": 2,
+      "source": "평원 남쪽 로우엔;로우엔 공장 도달",
+      "translation": "LOWEN SOUTH OF THE PLAINS;REACH THE FACTORY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#19.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 19,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#20.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 20,
+      "field": 0,
+      "source": "자동 경비 시스템",
+      "translation": "AUTOMATED SECURITY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#20.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 20,
+      "field": 1,
+      "source": "꼴에 경비 시스템은.. 일단 시크릿 카드를 구해야 하니 대장장이에게 알아보자.",
+      "translation": "THE FACTORY HAS A SECURITY;SYSTEM. ASK THE SMITH HOW TO;GET A SECRET CARD."
+    },
+    {
+      "id": "res/dat/quest_10_dat#20.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 20,
+      "field": 2,
+      "source": "로우엔마을 동쪽의 공장;시크릿카드 조합",
+      "translation": "FACTORY EAST OF LOWEN;CRAFT A SECRET CARD"
+    },
+    {
+      "id": "res/dat/quest_10_dat#20.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 20,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#21.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 21,
+      "field": 0,
+      "source": "위험한 집회",
+      "translation": "A DANGEROUS MEETING"
+    },
+    {
+      "id": "res/dat/quest_10_dat#21.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 21,
+      "field": 1,
+      "source": "분위기가 심상치 않다. 어쩌면 이미 뒤집어진 상황일지도 모르겠어.",
+      "translation": "SOMETHING FEELS WRONG. THE;SITUATION MAY ALREADY BE OUT;OF CONTROL."
+    },
+    {
+      "id": "res/dat/quest_10_dat#21.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 21,
+      "field": 2,
+      "source": "로우엔마을 동쪽의 공장;반전세력과 조우",
+      "translation": "FACTORY EAST OF LOWEN;MEET THE ANTI-WAR GROUP"
+    },
+    {
+      "id": "res/dat/quest_10_dat#21.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 21,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#22.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 22,
+      "field": 0,
+      "source": "재앙의 진위",
+      "translation": "THE TRUTH OF DISASTER"
+    },
+    {
+      "id": "res/dat/quest_10_dat#22.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 22,
+      "field": 1,
+      "source": "붕괴된 반전세력. 그들이 말한 솔티아의 추락을 확인하기 위해 일레느를 찾아가자.",
+      "translation": "THE ANTI-WAR GROUP HAS;FALLEN. FIND ILENE TO LEARN;IF SOLTIA REALLY WILL FALL."
+    },
+    {
+      "id": "res/dat/quest_10_dat#22.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 22,
+      "field": 2,
+      "source": "북쪽의 광산마을 토레즈;일레느와 재회",
+      "translation": "TOREZ TO THE NORTH;MEET ILENE AGAIN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#22.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 22,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#23.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 23,
+      "field": 0,
+      "source": "추락의 단서",
+      "translation": "CLUES TO THE FALL"
+    },
+    {
+      "id": "res/dat/quest_10_dat#23.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 23,
+      "field": 1,
+      "source": "솔티아는 어디로 떨어지며 어떻게 막아야 할지.. 리파이너의 유적에 단서가 있을까?",
+      "translation": "WHERE WILL SOLTIA FALL, AND;HOW CAN WE STOP IT? THE;REFINER RUINS MAY HOLD A;CLUE."
+    },
+    {
+      "id": "res/dat/quest_10_dat#23.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 23,
+      "field": 2,
+      "source": "엔자크사막 동쪽;리파이너의유적 도달",
+      "translation": "EAST OF ENZAK DESERT;REACH REFINER RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#23.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 23,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#24.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 24,
+      "field": 0,
+      "source": "코르버스 길드",
+      "translation": "CORVUS GUILD"
+    },
+    {
+      "id": "res/dat/quest_10_dat#24.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 24,
+      "field": 1,
+      "source": "코르버스 길드.. 유적을 점령하고 있는 이놈들의 목적은 무었일까?",
+      "translation": "WHY HAS CORVUS GUILD;OCCUPIED THE RUINS? WHAT ARE;THEY TRYING TO DO?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#24.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 24,
+      "field": 2,
+      "source": "리파이너의유적;유적 탐사",
+      "translation": "REFINER RUINS;EXPLORE THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#24.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 24,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#25.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 25,
+      "field": 0,
+      "source": "위기의 사막마을",
+      "translation": "ENZAK IN DANGER"
+    },
+    {
+      "id": "res/dat/quest_10_dat#25.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 25,
+      "field": 1,
+      "source": "솔티아는 엔자크로 떨어진다. 서둘러 엔자크 사람들을 피신시켜야 해.",
+      "translation": "SOLTIA WILL FALL ON ENZAK.;WE MUST EVACUATE ITS PEOPLE;QUICKLY."
+    },
+    {
+      "id": "res/dat/quest_10_dat#25.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 25,
+      "field": 2,
+      "source": "사막 북쪽의 등대유적;등대에 도달",
+      "translation": "LIGHTHOUSE NORTH OF DESERT;REACH THE LIGHTHOUSE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#25.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 25,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#26.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 26,
+      "field": 0,
+      "source": "등대를 향해",
+      "translation": "TO THE LIGHTHOUSE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#26.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 26,
+      "field": 1,
+      "source": "아직 포기하긴 이르다. 등대로 가서.. 마지막까지 솔티아를 막아봐야 한다.",
+      "translation": "IT IS TOO SOON TO GIVE UP.;GO TO THE LIGHTHOUSE AND TRY;TO STOP SOLTIA TO THE VERY;END."
+    },
+    {
+      "id": "res/dat/quest_10_dat#26.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 26,
+      "field": 2,
+      "source": "사막 북쪽의 등대유적;등대에 도달",
+      "translation": "LIGHTHOUSE NORTH OF DESERT;REACH THE LIGHTHOUSE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#26.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 26,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#27.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 27,
+      "field": 0,
+      "source": "천공의 재앙",
+      "translation": "DISASTER FROM THE SKY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#27.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 27,
+      "field": 1,
+      "source": "솔티아의 그림자가 드리웠다. 이제.. 저 재앙의 추락을 막을 방법은 없는가?",
+      "translation": "SOLTIAS SHADOW LOOMS ABOVE.;IS THERE NO WAY LEFT TO STOP;ITS FALL?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#27.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 27,
+      "field": 2,
+      "source": "등대 유적;솔티아 추락 저지",
+      "translation": "LIGHTHOUSE RUINS;STOP SOLTIAS FALL"
+    },
+    {
+      "id": "res/dat/quest_10_dat#27.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 27,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#28.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 28,
+      "field": 0,
+      "source": "솔티아",
+      "translation": "SOLTIA"
+    },
+    {
+      "id": "res/dat/quest_10_dat#28.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 28,
+      "field": 1,
+      "source": "솔티안의 도움으로 살아남았다.. 우선 남서쪽의 지하동굴을 통해 솔티아를 벗어나자.",
+      "translation": "A SOLTIAN SAVED ME. LEAVE;SOLTIA THROUGH THE;UNDERGROUND CAVE TO THE;SOUTHWEST."
+    },
+    {
+      "id": "res/dat/quest_10_dat#28.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 28,
+      "field": 2,
+      "source": "숲 남쪽의 지하통로;솔티아 대륙 탈출",
+      "translation": "TUNNEL SOUTH OF FOREST;ESCAPE SOLTIA"
+    },
+    {
+      "id": "res/dat/quest_10_dat#28.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 28,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#29.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 29,
+      "field": 0,
+      "source": "솔티안의 땅",
+      "translation": "SOLTIAN HOMELAND"
+    },
+    {
+      "id": "res/dat/quest_10_dat#29.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 29,
+      "field": 1,
+      "source": "이곳이 솔티안들의 본거지. 이들은 지금 무슨 생각을 하고 있는 걸까?",
+      "translation": "THIS IS THE SOLTIANS HOME.;WHAT MUST THEY BE THINKING;NOW?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#29.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 29,
+      "field": 2,
+      "source": "숲 중앙의 네오솔티아;적진 탐색",
+      "translation": "NEO SOLTIA IN CENTRAL FOREST;SCOUT THE ENEMY CAMP"
+    },
+    {
+      "id": "res/dat/quest_10_dat#29.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 29,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#30.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 30,
+      "field": 0,
+      "source": "악의",
+      "translation": "MALICE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#30.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 30,
+      "field": 1,
+      "source": "성급하게 나섰다가 암살자의 누명을 써버렸다. 일단 네오솔티아를 벗어나야해.",
+      "translation": "I ACTED TOO HASTILY AND WAS;ACCUSED OF ASSASSINATION.;ESCAPE NEO SOLTIA FIRST."
+    },
+    {
+      "id": "res/dat/quest_10_dat#30.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 30,
+      "field": 2,
+      "source": "동쪽의 네메시스고원;적진을 탈출",
+      "translation": "NEMESIS HEIGHTS TO THE EAST;ESCAPE ENEMY TERRITORY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#30.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 30,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#31.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 31,
+      "field": 0,
+      "source": "필사의 탈출",
+      "translation": "DESPERATE ESCAPE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#31.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 31,
+      "field": 1,
+      "source": "이대로 바보같이 죽을 순 없다. 동쪽으로.. 일단은 아스크라 주둔지에 도달해야 한다.",
+      "translation": "I WILL NOT DIE LIKE A FOOL;HERE. HEAD EAST AND REACH;THE ASKRA CAMP."
+    },
+    {
+      "id": "res/dat/quest_10_dat#31.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 31,
+      "field": 2,
+      "source": "동쪽의 아스크란주둔지;아스크라로 탈주",
+      "translation": "ASKRA CAMP TO THE EAST;ESCAPE TO ASKRA"
+    },
+    {
+      "id": "res/dat/quest_10_dat#31.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 31,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#32.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 32,
+      "field": 0,
+      "source": "생각의 변화",
+      "translation": "A CHANGE OF HEART"
+    },
+    {
+      "id": "res/dat/quest_10_dat#32.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 32,
+      "field": 1,
+      "source": "일레느의 생각이 옳았어. 그녀는 지금.. 이전쟁을 막기위해 무엇을 하고 있을까?",
+      "translation": "ILENE WAS RIGHT. WHAT IS SHE;DOING NOW TO STOP THIS WAR?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#32.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 32,
+      "field": 2,
+      "source": "광산마을 토레즈;엘레느와 재회",
+      "translation": "MINING CITY TOREZ;MEET ILENE AGAIN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#32.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 32,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#33.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 33,
+      "field": 0,
+      "source": "위험한 연구",
+      "translation": "DANGEROUS RESEARCH"
+    },
+    {
+      "id": "res/dat/quest_10_dat#33.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 33,
+      "field": 1,
+      "source": "일레느가 혼자서 유적의 숨겨진 부분을 탐사하러 간 듯하다. 서둘러 뒤쫓아가 보자.",
+      "translation": "ILENE SEEMS TO HAVE ENTERED;A HIDDEN PART OF THE RUINS;ALONE. HURRY AFTER HER."
+    },
+    {
+      "id": "res/dat/quest_10_dat#33.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 33,
+      "field": 2,
+      "source": "리파이너의유적;유적 심층부 탐사",
+      "translation": "REFINER RUINS;EXPLORE DEEPER"
+    },
+    {
+      "id": "res/dat/quest_10_dat#33.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 33,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#34.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 34,
+      "field": 0,
+      "source": "최후의 공정",
+      "translation": "THE FINAL PROCESS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#34.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 34,
+      "field": 1,
+      "source": "일레느는 검은 공장에서 닉스코어를 완성하려 한다. 그렇게 싫어하더니 어째서?",
+      "translation": "ILENE PLANS TO COMPLETE;NYXCORE AT THE BLACK;FACTORY. WHY, WHEN SHE HATED;IT SO MUCH?"
+    },
+    {
+      "id": "res/dat/quest_10_dat#34.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 34,
+      "field": 2,
+      "source": "광산 남쪽의 검은공장;일레느와 재회",
+      "translation": "FACTORY SOUTH OF MINES;MEET ILENE AGAIN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#34.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 34,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#35.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 35,
+      "field": 0,
+      "source": "의지의 계승",
+      "translation": "INHERIT HER RESOLVE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#35.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 35,
+      "field": 1,
+      "source": "그리폰의 피리로 세계를 돌며 흩어진 엘지스 세력을 모아 일레느의 의지를 계승한다.",
+      "translation": "USE THE GRIFFON FLUTE TO;TRAVEL THE WORLD AND GATHER;THE SCATTERED ELGIS MEMBERS.;CARRY ON ILENES WILL."
+    },
+    {
+      "id": "res/dat/quest_10_dat#35.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 35,
+      "field": 2,
+      "source": "반전세력의 규합",
+      "translation": "RALLY THE ANTI-WAR GROUP"
+    },
+    {
+      "id": "res/dat/quest_10_dat#35.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 35,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#36.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 36,
+      "field": 0,
+      "source": "협곡 탐사",
+      "translation": "EXPLORE THE CANYON"
+    },
+    {
+      "id": "res/dat/quest_10_dat#36.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 36,
+      "field": 1,
+      "source": "협곡에 볼일이 있다는 일레느를 보호해야 한다. 뭔가 또 말린 기분이 드는데..",
+      "translation": "PROTECT ILENE WHILE SHE;ATTENDS TO BUSINESS IN THE;CANYON. I FEEL DRAWN INTO;HER PLANS AGAIN."
+    },
+    {
+      "id": "res/dat/quest_10_dat#36.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 36,
+      "field": 2,
+      "source": "협곡 남쪽의 폐쇄된공장;폐쇄된공장 탐사",
+      "translation": "CLOSED FACTORY SOUTH OF CANYON;EXPLORE THE FACTORY"
+    },
+    {
+      "id": "res/dat/quest_10_dat#36.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 36,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#37.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 37,
+      "field": 0,
+      "source": "전면전의 서곡",
+      "translation": "PRELUDE TO ALL-OUT WAR"
+    },
+    {
+      "id": "res/dat/quest_10_dat#37.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 37,
+      "field": 1,
+      "source": "솔티안들이 움직인다. 아스크란은 대응한다. 나도.. 전장에 가야만 하는데..",
+      "translation": "THE SOLTIANS ARE MOVING AND;ASKRA IS RESPONDING. I TOO;MUST GO TO THE FRONT."
+    },
+    {
+      "id": "res/dat/quest_10_dat#37.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 37,
+      "field": 2,
+      "source": "아스크란주둔지 서쪽;네메시스고원의 전장",
+      "translation": "WEST OF ASKRA CAMP;NEMESIS HEIGHTS BATTLEFIELD"
+    },
+    {
+      "id": "res/dat/quest_10_dat#37.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 37,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#38.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 38,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_10_dat#38.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 38,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_10_dat#38.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 38,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_10_dat#38.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 38,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_10_dat#39.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 39,
+      "field": 0,
+      "source": "마지막 변화",
+      "translation": "THE FINAL CHANGE"
+    },
+    {
+      "id": "res/dat/quest_10_dat#39.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 39,
+      "field": 1,
+      "source": "이제 이안을 용서해야할 때인가. 로우엔 남쪽 코르버스의 아지트로 그를 구하러가자.",
+      "translation": "IS IT TIME TO FORGIVE IAN?;RESCUE HIM AT THE CORVUS;BASE SOUTH OF LOWEN."
+    },
+    {
+      "id": "res/dat/quest_10_dat#39.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 39,
+      "field": 2,
+      "source": "평원 남쪽 코르버스본부;이안의 구출",
+      "translation": "CORVUS HQ SOUTH OF PLAINS;RESCUE IAN"
+    },
+    {
+      "id": "res/dat/quest_10_dat#39.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 39,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#40.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 40,
+      "field": 0,
+      "source": "유적의 전장",
+      "translation": "BATTLE AT THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#40.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 40,
+      "field": 1,
+      "source": "솔티아가 떨어진 구 엔자크 사막지역의 전장. 그곳에 막아야 할 인간이 있다.",
+      "translation": "THE BATTLEFIELD IS IN OLD;ENZAK DESERT, WHERE SOLTIA;FELL. SOMEONE THERE MUST BE;STOPPED."
+    },
+    {
+      "id": "res/dat/quest_10_dat#40.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 40,
+      "field": 2,
+      "source": "파괴된대지 북쪽;유적의전장도달",
+      "translation": "NORTH OF THE RUINED LAND;REACH THE BATTLEFIELD"
+    },
+    {
+      "id": "res/dat/quest_10_dat#40.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 40,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_10_dat#41.0",
+      "file": "res/dat/quest_10_dat",
+      "record": 41,
+      "field": 0,
+      "source": "진보의 순간",
+      "translation": "A MOMENT OF PROGRESS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#41.1",
+      "file": "res/dat/quest_10_dat",
+      "record": 41,
+      "field": 1,
+      "source": "마지막까지!",
+      "translation": "TO THE VERY END!"
+    },
+    {
+      "id": "res/dat/quest_10_dat#41.2",
+      "file": "res/dat/quest_10_dat",
+      "record": 41,
+      "field": 2,
+      "source": "유적의코어 도달",
+      "translation": "REACH THE CORE OF THE RUINS"
+    },
+    {
+      "id": "res/dat/quest_10_dat#41.3",
+      "file": "res/dat/quest_10_dat",
+      "record": 41,
+      "field": 3,
+      "source": "메인퀘스트",
+      "translation": "MAIN QUEST"
+    },
+    {
+      "id": "res/dat/quest_11_dat#0.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 0,
+      "field": 0,
+      "source": "집결의 도구",
+      "translation": "TOOLS TO RALLY"
+    },
+    {
+      "id": "res/dat/quest_11_dat#0.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 0,
+      "field": 1,
+      "source": "흩어진 이들에게 연락을 취하기 위해 채굴장에 숨겨둔 신호기를 회수해야 한다.",
+      "translation": "RECOVER THE SIGNAL DEVICE;HIDDEN AT THE MINING SITE TO;CONTACT THE SCATTERED;MEMBERS."
+    },
+    {
+      "id": "res/dat/quest_11_dat#0.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 0,
+      "field": 2,
+      "source": "광산 서쪽의 채굴장;시그널펜던트B",
+      "translation": "MINING SITE WEST OF MINES;SIGNAL PENDANT B"
+    },
+    {
+      "id": "res/dat/quest_11_dat#0.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 0,
+      "field": 3,
+      "source": "토레즈- 엘지스",
+      "translation": "TOREZ - ELGIS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#1.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 1,
+      "field": 0,
+      "source": "하찮은 임무",
+      "translation": "A MENIAL TASK"
+    },
+    {
+      "id": "res/dat/quest_11_dat#1.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 1,
+      "field": 1,
+      "source": "용병의 이름을 달고 쥐 박멸 운동이라니. 짜증나는 일이군.",
+      "translation": "A MERCENARY REDUCED TO;EXTERMINATING RATS. HOW;IRRITATING."
+    },
+    {
+      "id": "res/dat/quest_11_dat#1.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 1,
+      "field": 2,
+      "source": "엔자크 사막;쥐발톱",
+      "translation": "ENZAK DESERT;RAT CLAWS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#1.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 1,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#2.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 2,
+      "field": 0,
+      "source": "연금협회의 의뢰",
+      "translation": "ALCHEMISTS REQUEST"
+    },
+    {
+      "id": "res/dat/quest_11_dat#2.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 2,
+      "field": 1,
+      "source": "연금협회는 늘 어이없는 재료를 원한다. 엔자크 특산 영혼 사슬은 또 뭐람.",
+      "translation": "THE ALCHEMISTS ALWAYS WANT;ABSURD MATERIALS. WHAT IS;THIS SOUL CHAIN SPECIAL TO;ENZAK?"
+    },
+    {
+      "id": "res/dat/quest_11_dat#2.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 2,
+      "field": 2,
+      "source": "사막마을 엔자크;영혼사슬 조합",
+      "translation": "ENZAK TOWN;CRAFT A SOUL CHAIN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#2.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 2,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#3.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 3,
+      "field": 0,
+      "source": "도시의 괴담",
+      "translation": "URBAN GHOST STORIES"
+    },
+    {
+      "id": "res/dat/quest_11_dat#3.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 3,
+      "field": 1,
+      "source": "흡혈귀라. 쓸데없는 유적을 찾으니 쓸데없는 괴담이 생기는 게 아닌가.",
+      "translation": "VAMPIRES? PEOPLE DIG UP;USELESS RUINS AND INVENT;USELESS GHOST STORIES."
+    },
+    {
+      "id": "res/dat/quest_11_dat#3.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 3,
+      "field": 2,
+      "source": "엔자크 북쪽의 등대유적;박쥐의날개",
+      "translation": "LIGHTHOUSE NORTH OF ENZAK;BAT WINGS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#3.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 3,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#4.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 4,
+      "field": 0,
+      "source": "졸부와 하녀",
+      "translation": "THE RICH MAN AND MAID"
+    },
+    {
+      "id": "res/dat/quest_11_dat#4.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 4,
+      "field": 1,
+      "source": "돈을 쓸데가 없어서 안달이군. 뭐 라이칸의 이빨이야 구하기 어렵지 않으니까.",
+      "translation": "HE HAS MORE MONEY THAN;SENSE. LYCAN TEETH SHOULD BE;EASY ENOUGH TO FIND."
+    },
+    {
+      "id": "res/dat/quest_11_dat#4.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 4,
+      "field": 2,
+      "source": "토레즈광산 라이칸;라이칸의이빨",
+      "translation": "TOREZ MINES - LYCANS;LYCAN TEETH"
+    },
+    {
+      "id": "res/dat/quest_11_dat#4.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 4,
+      "field": 3,
+      "source": "토레즈- 졸부",
+      "translation": "TOREZ - RICH MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#5.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 5,
+      "field": 0,
+      "source": "총기 수급",
+      "translation": "GUN SUPPLIES"
+    },
+    {
+      "id": "res/dat/quest_11_dat#5.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 5,
+      "field": 1,
+      "source": "길드에 총기가 부족하다고 한다. 총기는 못 만들어도 부속은 구할 수 있을 듯.",
+      "translation": "THE GUILD IS SHORT ON GUNS.;I CANNOT MAKE GUNS, BUT I;CAN GET PARTS."
+    },
+    {
+      "id": "res/dat/quest_11_dat#5.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 5,
+      "field": 2,
+      "source": "사막마을 엔자크;총기부속 조합",
+      "translation": "ENZAK TOWN;CRAFT GUN PARTS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#5.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 5,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#6.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 6,
+      "field": 0,
+      "source": "궁극의 식물",
+      "translation": "THE ULTIMATE PLANT"
+    },
+    {
+      "id": "res/dat/quest_11_dat#6.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 6,
+      "field": 1,
+      "source": "로우엔 지방에 있다는 궁극의 식물 사냥. 이제는 제법 멀리까지 의뢰를 받는군.",
+      "translation": "HUNT THE ULTIMATE PLANT IN;LOWEN. THESE JOBS ARE TAKING;ME FARTHER AFIELD."
+    },
+    {
+      "id": "res/dat/quest_11_dat#6.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 6,
+      "field": 2,
+      "source": "로우엔 평원;앨더머쉬풀라",
+      "translation": "LOWEN PLAINS;ELDER MUSHPULLA"
+    },
+    {
+      "id": "res/dat/quest_11_dat#6.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 6,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#7.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 7,
+      "field": 0,
+      "source": "솔티안의 문장",
+      "translation": "SOLTIAN CRESTS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#7.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 7,
+      "field": 1,
+      "source": "오랜만에 맘에드는 임무다. 솔티안들을 찾으면 그들의 문장을 꼭 챙기자.",
+      "translation": "AT LAST, A JOB I LIKE. WHEN;I FIND SOLTIANS, I MUST TAKE;THEIR CRESTS."
+    },
+    {
+      "id": "res/dat/quest_11_dat#7.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 7,
+      "field": 2,
+      "source": "솔티안과 조우시;솔티안의문장",
+      "translation": "WHEN FACING SOLTIANS;SOLTIAN CRESTS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#7.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 7,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#8.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 8,
+      "field": 0,
+      "source": "불안한 민심",
+      "translation": "UNEASY HEARTS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#8.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 8,
+      "field": 1,
+      "source": "불안해 하는 여관 종업원에게 운디네의 부적을 선물.. 하는 자선활동까지 해야 되나.",
+      "translation": "MAKE AN UNDINE CHARM FOR THE;WORRIED INN WORKER. MUST I;DO CHARITY AS WELL?"
+    },
+    {
+      "id": "res/dat/quest_11_dat#8.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 8,
+      "field": 2,
+      "source": "사막마을 엔자크 여관;운디네의부적 조합",
+      "translation": "ENZAK TOWN INN;CRAFT AN UNDINE CHARM"
+    },
+    {
+      "id": "res/dat/quest_11_dat#8.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 8,
+      "field": 3,
+      "source": "엔자크- 여관",
+      "translation": "ENZAK - INN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#9.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 9,
+      "field": 0,
+      "source": "길드간의 적의",
+      "translation": "GUILD HOSTILITY"
+    },
+    {
+      "id": "res/dat/quest_11_dat#9.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 9,
+      "field": 1,
+      "source": "코르버스 길드는 소문이 아닌가? 은근히 우리 길드도 신경을 쓰긴 쓰는군.",
+      "translation": "IS CORVUS GUILD MORE THAN A;RUMOR? EVEN OUR GUILD SEEMS;CONCERNED."
+    },
+    {
+      "id": "res/dat/quest_11_dat#9.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 9,
+      "field": 2,
+      "source": "엔자크 사막;코르버스의문장",
+      "translation": "ENZAK DESERT;CORVUS CRESTS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#9.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 9,
+      "field": 3,
+      "source": "엔자크- 용병길드",
+      "translation": "ENZAK - MERC GUILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#10.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 10,
+      "field": 0,
+      "source": "남겨진 마을",
+      "translation": "THE FORGOTTEN VILLAGE"
+    },
+    {
+      "id": "res/dat/quest_11_dat#10.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 10,
+      "field": 1,
+      "source": "솔티아는 생각보다 훨씬 위험한 공간이로군. 구해준 보답은 해야 될것 같다.",
+      "translation": "SOLTIA IS FAR MORE DANGEROUS;THAN I EXPECTED. I OWE THESE;PEOPLE FOR SAVING ME."
+    },
+    {
+      "id": "res/dat/quest_11_dat#10.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 10,
+      "field": 2,
+      "source": "은거지 서쪽 야수의숲;기버로크",
+      "translation": "BEAST WOODS WEST OF REFUGE;GIBBER LOCK"
+    },
+    {
+      "id": "res/dat/quest_11_dat#10.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 10,
+      "field": 3,
+      "source": "솔티아- 노인",
+      "translation": "SOLTIA - OLD MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#11.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 11,
+      "field": 0,
+      "source": "라이칸의 칼날",
+      "translation": "LYCAN BLADES"
+    },
+    {
+      "id": "res/dat/quest_11_dat#11.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 11,
+      "field": 1,
+      "source": "라이칸들이 무기를 들고 다닌다고? 그 무기를 갖고 싶어하는 놈도 있군.",
+      "translation": "LYCANS CARRY WEAPONS? AND;SOMEONE ACTUALLY WANTS THOSE;BLADES."
+    },
+    {
+      "id": "res/dat/quest_11_dat#11.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 11,
+      "field": 2,
+      "source": "광산의 헤비스트라이칸;라이칸의 칼날",
+      "translation": "MINES - HEAVY STRIKE LYCANS;LYCAN BLADES"
+    },
+    {
+      "id": "res/dat/quest_11_dat#11.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 11,
+      "field": 3,
+      "source": "토레즈- 졸부",
+      "translation": "TOREZ - RICH MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#12.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 12,
+      "field": 0,
+      "source": "엔자크의 영광",
+      "translation": "ENZAKS GLORY"
+    },
+    {
+      "id": "res/dat/quest_11_dat#12.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 12,
+      "field": 1,
+      "source": "역사따위는 관심이 없지만.. 보상금은 제법 두둑하니 그 유물이란 놈을 찾아볼까.",
+      "translation": "HISTORY DOES NOT INTEREST;ME, BUT THE REWARD IS GOOD.;I WILL LOOK FOR THAT RELIC."
+    },
+    {
+      "id": "res/dat/quest_11_dat#12.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 12,
+      "field": 2,
+      "source": "엔자크사막;굴베이그의유물",
+      "translation": "ENZAK DESERT;GULVEIGS RELIC"
+    },
+    {
+      "id": "res/dat/quest_11_dat#12.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 12,
+      "field": 3,
+      "source": "엔자크- 역사학자",
+      "translation": "ENZAK - HISTORIAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#13.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 13,
+      "field": 0,
+      "source": "영혼의 시",
+      "translation": "POEM OF SOULS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#13.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 13,
+      "field": 1,
+      "source": "미신이다. 그러나.. 순수한 소녀의 부탁을 거절하는 건 왠지 힘들단 말이지.",
+      "translation": "SUPERSTITION. STILL, IT IS;HARD TO REFUSE SUCH AN;INNOCENT GIRLS REQUEST."
+    },
+    {
+      "id": "res/dat/quest_11_dat#13.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 13,
+      "field": 2,
+      "source": "광산도시 토레즈;유리엽서 조합",
+      "translation": "MINING CITY TOREZ;CRAFT A GLASS POSTCARD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#13.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 13,
+      "field": 3,
+      "source": "토레즈- 소녀",
+      "translation": "TOREZ - GIRL"
+    },
+    {
+      "id": "res/dat/quest_11_dat#14.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 14,
+      "field": 0,
+      "source": "로우엔의 치안",
+      "translation": "LAW IN LOWEN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#14.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 14,
+      "field": 1,
+      "source": "로우엔도 치안이 엉망이군. 도적들에 대해 현상금이 상당히 높은 것 같다.",
+      "translation": "LOWENS SECURITY IS A MESS;TOO. THE BOUNTY ON ITS;BANDITS SEEMS HIGH."
+    },
+    {
+      "id": "res/dat/quest_11_dat#14.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 14,
+      "field": 2,
+      "source": "로우엔 평원;도적",
+      "translation": "LOWEN PLAINS;BANDITS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#14.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 14,
+      "field": 3,
+      "source": "로우엔- 공무원",
+      "translation": "LOWEN - CIVIL SERVANT"
+    },
+    {
+      "id": "res/dat/quest_11_dat#15.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 15,
+      "field": 0,
+      "source": "남쪽의 마물",
+      "translation": "SOUTHERN DEMONS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#15.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 15,
+      "field": 1,
+      "source": "마을 사람들의 용기따위 알바 없다. 의뢰에 따라 가고일의 뿔을 모을뿐.",
+      "translation": "THE VILLAGERS COURAGE IS NOT;MY CONCERN. I AM ONLY;COLLECTING GARGOYLE HORNS;FOR THE JOB."
+    },
+    {
+      "id": "res/dat/quest_11_dat#15.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 15,
+      "field": 2,
+      "source": "로우엔 평원;데몬의뿔",
+      "translation": "LOWEN PLAINS;DEMON HORNS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#15.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 15,
+      "field": 3,
+      "source": "로우엔- 남자",
+      "translation": "LOWEN - MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#16.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 16,
+      "field": 0,
+      "source": "마지막 증거",
+      "translation": "THE FINAL PROOF"
+    },
+    {
+      "id": "res/dat/quest_11_dat#16.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 16,
+      "field": 1,
+      "source": "어차피 가야할 유적에서 유리방패 하나 찾아주고 돈 받는 거면 환영이다.",
+      "translation": "I AM GOING TO THE RUINS;ANYWAY. FINDING A GLASS;SHIELD FOR PAY SOUNDS GOOD."
+    },
+    {
+      "id": "res/dat/quest_11_dat#16.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 16,
+      "field": 2,
+      "source": "리파이너의유적;유리방패",
+      "translation": "REFINER RUINS;GLASS SHIELD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#16.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 16,
+      "field": 3,
+      "source": "엔자크- 역사학자",
+      "translation": "ENZAK - HISTORIAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#17.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 17,
+      "field": 0,
+      "source": "혼돈의 대륙",
+      "translation": "LAND IN CHAOS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#17.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 17,
+      "field": 1,
+      "source": "몬스터들의 갑작스런 변화에 대해 서로의 의견을 조율하는 서신을 전달해야 한다.",
+      "translation": "DELIVER A LETTER TO HELP;OFFICIALS SHARE THEIR VIEWS;ON THE MONSTERS SUDDEN;CHANGE."
+    },
+    {
+      "id": "res/dat/quest_11_dat#17.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 17,
+      "field": 2,
+      "source": "평원마을 로우엔;공무원에게 서신 전달",
+      "translation": "LOWEN TOWN;DELIVER THE OFFICIALS LETTER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#17.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 17,
+      "field": 3,
+      "source": "토레즈- 공무원",
+      "translation": "TOREZ - CIVIL SERVANT"
+    },
+    {
+      "id": "res/dat/quest_11_dat#18.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 18,
+      "field": 0,
+      "source": "고대의 마법장비",
+      "translation": "ANCIENT MAGIC GEAR"
+    },
+    {
+      "id": "res/dat/quest_11_dat#18.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 18,
+      "field": 1,
+      "source": "마법력과 장비의 조화로 더 강력한 마법장비를 만든다는 랄프에게 협조해주자.",
+      "translation": "HELP RALPH COMBINE MAGIC AND;EQUIPMENT TO CREATE MORE;POWERFUL MAGIC GEAR."
+    },
+    {
+      "id": "res/dat/quest_11_dat#18.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 18,
+      "field": 2,
+      "source": "네오솔티아;정령석",
+      "translation": "NEO SOLTIA;ELEMENTAL STONES"
+    },
+    {
+      "id": "res/dat/quest_11_dat#18.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 18,
+      "field": 3,
+      "source": "네오솔티아-대장장이",
+      "translation": "NEO SOLTIA - SMITH"
+    },
+    {
+      "id": "res/dat/quest_11_dat#19.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 19,
+      "field": 0,
+      "source": "평화의 상징",
+      "translation": "SYMBOL OF PEACE"
+    },
+    {
+      "id": "res/dat/quest_11_dat#19.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 19,
+      "field": 1,
+      "source": "작은 공장에 남겨진 반전주의자들의 상징물. 이것이 집결에 필요하다.",
+      "translation": "RECOVER THE ANTI-WAR;ACTIVISTS SYMBOL LEFT AT THE;SMALL FACTORY. IT WILL HELP;US RALLY THEM."
+    },
+    {
+      "id": "res/dat/quest_11_dat#19.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 19,
+      "field": 2,
+      "source": "로우엔 동쪽의 공장;평화의문장",
+      "translation": "FACTORY EAST OF LOWEN;CREST OF PEACE"
+    },
+    {
+      "id": "res/dat/quest_11_dat#19.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 19,
+      "field": 3,
+      "source": "로우엔- 엘지스",
+      "translation": "LOWEN - ELGIS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#20.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 20,
+      "field": 0,
+      "source": "좀 좋은 포션",
+      "translation": "A BETTER POTION"
+    },
+    {
+      "id": "res/dat/quest_11_dat#20.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 20,
+      "field": 1,
+      "source": "에인션트 버그를 잡아 소년이 모험을 위해 만든다는 좀 좋은 포션을 얻어보자. ",
+      "translation": "HUNT ANCIENT BUGS TO HELP;THE BOY MAKE A BETTER POTION;FOR HIS ADVENTURES."
+    },
+    {
+      "id": "res/dat/quest_11_dat#20.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 20,
+      "field": 2,
+      "source": "파괴된대지 에인션트버그;에인션트하니",
+      "translation": "RUINED LAND - ANCIENT BUGS;ANCIENT HONEY"
+    },
+    {
+      "id": "res/dat/quest_11_dat#20.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 20,
+      "field": 3,
+      "source": "잔존민의은거지- 꼬마",
+      "translation": "REFUGE - CHILD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#21.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 21,
+      "field": 0,
+      "source": "지하의 절규소리",
+      "translation": "SCREAMS BELOW"
+    },
+    {
+      "id": "res/dat/quest_11_dat#21.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 21,
+      "field": 1,
+      "source": "토레즈의 지하에서 절규하고 있는 살아있는 시체들을 정리해 달라는 의뢰다.",
+      "translation": "CLEAR OUT THE SCREAMING;UNDEAD BENEATH TOREZ."
+    },
+    {
+      "id": "res/dat/quest_11_dat#21.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 21,
+      "field": 2,
+      "source": "토레즈 지하;스컬나이트",
+      "translation": "TOREZ UNDERGROUND;SKULL KNIGHTS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#21.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 21,
+      "field": 3,
+      "source": "토레즈- 여관종업원",
+      "translation": "TOREZ - INN WORKER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#22.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 22,
+      "field": 0,
+      "source": "채굴장의 재건",
+      "translation": "RESTORE THE MINE"
+    },
+    {
+      "id": "res/dat/quest_11_dat#22.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 22,
+      "field": 1,
+      "source": "철기공장 가장 깊은 곳의 비밀무기라니.. 확실한 정보인 건가..? 일단 확인이다.",
+      "translation": "A SECRET WEAPON DEEP IN THE;IRON FACTORY? I SHOULD CHECK;WHETHER THIS INFORMATION IS;TRUE."
+    },
+    {
+      "id": "res/dat/quest_11_dat#22.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 22,
+      "field": 2,
+      "source": "채굴장;스펙터",
+      "translation": "MINING SITE;SPECTERS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#22.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 22,
+      "field": 3,
+      "source": "아스크란주둔지- 남자",
+      "translation": "ASKRA CAMP - MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#23.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 23,
+      "field": 0,
+      "source": "사령의 동굴",
+      "translation": "CAVE OF THE DEAD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#23.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 23,
+      "field": 1,
+      "source": "레갈리스교의 붕괴에 이어 나타난 악마의 무리. 그들을 지배하는 건..",
+      "translation": "DEMONS APPEARED AFTER THE;REGALIS FAITH FELL. WHO IS;CONTROLLING THEM?"
+    },
+    {
+      "id": "res/dat/quest_11_dat#23.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 23,
+      "field": 2,
+      "source": "로우엔남쪽 사령의동굴;블러디데몬",
+      "translation": "DEAD CAVE SOUTH OF LOWEN;BLOODY DEMONS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#23.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 23,
+      "field": 3,
+      "source": "로우엔여관- 모험가",
+      "translation": "LOWEN INN - ADVENTURER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#24.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 24,
+      "field": 0,
+      "source": "의지의 증명",
+      "translation": "PROOF OF RESOLVE"
+    },
+    {
+      "id": "res/dat/quest_11_dat#24.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 24,
+      "field": 1,
+      "source": "반전주의자들을 모으기 위해선 나의 신뢰가 중요해. 나의 의지를 증명한다.",
+      "translation": "I MUST EARN THEIR TRUST TO;REUNITE THE ANTI-WAR GROUP.;PROVE MY RESOLVE."
+    },
+    {
+      "id": "res/dat/quest_11_dat#24.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 24,
+      "field": 2,
+      "source": "남동쪽협곡 비밀의회랑;데드솔저",
+      "translation": "SECRET HALL IN SOUTHEAST CANYON;DEAD SOLDIERS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#24.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 24,
+      "field": 3,
+      "source": "솔티안주둔지- 엘지스",
+      "translation": "SOLTIA CAMP - ELGIS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#25.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 25,
+      "field": 0,
+      "source": "숲의 지배자",
+      "translation": "LORD OF THE FOREST"
+    },
+    {
+      "id": "res/dat/quest_11_dat#25.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 25,
+      "field": 1,
+      "source": "쿠퍼들과 로커의 힘이 너무 강대해져 있다. 이들의 지배자를 쓰러트려주자.",
+      "translation": "THE COOPERS AND LOCKERS HAVE;GROWN TOO STRONG. DEFEAT;THEIR RULER."
+    },
+    {
+      "id": "res/dat/quest_11_dat#25.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 25,
+      "field": 2,
+      "source": "네메시스숲;블레이즈로커",
+      "translation": "NEMESIS WOODS;BLAZE LOCKER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#25.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 25,
+      "field": 3,
+      "source": "솔티안주둔지- 병사",
+      "translation": "SOLTIA CAMP - SOLDIER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#26.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 26,
+      "field": 0,
+      "source": "소녀의 인형",
+      "translation": "THE GIRLS DOLL"
+    },
+    {
+      "id": "res/dat/quest_11_dat#26.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 26,
+      "field": 1,
+      "source": "야수의 숲에서 잔존민들을 위협하는 거대한 식인 꽃을 처치하자.",
+      "translation": "DEFEAT THE GIANT MAN-EATING;FLOWER THREATENING THE;SURVIVORS IN THE BEAST;WOODS."
+    },
+    {
+      "id": "res/dat/quest_11_dat#26.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 26,
+      "field": 2,
+      "source": "야수의숲;와일드아르보르",
+      "translation": "BEAST WOODS;WILD ARBOR"
+    },
+    {
+      "id": "res/dat/quest_11_dat#26.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 26,
+      "field": 3,
+      "source": "솔티아- 소녀",
+      "translation": "SOLTIA - GIRL"
+    },
+    {
+      "id": "res/dat/quest_11_dat#27.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 27,
+      "field": 0,
+      "source": "죽은자들의 왕",
+      "translation": "KING OF THE DEAD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#27.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 27,
+      "field": 1,
+      "source": "토레즈주민들의 악몽을 일으키는 죽은자들의 왕이 어딘가에 있다.",
+      "translation": "THE KING OF THE DEAD IS;SOMEWHERE BELOW TOREZ,;CAUSING THE PEOPLES;NIGHTMARES."
+    },
+    {
+      "id": "res/dat/quest_11_dat#27.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 27,
+      "field": 2,
+      "source": "토레즈 지하;스컬카이져",
+      "translation": "TOREZ UNDERGROUND;SKULL KAISER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#27.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 27,
+      "field": 3,
+      "source": "토레즈- 노숙자",
+      "translation": "TOREZ - HOMELESS MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#28.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 28,
+      "field": 0,
+      "source": "미쳐버린 공장",
+      "translation": "FACTORY GONE MAD"
+    },
+    {
+      "id": "res/dat/quest_11_dat#28.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 28,
+      "field": 1,
+      "source": "인간의 통제를 벗어난 공장. 그곳의 기계들은 비스트들에 묶여 미쳐있다.",
+      "translation": "THE FACTORY IS OUT OF HUMAN;CONTROL. ITS MACHINES HAVE;GONE MAD UNDER THE BEASTS;INFLUENCE."
+    },
+    {
+      "id": "res/dat/quest_11_dat#28.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 28,
+      "field": 2,
+      "source": "로우엔공장;크레이지타이탄",
+      "translation": "LOWEN FACTORY;CRAZY TITAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#28.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 28,
+      "field": 3,
+      "source": "로우엔- 아저씨",
+      "translation": "LOWEN - MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#29.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 29,
+      "field": 0,
+      "source": "거대한 불곰",
+      "translation": "THE GIANT BEAR"
+    },
+    {
+      "id": "res/dat/quest_11_dat#29.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 29,
+      "field": 1,
+      "source": "채굴장은 토레즈의 생명이다. 그곳을 점령한 몬스터들을 토벌해 달라는 의뢰.",
+      "translation": "THE MINING SITE IS TOREZS;LIFELINE. EXTERMINATE THE;MONSTERS THAT HAVE OCCUPIED;IT."
+    },
+    {
+      "id": "res/dat/quest_11_dat#29.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 29,
+      "field": 2,
+      "source": "채굴장;다크니스이라",
+      "translation": "MINING SITE;DARKNESS IRA"
+    },
+    {
+      "id": "res/dat/quest_11_dat#29.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 29,
+      "field": 3,
+      "source": "토레즈- 공무원",
+      "translation": "TOREZ - CIVIL SERVANT"
+    },
+    {
+      "id": "res/dat/quest_11_dat#30.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 30,
+      "field": 0,
+      "source": "대지에 선 야수",
+      "translation": "BEAST ON THE EARTH"
+    },
+    {
+      "id": "res/dat/quest_11_dat#30.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 30,
+      "field": 1,
+      "source": "대지로 내려간 와일드스쿠툼. 놈이 가지고 간 옛 도시의 기록을 되찾아 오자.",
+      "translation": "WILD SCUTUM DESCENDED TO THE;EARTH WITH THE OLD CITYS;RECORDS. RECOVER THEM."
+    },
+    {
+      "id": "res/dat/quest_11_dat#30.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 30,
+      "field": 2,
+      "source": "파괴된대지;와일드스쿠툼",
+      "translation": "RUINED LAND;WILD SCUTUM"
+    },
+    {
+      "id": "res/dat/quest_11_dat#30.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 30,
+      "field": 3,
+      "source": "솔티아- 아저씨",
+      "translation": "SOLTIA - MAN"
+    },
+    {
+      "id": "res/dat/quest_11_dat#31.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 31,
+      "field": 0,
+      "source": "협곡의 아종",
+      "translation": "CANYON VARIANT"
+    },
+    {
+      "id": "res/dat/quest_11_dat#31.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 31,
+      "field": 1,
+      "source": "폐쇄된 공장을 지배하고 있는 카오스 로커을 퇴치해달라는 의뢰. 할 수 있을까?",
+      "translation": "CAN I DEFEAT CHAOS LOCKER,;THE CREATURE RULING THE;CLOSED FACTORY?"
+    },
+    {
+      "id": "res/dat/quest_11_dat#31.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 31,
+      "field": 2,
+      "source": "폐쇄된공장;카오스로커",
+      "translation": "CLOSED FACTORY;CHAOS LOCKER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#31.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 31,
+      "field": 3,
+      "source": "아스크란주둔지- 상인",
+      "translation": "ASKRA CAMP - MERCHANT"
+    },
+    {
+      "id": "res/dat/quest_11_dat#32.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 32,
+      "field": 0,
+      "source": "악마의 지배자",
+      "translation": "LORD OF DEMONS"
+    },
+    {
+      "id": "res/dat/quest_11_dat#32.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 32,
+      "field": 1,
+      "source": "사령의 동굴에 있는 악마들의 우두머리는 무엇을 지키고 있는 것일까.",
+      "translation": "WHAT IS THE LEADER OF THE;DEMONS IN THE CAVE OF THE;DEAD GUARDING?"
+    },
+    {
+      "id": "res/dat/quest_11_dat#32.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 32,
+      "field": 2,
+      "source": "사령의동굴;시바",
+      "translation": "DEAD CAVE;SHIVA"
+    },
+    {
+      "id": "res/dat/quest_11_dat#32.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 32,
+      "field": 3,
+      "source": "로우엔- 모험가",
+      "translation": "LOWEN - ADVENTURER"
+    },
+    {
+      "id": "res/dat/quest_11_dat#33.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 33,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#33.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 33,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#33.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 33,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#33.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 33,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#34.0",
+      "file": "res/dat/quest_11_dat",
+      "record": 34,
+      "field": 0,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#34.1",
+      "file": "res/dat/quest_11_dat",
+      "record": 34,
+      "field": 1,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#34.2",
+      "file": "res/dat/quest_11_dat",
+      "record": 34,
+      "field": 2,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/quest_11_dat#34.3",
+      "file": "res/dat/quest_11_dat",
+      "record": 34,
+      "field": 3,
+      "source": "-",
+      "translation": "-"
+    },
+    {
+      "id": "res/dat/char_dat#0.0",
+      "file": "res/dat/char_dat",
+      "record": 0,
+      "field": 0,
+      "source": "리츠",
+      "translation": "RITS"
+    },
+    {
+      "id": "res/dat/char_dat#0.1",
+      "file": "res/dat/char_dat",
+      "record": 0,
+      "field": 1,
+      "source": "어썰트워리어",
+      "translation": "ASSAULT WARRIOR"
+    },
+    {
+      "id": "res/dat/char_dat#1.0",
+      "file": "res/dat/char_dat",
+      "record": 1,
+      "field": 0,
+      "source": "리츠",
+      "translation": "RITS"
+    },
+    {
+      "id": "res/dat/char_dat#1.1",
+      "file": "res/dat/char_dat",
+      "record": 1,
+      "field": 1,
+      "source": "디스럽터",
+      "translation": "DISRUPTOR"
+    },
+    {
+      "id": "res/dat/char_dat#2.0",
+      "file": "res/dat/char_dat",
+      "record": 2,
+      "field": 0,
+      "source": "리츠",
+      "translation": "RITS"
+    },
+    {
+      "id": "res/dat/char_dat#2.1",
+      "file": "res/dat/char_dat",
+      "record": 2,
+      "field": 1,
+      "source": "건슬링어",
+      "translation": "GUNSLINGER"
+    },
+    {
+      "id": "res/dat/char_dat#3.0",
+      "file": "res/dat/char_dat",
+      "record": 3,
+      "field": 0,
+      "source": "리츠",
+      "translation": "RITS"
+    },
+    {
+      "id": "res/dat/char_dat#3.1",
+      "file": "res/dat/char_dat",
+      "record": 3,
+      "field": 1,
+      "source": "나이트템플러",
+      "translation": "KNIGHT TEMPLAR"
+    },
+    {
+      "id": "res/dat/char_dat#4.0",
+      "file": "res/dat/char_dat",
+      "record": 4,
+      "field": 0,
+      "source": "리츠",
+      "translation": "RITS"
+    },
+    {
+      "id": "res/dat/char_dat#4.1",
+      "file": "res/dat/char_dat",
+      "record": 4,
+      "field": 1,
+      "source": "크레이지암즈",
+      "translation": "CRAZY ARMS"
+    },
+    {
+      "id": "res/dat/char_dat#5.0",
+      "file": "res/dat/char_dat",
+      "record": 5,
+      "field": 0,
+      "source": "케이",
+      "translation": "KEI"
+    },
+    {
+      "id": "res/dat/char_dat#5.1",
+      "file": "res/dat/char_dat",
+      "record": 5,
+      "field": 1,
+      "source": "버서커",
+      "translation": "BERSERKER"
+    },
+    {
+      "id": "res/dat/char_dat#6.0",
+      "file": "res/dat/char_dat",
+      "record": 6,
+      "field": 0,
+      "source": "케이",
+      "translation": "KEI"
+    },
+    {
+      "id": "res/dat/char_dat#6.1",
+      "file": "res/dat/char_dat",
+      "record": 6,
+      "field": 1,
+      "source": "데스나이트",
+      "translation": "DEATH KNIGHT"
+    },
+    {
+      "id": "res/dat/char_dat#7.0",
+      "file": "res/dat/char_dat",
+      "record": 7,
+      "field": 0,
+      "source": "케이",
+      "translation": "KEI"
+    },
+    {
+      "id": "res/dat/char_dat#7.1",
+      "file": "res/dat/char_dat",
+      "record": 7,
+      "field": 1,
+      "source": "섀도우워커",
+      "translation": "SHADOW WALKER"
+    },
+    {
+      "id": "res/dat/char_dat#8.0",
+      "file": "res/dat/char_dat",
+      "record": 8,
+      "field": 0,
+      "source": "케이",
+      "translation": "KEI"
+    },
+    {
+      "id": "res/dat/char_dat#8.1",
+      "file": "res/dat/char_dat",
+      "record": 8,
+      "field": 1,
+      "source": "가디언나이트",
+      "translation": "GUARDIAN KNIGHT"
+    },
+    {
+      "id": "res/dat/char_dat#9.0",
+      "file": "res/dat/char_dat",
+      "record": 9,
+      "field": 0,
+      "source": "케이",
+      "translation": "KEI"
+    },
+    {
+      "id": "res/dat/char_dat#9.1",
+      "file": "res/dat/char_dat",
+      "record": 9,
+      "field": 1,
+      "source": "소울마스터",
+      "translation": "SOUL MASTER"
+    },
+    {
+      "id": "res/dat/char_dat#10.0",
+      "file": "res/dat/char_dat",
+      "record": 10,
+      "field": 0,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#10.1",
+      "file": "res/dat/char_dat",
+      "record": 10,
+      "field": 1,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#11.0",
+      "file": "res/dat/char_dat",
+      "record": 11,
+      "field": 0,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#11.1",
+      "file": "res/dat/char_dat",
+      "record": 11,
+      "field": 1,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#12.0",
+      "file": "res/dat/char_dat",
+      "record": 12,
+      "field": 0,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#12.1",
+      "file": "res/dat/char_dat",
+      "record": 12,
+      "field": 1,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#13.0",
+      "file": "res/dat/char_dat",
+      "record": 13,
+      "field": 0,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#13.1",
+      "file": "res/dat/char_dat",
+      "record": 13,
+      "field": 1,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#14.0",
+      "file": "res/dat/char_dat",
+      "record": 14,
+      "field": 0,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#14.1",
+      "file": "res/dat/char_dat",
+      "record": 14,
+      "field": 1,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#15.0",
+      "file": "res/dat/char_dat",
+      "record": 15,
+      "field": 0,
+      "source": "",
+      "translation": ""
+    },
+    {
+      "id": "res/dat/char_dat#15.1",
+      "file": "res/dat/char_dat",
+      "record": 15,
+      "field": 1,
+      "source": "",
+      "translation": ""
+    }
+  ]
+}
