@@ -10,6 +10,11 @@
   "enemy_level_call_sites": 2,
   "lv_label_baseline_matched": true,
   "frame_and_hp_bar_overlap": false,
+  "minimum_gap_after_lv_px": 3,
+  "minimum_gap_before_hp_bar_px": 1,
+  "numeric_cursor_advance": 4,
+  "numeric_letter_gap": 1,
+  "publication_status": "local draft; not released",
   "ordinary_glyph_mode_cases_identical": 348,
   "unknown_instruction_and_occupied_padding_rejected": true,
   "ordinary_font_instruction_samples": [

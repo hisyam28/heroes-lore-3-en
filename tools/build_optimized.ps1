@@ -31,6 +31,8 @@ python -B tools/hl3_probe_modal.py
 Assert-Command 'AArch64 modal ownership and pointer lifecycle regression'
 python -B tools/hl3_probe_hud_save.py
 Assert-Command 'Actual ARM enemy level and native save-toast slice regression'
+python -B tools/hl3_probe_confirmation.py
+Assert-Command 'Actual ARM CLR cancellation, repeat, reopen and other-key regression'
 python -B tools/hl3_regression_checks.py
 Assert-Command 'Failure-mode regressions'
 & (Join-Path $sdkTools 'zipalign.exe') -f -P 16 4 $unsignedApk $alignedApk

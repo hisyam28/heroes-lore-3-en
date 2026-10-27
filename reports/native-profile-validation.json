@@ -1,6 +1,6 @@
 {
   "original_module_md5": "6a352944bb43c0789ca9f4b6f0702f4b",
-  "translated_module_md5": "5dc7b140f9afe18f5e2a8ca256cb3b9a",
+  "translated_module_md5": "d5c45fcd1710359aa8fab3af78b3f4a4",
   "native_profile_offset": 13067570,
   "enabled_hook_kinds": [
     "blend565_lgt",
@@ -10,5 +10,5 @@
   ],
   "loader_patch_expectations_verified": 14,
   "native_code_changed": false,
-  "native_profile_hash_bytes_changed": 31
+  "native_profile_hash_bytes_changed": 32
 }

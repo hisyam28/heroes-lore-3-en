@@ -2,6 +2,10 @@
 
 Download the signed APK from [GitHub Releases](https://github.com/hisyam28/heroes-lore-3-en/releases/latest).
 
+This page describes the published v1.1.3 release. The current branch and
+regenerated validation reports also include [unreleased development changes](system-title-icon-draft.md).
+Their APK remains local pending device review; no newer release is published.
+
 This update fits the save notification to its visible text and reduces enemy
 level digits from 5x7 to a dedicated 3x5 design. Both enemy HUD paths use the
 compact digits, aligned with the original five-pixel `LV` label. General font

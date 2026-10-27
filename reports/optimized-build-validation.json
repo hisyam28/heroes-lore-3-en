@@ -1,7 +1,7 @@
 {
   "apk": "heroes-lore-3-en-optimized.apk",
-  "bytes": 55155953,
-  "sha256": "5612327c5570cece72561455fbb516d32cea206ac78f8dc0ece0eee4c4024eac",
+  "bytes": 55647473,
+  "sha256": "d1b9c5001a8e37b5937c844917b8de4f730ab26d2be60a3406c69dd29ae92e7c",
   "game_resources": 1274,
   "resource_overlays": 269,
   "changed_resources_vs_previous_final": 254,
@@ -31,7 +31,7 @@
   "font_instruction_patches": 17,
   "native_accelerators": {
     "original_module_md5": "6a352944bb43c0789ca9f4b6f0702f4b",
-    "translated_module_md5": "5dc7b140f9afe18f5e2a8ca256cb3b9a",
+    "translated_module_md5": "d5c45fcd1710359aa8fab3af78b3f4a4",
     "native_profile_offset": 13067570,
     "enabled_hook_kinds": [
       "blend565_lgt",
@@ -41,7 +41,7 @@
     ],
     "loader_patch_expectations_verified": 14,
     "native_code_changed": false,
-    "native_profile_hash_bytes_changed": 31
+    "native_profile_hash_bytes_changed": 32
   },
   "android_dex_and_audio_unchanged": true,
   "launcher_bitmap_variants": 20,
@@ -60,9 +60,11 @@
       ],
       "enemy_level_call_sites": 2,
       "enemy_level_y_offset": 17,
-      "enemy_level_x_offset": 13,
+      "enemy_level_x_offset": 16,
       "private_font_mode": 127,
-      "helper_bytes": 64,
+      "numeric_cursor_advance": 4,
+      "numeric_letter_gap": 1,
+      "helper_bytes": 74,
       "per_draw_allocations": 0,
       "general_font_bitmaps_unchanged": true,
       "module_size_preserved": true,
@@ -76,6 +78,14 @@
       "native_instruction_bytes_reserved": 4,
       "save_logic_and_message_addresses_unchanged": true
     }
+  },
+  "confirmation_ui": {
+    "active_system_popup_clr_cancels": true,
+    "guest_instruction_bytes_reserved": 16,
+    "touchpoint_and_key_mapping_unchanged": true,
+    "original_popup_cleanup_used": true,
+    "other_keys_use_original_dispatch": true,
+    "module_size_preserved": true
   },
   "opaque_i15_unchanged": true,
   "device_fps_measured": false,

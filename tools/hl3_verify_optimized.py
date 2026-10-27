@@ -29,6 +29,7 @@ from hl3_android_icon import compile_icons
 from hl3_modal_guard import patch as patch_modal_guard
 from hl3_hud_layout import patch as patch_hud_layout
 from hl3_save_layout import patch as patch_save_layout
+from hl3_confirmation_ui import slot_capacity,patch as patch_confirmation
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -150,9 +151,11 @@ def main():
             for e in catalog('module-ui.json')['entries']:
                 p=e['offset'];src=e['source'].encode('cp949');new=e['translation'].encode('ascii')
                 assert module[p:p+len(src)+1]==src+b'\0'
-                module[p:p+len(src)]=new+b'\0'*(len(src)-len(new))
+                capacity=slot_capacity((original/'binary.mod').read_bytes(),p,len(src))
+                module[p:p+capacity]=new+b'\0'*(capacity-len(new))
             hud,hud_report=patch_hud_layout(patch_slots(patch_metrics(bytes(module))))
-            assert jar.read('binary.mod')==hud
+            confirmation,confirmation_report=patch_confirmation(hud)
+            assert jar.read('binary.mod')==confirmation
             validate_shared_formats(jar.read('binary.mod'))
             assert jar.read('res/font/eng5')==jar.read('res/font/eng7')==build_font()
             assert (original/'binary.mod').read_bytes()[0x5b2bc-TEXT_DELTA:0x5b2bc-TEXT_DELTA+7].decode('ascii')==MARKUP
@@ -160,6 +163,11 @@ def main():
             assert len(sprites)==len(old_sprites)==17
             assert all(a==b for i,(a,b) in enumerate(zip(old_sprites,sprites)) if i!=12)
             assert len(sprites[12])==len(old_sprites[12]) and decode(sprites[12]).size==(146,60)
+            title=decode(sprites[12])
+            assert sprites[12][9:73]==old_sprites[12][9:73],'Original title palette changed'
+            assert title.getextrema()[3]==(255,255),'Opaque title tile contains transparent padding'
+            for edge in ([title.getpixel((x,y)) for x in range(146)] for y in (0,59)):
+                assert len(set(edge))>4,'Title tile edge is a flat plate'
             with zipfile.ZipFile(ROOT/'work/heroes-lore-3-final.apk') as base:
                 native,profile_report=rekey(base.read('lib/arm64-v8a/libmain.so'),(original/'binary.mod').read_bytes(),jar.read('binary.mod'))
                 native,native_ui=localize_native_ui(native)
@@ -192,6 +200,7 @@ def main():
                     'native_accelerators':profile_report,'android_dex_and_audio_unchanged':True,
                     'launcher_bitmap_variants':len(android_icons),'native_modal_input_guard':modal_report,
                     'hud_save_layout':{'enemy_level':hud_report,'save_toast':save_report},
+                    'confirmation_ui':confirmation_report,
                     'opaque_i15_unchanged':True,'device_fps_measured':False,'all_checks_passed':True}
     (ROOT/'reports/optimized-build-validation.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,indent=2))

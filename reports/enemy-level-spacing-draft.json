@@ -1,0 +1,15 @@
+{
+  "status": "unreleased development build; source tracked on main; APK retained locally",
+  "apk": "heroes-lore-3-en-layout-draft.apk",
+  "sha256": "79812ae31e4338f3ce3753b4af7e219cc6cce2ea3915d86a8bf18f297555fdac",
+  "bytes": 55155953,
+  "compared_with": "v1.1.3",
+  "changed_game_resources": [
+    "binary.mod"
+  ],
+  "other_1273_resources_and_launcher_art_identical": true,
+  "native_only_acceleration_profile_hash_changed": true,
+  "save_feedback_and_touchpoint_settings_unchanged": true,
+  "physical_device_tested": false,
+  "all_checks_passed": true
+}

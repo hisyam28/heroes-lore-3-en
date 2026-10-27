@@ -1,0 +1,21 @@
+{
+  "status": "unreleased development build; source tracked on main; APK retained locally",
+  "apk": "heroes-lore-3-en-local-draft.apk",
+  "sha256": "d1b9c5001a8e37b5937c844917b8de4f730ab26d2be60a3406c69dd29ae92e7c",
+  "bytes": 55647473,
+  "baseline": "preceding local enemy-spacing draft",
+  "changed_game_resources": [
+    "binary.mod",
+    "res/menu/title_bm"
+  ],
+  "other_1272_game_resources_identical": true,
+  "enemy_level_spacing_fix_retained": true,
+  "guest_only_clr_cleanup_and_yes_labels_changed": true,
+  "title_only_sprite_12_changed": true,
+  "launcher_bitmaps_replaced": 20,
+  "native_only_acceleration_profile_hash_changed": true,
+  "android_dex_manifest_resource_table_and_other_entries_unchanged": true,
+  "touchpoint_and_key_mapping_unchanged": true,
+  "physical_device_tested": false,
+  "all_checks_passed": true
+}

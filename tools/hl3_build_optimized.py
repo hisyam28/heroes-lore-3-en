@@ -24,6 +24,7 @@ from hl3_android_icon import compile_icons
 from hl3_modal_guard import patch as patch_modal_guard
 from hl3_hud_layout import patch as patch_hud_layout
 from hl3_save_layout import patch as patch_save_layout
+from hl3_confirmation_ui import slot_capacity,patch as patch_confirmation
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -63,8 +64,9 @@ def compile_module(original: Path,output: Path):
     for e in cat['entries']:
         offset=e['offset'];old=e['source'].encode('cp949');new=e['translation'].encode('ascii')
         if source[offset:offset+len(old)+1]!=old+b'\0':raise ValueError(f"Module source mismatch: {e['id']}")
-        if len(new)>len(old):raise ValueError(f"Module string overflow: {e['id']}")
-        data[offset:offset+len(old)]=new+b'\0'*(len(old)-len(new))
+        capacity=slot_capacity(source,offset,len(old))
+        if len(new)>capacity:raise ValueError(f"Module string overflow: {e['id']}")
+        data[offset:offset+capacity]=new+b'\0'*(capacity-len(new))
     validate_shared_formats(data)
     (output/'binary.mod').write_bytes(data)
     return len(cat['entries'])
@@ -101,6 +103,8 @@ def main():
     (output/'binary.mod').write_bytes(patch_slots((output/'binary.mod').read_bytes()))
     hud,hud_report=patch_hud_layout((output/'binary.mod').read_bytes())
     (output/'binary.mod').write_bytes(hud)
+    confirmation,confirmation_report=patch_confirmation(hud)
+    (output/'binary.mod').write_bytes(confirmation)
     title_report=localize_title(original,output)
     with zipfile.ZipFile(args.base) as base:
         android_icons=compile_icons(base)
@@ -124,6 +128,7 @@ def main():
     (ROOT/'reports/native-ui-validation.json').write_text(json.dumps(native_ui_report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     (ROOT/'reports/modal-input-patch.json').write_text(json.dumps(modal_report,indent=2)+'\n',encoding='utf-8')
     (ROOT/'reports/hud-save-layout-patch.json').write_text(json.dumps({'enemy_level':hud_report,'save_toast':save_report},indent=2)+'\n',encoding='utf-8')
+    (ROOT/'reports/confirmation-ui-patch.json').write_text(json.dumps(confirmation_report,indent=2)+'\n',encoding='utf-8')
     print(f'UI tables={ui}; events={events}; items={items}; translated quest/character fields={records}; module labels={labels}; skill fields={skills}.')
     print(f'Built {args.apk} with {replaced} resource overlays and {entries} APK entries. Align and sign next.')
     print('Rekeyed all four native graphics accelerators; all 14 loader-patch expectations match.')

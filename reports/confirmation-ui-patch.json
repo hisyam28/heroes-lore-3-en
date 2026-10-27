@@ -1,0 +1,8 @@
+{
+  "active_system_popup_clr_cancels": true,
+  "guest_instruction_bytes_reserved": 16,
+  "touchpoint_and_key_mapping_unchanged": true,
+  "original_popup_cleanup_used": true,
+  "other_keys_use_original_dispatch": true,
+  "module_size_preserved": true
+}

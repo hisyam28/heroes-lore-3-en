@@ -55,15 +55,14 @@ def localize_title(original: Path,output: Path):
     source=records[12]
     assert source[0]==12 and struct.unpack_from('<4H',source,1)==(146,60,146,32)
     image=Image.open(ROOT/'translations/art/title-logo-source.png').convert('RGBA')
-    bbox=image.getbbox()
-    if not bbox:raise ValueError('Generated title logo is empty')
-    # Fit the generated English artwork inside the original native sprite.
-    image=image.crop(bbox);image.thumbnail((146,60),Image.Resampling.LANCZOS)
-    canvas=Image.new('RGBA',(146,60));canvas.alpha_composite(image,((146-image.width)//2,(60-image.height)//2))
-    px=list(canvas.getdata());opaque=[p[:3] for p in px if p[3]>=128]
-    colors=Image.new('RGB',(len(opaque),1));colors.putdata(opaque)
-    palette=colors.quantize(colors=31,method=Image.Quantize.MEDIANCUT).getpalette()
-    values=[rgb565(tuple(palette[i*3:i*3+3])) for i in range(31)]
+    # This sprite is an opaque tile of the original crest, not an alpha-blended
+    # wordmark layer. Retain its full edge-to-edge background and exact extent.
+    if image.getextrema()[3]!=(255,255):raise ValueError('Title tile must be fully opaque')
+    canvas=image.resize((146,60),Image.Resampling.LANCZOS)
+    px=list(canvas.getdata())
+    # Retain the original tile's color vocabulary so its gold, cream and dark
+    # bronze use the same RGB565 colors as the adjoining original ornament.
+    values=list(struct.unpack_from('<32H',source,9)[1:])
     choices=[rgb(v) for v in values]
     indices=bytearray()
     for pixel in px:
@@ -78,6 +77,10 @@ def localize_title(original: Path,output: Path):
     target=output/rel;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(result)
     preview=ROOT/'translations/art/title-logo-146x60.png'
     decode(records[12]).save(preview)
+    decode(records[12]).resize((1168,480),Image.Resampling.NEAREST).save(ROOT/'reports/title-tile-preview.png')
     return {'sprite':12,'dimensions':[146,60],'palette_entries':32,'file_size_preserved':True,
             'subtitle':'STIGMATA OF EARTH','wordmark_has_extra_roman_iii':False,
-            'original_background_emblem_preserved':True,'other_16_sprites_identical':True}
+            'replacement_mode':'opaque crest tile; no transparent/black margins',
+            'palette_colors_reused_from_original':True,
+            'transparent_pixels':sum(index==0 for index in indices),
+            'other_16_sprites_identical':True}

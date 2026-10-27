@@ -10,6 +10,7 @@ from hl3_item_names import REVIEW_NAMES
 from hl3_locations import normalize_entry
 from hl3_dialogue_reviews import REVIEWS
 from hl3_markup import latin_copy,sequence
+from hl3_confirmation_ui import slot_capacity
 
 OPTIONS = {
     0x5B44C: ("@:메인메뉴".encode("cp949"), b"@:MENU"),
@@ -88,10 +89,10 @@ MODULE = {
     0x5A546:'DETAILS',0x5A550:'DROP',0x5A55A:'TAKE',0x5A564:'ORB FUSE',
     0x5A654:'DETAILS',0x5A65E:'BUY',
     0x5A83A:'DF',0x5A83F:'AT',0x5A844:'RES',
-    0x5A9BE:'NO',0x5A9C5:'Y',
+    0x5A9BE:'NO',0x5A9C5:'YES',
     0x5AC00:'GETTING ITEM DATA...',
     0x5AC1C:'PAYMENT ERROR. PURCHASE CANCELED.',
-    0x5AC4C:'Y',0x5AC50:'NO',
+    0x5AC4C:'YES',0x5AC50:'NO',
     0x5AC7C:'GETTING SLOT DATA...',0x5AC94:'REQUESTING SMS...',
     0x5ACB4:'GETTING NOTICES...',0x5ACDC:'ITEM DELETED.',
     0x5ACF8:'UNEQUIP THE ITEM BEFORE STORING.',
@@ -308,7 +309,7 @@ def main():
     for offset,(_,translated) in OPTIONS.items():values[offset]=translated.decode('ascii')
     for offset,value in sorted(values.items()):
         end=module.index(0,offset);source=module[offset:end].decode('cp949')
-        if len(value.encode('ascii'))>end-offset:
+        if len(value.encode('ascii'))>slot_capacity(module,offset,end-offset):
             raise ValueError(f'Module text overflows 0x{offset:X}: {value}')
         fmt=r'%(?:[-+ 0#]*\d*(?:\.\d+)?[a-zA-Z%])'
         if re.findall(fmt,source)!=re.findall(fmt,value):

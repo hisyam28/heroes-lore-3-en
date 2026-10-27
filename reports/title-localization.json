@@ -8,6 +8,8 @@
   "file_size_preserved": true,
   "subtitle": "STIGMATA OF EARTH",
   "wordmark_has_extra_roman_iii": false,
-  "original_background_emblem_preserved": true,
+  "replacement_mode": "opaque crest tile; no transparent/black margins",
+  "palette_colors_reused_from_original": true,
+  "transparent_pixels": 0,
   "other_16_sprites_identical": true
 }
