@@ -18,7 +18,7 @@ from hl3_markup import sequence,MARKUP
 from hl3_font_runtime import patch_metrics,build_font,TEXT_DELTA,PATCHES as FONT_PATCHES
 from hl3_native_profile import rekey,profile_region
 from hl3_locations import location_suffix
-from hl3_bitmap import parse as parse_bitmaps,decode
+from hl3_bitmap import parse as parse_bitmaps,decode,compile_title,Image
 from hl3_skill_text import parse as parse_skills,DESCRIPTIONS
 from hl3_item_descriptions import split_tail,COPY as ITEM_DESCRIPTIONS
 from hl3_enemy_text import NAMES as ENEMY_NAMES
@@ -161,8 +161,18 @@ def main():
             assert (original/'binary.mod').read_bytes()[0x5b2bc-TEXT_DELTA:0x5b2bc-TEXT_DELTA+7].decode('ascii')==MARKUP
             sprites=parse_bitmaps(jar.read('res/menu/title_bm'));old_sprites=parse_bitmaps((original/'res/menu/title_bm').read_bytes())
             assert len(sprites)==len(old_sprites)==17
-            assert all(a==b for i,(a,b) in enumerate(zip(old_sprites,sprites)) if i!=12)
+            assert all(a==b for i,(a,b) in enumerate(zip(old_sprites,sprites)) if i not in range(12,17))
             assert len(sprites[12])==len(old_sprites[12]) and decode(sprites[12]).size==(146,60)
+            cif=(original/'res/menu/title_cif').read_bytes()
+            assert jar.read('res/menu/title_cif')==cif,'Title placement or animation changed'
+            expected_title,title_report=compile_title((original/'res/menu/title_bm').read_bytes(),cif,
+                Image.open(ROOT/'translations/art/title-logo-source.png').convert('RGBA'))
+            assert jar.read('res/menu/title_bm')==expected_title,'Title pieces differ from the shared source composition'
+            for i in range(12,17):
+                colors=struct.unpack_from('<H',old_sprites[i],7)[0]
+                assert sprites[i][:9+2*colors]==old_sprites[i][:9+2*colors],f'Title sprite {i} header/palette changed'
+                assert len(sprites[i])==len(old_sprites[i])
+                assert decode(sprites[i]).getextrema()[3]==(255,255)
             title=decode(sprites[12])
             assert sprites[12][9:73]==old_sprites[12][9:73],'Original title palette changed'
             assert title.getextrema()[3]==(255,255),'Opaque title tile contains transparent padding'
@@ -201,6 +211,7 @@ def main():
                     'launcher_bitmap_variants':len(android_icons),'native_modal_input_guard':modal_report,
                     'hud_save_layout':{'enemy_level':hud_report,'save_toast':save_report},
                     'confirmation_ui':confirmation_report,
+                    'title_composition':title_report,
                     'opaque_i15_unchanged':True,'device_fps_measured':False,'all_checks_passed':True}
     (ROOT/'reports/optimized-build-validation.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,indent=2))

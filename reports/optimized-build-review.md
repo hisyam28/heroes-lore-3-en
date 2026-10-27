@@ -1,6 +1,13 @@
-# English localization v1.1.4 — 2026-10-27
+# English localization v1.1.5 — 2026-10-27
 
 Download the signed APK from [GitHub Releases](https://github.com/hisyam28/heroes-lore-3-en/releases/latest).
+
+Version v1.1.5 includes the [title composition correction](title-seam-review.md).
+Five connected crest pieces are sampled from one full-scene artwork, aligning
+the wordmark with the adjoining Roman III. Only the title bitmap differs
+from v1.1.4; game bytecode, native code and controls remain identical.
+See the [v1.1.5 metadata](release-v1.1.5.json) and
+[composition preview](title-composition-preview.png).
 
 Version v1.1.4 includes the [system popup and artwork fixes](system-title-icon-draft.md)
 and [enemy-level spacing correction](enemy-level-spacing-draft.md). CLR now

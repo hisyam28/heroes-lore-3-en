@@ -1,0 +1,28 @@
+{
+  "status": "validated title composition build selected for release v1.1.5",
+  "compared_with": "v1.1.4",
+  "apk": "heroes-lore-3-en-v1.1.5.apk",
+  "bytes": 55647473,
+  "sha256": "a6d381da27ed58aa5a4ca2710400a0b314a8a76679aa33990eebd11ea521ed09",
+  "changed_apk_entries": [
+    "assets/hero3_fixed.zip"
+  ],
+  "changed_game_resources": [
+    "res/menu/title_bm"
+  ],
+  "changed_title_sprites": [
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "other_12_title_sprites_identical": true,
+  "other_1273_game_resources_identical": true,
+  "original_sprite_headers_palettes_and_lengths_preserved": true,
+  "cif_layout_and_animation_identical": true,
+  "android_dex_native_code_launcher_icons_and_manifest_identical": true,
+  "game_bytecode_font_metrics_and_controls_identical": true,
+  "physical_device_tested": false,
+  "all_checks_passed": true
+}

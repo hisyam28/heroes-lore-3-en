@@ -49,38 +49,64 @@ def decode(data: bytes):
     return out
 
 
-def localize_title(original: Path,output: Path):
-    rel=Path('res/menu/title_bm');data=(original/rel).read_bytes();records=parse(data)
+def compile_title(data: bytes,cif: bytes,image):
+    from hl3_title_layout import placements
+    records=parse(data)
     assert build(records)==data
-    source=records[12]
-    assert source[0]==12 and struct.unpack_from('<4H',source,1)==(146,60,146,32)
-    image=Image.open(ROOT/'translations/art/title-logo-source.png').convert('RGBA')
-    # This sprite is an opaque tile of the original crest, not an alpha-blended
-    # wordmark layer. Retain its full edge-to-edge background and exact extent.
-    if image.getextrema()[3]!=(255,255):raise ValueError('Title tile must be fully opaque')
-    canvas=image.resize((146,60),Image.Resampling.LANCZOS)
-    px=list(canvas.getdata())
-    # Retain the original tile's color vocabulary so its gold, cream and dark
-    # bronze use the same RGB565 colors as the adjoining original ornament.
-    values=list(struct.unpack_from('<32H',source,9)[1:])
-    choices=[rgb(v) for v in values]
-    indices=bytearray()
-    for pixel in px:
-        if pixel[3]<128:indices.append(0);continue
-        index=min(range(31),key=lambda i:sum((pixel[c]-choices[i][c])**2 for c in range(3)))
-        indices.append(index+1)
-    records[12]=source[:9]+struct.pack('<32H',0xf81f,*values)+indices
+    originals=list(records)
+    assert records[12][0]==12 and struct.unpack_from('<4H',records[12],1)==(146,60,146,32)
+    # Sample the five connected crest pieces from ONE full-scene source. A
+    # separately generated central rectangle cannot keep the Roman III and
+    # adjoining ornament in the same scale and position as its neighbors.
+    if image.getextrema()[3]!=(255,255):raise ValueError('Title scene must be fully opaque')
+    if abs(image.width/image.height-14/9)>0.005:raise ValueError('Title source must use the full 14:9 composition')
+    canvas=image.resize((280,180),Image.Resampling.LANCZOS)
+    parts={i:(flags,x,y) for flags,i,x,y in placements(cif) if 12<=i<=16}
+    assert set(parts)==set(range(12,17))
+    crops={}
+    for i,(flags,x,y) in parts.items():
+        assert flags==0
+        source=records[i];fmt=source[0]
+        w,h,pitch,colors=struct.unpack_from('<4H',source,1)
+        left,top=140+x-w//2,90+y-h//2
+        crops[i]=[left,top,left+w,top+h]
+        tile=canvas.crop(tuple(crops[i]))
+        palette=struct.unpack_from('<'+'H'*colors,source,9)
+        choices=[rgb(v) for v in palette[1:]]
+        start=9+2*colors;raw=bytearray(source[start:])
+        stride=(pitch+1)//2 if fmt==11 else pitch
+        for y in range(h):
+            for x in range(w):
+                pixel=tile.getpixel((x,y))
+                index=1+min(range(colors-1),key=lambda k:sum((pixel[c]-choices[k][c])**2 for c in range(3)))
+                p=y*stride+(x//2 if fmt==11 else x)
+                if fmt==11:
+                    raw[p]=(raw[p]&15)|(index<<4) if x%2==0 else (raw[p]&240)|index
+                else:raw[p]=index
+        records[i]=source[:start]+bytes(raw)
     result=build(records)
     if len(result)!=len(data):raise ValueError('Title bitmap size changed')
-    if any(a!=b for i,(a,b) in enumerate(zip(parse(data),parse(result))) if i!=12):
+    if any(a!=b for i,(a,b) in enumerate(zip(originals,records)) if i not in parts):
         raise ValueError('Unrelated title sprites changed')
-    target=output/rel;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(result)
-    preview=ROOT/'translations/art/title-logo-146x60.png'
-    decode(records[12]).save(preview)
-    decode(records[12]).resize((1168,480),Image.Resampling.NEAREST).save(ROOT/'reports/title-tile-preview.png')
-    return {'sprite':12,'dimensions':[146,60],'palette_entries':32,'file_size_preserved':True,
+    report={'sprites':list(parts),'central_tile_dimensions':[146,60],'file_size_preserved':True,
             'subtitle':'STIGMATA OF EARTH','wordmark_has_extra_roman_iii':False,
-            'replacement_mode':'opaque crest tile; no transparent/black margins',
+            'replacement_mode':'five connected crest pieces sampled from one full composition',
+            'source_canvas':[280,180],'source_rectangles':crops,
+            'composition_coordinates_and_animation_unchanged':True,
             'palette_colors_reused_from_original':True,
-            'transparent_pixels':sum(index==0 for index in indices),
-            'other_16_sprites_identical':True}
+            'transparent_pixels':0,'other_12_sprites_identical':True}
+    return result,report
+
+
+def localize_title(original: Path,output: Path):
+    from hl3_title_layout import render
+    rel=Path('res/menu/title_bm')
+    cif=(original/'res/menu/title_cif').read_bytes()
+    image=Image.open(ROOT/'translations/art/title-logo-source.png').convert('RGBA')
+    result,report=compile_title((original/rel).read_bytes(),cif,image)
+    records=parse(result)
+    target=output/rel;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(result)
+    decode(records[12]).save(ROOT/'translations/art/title-logo-146x60.png')
+    decode(records[12]).resize((1168,480),Image.Resampling.NEAREST).save(ROOT/'reports/title-tile-preview.png')
+    render(records,cif).resize((1120,720),Image.Resampling.NEAREST).save(ROOT/'reports/title-composition-preview.png')
+    return report

@@ -1,7 +1,7 @@
 {
-  "apk": "heroes-lore-3-en-v1.1.4.apk",
+  "apk": "heroes-lore-3-en-v1.1.5.apk",
   "bytes": 55647473,
-  "sha256": "d1b9c5001a8e37b5937c844917b8de4f730ab26d2be60a3406c69dd29ae92e7c",
+  "sha256": "a6d381da27ed58aa5a4ca2710400a0b314a8a76679aa33990eebd11ea521ed09",
   "game_resources": 1274,
   "resource_overlays": 269,
   "changed_resources_vs_previous_final": 254,
@@ -86,6 +86,63 @@
     "original_popup_cleanup_used": true,
     "other_keys_use_original_dispatch": true,
     "module_size_preserved": true
+  },
+  "title_composition": {
+    "sprites": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "central_tile_dimensions": [
+      146,
+      60
+    ],
+    "file_size_preserved": true,
+    "subtitle": "STIGMATA OF EARTH",
+    "wordmark_has_extra_roman_iii": false,
+    "replacement_mode": "five connected crest pieces sampled from one full composition",
+    "source_canvas": [
+      280,
+      180
+    ],
+    "source_rectangles": {
+      "12": [
+        66,
+        62,
+        212,
+        122
+      ],
+      "13": [
+        103,
+        43,
+        176,
+        62
+      ],
+      "14": [
+        129,
+        22,
+        145,
+        43
+      ],
+      "15": [
+        103,
+        122,
+        176,
+        141
+      ],
+      "16": [
+        129,
+        141,
+        145,
+        160
+      ]
+    },
+    "composition_coordinates_and_animation_unchanged": true,
+    "palette_colors_reused_from_original": true,
+    "transparent_pixels": 0,
+    "other_12_sprites_identical": true
   },
   "opaque_i15_unchanged": true,
   "device_fps_measured": false,

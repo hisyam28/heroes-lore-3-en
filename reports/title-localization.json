@@ -1,15 +1,57 @@
 {
-  "sprite": 12,
-  "dimensions": [
+  "sprites": [
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "central_tile_dimensions": [
     146,
     60
   ],
-  "palette_entries": 32,
   "file_size_preserved": true,
   "subtitle": "STIGMATA OF EARTH",
   "wordmark_has_extra_roman_iii": false,
-  "replacement_mode": "opaque crest tile; no transparent/black margins",
+  "replacement_mode": "five connected crest pieces sampled from one full composition",
+  "source_canvas": [
+    280,
+    180
+  ],
+  "source_rectangles": {
+    "12": [
+      66,
+      62,
+      212,
+      122
+    ],
+    "13": [
+      103,
+      43,
+      176,
+      62
+    ],
+    "14": [
+      129,
+      22,
+      145,
+      43
+    ],
+    "15": [
+      103,
+      122,
+      176,
+      141
+    ],
+    "16": [
+      129,
+      141,
+      145,
+      160
+    ]
+  },
+  "composition_coordinates_and_animation_unchanged": true,
   "palette_colors_reused_from_original": true,
   "transparent_pixels": 0,
-  "other_16_sprites_identical": true
+  "other_12_sprites_identical": true
 }
