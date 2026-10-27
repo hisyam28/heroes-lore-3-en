@@ -25,6 +25,8 @@ from hl3_enemy_text import NAMES as ENEMY_NAMES
 from hl3_native_ui import localize as localize_native_ui
 from hl3_shared_formats import validate as validate_shared_formats
 from hl3_home_ui import patch_slots,PATCHES as SLOT_PATCHES
+from hl3_android_icon import compile_icons
+from hl3_modal_guard import patch as patch_modal_guard
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -158,9 +160,12 @@ def main():
             with zipfile.ZipFile(ROOT/'work/heroes-lore-3-final.apk') as base:
                 native,profile_report=rekey(base.read('lib/arm64-v8a/libmain.so'),(original/'binary.mod').read_bytes(),jar.read('binary.mod'))
                 native,native_ui=localize_native_ui(native)
+                native,modal_report=patch_modal_guard(native)
                 assert apk.read('lib/arm64-v8a/libmain.so')==native
+                android_icons=compile_icons(base,write_reports=False)
+                for name,data in android_icons.items():assert apk.read(name)==data,name
                 for name in base.namelist():
-                    if name.startswith('META-INF/') or name in ('lib/arm64-v8a/libmain.so','assets/hero3_fixed.zip'):continue
+                    if name.startswith('META-INF/') or name in android_icons or name in ('lib/arm64-v8a/libmain.so','assets/hero3_fixed.zip'):continue
                     assert apk.read(name)==base.read(name),name
                 prior_jar,_=find_game_jar(base)
                 with zipfile.ZipFile(BytesIO(prior_jar)) as old_jar:
@@ -180,7 +185,8 @@ def main():
                     'slot_layout_instruction_patches':len(SLOT_PATCHES),'shared_format_suffixes_preserved':2,
                     'skill_records':skill_records,'translated_skill_fields':skill_changes,'skill_metadata_bytes_preserved':skill_records*30,
                     'module_labels':len(catalog('module-ui.json')['entries']),'font_instruction_patches':len(FONT_PATCHES),
-                    'native_accelerators':profile_report,'sound_android_code_and_other_assets_unchanged':True,
+                    'native_accelerators':profile_report,'android_dex_and_audio_unchanged':True,
+                    'launcher_bitmap_variants':len(android_icons),'native_modal_input_guard':modal_report,
                     'opaque_i15_unchanged':True,'device_fps_measured':False,'all_checks_passed':True}
     (ROOT/'reports/optimized-build-validation.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,indent=2))

@@ -5,5 +5,9 @@
     60
   ],
   "palette_entries": 32,
-  "file_size_preserved": true
+  "file_size_preserved": true,
+  "subtitle": "STIGMATA OF EARTH",
+  "wordmark_has_extra_roman_iii": false,
+  "original_background_emblem_preserved": true,
+  "other_16_sprites_identical": true
 }

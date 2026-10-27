@@ -1,0 +1,127 @@
+{
+  "kind": "isolated AArch64 replay with synthetic native-color modal frames",
+  "modal_cases": [
+    {
+      "selection": "left",
+      "point": [
+        210,
+        109
+      ],
+      "before_tag": 2,
+      "after_tag": 2
+    },
+    {
+      "selection": "left",
+      "point": [
+        270,
+        109
+      ],
+      "before_tag": 2,
+      "after_tag": 2
+    },
+    {
+      "selection": "left",
+      "point": [
+        240,
+        85
+      ],
+      "before_tag": -1,
+      "after_tag": -2
+    },
+    {
+      "selection": "left",
+      "point": [
+        240,
+        136
+      ],
+      "before_tag": -1,
+      "after_tag": -2
+    },
+    {
+      "selection": "left",
+      "point": [
+        240,
+        165
+      ],
+      "before_tag": -1,
+      "after_tag": -2
+    },
+    {
+      "selection": "right",
+      "point": [
+        210,
+        109
+      ],
+      "before_tag": 2,
+      "after_tag": 2
+    },
+    {
+      "selection": "right",
+      "point": [
+        270,
+        109
+      ],
+      "before_tag": 2,
+      "after_tag": 2
+    },
+    {
+      "selection": "right",
+      "point": [
+        240,
+        85
+      ],
+      "before_tag": -1,
+      "after_tag": -2
+    },
+    {
+      "selection": "right",
+      "point": [
+        240,
+        136
+      ],
+      "before_tag": -1,
+      "after_tag": -2
+    },
+    {
+      "selection": "right",
+      "point": [
+        240,
+        165
+      ],
+      "before_tag": -1,
+      "after_tag": -2
+    }
+  ],
+  "nonmodal_and_outside_panel_cases_unchanged": 3,
+  "pointer_lifecycles": [
+    {
+      "pointer_id": 0,
+      "movement_px": 0,
+      "owner_cleared": true,
+      "guest_events_emitted": 0
+    },
+    {
+      "pointer_id": 7,
+      "movement_px": 20,
+      "owner_cleared": true,
+      "guest_events_emitted": 0
+    },
+    {
+      "pointer_id": 13,
+      "movement_px": 50,
+      "owner_cleared": true,
+      "guest_events_emitted": 0
+    }
+  ],
+  "legacy_modal_miss_leak_reproduced": true,
+  "touchpoint_configuration_changed": false,
+  "patch": {
+    "modal_owned_miss_guard": true,
+    "patch_bytes_reserved": 60,
+    "touchpoint_and_key_mapping_bytes_unchanged": true,
+    "file_size_preserved": true,
+    "ordinary_touch_and_selected_choice_paths_unchanged": true
+  },
+  "physical_device_tested": false,
+  "all_checks_passed": true
+}

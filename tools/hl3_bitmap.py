@@ -78,4 +78,6 @@ def localize_title(original: Path,output: Path):
     target=output/rel;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(result)
     preview=ROOT/'translations/art/title-logo-146x60.png'
     decode(records[12]).save(preview)
-    return {'sprite':12,'dimensions':[146,60],'palette_entries':32,'file_size_preserved':True}
+    return {'sprite':12,'dimensions':[146,60],'palette_entries':32,'file_size_preserved':True,
+            'subtitle':'STIGMATA OF EARTH','wordmark_has_extra_roman_iii':False,
+            'original_background_emblem_preserved':True,'other_16_sprites_identical':True}

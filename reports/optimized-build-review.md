@@ -1,16 +1,47 @@
-# English localization v1.1.1 — 2026-10-27
+# English localization v1.1.2 — 2026-10-27
 
 Download the signed APK from [GitHub Releases](https://github.com/hisyam28/heroes-lore-3-en/releases/latest).
 
-This update translates 41 native settings strings, centers the character-save
-slot labels and number frames, and shortens `NETWORK STORAGE` to `NET STORE`.
-The preceding enemy/item/save translation and graphics acceleration fixes are retained.
+This update guards confirmation-popup touch ownership, replaces the Android
+launcher icon with the supplied artwork, and revises the home wordmark to
+`STIGMATA OF EARTH`. The wordmark no longer adds a second Roman III over the
+existing background emblem. Previous translation and acceleration fixes remain.
+
+The existing native detector could recognize a confirmation panel yet return
+an unowned result when a tap missed its choices. That tap could then reach a
+menu underneath the popup. A guarded 60-byte native patch consumes that case
+and clears ownership on release. Touchpoint configuration, analog/key mapping,
+and detector geometry remain unchanged. The guard covers panels already
+recognized by the existing detector; it does not expand detection to every popup.
+
+An isolated replay executes the actual AArch64 detector and pointer lifecycle:
+10 modal cases, 3 ordinary/outside cases, and 3 down/move/up lifecycles. It
+reproduces the old leak and verifies that consumed taps dispatch no guest event
+and leave no pointer ownership behind. Frames and allocator/library calls are
+modeled; this is not an Android event-loop or physical-device test. The reported
+pause > system > main-menu sequence still needs device retesting.
+See [modal validation](modal-input-validation.json) and
+[the update scope compared with v1.1.1](branding-input-update-scope.json).
+
+All 20 launcher bitmap variants are replaced without changing adaptive XML or
+resource IDs. The supplied icon is resized, not redrawn. The title stays within
+the original 146x60 sprite and palette capacity; the other 16 title sprites are
+identical. See [icon preview](android-icon-preview.png),
+[icon validation](android-icon-validation.json), and
+[title validation](title-localization.json). The built-in imagegen title edit is
+saved as [source artwork](../translations/art/title-logo-source.png) and the
+[compiled sprite](../translations/art/title-logo-146x60.png), with its
+[exact prompt](../translations/art/title-logo-prompt.txt).
+
+The preceding update translated 41 native settings strings, centered the
+character-save rows, and shortened `NETWORK STORAGE` to `NET STORE`.
 
 The actual ARM slot-row routine was exercised for slots 1–3, selected and
 unselected. Number/frame and row centering errors are at most 0.5 pixel.
 Only four guarded layout instructions change; save data and row selection
-behavior are untouched. Native settings strings retain their byte capacities
-and addresses; executable sections of the host library remain identical.
+behavior are untouched. Native settings translation alone retains its byte
+capacities and addresses without changing executable sections. This release
+separately applies the narrowly scoped native modal guard described above.
 See [home UI validation](home-ui-validation.json) and
 [the slot comparison](home-slot-preview.png), which is modeled renderer output,
 not a device screenshot.

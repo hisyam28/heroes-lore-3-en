@@ -13,6 +13,7 @@ from hl3_markup import latin_copy,sequence
 from hl3_shared_formats import validate as validate_shared_formats
 from hl3_home_ui import patch_slots
 from hl3_native_ui import localize as localize_native_ui,SETTINGS_OFFSET
+from hl3_modal_guard import patch as patch_modal_guard,file_offset as native_offset,OWNED
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -35,6 +36,8 @@ def main():
     rejects(lambda:patch_slots(bytes(bad)),'accepted an unknown slot-row revision')
     bad_native=bytearray(native);bad_native[SETTINGS_OFFSET]^=1
     rejects(lambda:localize_native_ui(bytes(bad_native)),'accepted an unknown native settings block')
+    bad_native=bytearray(native);bad_native[native_offset(native,OWNED)]^=1
+    rejects(lambda:patch_modal_guard(bytes(bad_native)),'accepted an unknown modal input revision')
     # An unrelated edit inside a native-accelerated function must never receive
     # the trusted old hooks, even if its font/text fields otherwise look valid.
     bad=bytearray(translated);bad[file_offset(module,0x2dd7c)]^=1

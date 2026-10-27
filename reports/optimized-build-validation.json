@@ -1,7 +1,7 @@
 {
   "apk": "heroes-lore-3-en-optimized.apk",
-  "bytes": 55303409,
-  "sha256": "bec2a4247032a029e48dd59e0d1c444643535c046fceb88687afee76435c1f13",
+  "bytes": 55155953,
+  "sha256": "68b1b2ff01288b56b5ad7bbcc85d24867ae5d77b1fc15a9f021df8be86fe9eb0",
   "game_resources": 1274,
   "resource_overlays": 269,
   "changed_resources_vs_previous_final": 254,
@@ -43,7 +43,15 @@
     "native_code_changed": false,
     "native_profile_hash_bytes_changed": 29
   },
-  "sound_android_code_and_other_assets_unchanged": true,
+  "android_dex_and_audio_unchanged": true,
+  "launcher_bitmap_variants": 20,
+  "native_modal_input_guard": {
+    "modal_owned_miss_guard": true,
+    "patch_bytes_reserved": 60,
+    "touchpoint_and_key_mapping_bytes_unchanged": true,
+    "file_size_preserved": true,
+    "ordinary_touch_and_selected_choice_paths_unchanged": true
+  },
   "opaque_i15_unchanged": true,
   "device_fps_measured": false,
   "all_checks_passed": true

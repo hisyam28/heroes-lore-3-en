@@ -1,0 +1,147 @@
+{
+  "source_sha256": "19b1ec7f80a2fc82001765f85a3818cc9ef9dd5405fe94afd74cdbf18d47ac51",
+  "launcher_bitmaps": [
+    {
+      "entry": "res/9w.png",
+      "dimensions": [
+        48,
+        48
+      ]
+    },
+    {
+      "entry": "res/3z.png",
+      "dimensions": [
+        108,
+        108
+      ]
+    },
+    {
+      "entry": "res/QZ.png",
+      "dimensions": [
+        108,
+        108
+      ]
+    },
+    {
+      "entry": "res/zR.png",
+      "dimensions": [
+        48,
+        48
+      ]
+    },
+    {
+      "entry": "res/yn.png",
+      "dimensions": [
+        72,
+        72
+      ]
+    },
+    {
+      "entry": "res/I2.png",
+      "dimensions": [
+        162,
+        162
+      ]
+    },
+    {
+      "entry": "res/zr.png",
+      "dimensions": [
+        162,
+        162
+      ]
+    },
+    {
+      "entry": "res/8c.png",
+      "dimensions": [
+        72,
+        72
+      ]
+    },
+    {
+      "entry": "res/FS.png",
+      "dimensions": [
+        96,
+        96
+      ]
+    },
+    {
+      "entry": "res/6h.png",
+      "dimensions": [
+        216,
+        216
+      ]
+    },
+    {
+      "entry": "res/Em.png",
+      "dimensions": [
+        216,
+        216
+      ]
+    },
+    {
+      "entry": "res/wb.png",
+      "dimensions": [
+        96,
+        96
+      ]
+    },
+    {
+      "entry": "res/RJ.png",
+      "dimensions": [
+        144,
+        144
+      ]
+    },
+    {
+      "entry": "res/cV.png",
+      "dimensions": [
+        324,
+        324
+      ]
+    },
+    {
+      "entry": "res/Lf.png",
+      "dimensions": [
+        324,
+        324
+      ]
+    },
+    {
+      "entry": "res/fO.png",
+      "dimensions": [
+        144,
+        144
+      ]
+    },
+    {
+      "entry": "res/o-.png",
+      "dimensions": [
+        192,
+        192
+      ]
+    },
+    {
+      "entry": "res/Gx.png",
+      "dimensions": [
+        432,
+        432
+      ]
+    },
+    {
+      "entry": "res/as.png",
+      "dimensions": [
+        432,
+        432
+      ]
+    },
+    {
+      "entry": "res/Gc.png",
+      "dimensions": [
+        192,
+        192
+      ]
+    }
+  ],
+  "adaptive_xml_and_resource_ids_unchanged": true,
+  "source_artwork_redrawn": false
+}

@@ -90,7 +90,7 @@ def main():
     draw.text((12,160),'NOT A DEVICE SCREENSHOT',fill='white')
     sheet.resize((1440,540),Image.Resampling.NEAREST).save(ROOT/'reports/home-slot-preview.png')
     result={'kind':'actual ARM slot-row function; host drawing/color/platform calls modeled',
-            'slot_cases':results,'native_settings_strings':settings_count,'native_executable_sections_unchanged':code_sections,
+            'slot_cases':results,'native_settings_strings':settings_count,'settings_translation_executable_sections_unchanged':code_sections,
             'network_storage_label':'NET STORE','network_label_width':vm.width('NET STORE'),'all_checks_passed':True}
     (ROOT/'reports/home-ui-validation.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,indent=2))

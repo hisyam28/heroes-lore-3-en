@@ -20,6 +20,8 @@ from hl3_item_descriptions import compile_descriptions
 from hl3_native_ui import localize as localize_native_ui
 from hl3_shared_formats import validate as validate_shared_formats
 from hl3_home_ui import patch_slots
+from hl3_android_icon import compile_icons
+from hl3_modal_guard import patch as patch_modal_guard
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -97,24 +99,30 @@ def main():
     (output/'binary.mod').write_bytes(patch_slots((output/'binary.mod').read_bytes()))
     title_report=localize_title(original,output)
     with zipfile.ZipFile(args.base) as base:
+        android_icons=compile_icons(base)
         native,profile_report=rekey(base.read('lib/arm64-v8a/libmain.so'),
                                     (original/'binary.mod').read_bytes(),
                                     (output/'binary.mod').read_bytes())
     native,native_ui_report=localize_native_ui(native)
+    native,modal_report=patch_modal_guard(native)
     resource_apk=args.apk.with_name(args.apk.stem+'-resources.apk')
     replaced,entries=build_apk(args.base,output,resource_apk)
     with zipfile.ZipFile(resource_apk) as source,zipfile.ZipFile(args.apk,'w') as target:
         target.comment=source.comment
         for info in source.infolist():
-            data=native if info.filename=='lib/arm64-v8a/libmain.so' else source.read(info.filename)
+            data=(native if info.filename=='lib/arm64-v8a/libmain.so'
+                  else android_icons[info.filename] if info.filename in android_icons
+                  else source.read(info.filename))
             target.writestr(info,data)
     (ROOT/'reports/native-profile-validation.json').write_text(json.dumps(profile_report,indent=2)+'\n',encoding='utf-8')
     (ROOT/'reports/title-localization.json').write_text(json.dumps(title_report,indent=2)+'\n',encoding='utf-8')
     (ROOT/'reports/native-ui-validation.json').write_text(json.dumps(native_ui_report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    (ROOT/'reports/modal-input-patch.json').write_text(json.dumps(modal_report,indent=2)+'\n',encoding='utf-8')
     print(f'UI tables={ui}; events={events}; items={items}; translated quest/character fields={records}; module labels={labels}; skill fields={skills}.')
     print(f'Built {args.apk} with {replaced} resource overlays and {entries} APK entries. Align and sign next.')
     print('Rekeyed all four native graphics accelerators; all 14 loader-patch expectations match.')
     print(f'Enemy names={enemies}; item descriptions={descriptions}; native UI strings={len(native_ui_report)}; shared format suffixes=2; slot layout patches=4.')
+    print(f'Launcher bitmap variants={len(android_icons)}; modal-owned input guard applied; touchpoint mapping unchanged.')
 
 
 if __name__=='__main__':main()

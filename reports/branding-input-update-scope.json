@@ -1,0 +1,22 @@
+{
+  "release": "v1.1.2",
+  "compared_with": "v1.1.1",
+  "changed_game_resources": [
+    "res/menu/title_bm"
+  ],
+  "other_game_resources_identical": true,
+  "guest_module_unchanged": true,
+  "touchpoint_configuration_and_key_mapping_unchanged": true,
+  "native_guard_reserved_bytes": 60,
+  "native_bytes_different": 57,
+  "native_other_bytes_unchanged": true,
+  "launcher_bitmap_variants": 20,
+  "android_dex_manifest_resource_table_and_other_entries_unchanged": true,
+  "apk_signature_v2_v3_verified": true,
+  "same_signer_as_v1_1_1": true,
+  "native_library_16kb_alignment_verified": true,
+  "physical_device_tested": false,
+  "sha256": "68b1b2ff01288b56b5ad7bbcc85d24867ae5d77b1fc15a9f021df8be86fe9eb0",
+  "bytes": 55155953,
+  "all_checks_passed": true
+}

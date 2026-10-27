@@ -8,6 +8,8 @@ Community English localization with compact text, readable menus, and performanc
 - Compact labels such as `NM`, `EFC`, and `OTHR`, with a smaller Latin font.
 - English native settings, centered character-save rows, and compact `NET STORE` navigation.
 - Restored graphics acceleration and corrected skill detail formatting.
+- Guarded confirmation-popup touch handling, refreshed launcher icon, and a
+  title wordmark with the subtitle `STIGMATA OF EARTH`.
 - Validation for resource structure, text bounds, and unchanged gameplay metadata.
 
 See the [release review](reports/optimized-build-review.md) for coverage and known

@@ -34,5 +34,17 @@ aliases must retain their original positions.
 The isolated ARM renderer checks real font functions against modeled panel
 budgets. It does not replace full device testing or measure Android FPS.
 
+The modal-input regression replays the actual AArch64 detector and pointer
+ownership lifecycle with synthetic native-color frames. The guard applies only
+after the existing detector recognizes a confirmation panel. It consumes taps
+that miss the choices and clears their ownership on release. Touchpoint
+coordinates, analog/key mapping, and modal detection geometry are retained.
+Allocator and library calls are modeled; Android event delivery and a physical
+device are outside this check.
+
+Launcher artwork is compiled from the supplied PNG into the existing density
+slots. The title wordmark is quantized into the original sprite dimensions and
+palette capacity; its other sprites remain byte-identical.
+
 Older experiments and local investigation notes were archived outside the public
 source tree. Current build scripts do not depend on those archived experiments.
