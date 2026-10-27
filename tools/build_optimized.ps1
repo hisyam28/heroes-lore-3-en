@@ -25,6 +25,8 @@ python -B tools/hl3_build_optimized.py
 Assert-Command 'Resource and native profile build'
 python -B tools/hl3_layout_qa.py
 Assert-Command 'Panel layout QA'
+python -B tools/hl3_probe_home.py
+Assert-Command 'Native settings and actual ARM slot-row QA'
 python -B tools/hl3_regression_checks.py
 Assert-Command 'Failure-mode regressions'
 & (Join-Path $sdkTools 'zipalign.exe') -f -P 16 4 $unsignedApk $alignedApk

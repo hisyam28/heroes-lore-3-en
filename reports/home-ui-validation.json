@@ -1,0 +1,64 @@
+{
+  "kind": "actual ARM slot-row function; host drawing/color/platform calls modeled",
+  "slot_cases": [
+    {
+      "slot": 1,
+      "selected": false,
+      "digit_center_error_px": [
+        0.5,
+        0.5
+      ],
+      "row_center_error_px": 0.5
+    },
+    {
+      "slot": 1,
+      "selected": true,
+      "digit_center_error_px": [
+        0.5,
+        0.5
+      ],
+      "row_center_error_px": 0.5
+    },
+    {
+      "slot": 2,
+      "selected": false,
+      "digit_center_error_px": [
+        0.5,
+        0.5
+      ],
+      "row_center_error_px": 0.5
+    },
+    {
+      "slot": 2,
+      "selected": true,
+      "digit_center_error_px": [
+        0.5,
+        0.5
+      ],
+      "row_center_error_px": 0.5
+    },
+    {
+      "slot": 3,
+      "selected": false,
+      "digit_center_error_px": [
+        0.5,
+        0.5
+      ],
+      "row_center_error_px": 0.5
+    },
+    {
+      "slot": 3,
+      "selected": true,
+      "digit_center_error_px": [
+        0.5,
+        0.5
+      ],
+      "row_center_error_px": 0.5
+    }
+  ],
+  "native_settings_strings": 41,
+  "native_executable_sections_unchanged": 2,
+  "network_storage_label": "NET STORE",
+  "network_label_width": 55,
+  "all_checks_passed": true
+}

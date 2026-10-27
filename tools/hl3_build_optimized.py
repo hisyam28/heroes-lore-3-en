@@ -19,6 +19,7 @@ from hl3_enemy_text import compile_enemies
 from hl3_item_descriptions import compile_descriptions
 from hl3_native_ui import localize as localize_native_ui
 from hl3_shared_formats import validate as validate_shared_formats
+from hl3_home_ui import patch_slots
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -93,6 +94,7 @@ def main():
     labels=compile_module(original,output)
     skills=compile_skills(original,output)
     apply_font(output)
+    (output/'binary.mod').write_bytes(patch_slots((output/'binary.mod').read_bytes()))
     title_report=localize_title(original,output)
     with zipfile.ZipFile(args.base) as base:
         native,profile_report=rekey(base.read('lib/arm64-v8a/libmain.so'),
@@ -112,7 +114,7 @@ def main():
     print(f'UI tables={ui}; events={events}; items={items}; translated quest/character fields={records}; module labels={labels}; skill fields={skills}.')
     print(f'Built {args.apk} with {replaced} resource overlays and {entries} APK entries. Align and sign next.')
     print('Rekeyed all four native graphics accelerators; all 14 loader-patch expectations match.')
-    print(f'Enemy names={enemies}; item descriptions={descriptions}; native save notifications={len(native_ui_report)}; shared format suffixes=2.')
+    print(f'Enemy names={enemies}; item descriptions={descriptions}; native UI strings={len(native_ui_report)}; shared format suffixes=2; slot layout patches=4.')
 
 
 if __name__=='__main__':main()

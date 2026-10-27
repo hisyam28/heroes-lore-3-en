@@ -1,14 +1,303 @@
 [
   {
+    "group": "save",
     "source": "저장완료",
     "translation": "SAVED.",
     "offset": 12015907,
     "byte_length": 12
   },
   {
+    "group": "save",
     "source": "저장실패",
     "translation": "SAVE FAILED.",
     "offset": 12015919,
     "byte_length": 12
+  },
+  {
+    "group": "settings",
+    "source": "설정",
+    "translation": "CONFIG",
+    "offset": 12009042,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "세로",
+    "translation": "VERT",
+    "offset": 12009048,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "가로",
+    "translation": "HORIZ",
+    "offset": 12009054,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "십자키",
+    "translation": "DPAD",
+    "offset": 12009060,
+    "byte_length": 9
+  },
+  {
+    "group": "settings",
+    "source": "스틱",
+    "translation": "STICK",
+    "offset": 12009069,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "끔",
+    "translation": "OFF",
+    "offset": 12009075,
+    "byte_length": 3
+  },
+  {
+    "group": "settings",
+    "source": "켬",
+    "translation": "ON",
+    "offset": 12009078,
+    "byte_length": 3
+  },
+  {
+    "group": "settings",
+    "source": "전체 화면",
+    "translation": "FULLSCREEN",
+    "offset": 12009081,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "화면 높이",
+    "translation": "FIT HEIGHT",
+    "offset": 12009094,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "가로 전용",
+    "translation": "LANDSCAPE",
+    "offset": 12009107,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "편집",
+    "translation": "EDIT",
+    "offset": 12009120,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "화면 배치",
+    "translation": "LAYOUT",
+    "offset": 12009126,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "자유 스틱",
+    "translation": "FREE STICK",
+    "offset": 12009139,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "조작 방식",
+    "translation": "CONTROLS",
+    "offset": 12009152,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "서버 주소",
+    "translation": "SERVER ADDR",
+    "offset": 12009165,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "계정 코드",
+    "translation": "ACCOUNT ID",
+    "offset": 12009178,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "보기 변경",
+    "translation": "VIEW/EDIT",
+    "offset": 12009191,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "빠른 저장",
+    "translation": "QUICK SAVE",
+    "offset": 12009204,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "지금",
+    "translation": "NOW",
+    "offset": 12009217,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "진단 정보",
+    "translation": "DIAGNOSTICS",
+    "offset": 12009223,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "발열 절감",
+    "translation": "LOW HEAT",
+    "offset": 12009236,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "기본",
+    "translation": "NORMAL",
+    "offset": 12009249,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "자동",
+    "translation": "AUTO",
+    "offset": 12009255,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "항상 켬",
+    "translation": "ALWAYS ON",
+    "offset": 12009261,
+    "byte_length": 10
+  },
+  {
+    "group": "settings",
+    "source": "패드 표시",
+    "translation": "PAD HUD",
+    "offset": 12009271,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "서버",
+    "translation": "SERVER",
+    "offset": 12009284,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "오프라인",
+    "translation": "OFFLINE",
+    "offset": 12009290,
+    "byte_length": 12
+  },
+  {
+    "group": "settings",
+    "source": "창고 연결",
+    "translation": "STORAGE LINK",
+    "offset": 12009302,
+    "byte_length": 13
+  },
+  {
+    "group": "settings",
+    "source": "닫기",
+    "translation": "OK",
+    "offset": 12009315,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "결합",
+    "translation": "FUSE",
+    "offset": 12009323,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "취소",
+    "translation": "CANCEL",
+    "offset": 12009329,
+    "byte_length": 6
+  },
+  {
+    "group": "settings",
+    "source": "세이브 복원",
+    "translation": "RESTORE SAVE",
+    "offset": 1048128,
+    "byte_length": 16
+  },
+  {
+    "group": "settings",
+    "source": "효과음 크기",
+    "translation": "SFX VOLUME",
+    "offset": 1052592,
+    "byte_length": 16
+  },
+  {
+    "group": "settings",
+    "source": "발열 절감: 끔 (재시작 후 적용)",
+    "translation": "LOW HEAT: OFF (RESTART)",
+    "offset": 1213701,
+    "byte_length": 41
+  },
+  {
+    "group": "settings",
+    "source": "발열 절감: 켬 (재시작 후 적용)",
+    "translation": "LOW HEAT: ON (RESTART)",
+    "offset": 1213742,
+    "byte_length": 41
+  },
+  {
+    "group": "settings",
+    "source": "게임패드 HUD: 자동",
+    "translation": "PAD HUD: AUTO",
+    "offset": 1213783,
+    "byte_length": 24
+  },
+  {
+    "group": "settings",
+    "source": "게임패드 HUD: 항상 켬",
+    "translation": "PAD HUD: ALWAYS ON",
+    "offset": 1213807,
+    "byte_length": 28
+  },
+  {
+    "group": "settings",
+    "source": "게임패드 HUD: 끔",
+    "translation": "PAD HUD: OFF",
+    "offset": 1213835,
+    "byte_length": 21
+  },
+  {
+    "group": "settings",
+    "source": "창고: 자동",
+    "translation": "STORE: AUTO",
+    "offset": 1213856,
+    "byte_length": 14
+  },
+  {
+    "group": "settings",
+    "source": "창고: 서버",
+    "translation": "STORE: SERVER",
+    "offset": 1213870,
+    "byte_length": 14
+  },
+  {
+    "group": "settings",
+    "source": "창고: 오프라인",
+    "translation": "STORE: OFFLINE",
+    "offset": 1213884,
+    "byte_length": 20
   }
 ]

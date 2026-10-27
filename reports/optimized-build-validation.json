@@ -1,10 +1,10 @@
 {
   "apk": "heroes-lore-3-en-optimized.apk",
   "bytes": 55303409,
-  "sha256": "3097aa6fed0d490ed65fd6f39085019d347755ffd4d3caf883e8d5ea85a5fc9f",
+  "sha256": "bec2a4247032a029e48dd59e0d1c444643535c046fceb88687afee76435c1f13",
   "game_resources": 1274,
   "resource_overlays": 269,
-  "changed_resources_vs_previous_final": 253,
+  "changed_resources_vs_previous_final": 254,
   "event_fields": 4767,
   "event_files_with_text": 224,
   "event_fields_changed_vs_previous_final": 2175,
@@ -21,6 +21,8 @@
   "item_descriptions": 145,
   "enemy_names": 322,
   "native_save_notifications": 2,
+  "native_settings_strings": 41,
+  "slot_layout_instruction_patches": 4,
   "shared_format_suffixes_preserved": 2,
   "skill_records": 105,
   "translated_skill_fields": 163,
@@ -29,7 +31,7 @@
   "font_instruction_patches": 17,
   "native_accelerators": {
     "original_module_md5": "6a352944bb43c0789ca9f4b6f0702f4b",
-    "translated_module_md5": "e55b5690743b1b48a4a8afe2b684452b",
+    "translated_module_md5": "31cd9da81a3ffd869e19bd3401744ef5",
     "native_profile_offset": 13067570,
     "enabled_hook_kinds": [
       "blend565_lgt",

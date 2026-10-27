@@ -11,6 +11,8 @@ from hl3_font_runtime import patch_metrics,TEXT_DELTA
 from hl3_native_profile import rekey,file_offset
 from hl3_markup import latin_copy,sequence
 from hl3_shared_formats import validate as validate_shared_formats
+from hl3_home_ui import patch_slots
+from hl3_native_ui import localize as localize_native_ui,SETTINGS_OFFSET
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -29,6 +31,10 @@ def main():
     rejects(lambda:validate_shared_formats(bad),'accepted a broken shared %s%d alias')
     label='COMBO: ';assert '%s%d' % (label,0)=='COMBO: 0'
     with zipfile.ZipFile(ROOT/'work/heroes-lore-3-final.apk') as apk:native=apk.read('lib/arm64-v8a/libmain.so')
+    bad=bytearray(module);bad[0x5426-TEXT_DELTA]^=1
+    rejects(lambda:patch_slots(bytes(bad)),'accepted an unknown slot-row revision')
+    bad_native=bytearray(native);bad_native[SETTINGS_OFFSET]^=1
+    rejects(lambda:localize_native_ui(bytes(bad_native)),'accepted an unknown native settings block')
     # An unrelated edit inside a native-accelerated function must never receive
     # the trusted old hooks, even if its font/text fields otherwise look valid.
     bad=bytearray(translated);bad[file_offset(module,0x2dd7c)]^=1

@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = ROOT / 'translations'
 
 UI = {
+    'res/menu/menu_txt#1':'NET STORE',
     'res/dat/InGame_txt#0':'MENU',
     'res/dat/InGame_txt#1':'STATUS',
     'res/dat/InGame_txt#2':'ITEMS',

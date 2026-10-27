@@ -1,0 +1,9 @@
+{
+  "compared_with": "v1.1.0",
+  "changed_game_resources": [
+    "binary.mod",
+    "res/menu/menu_txt"
+  ],
+  "native_ui_translation_changed": true,
+  "other_game_resources_identical": true
+}

@@ -1,9 +1,19 @@
-# English localization v1.1.0 — 2026-10-27
+# English localization v1.1.1 — 2026-10-27
 
 Download the signed APK from [GitHub Releases](https://github.com/hisyam28/heroes-lore-3-en/releases/latest).
 
-This update addresses the remaining Korean enemy names, native save
-notifications, item descriptions, and the invalid number in skill details.
+This update translates 41 native settings strings, centers the character-save
+slot labels and number frames, and shortens `NETWORK STORAGE` to `NET STORE`.
+The preceding enemy/item/save translation and graphics acceleration fixes are retained.
+
+The actual ARM slot-row routine was exercised for slots 1–3, selected and
+unselected. Number/frame and row centering errors are at most 0.5 pixel.
+Only four guarded layout instructions change; save data and row selection
+behavior are untouched. Native settings strings retain their byte capacities
+and addresses; executable sections of the host library remain identical.
+See [home UI validation](home-ui-validation.json) and
+[the slot comparison](home-slot-preview.png), which is modeled renderer output,
+not a device screenshot.
 
 | Area | Coverage |
 | --- | --- |

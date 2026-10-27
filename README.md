@@ -6,6 +6,7 @@ Community English localization with compact text, readable menus, and performanc
 
 - English dialogue, quests, menus, enemy names, item descriptions, and skills.
 - Compact labels such as `NM`, `EFC`, and `OTHR`, with a smaller Latin font.
+- English native settings, centered character-save rows, and compact `NET STORE` navigation.
 - Restored graphics acceleration and corrected skill detail formatting.
 - Validation for resource structure, text bounds, and unchanged gameplay metadata.
 

@@ -24,6 +24,7 @@ from hl3_item_descriptions import split_tail,COPY as ITEM_DESCRIPTIONS
 from hl3_enemy_text import NAMES as ENEMY_NAMES
 from hl3_native_ui import localize as localize_native_ui
 from hl3_shared_formats import validate as validate_shared_formats
+from hl3_home_ui import patch_slots,PATCHES as SLOT_PATCHES
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -146,7 +147,7 @@ def main():
                 p=e['offset'];src=e['source'].encode('cp949');new=e['translation'].encode('ascii')
                 assert module[p:p+len(src)+1]==src+b'\0'
                 module[p:p+len(src)]=new+b'\0'*(len(src)-len(new))
-            assert jar.read('binary.mod')==patch_metrics(bytes(module))
+            assert jar.read('binary.mod')==patch_slots(patch_metrics(bytes(module)))
             validate_shared_formats(jar.read('binary.mod'))
             assert jar.read('res/font/eng5')==jar.read('res/font/eng7')==build_font()
             assert (original/'binary.mod').read_bytes()[0x5b2bc-TEXT_DELTA:0x5b2bc-TEXT_DELTA+7].decode('ascii')==MARKUP
@@ -174,7 +175,9 @@ def main():
                     'additional_original_prefix_bytes_protected':restored_prefix_bytes,
                     'ui_tables':len(uifiles),'ui_slots':len(ui),'item_names':item_count,'prefixed_record_fields':record_fields,
                     'item_descriptions':len(item_descriptions),'enemy_names':len(enemy_entries),
-                    'native_save_notifications':len(native_ui),'shared_format_suffixes_preserved':2,
+                    'native_save_notifications':sum(e['group']=='save' for e in native_ui),
+                    'native_settings_strings':sum(e['group']=='settings' for e in native_ui),
+                    'slot_layout_instruction_patches':len(SLOT_PATCHES),'shared_format_suffixes_preserved':2,
                     'skill_records':skill_records,'translated_skill_fields':skill_changes,'skill_metadata_bytes_preserved':skill_records*30,
                     'module_labels':len(catalog('module-ui.json')['entries']),'font_instruction_patches':len(FONT_PATCHES),
                     'native_accelerators':profile_report,'sound_android_code_and_other_assets_unchanged':True,
