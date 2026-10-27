@@ -4,10 +4,9 @@ Community English localization with compact text, readable menus, and performanc
 
 **[Download the latest APK](https://github.com/hisyam28/heroes-lore-3-en/releases/latest)**
 
-The current branch also contains [unreleased fixes](reports/system-title-icon-draft.md)
-for CLR cancellation, enemy-level spacing, title artwork, the launcher icon,
-and `YES` labels. These changes are awaiting device review; the downloadable
-release does not yet include them.
+The latest APK is **v1.1.4**, including CLR cancellation, improved enemy-level
+spacing, refreshed title artwork and launcher icon, and full `YES` labels.
+See the [update details](reports/system-title-icon-draft.md).
 
 - English dialogue, quests, menus, enemy names, item descriptions, and skills.
 - Compact labels such as `NM`, `EFC`, and `OTHR`, with a smaller Latin font.

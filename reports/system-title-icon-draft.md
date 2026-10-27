@@ -1,8 +1,7 @@
-# System popup and artwork - unreleased development changes
+# System popup and artwork - v1.1.4
 
-The source changes are tracked on the main branch for review. The APK remains
-local and retains the preceding enemy-level spacing fix. No new version, tag,
-or release is published for these changes.
+Included in [v1.1.4](https://github.com/hisyam28/heroes-lore-3-en/releases/tag/v1.1.4),
+together with the preceding enemy-level spacing correction.
 
 The active system-popup handler previously ignored CLR. CLR now enters the
 existing popup cleanup before the row-selection check, releases owned UI

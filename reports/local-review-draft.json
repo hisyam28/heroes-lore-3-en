@@ -1,5 +1,5 @@
 {
-  "status": "unreleased development build; source tracked on main; APK retained locally",
+  "status": "validated build selected for release v1.1.4",
   "apk": "heroes-lore-3-en-local-draft.apk",
   "sha256": "d1b9c5001a8e37b5937c844917b8de4f730ab26d2be60a3406c69dd29ae92e7c",
   "bytes": 55647473,

@@ -1,11 +1,11 @@
-# Enemy level spacing - local draft
+# Enemy level spacing - v1.1.4
 
-This unreleased correction is tracked on the main branch for review. Its APK
-remains local; no new release or tag is published for this draft.
+This correction is included in [v1.1.4](https://github.com/hisyam28/heroes-lore-3-en/releases/tag/v1.1.4).
+The separate spacing-only draft report records the intermediate validation build.
 
 The released layout placed the first digit too close to the original `LV`
 artwork and retained a six-pixel cursor advance for three-pixel digits. The
-draft keeps at least three empty pixels after `LV`, uses a four-pixel numeric
+correction keeps at least three empty pixels after `LV`, uses a four-pixel numeric
 advance with one empty pixel between digits, and leaves at least one empty
 pixel before the HP bar even for a three-digit level. The five-pixel digit
 height and baseline match the original `LV` artwork.

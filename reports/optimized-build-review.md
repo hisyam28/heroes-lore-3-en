@@ -1,10 +1,18 @@
-# English localization v1.1.3 — 2026-10-27
+# English localization v1.1.4 — 2026-10-27
 
 Download the signed APK from [GitHub Releases](https://github.com/hisyam28/heroes-lore-3-en/releases/latest).
 
-This page describes the published v1.1.3 release. The current branch and
-regenerated validation reports also include [unreleased development changes](system-title-icon-draft.md).
-Their APK remains local pending device review; no newer release is published.
+Version v1.1.4 includes the [system popup and artwork fixes](system-title-icon-draft.md)
+and [enemy-level spacing correction](enemy-level-spacing-draft.md). CLR now
+cleans up the active system confirmation before returning to the menu;
+confirmation labels read `YES`. The title tile blends the English wordmark
+with its ornament and uses `STIGMATA OF EARTH`. The revised launcher icon
+is included. Touchpoint configuration and key mapping remain unchanged.
+
+The signed APK passed resource, ARM regression, signature, and alignment
+checks. Automated checks model some platform callbacks and do not replace
+physical-device testing. The following sections retain details from
+v1.1.3 and earlier updates; linked validation reports describe the current build.
 
 This update fits the save notification to its visible text and reduces enemy
 level digits from 5x7 to a dedicated 3x5 design. Both enemy HUD paths use the
