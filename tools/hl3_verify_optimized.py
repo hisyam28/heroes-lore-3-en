@@ -27,6 +27,8 @@ from hl3_shared_formats import validate as validate_shared_formats
 from hl3_home_ui import patch_slots,PATCHES as SLOT_PATCHES
 from hl3_android_icon import compile_icons
 from hl3_modal_guard import patch as patch_modal_guard
+from hl3_hud_layout import patch as patch_hud_layout
+from hl3_save_layout import patch as patch_save_layout
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -149,7 +151,8 @@ def main():
                 p=e['offset'];src=e['source'].encode('cp949');new=e['translation'].encode('ascii')
                 assert module[p:p+len(src)+1]==src+b'\0'
                 module[p:p+len(src)]=new+b'\0'*(len(src)-len(new))
-            assert jar.read('binary.mod')==patch_slots(patch_metrics(bytes(module)))
+            hud,hud_report=patch_hud_layout(patch_slots(patch_metrics(bytes(module))))
+            assert jar.read('binary.mod')==hud
             validate_shared_formats(jar.read('binary.mod'))
             assert jar.read('res/font/eng5')==jar.read('res/font/eng7')==build_font()
             assert (original/'binary.mod').read_bytes()[0x5b2bc-TEXT_DELTA:0x5b2bc-TEXT_DELTA+7].decode('ascii')==MARKUP
@@ -161,6 +164,7 @@ def main():
                 native,profile_report=rekey(base.read('lib/arm64-v8a/libmain.so'),(original/'binary.mod').read_bytes(),jar.read('binary.mod'))
                 native,native_ui=localize_native_ui(native)
                 native,modal_report=patch_modal_guard(native)
+                native,save_report=patch_save_layout(native)
                 assert apk.read('lib/arm64-v8a/libmain.so')==native
                 android_icons=compile_icons(base,write_reports=False)
                 for name,data in android_icons.items():assert apk.read(name)==data,name
@@ -187,6 +191,7 @@ def main():
                     'module_labels':len(catalog('module-ui.json')['entries']),'font_instruction_patches':len(FONT_PATCHES),
                     'native_accelerators':profile_report,'android_dex_and_audio_unchanged':True,
                     'launcher_bitmap_variants':len(android_icons),'native_modal_input_guard':modal_report,
+                    'hud_save_layout':{'enemy_level':hud_report,'save_toast':save_report},
                     'opaque_i15_unchanged':True,'device_fps_measured':False,'all_checks_passed':True}
     (ROOT/'reports/optimized-build-validation.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,indent=2))

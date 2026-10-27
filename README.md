@@ -10,6 +10,7 @@ Community English localization with compact text, readable menus, and performanc
 - Restored graphics acceleration and corrected skill detail formatting.
 - Guarded confirmation-popup touch handling, refreshed launcher icon, and a
   title wordmark with the subtitle `STIGMATA OF EARTH`.
+- Compact save notifications and enemy-level digits that fit their HUD frame.
 - Validation for resource structure, text bounds, and unchanged gameplay metadata.
 
 See the [release review](reports/optimized-build-review.md) for coverage and known

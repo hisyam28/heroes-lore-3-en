@@ -22,6 +22,8 @@ from hl3_shared_formats import validate as validate_shared_formats
 from hl3_home_ui import patch_slots
 from hl3_android_icon import compile_icons
 from hl3_modal_guard import patch as patch_modal_guard
+from hl3_hud_layout import patch as patch_hud_layout
+from hl3_save_layout import patch as patch_save_layout
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -97,6 +99,8 @@ def main():
     skills=compile_skills(original,output)
     apply_font(output)
     (output/'binary.mod').write_bytes(patch_slots((output/'binary.mod').read_bytes()))
+    hud,hud_report=patch_hud_layout((output/'binary.mod').read_bytes())
+    (output/'binary.mod').write_bytes(hud)
     title_report=localize_title(original,output)
     with zipfile.ZipFile(args.base) as base:
         android_icons=compile_icons(base)
@@ -105,6 +109,7 @@ def main():
                                     (output/'binary.mod').read_bytes())
     native,native_ui_report=localize_native_ui(native)
     native,modal_report=patch_modal_guard(native)
+    native,save_report=patch_save_layout(native)
     resource_apk=args.apk.with_name(args.apk.stem+'-resources.apk')
     replaced,entries=build_apk(args.base,output,resource_apk)
     with zipfile.ZipFile(resource_apk) as source,zipfile.ZipFile(args.apk,'w') as target:
@@ -118,6 +123,7 @@ def main():
     (ROOT/'reports/title-localization.json').write_text(json.dumps(title_report,indent=2)+'\n',encoding='utf-8')
     (ROOT/'reports/native-ui-validation.json').write_text(json.dumps(native_ui_report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     (ROOT/'reports/modal-input-patch.json').write_text(json.dumps(modal_report,indent=2)+'\n',encoding='utf-8')
+    (ROOT/'reports/hud-save-layout-patch.json').write_text(json.dumps({'enemy_level':hud_report,'save_toast':save_report},indent=2)+'\n',encoding='utf-8')
     print(f'UI tables={ui}; events={events}; items={items}; translated quest/character fields={records}; module labels={labels}; skill fields={skills}.')
     print(f'Built {args.apk} with {replaced} resource overlays and {entries} APK entries. Align and sign next.')
     print('Rekeyed all four native graphics accelerators; all 14 loader-patch expectations match.')

@@ -46,5 +46,12 @@ Launcher artwork is compiled from the supplied PNG into the existing density
 slots. The title wordmark is quantized into the original sprite dimensions and
 palette capacity; its other sprites remain byte-identical.
 
+The enemy-level check executes both actual HUD call sites with compact numeric
+glyphs, preserving the general font modes. It checks the original frame and HP
+bar bounds at two viewport widths. The save check executes the native string
+slice construction and rejects storage-padding spaces in the visible message.
+The helpers use guarded padding after complete localized C strings, retaining
+their first terminators and rejecting independently referenced padding.
+
 Older experiments and local investigation notes were archived outside the public
 source tree. Current build scripts do not depend on those archived experiments.

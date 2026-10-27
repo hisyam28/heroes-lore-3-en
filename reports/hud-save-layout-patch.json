@@ -1,0 +1,25 @@
+{
+  "enemy_level": {
+    "enemy_level_digit_size": [
+      3,
+      5
+    ],
+    "enemy_level_call_sites": 2,
+    "enemy_level_y_offset": 17,
+    "enemy_level_x_offset": 13,
+    "private_font_mode": 127,
+    "helper_bytes": 64,
+    "per_draw_allocations": 0,
+    "general_font_bitmaps_unchanged": true,
+    "module_size_preserved": true,
+    "localized_strings_and_terminators_preserved": true
+  },
+  "save_toast": {
+    "saved_visible_bytes": 6,
+    "saved_storage_bytes": 12,
+    "padding_spaces_excluded": 6,
+    "failed_message_visible_bytes": 12,
+    "native_instruction_bytes_reserved": 4,
+    "save_logic_and_message_addresses_unchanged": true
+  }
+}

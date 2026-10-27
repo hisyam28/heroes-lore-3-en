@@ -1,9 +1,34 @@
-# English localization v1.1.2 — 2026-10-27
+# English localization v1.1.3 — 2026-10-27
 
 Download the signed APK from [GitHub Releases](https://github.com/hisyam28/heroes-lore-3-en/releases/latest).
 
-This update guards confirmation-popup touch ownership, replaces the Android
-launcher icon with the supplied artwork, and revises the home wordmark to
+This update fits the save notification to its visible text and reduces enemy
+level digits from 5x7 to a dedicated 3x5 design. Both enemy HUD paths use the
+compact digits, aligned with the original five-pixel `LV` label. General font
+bitmaps and ordinary font modes retain their output. The HUD helpers occupy
+64 guarded bytes in existing string padding; module size stays the same and
+drawing performs no heap allocation.
+
+The native `SAVED.` string previously included six trailing storage-padding
+spaces in its visible slice. Its length is now six bytes, so the notification
+layout receives only the visible text. `SAVE FAILED.` keeps its full length.
+Notification timing, save operations, touchpoint configuration, and analog/key
+mapping are unchanged.
+
+Validation executes both actual Thumb HUD call sites for 520 combinations of
+levels and viewport widths, including levels 1 through 127, 200, 255, and 999.
+All level pixels remain inside the original frame without touching the HP bar.
+348 ordinary glyph/mode cases remain pixel-identical, and actual AArch64 slice
+construction yields `SAVED.` without trailing spaces. Allocator/platform calls
+are modeled; final appearance still needs physical-device checking. Sampled
+ordinary-font instruction counts do not increase, and all four graphics
+accelerators remain enabled after rekeying the updated module.
+See [HUD/save validation](hud-save-layout-validation.json),
+[the modeled frame preview](enemy-level-preview.png), and
+[scope compared with v1.1.2](hud-save-update-scope.json).
+
+The preceding update guarded confirmation-popup touch ownership, replaced the Android
+launcher icon with the supplied artwork, and revised the home wordmark to
 `STIGMATA OF EARTH`. The wordmark no longer adds a second Roman III over the
 existing background emblem. Previous translation and acceleration fixes remain.
 

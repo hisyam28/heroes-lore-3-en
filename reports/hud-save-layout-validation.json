@@ -1,0 +1,67 @@
+{
+  "kind": "actual Thumb HUD calls and AArch64 save-slice construction; platform drawing modeled",
+  "enemy_level_cases": 520,
+  "enemy_levels_tested": "1..127, 200, 255, 999",
+  "viewport_widths": [
+    240,
+    480
+  ],
+  "enemy_level_ink_height": 5,
+  "enemy_level_call_sites": 2,
+  "lv_label_baseline_matched": true,
+  "frame_and_hp_bar_overlap": false,
+  "ordinary_glyph_mode_cases_identical": 348,
+  "unknown_instruction_and_occupied_padding_rejected": true,
+  "ordinary_font_instruction_samples": [
+    {
+      "mode": 0,
+      "text": "HENGE",
+      "before_instructions": 5326,
+      "after_instructions": 5326
+    },
+    {
+      "mode": 0,
+      "text": "RESTORE 200 HP.",
+      "before_instructions": 13397,
+      "after_instructions": 13397
+    },
+    {
+      "mode": 0,
+      "text": "99",
+      "before_instructions": 2113,
+      "after_instructions": 2113
+    },
+    {
+      "mode": 1,
+      "text": "HENGE",
+      "before_instructions": 5502,
+      "after_instructions": 5327
+    },
+    {
+      "mode": 1,
+      "text": "RESTORE 200 HP.",
+      "before_instructions": 13853,
+      "after_instructions": 13398
+    },
+    {
+      "mode": 1,
+      "text": "99",
+      "before_instructions": 2184,
+      "after_instructions": 2114
+    }
+  ],
+  "ordinary_font_instruction_samples_not_increased": true,
+  "save_slice_before": "SAVED.      ",
+  "save_slice_after": "SAVED.",
+  "save_failed_slice": "SAVE FAILED.",
+  "save_toast": {
+    "saved_visible_bytes": 6,
+    "saved_storage_bytes": 12,
+    "padding_spaces_excluded": 6,
+    "failed_message_visible_bytes": 12,
+    "native_instruction_bytes_reserved": 4,
+    "save_logic_and_message_addresses_unchanged": true
+  },
+  "physical_device_tested": false,
+  "all_checks_passed": true
+}

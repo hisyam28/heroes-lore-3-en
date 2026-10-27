@@ -1,0 +1,42 @@
+{
+  "release": "v1.1.3",
+  "compared_with": "v1.1.2",
+  "changed_game_resources": [
+    "binary.mod"
+  ],
+  "other_1273_game_resources_identical": true,
+  "launcher_icons_and_title_art_identical": true,
+  "font_bitmaps_identical": true,
+  "touchpoint_configuration_and_key_mapping_unchanged": true,
+  "enemy_hud_patch": {
+    "enemy_level_digit_size": [
+      3,
+      5
+    ],
+    "enemy_level_call_sites": 2,
+    "enemy_level_y_offset": 17,
+    "enemy_level_x_offset": 13,
+    "private_font_mode": 127,
+    "helper_bytes": 64,
+    "per_draw_allocations": 0,
+    "general_font_bitmaps_unchanged": true,
+    "module_size_preserved": true,
+    "localized_strings_and_terminators_preserved": true
+  },
+  "save_toast_patch": {
+    "saved_visible_bytes": 6,
+    "saved_storage_bytes": 12,
+    "padding_spaces_excluded": 6,
+    "failed_message_visible_bytes": 12,
+    "native_instruction_bytes_reserved": 4,
+    "save_logic_and_message_addresses_unchanged": true
+  },
+  "native_only_save_length_and_module_profile_hash_changed": true,
+  "native_bytes_different": 30,
+  "android_dex_manifest_resource_table_and_other_entries_unchanged": true,
+  "same_signer_as_v1_1_2": true,
+  "physical_device_tested": false,
+  "sha256": "5612327c5570cece72561455fbb516d32cea206ac78f8dc0ece0eee4c4024eac",
+  "bytes": 55155953,
+  "all_checks_passed": true
+}
